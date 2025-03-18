@@ -1,0 +1,23 @@
+# Webinar on relations Video• . Duration: 1 hour 47 minutes 1h 47m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/d9Iyn/webinar-on-relations)
+
+This transcript appears to be a lecture or tutorial on set theory, specifically on the properties and types of relations between sets. The topics covered include:
+
+1. Definition of a relation
+2. Representing relations using matrices and bar graphs
+3. Properties of relations (reflexivity, symmetry, anti-symmetry, transitivity)
+4. Equivalence relations and equivalence classes
+5. Partial order and total order relations
+
+The speaker provides explanations, examples, and illustrations to help students understand these concepts. The transcript also includes a summary of the main points covered in the lecture.
+
+Some key takeaways from the transcript include:
+
+* A relation is a subset of the Cartesian product of two sets.
+* Reflexivity, symmetry, and anti-symmetry are properties that describe how a relation behaves between elements of a set.
+* Equivalence relations are special types of relations that satisfy certain properties, including reflexivity, symmetry, and transitivity.
+* Partial order and total order relations are also discussed, with partial orders being reflexive, antisymmetric, and transitive, but not necessarily symmetric, while total orders are both reflexive and antisymmetric, and also satisfy the property that for any two elements, there is an edge between them.
+
+The transcript concludes with a summary of the main points covered in the lecture and provides additional resources for students to practice and learn more about relations.
+

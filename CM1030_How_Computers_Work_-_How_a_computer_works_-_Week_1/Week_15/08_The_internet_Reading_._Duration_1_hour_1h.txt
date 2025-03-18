@@ -1,0 +1,8 @@
+# The internet
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/BtE6H/the-internet
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet Section 4.2. This reading is available in the Online Library via the VLeBooks collection. Lesson 15.0 Introduction Lesson 15.1 The internet Practice Assignment: How does email work? . Duration: 30 minutes 30 min Video: Video Internet application protocols . Duration: 6 minutes 6 min Reading: Reading The internet ....

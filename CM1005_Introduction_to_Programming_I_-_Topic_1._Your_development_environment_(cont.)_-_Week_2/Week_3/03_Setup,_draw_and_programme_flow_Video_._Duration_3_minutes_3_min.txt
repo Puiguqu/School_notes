@@ -1,0 +1,16 @@
+# Setup, draw and programme flow
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/G9VO3/setup-draw-and-programme-flow
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video discusses program flow and execution in programming. A sketch is provided with basic code using the Canvas command in the setup function and drawing in the draw function. The setup function is executed at the start of the program before the draw function, which is called repeatedly every frame.
+
+Each line of code is executed from top to bottom, following the order of text in a book. However, this can lead to unexpected behavior if indentation or order is incorrect. A simple example is provided where changing the order of two squares causes them to overlap instead of being drawn on top of each other.
+
+Adding an alpha channel to one of the color values makes it partially transparent. This is demonstrated by adding an alpha value of 100 to the blue square, making it see-through and appearing as a purple color when combined with red underneath.
+
+The video also touches on the concept of frames in animation, where the browser creates a new frame every time draw code is executed. Understanding program flow and execution is crucial for creating correct behavior and avoiding unexpected results.

@@ -1,0 +1,149 @@
+# Week 18 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## Equivalence relations and equivalence classes Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/xMqI4/equivalence-relations-and-equivalence-classes)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+An equivalence relation on a set S is defined as a relation R that is reflexive, symmetric, and transitive. The relation R is reflexive if for all a in S, a is related to a. The relation R is symmetric if for all a and b in S, if a is related to b then b is also related to a. The relation R is transitive if for all a, b, and c in S, if a is related to b and b is related to c then a is also related to c.
+
+An example of an equivalence relation on the set Z is the relation R where two elements a and b are related if and only if a modulus 2 is equal to b modulus 2. This relation is reflexive, symmetric, and transitive, making it an equivalence relation.
+
+On the other hand, an example of a relation that is not an equivalence relation is the relation R on Z where two elements a and b are related if and only if a is less than or equal to b. This relation is reflexive but not symmetric, as there exist pairs (a, b) such that a is related to b but not vice versa.
+
+The concept of equivalence classes is introduced for an equivalence relation R on a set S. The equivalence class of an element a in S is the subset of S containing all elements related to a through the relation R. For example, in the relation R where two elements are related if and only if they have the same modulus 2, the equivalence classes are {1} and {3}, as well as {2} and {4}.
+
+In another example, the relation R on Z where two elements are related if and only if their difference is an even number results in two equivalence classes: {1, 3, 5} and {2, 4}.
+
+---
+
+## Partial and total order Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/s2lTU/partial-and-total-order)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A relation R on elements in a set S is said to be a partial order if it satisfies three properties: reflexivity, anti-symmetry, and transitivity. A relation R is reflexive if for all a in S, the pair (a, a) is an element of R. A relation R is anti-symmetric if whenever a is related to b and b is related to a, then a is equal to b for all a and b in S. A relation R is transitive if whenever a is related to b and b is related to c, then a is related to c for all a, b, and c in S.
+
+The relation "less than or equal to" on the set of integers Z is an example of a partial order because it satisfies these three properties. Another example is the relation "divides" on the set of positive integers Z+, which also satisfies these properties.
+
+A total order is defined as a partial order where for all pairs (a, b) in S, either a is related to b or b is related to a. This means that every two elements in the set can be compared with respect to the relation. The relation "less than or equal to" on Z is an example of a total order.
+
+However, not every partial order is a total order. For example, the relation "divides" on Z+ is a partial order but not a total order because there are elements that are incomparable with respect to this relation.
+
+In summary, a partial order and a total order are two different types of relations on a set, where a partial order satisfies reflexivity, anti-symmetry, and transitivity, while a total order adds the condition that every two elements can be compared.
+
+---
+
+## Webinar on relations Video• . Duration: 1 hour 47 minutes 1h 47m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/d9Iyn/webinar-on-relations)
+
+This transcript appears to be a lecture or tutorial on set theory, specifically on the properties and types of relations between sets. The topics covered include:
+
+1. Definition of a relation
+2. Representing relations using matrices and bar graphs
+3. Properties of relations (reflexivity, symmetry, anti-symmetry, transitivity)
+4. Equivalence relations and equivalence classes
+5. Partial order and total order relations
+
+The speaker provides explanations, examples, and illustrations to help students understand these concepts. The transcript also includes a summary of the main points covered in the lecture.
+
+Some key takeaways from the transcript include:
+
+* A relation is a subset of the Cartesian product of two sets.
+* Reflexivity, symmetry, and anti-symmetry are properties that describe how a relation behaves between elements of a set.
+* Equivalence relations are special types of relations that satisfy certain properties, including reflexivity, symmetry, and transitivity.
+* Partial order and total order relations are also discussed, with partial orders being reflexive, antisymmetric, and transitive, but not necessarily symmetric, while total orders are both reflexive and antisymmetric, and also satisfy the property that for any two elements, there is an edge between them.
+
+The transcript concludes with a summary of the main points covered in the lecture and provides additional resources for students to practice and learn more about relations.
+
+---
+
+## Equivalence relations and equivalence classes Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/FUaMj/equivalence-relations-and-equivalence-classes)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Equivalence relations are a special type of relation that partition a set into distinct subsets called equivalence classes.
+2. A relation R on a set A is an equivalence relation if it is reflexive, symmetric, and transitive.
+3. Reflexivity states that ∀a∈A,(a,a)∈R, meaning every element is related to itself.
+4. Symmetry states that ∀a,b∈A,(a,b)∈R⟹(b,a)∈R, meaning if (a,b) is in R, then (b,a) is also in R.
+5. Transitivity states that ∀a,b,c∈A,(a,b)∈R and (b,c)∈R⟹(a,c)∈R, meaning if (a,b) and (b,c) are in R, then (a,c) is also in R.
+6. An example of an equivalence relation is R={(1,1),(2,2),(3,3),(4,4),(1,3),(3,1)} on the set A={1,2,3,4}.
+7. The relation R satisfies all three properties: reflexivity, symmetry, and transitivity.
+8. Equivalence classes are defined as [a]={x∈A∣(a,x)∈R}, meaning the set of elements related to a given element a.
+9. Each element of A belongs to exactly one equivalence class due to the uniqueness of equivalence relations.
+10. If two equivalence classes intersect, they are identical, meaning there is no distinction between them.
+11. The union of all equivalence classes covers the entire set A, partitioning it into distinct subsets.
+12. Understanding equivalence relations and equivalence classes allows us to classify elements into distinct categories based on the defined relation, which is useful in various areas of algebra and computer science.
+13. Equivalence relations are fundamental in many mathematical fields and have numerous applications in computer science.
+14. The concept of equivalence relations and equivalence classes enables the classification of objects or elements based on a particular property or characteristic.
+15. This understanding of equivalence relations is crucial for tackling problems in mathematics, computer science, and other related disciplines.
+
+Note: I've preserved all key information, formulae, and technical details from the original text while condensing it into 15 sentences.
+
+---
+
+## Equivalence relations and partial orders Reading• . Duration: 2 hours 2h
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/267NU/equivalence-relations-and-partial-orders)
+
+Unfortunately, there is no text provided for me to summarize. The text appears to be a list of course materials from a textbook, including topics, exercises, and video resources, but it does not contain any specific information or findings that can be summarized.
+
+If you could provide the actual text, I would be happy to help you summarize it in 15 sentences, preserving key information, formulae, and technical details.
+
+---
+
+## Topic 9 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/zkCnI/topic-9-summary)
+
+Here are the 15 key points from the text:
+
+1. A relation R from a set A to a set B is a subset of the Cartesian product A×B, denoted by R⊆A×B.
+2. If (a,b)∈R, we say that a is related to b by R.
+3. Reflexive: Every element is related to itself, ∀a∈A,(a,a)∈R.
+4. Symmetric: If an element is related to another, then the second element is related to the first, ∀a,b∈A,(a,b)∈R⟹(b,a)∈R.
+5. Anti-symmetric: If an element is related to another and vice versa, then they must be the same element, ∀a,b∈A,(a,b)∈R and (b,a)∈R⟹a=b.
+6. Transitive: If an element is related to a second element, which is related to a third element, then the first element is related to the third, ∀a,b,c∈A,(a,b)∈R and (b,c)∈R⟹(a,c)∈R.
+7. An adjacency matrix can define a relation, and its properties (reflexivity, symmetry, and anti-symmetry) can be easily deduced from it.
+8. An equivalence relation is a relation that is reflexive, symmetric, and transitive, which partitions the set into equivalence classes.
+9. A partial order is a relation that is reflexive, anti-symmetric, and transitive, providing a way to order elements in a set.
+10. A total order is a partial order where every pair of elements is comparable, also called a linear order.
+11. The equivalence class of an element a∈A, denoted by [a], is the set of all elements x∈A such that (a,x)∈R.
+12. Equivalence classes partition the set A into disjoint subsets where every element in A belongs to exactly one equivalence class.
+13. Understanding relations and their properties provides a powerful tool for modeling and analyzing complex systems in mathematics and computer science.
+14. Regularly assessing understanding and capabilities against learning outcomes is crucial as you progress through the course.
+15. The exercise aims to help reflect on the learning journey, identify areas for improvement, and develop a plan for improvement.
+
+Additionally, here are some potential action plans based on the text:
+
+* Review course materials and textbooks
+* Seek out additional resources that could aid understanding
+* Practice additional problems or exercises
+* Seek help from instructor or peers
+* Schedule additional study sessions on the topic
+
+Please note that these points and action plans are based on a general interpretation of the text, and may not be specific to your individual needs or learning style.
+
+---
+
+## Problem sheet on relations Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/qOjS4/problem-sheet-on-relations)
+
+Lesson 9.2 Equivalence, and partial and total order relations Lesson 9.3 Extra resources Video: Video Webinar on relations . Duration: 1 hour 47 minutes 1h 47m Reading: Reading Problem sheet on relations . Duration: 10 minutes 10 min Reading: Reading Problem sheet solution . Duration: 10 minutes 10 min Problem sheet on relations tutorial-topic9-relations.pdf PDF File Mark as completed Dislike Report an issue
+
+---
+
+## Problem sheet solution Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/uU2Em/problem-sheet-solution)
+
+Lesson 9.2 Equivalence, and partial and total order relations Lesson 9.3 Extra resources Video: Video Webinar on relations . Duration: 1 hour 47 minutes 1h 47m Reading: Reading Problem sheet on relations . Duration: 10 minutes 10 min Reading: Reading Problem sheet solution . Duration: 10 minutes 10 min Problem sheet solution tutorial-topic9-relations-sol.pdf PDF File Mark as completed Dislike Report an issue
+
+---
+

@@ -1,0 +1,20 @@
+# Code philosophy: asking for help
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Asking questions is an essential part of coding, as it allows coders to get help from others when faced with problems or difficulties. To ask effectively, one needs to strike a balance between being too specific and general. A good question should be concise, focused on the problem, and include relevant details such as changes made to the code.
+
+Avoid asking questions that start with "this doesn't work" or "can you fix it?", as these can lead to unclear answers and hinder learning. Instead, ask specific questions about errors, including where in the program they occur and what type of error is present.
+
+Before seeking help, investigate the issue by commenting out new code changes and uncommenting one at a time until the problematic command is found. This helps isolate the problem and allows for more targeted solutions.
+
+When asking a question, keep it short, focused on the error itself, and avoid including unnecessary details. Check the browser console for clues about where the issue lies and what type of error occurs.
+
+The goal of asking a question is not to get a solution immediately but to gain knowledge and understanding. Sometimes, follow-up questions may be necessary to clarify or seek further clarification on a particular concept.
+
+When reflecting on the answer received, consider how it can be applied to similar problems in the future and whether any new techniques or code have been learned.

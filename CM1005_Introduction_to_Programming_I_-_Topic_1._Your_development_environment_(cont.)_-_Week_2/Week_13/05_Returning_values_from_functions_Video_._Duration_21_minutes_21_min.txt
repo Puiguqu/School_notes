@@ -1,0 +1,24 @@
+# Returning values from functions
+Video•
+. Duration: 21 minutes
+21 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/ACmeq/returning-values-from-functions
+
+Based on the transcript, it appears that the code is written in JavaScript and is intended to create a simple space combat simulator using canvas elements.
+
+Here's a summary of the key points covered in the transcript:
+
+1. **Function `getspeed()`**: This function takes a spaceship object as input and returns an object with two properties: `x` and `y`, representing the speed of the spaceship in those directions.
+2. **Function `reverseSpeed()`**: This function takes a spaceship object as input, checks if it has crossed the edge of the screen (either horizontally or vertically), and reverses its direction by multiplying its speed by -1.
+3. **Assigning return values to variables**: The transcript shows how to assign return values from functions to variables using assignment statements, such as `s.x = getspeed(spaceship).x`.
+4. **Implementing bouncing behavior**: The transcript demonstrates how to implement bouncing behavior for the spaceships when they collide with each other by reversing their direction.
+
+To expand on this example and add more features, some possible ideas could include:
+
+* Adding laser beams that shoot out of the spaceships when they collide
+* Implementing different types of collisions (e.g., head-on collision vs. side-by-side collision)
+* Creating a scoring system to track points earned by players
+* Adding visual effects, such as explosions or smoke, when spaceships collide
+
+Overall, this transcript provides a good introduction to functions and their use in programming, with practical examples that demonstrate how to implement common functionality like reversing direction and bouncing behavior.

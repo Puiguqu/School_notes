@@ -1,0 +1,10 @@
+# Combinatorics
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/4Hqn9/combinatorics
+
+Here is a summary of the text in 15 sentences:
+
+The provided text refers to extracts from Koshy's textbook on combinatorics. The textbook covers various topics, including basic counting principles, complex counting problems, and permutations and combinations. The reading will focus on six specific topics: counting principles, complex counting problems, the pigeonhole principle, generalized pigeonhole principle, permutations and combinations, strong induction, and well-ordering property. After completing the reading, students are encouraged to attempt exercises 1-5, 10, 34, 36 (pp.349-350), and 17-21 (pp.358-59). The textbook also provides solutions to odd-numbered exercises in a separate section. Students can check their answers by consulting this section. If they get an answer wrong, they are advised to review the question and try again. The video topics listed include "Combinatorics" (Duration: 10 minutes), "The basics of counting" (Duration: 14 minutes), "The pigeonhole principle" (Duration: 7 minutes), and "Permutations and combinations" (Duration: 9 minutes). Each topic has a practice assignment associated with it, which students can complete to reinforce their understanding. The total duration for the reading is 2 hours. Additionally, there are videos available on various combinatorics topics, including an introduction to the subject. Students can mark the assigned pages as completed and report any issues they encounter while working through the exercises or video materials. Overall, the text aims to provide a comprehensive introduction to combinatorics concepts using Koshy's textbook as the primary resource.

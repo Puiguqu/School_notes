@@ -1,0 +1,8 @@
+# Handling competition among processes
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/FKV8Y/handling-competition-among-processes
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.4. This reading is available in the Online Library via the VLeBooks collection. Lesson 12.1 Inter-process Communication Video: Video Semaphores . Duration: 5 minutes 5 min Reading: Reading Handling competition among processes . Duration: 50 minutes 50 min Practice Assignment: Practice quiz – Five questions on inter-process communication . Duration: 30 minutes 30 min Discussion Prompt: Concurrency problems . Duration: 30 minutes 30 min Video: Video Mobile payments . Duration: 4 minutes 4 min Lesson 12.2 Summary Handling competition among processes Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.4. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

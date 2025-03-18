@@ -1,0 +1,24 @@
+# Mid-Term preparation by Dr Lahcen Ouarbya
+Video•
+. Duration: 1 hour 25 minutes
+1h 25m - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/ZXSoc/mid-term-preparation-by-dr-lahcen-ouarbya
+
+This transcript appears to be a video lecture on predicate logic, specifically covering topics such as negation of statements, implications, and applications of predicate logic. The speaker provides explanations, examples, and practice assignments for students to follow along.
+
+The main topics covered in the lecture include:
+
+1. Negation of statements: The speaker explains how to negate statements using "not" or "all".
+2. Implications: The speaker discusses how to negate implications by changing the order of the statements.
+3. Applications of predicate logic: The speaker provides examples and explanations of how predicate logic can be used in real-world scenarios.
+
+The lecture also includes additional resources, such as reading materials, practice assignments, and graded assignments, which students can access to further their understanding of predicate logic.
+
+Some key takeaways from the lecture include:
+
+* Negating a statement using "not" or "all".
+* Changing the order of statements to negate an implication.
+* Understanding the applications of predicate logic in real-world scenarios.
+
+The speaker also mentions that there will be a midterm assessment, and provides resources for students to prepare for it.

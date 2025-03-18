@@ -1,0 +1,16 @@
+# Built-in events: mousePressed, keyPressed
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/XWUgW/built-in-events-mousepressed-keypressed
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The program extends the previous application to change the color of the spot when the user clicks the mouse. A new function called `mousePressed` is added to handle this event. The function takes two open and closed parentheses and curly brackets to define its code inside. The `fill` property is changed from all white to a red color, 25500, which causes a problem due to another `fill` in the `draw` function that resets each frame to white.
+
+To fix this issue, the `fill` from `draw` is removed and added to the `setup` function with proper indentation. This allows the spot to change color when the mouse is pressed and stay red. Another user event, `keyPressed`, is introduced by adding a new function called `KeyPressed` using camel casing.
+
+The function sets the fill to yellow, which corresponds to an RGB value of 255, 255, 0. The semi-colon at the end of the code ensures proper execution. When the mouse is moved, the spot remains white; when the space bar is pressed, it changes to yellow. Built-in variables such as `mouseX` and `mouseY` are used in the program.
+
+Built-in events like `mousePressed` and `keyPressed` allow for user interaction with the application. The program can be extended to handle different user interactions by using these built-in events and variables.

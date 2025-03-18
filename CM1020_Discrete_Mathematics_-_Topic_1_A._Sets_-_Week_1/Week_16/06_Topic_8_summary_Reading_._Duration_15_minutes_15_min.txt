@@ -1,0 +1,22 @@
+# Topic 8 summary
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/3rT20/topic-8-summary
+
+Here is a summary of the text in 15 sentences:
+
+Trees are a crucial concept in discrete mathematics and computer science, with applications in hierarchical data representation, efficient data structures, algorithm design, database management, artificial intelligence, computational biology, and network design.
+
+A tree is defined as a connected, acyclic graph with n vertices that has n-1 edges. A rooted tree is a tree with one designated root node, where every node (except the root) has exactly one parent.
+
+There are several components of trees: the root is the topmost node, leaves are nodes with no children, and internal nodes have at least one child. The height of a tree is the length of the longest path from the root to a leaf, while depth or level refers to the number of edges from the root to a node.
+
+Binary trees are characterized by each node having at most two children (left and right). Binary search trees (BSTs) are binary trees with the property that the left child's value is less than the parent's value and the right child's value is greater.
+
+Balanced trees maintain a balanced height to ensure efficient operations. The sum of degrees of all vertices in a tree is 2(n-1), where n is the number of vertices. A tree with n vertices has n-1 edges.
+
+Understanding these concepts allows students to analyze and work with various types of trees, implement efficient algorithms, and apply them to solve real-world problems. Regularly assessing understanding and capabilities against learning outcomes is crucial as the course progresses.
+
+To improve understanding, students should review course materials and textbooks, seek additional resources, practice problems or exercises, seek help from instructors or peers, and schedule additional study sessions. Implementing an action plan and regularly reviewing progress will help adjust strategies as needed based on ongoing self-assessment and new feedback.

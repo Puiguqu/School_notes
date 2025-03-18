@@ -1,0 +1,76 @@
+# Week 14 - CM1030 How Computers Work - How a computer works - Week 1
+
+## Network security Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/7Cpck/network-security)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Networks are vulnerable to numerous security issues, one of which is the potential for packets to be intercepted by malicious computers. To address this issue, network administrators use protocols like HTTPS (Hypertext Transfer Protocol Secure), an encrypted version of HTTP that uses encryption algorithms to protect application-layer packets. When using HTTPS, packet encapsulation occurs, where the encrypted packet is wrapped in transport layer and link layer packets for transmission over the network.
+
+When a router receives the packet, it can extract and use the unencrypted network packets but cannot access the encrypted HTTPS packet. The packet only becomes accessible when it reaches its final destination, where the browser has the correct decryption key to read the contents of the packet.
+
+Network security also involves defending against external attacks that aim to disable or compromise a network without gaining direct access to individual machines. One common attack is a Distributed Denial of Service (DDoS) attack, which involves sending a large volume of network packets to a specific machine or multiple machines on the network, overwhelming them and causing them to become unavailable.
+
+DDoS attacks are often performed using botnets, networks of infected computers that perform the attack without direct human intervention. Since DDoS attacks use valid network traffic, they can be difficult to detect and defend against. Firewalls are commonly used as a defense mechanism, filtering out specific types of packets or blocking IP addresses known to be malicious.
+
+Firewalls can also accidentally block legitimate traffic, causing issues for users. To mitigate this, proxy servers can be implemented, acting as intermediaries between clients and servers or within networks to filter traffic before it reaches its destination. When configured correctly, proxy servers and firewalls provide strong defenses against a wide range of security threats.
+
+However, new security threats are constantly emerging, requiring network administrators to remain vigilant and update their defenses regularly. This is an essential aspect of maintaining network security in the field of computer science. Malware can compromise networks in various ways, including through phishing attacks or exploiting vulnerabilities in software applications.
+
+---
+
+## Interview Case study: protecting a network Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/iALVB/interview-case-study-protecting-a-network)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The university network at Goldsmiths faces three main threats: unauthorized access by individuals inside or outside the network, as well as insider threats from employees or students accessing sites and the Internet. To mitigate these threats, the network employs a firewall to block harmful traffic. Firewalls can be used to prevent brute-force attacks, where attackers try to guess usernames and passwords to access servers. Automated systems are in place to identify and block IP addresses of individuals attempting such attacks.
+
+Additionally, authentication is required for all machines connected to the network, which prevents unauthorized access by requiring a valid Goldsmiths username and password. Students learning about network security at Goldsmiths need to understand how the organization protects its networks from various threats.
+
+The transcript also mentions that insider threats can compromise the network through authorized access, making it essential to implement robust authentication mechanisms. The university's firewall is designed to prevent unauthorized access, including brute-force attacks and other malicious activities. By understanding these security measures, students can better appreciate the importance of protecting their own networks in various contexts.
+
+Overall, Goldsmiths has implemented a multi-layered approach to network security, which includes firewalls, authentication mechanisms, and automated systems to detect and block suspicious activity.
+
+---
+
+## Introduction to peer review Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/ffVmp/introduction-to-peer-review)
+
+Unfortunately, the provided text does not contain any technical details or key information about a specific topic. It appears to be a transcript of a lecture or video discussing peer review activities in a course, specifically exam preparation.
+
+However, I can provide a summary of the main points:
+
+* The course will feature both peer review activities and multiple-choice questions.
+* Peer review activities are an important part of the learning process for the course and will also appear on the exam.
+* The exam will test knowledge of the course material, including factual questions.
+* Practicing these types of questions is recommended to prepare for the exam.
+* The peer review exercise this week aims to help students practice answering exam-style questions.
+* Students should try to answer the questions without looking at notes or other resources to test their recall.
+* Reviewing the answers after attempting them can help ensure accuracy.
+
+There are no specific formulas, technical details, or key findings in this text. If you could provide more context or information about the topic being discussed, I would be happy to try and assist further.
+
+---
+
+## Summary Video• . Duration: 54 seconds 54 sec
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/GGpkP/summary)
+
+There is no text provided for me to summarize. The given text appears to be a video transcript with various metadata and links, but it does not contain any specific information or content that can be summarized in 13 sentences.
+
+If you could provide the actual text you'd like me to summarize, I would be happy to assist you.
+
+---
+
+## Network security Reading• . Duration: 50 minutes 50 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/9zst1/network-security)
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.5. This reading is available in the Online Library via the VLeBooks collection. Lesson 14.1 Network security Discussion Prompt: How can malware compromise a network? . Duration: 30 minutes 30 min Video: Video Network security . Duration: 4 minutes 4 min Reading: Reading Network security ....
+
+---
+

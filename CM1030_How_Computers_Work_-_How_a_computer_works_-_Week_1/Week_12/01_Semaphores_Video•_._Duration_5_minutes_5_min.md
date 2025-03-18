@@ -1,0 +1,12 @@
+# Semaphores Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/QUUL8/semaphores)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The concept of processes is introduced, allowing multiple tasks to run simultaneously on a computer. However, up to now, each process has been considered independent, with its own memory area and no interaction between them. When multiple processes need to access the same resource, such as a file or printer, problems can arise. If one process writes to the resource while another is reading from it, data corruption can occur. To solve this problem, locking mechanisms have been introduced, where a process locks a resource when accessing it. However, if two processes try to lock the same resource at the same time, a deadlock can occur.
+
+A deadlock happens when both processes are waiting for each other to unlock their resources, causing an infinite wait. This is a common problem in parallel software, where multiple processes share resources. To avoid deadlocks, special instructions called semaphores have been introduced, which allow one process to lock and unlock a resource simultaneously. Semaphores can help prevent data corruption and ensure that resources are accessed safely.
+
+The concept of threads is also discussed, as they share memory and can lead to similar problems with concurrent access. To solve these problems, locks and semaphores are used to manage shared resources and prevent deadlocks. The introduction of semaphores and locks has improved the safety and reliability of parallel software systems.
+

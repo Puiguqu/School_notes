@@ -1,0 +1,8 @@
+# Network security
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/9zst1/network-security
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.5. This reading is available in the Online Library via the VLeBooks collection. Lesson 14.1 Network security Discussion Prompt: How can malware compromise a network? . Duration: 30 minutes 30 min Video: Video Network security . Duration: 4 minutes 4 min Reading: Reading Network security . Duration: 50 minutes 50 min Video: Video Interview Case study: protecting a network . Duration: 2 minutes 2 min Practice Assignment: Practice quiz – Case study: network protection . Duration: 1 hour 1h Lesson 14.2 Summary Network security Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.5. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

@@ -1,0 +1,12 @@
+# Quantification
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/2wvyG/quantification
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The concept of quantifiers in predicate logic expresses the extent to which a predicate is true over a range of elements. Quantification expresses the meaning of words like "all" and "some." The two most important quantifiers are the universal quantifier and the existential quantifier. Universal quantification states that a predicate P of x is true for all values of x in the universe of discourse, denoted as ∀xP(x). Existential quantification states that there exists a value x in the universe of discourse such that P of x is true, denoted as ∃xP(x). The uniqueness quantifier is a special case of existential quantification, stating that there exists a unique value of x such that P of x is true. To express statements using universal and existential quantifiers, we use predicates and the logical operators ∀ and ∃. For example, "for all x and y, x plus y is greater than 10" can be expressed as ∀x∀y(x + y > 10). The existential quantifier works similarly, but with a disjunction operator (∨) instead of conjunction (∧). The uniqueness quantifier states that there exists a unique value of x such that P of x is true. For instance, "there exists a unique x such that x squared is equal to 4" can be expressed as ∃x∀y(x² = y). Quantifiers are essential in predicate logic to express complex statements and relationships between predicates.
+
+Note: I did not include the additional page content as it was not part of the original text.

@@ -1,0 +1,10 @@
+# History of operating systems
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/J9pDh/history-of-operating-systems
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The first fully operational computer was built at the University of Cambridge, called EDSAC, designed by Maurice Wilkes. Wilkes taught the author, who also highlighted Alan Turing's contributions to building ACE, another early computer. Turing was a genius in laying mathematical foundations for computing and developing AI ideas. John Von Neumann, J Presper Eckert, and John Mauchly in the US laid technical foundations for computers, influencing Wilkes and Turing's machines. Early computers lacked operating systems, with users signing up for time slots to use them. The introduction of punched cards allowed programmers to input programs into computers. Programmers made holes in the card at positions representing machine instructions, which were then interpreted by the computer. For fast results, massive computers with screens and keyboards (terminals) were needed in the 1970s. These terminals linked users to main computers for multi-processing or timesharing. The concept of sharing primary computers is still relevant today, such as when websites share a server. Timesharing remains necessary due to running multiple applications on shared CPUs. Modern computers have multiple CPUs (multi-core), but still require load balancing to efficiently allocate tasks. Load balancing is crucial in managing computer programs and optimizing computing resources. The development of operating systems focuses on managing computer programs and allocating tasks to CPUs efficiently.

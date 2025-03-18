@@ -1,0 +1,10 @@
+# Code philosophy: testing
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/s3LLB/code-philosophy-testing
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+Software testing is an essential discipline for programmers to learn beyond debugging. It involves making sure that code is not only bug-free but also fit for its intended purpose. Software testing can be complex due to the long and intricate nature of code, requiring testing beyond just clicking buttons. The Boeing 787 Dreamliner aircraft required 14 million lines of code, an engineering challenge with high stakes. To write safety-critical systems like airliners, developers write at a maximum of 30 lines of code per day, equivalent to 1200 years to complete the entire project. This emphasizes the importance of teamwork and full testing before deploying software. Debugging alone may not be enough; edge cases can cause problems that were not considered during development. Testing is a process that should be part of designing software from the outset, through requirements gathering and planning. A well-designed test plan reflects the code's purpose and functionality. Requirements gathering involves determining what functionality to implement, hardware requirements, and who will use it. Software developers should consider these aspects when writing code. The code philosophy emphasizes testing as a continuation of debugging, focusing on ensuring software meets its intended purpose. Unit testing is an advanced technique that exploits properties of functions, making it easier to test and verify code. User testing, or human-computer interaction, involves exploring how software works in the real world, often revealing issues not caught during internal testing. The process of user testing can help identify negative behaviors or usability problems.

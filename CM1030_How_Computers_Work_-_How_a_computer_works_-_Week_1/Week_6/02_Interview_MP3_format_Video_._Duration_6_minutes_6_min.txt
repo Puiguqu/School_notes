@@ -1,0 +1,10 @@
+# Interview: MP3 format
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/sHnil/interview-mp3-format
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+MP3 is a file format that allows for compact storage of audio files, such as music or speech. The impact of MP3 on music distribution was significant, enabling rapid sharing and large collections of music to be stored on computers. MP3 uses lossy compression, which reduces the size of the file by throwing away information that humans cannot perceive acoustically. Psycho-acoustic models are used in MP3 compression to determine what sounds can be safely discarded. The model takes advantage of human hearing limitations, such as difficulty distinguishing between low-frequency sounds in different channels. Frequencies above a certain threshold can mask lower frequencies, allowing for further compression. The psycho-acoustic model also considers loud sounds masking quiet sounds, enabling targeted information removal. Despite being lossy, MP3 is often indistinguishable from uncompressed formats when played back through high-quality playback systems. However, the loss of information means that some audio data may not be recoverable in the future. MP3 has been widely used by musicians and music researchers for sharing examples and accessing a wider range of music. The format was instrumental in opening up online music distribution, allowing users to access previously inaccessible content. Lossy compression can also have disadvantages, such as reduced sound quality when files are compressed to their smallest size. Despite this, the benefits of MP3 have made it a widely adopted standard for audio file sharing and storage. In some cases, archiving audio data may require lossless formats for long-term preservation.

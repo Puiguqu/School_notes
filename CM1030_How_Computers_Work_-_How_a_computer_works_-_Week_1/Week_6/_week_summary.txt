@@ -1,0 +1,71 @@
+# Week_6 - Summary
+
+## Compression
+Video•
+. Duration: 7 minutes
+7 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Compression algorithms are used to reduce the size of large files such as images and videos to make them more efficient for storage and transmission over the internet. Data compression works by representing data in a more efficient way without losing important information. Most data representations are redundant, meaning they use more bits than necessary to represent something. This redundancy can be exploited to compress data. For example, words like "the" or "and" can have very short codes of just two or three bits while rarer words have longer codes.
+
+Compression algorithms can be lossless, which preserves the original information without losing any data, or lossy, where some data is lost to achieve better compression. Lossy compression is often used for images and audio because it can produce much better results than lossless compression, even with minimal data loss. However, lossy compression means that compressing and decompressing files multiple times can degrade the quality of the image or audio.
+
+Run-length encoding (RLE) is a simple technique used to compress pixel values by storing only the number of consecutive identical pixels instead of each individual pixel value. RLE can be very effective for images with mostly white or black backgrounds, but it's not suitable for complex images. More sophisticated compression algorithms are needed for photographs and audio.
+
+These algorithms transform data into a new representation that is easier to find redundant information in, such as transforming image frequencies. Lossy image, audio, and video algorithms can achieve much better compression by making the image representation more redundant while losing some information. The amount of data loss is not always noticeable, especially for everyday uses like putting an image on a webpage.
+
+However, it's essential to remember that lossy compression does lose information, which means that repeated compressing and decompressing can degrade image or audio quality. In some cases, like archiving vintage photographs, lossless compression is preferred to ensure the highest quality possible. Compression algorithms also take time, especially when loading and using compressed files.
+
+In conclusion, data compression is an essential technique for reducing file sizes and making data transmission more efficient. Understanding how compression algorithms work and their trade-offs between quality and size is crucial in computer science applications.
+
+---
+
+## Interview: MP3 format
+Video•
+. Duration: 6 minutes
+6 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+MP3 is a file format that allows for compact storage of audio files, such as music or speech. The impact of MP3 on music distribution was significant, enabling rapid sharing and large collections of music to be stored on computers. MP3 uses lossy compression, which reduces the size of the file by throwing away information that humans cannot perceive acoustically. Psycho-acoustic models are used in MP3 compression to determine what sounds can be safely discarded. The model takes advantage of human hearing limitations, such as difficulty distinguishing between low-frequency sounds in different channels. Frequencies above a certain threshold can mask lower frequencies, allowing for further compression. The psycho-acoustic model also considers loud sounds masking quiet sounds, enabling targeted information removal. Despite being lossy, MP3 is often indistinguishable from uncompressed formats when played back through high-quality playback systems. However, the loss of information means that some audio data may not be recoverable in the future. MP3 has been widely used by musicians and music researchers for sharing examples and accessing a wider range of music. The format was instrumental in opening up online music distribution, allowing users to access previously inaccessible content. Lossy compression can also have disadvantages, such as reduced sound quality when files are compressed to their smallest size. Despite this, the benefits of MP3 have made it a widely adopted standard for audio file sharing and storage. In some cases, archiving audio data may require lossless formats for long-term preservation.
+
+---
+
+## Peer review debrief
+Video•
+. Duration: 2 minutes
+2 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The number of file formats can be confusing due to competition between software vendors. Different file formats reflect differences in compression, such as uncompressed audio (wav) versus compressed audio (MP3). Image file formats like JPEG, PNG, and GIF have distinct compression methods, with JPEG optimized for photographs and GIF better suited for line art. Vector graphics format Adobe Illustrator represents images using shape, making it easier to edit. Bitmap formats like JPEG are less suitable for editing. The PDF format is designed for efficient reading but not for editing. Document files like Microsoft Word doc contain text and formatting information in addition to the actual text. Text files like TXT only contain ASCII or Unicode text with no additional metadata. Understanding data representation is crucial to choose the right file format and use it effectively. Different file formats have their own advantages and disadvantages, which must be considered when working with them. Compression is an important aspect of file formats, as seen in the differences between wav and MP3. The choice of file format depends on the intended purpose of the file, such as reading or editing. Having a good understanding of data representation will help individuals make informed decisions about file formats. This knowledge is essential for computer scientists and can be applied in various work contexts.
+
+---
+
+## Summary
+Video•
+. Duration: 1 minute
+1 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Data representation is a crucial topic in computer science. Computers rely on data to function, and their ability to represent different types of data is a powerful feature. The bit is a fundamental unit of data representation that can be used to store numbers, letters, and even complex data like video. Bits are stored in main memory and mass storage devices. Compression algorithms are used to store data efficiently, making it more manageable for computers to process.
+
+Data manipulation, including changing, processing, and viewing data, is essential in computer science. This topic will be explored in detail, covering various techniques and methods. Data representation forms the basis of many other topics in computer science, such as file formats and compression algorithms.
+
+Compression algorithms are a critical aspect of data representation, allowing computers to store large amounts of data in a compact form. File formats, which determine how data is stored and retrieved, will be discussed in more detail. The duration of various lessons and assignments is also provided, giving an overview of the structure and pacing of the course.
+
+Overall, understanding data representation and manipulation is vital for becoming a proficient computer scientist. The next topic will delve into manipulating data, covering key concepts and techniques.
+
+---
+
+## Data compression
+Reading•
+. Duration: 1 hour
+1h
+
+The Essential reading for this topic on data compression is from: Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global edition). Chapter 1 Data storage. At this point you should read section 1.9. This reading is available in the Online Library via the VLeBooks collection. Lesson 6.1 Compression Discussion Prompt: Data compression . Duration: 10 minutes 10 min Video: Video Compression ....
+
+---
+

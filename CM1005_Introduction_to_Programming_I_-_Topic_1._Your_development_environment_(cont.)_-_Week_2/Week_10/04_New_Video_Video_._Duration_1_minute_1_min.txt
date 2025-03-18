@@ -1,0 +1,18 @@
+# New Video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/raz7f/new-video
+
+Here is a summary of the provided text in 15 sentences, preserving key information, formulae, and technical details:
+
+Studiosity is an institution's study service that provides personalized, same-day feedback on written drafts and connects students with specialists to discuss study questions. To access Studiosity, log into the student portal, find the Studiosity link, and bookmark it for easier access. Students can upload their documents for review and receive email and mobile notifications when a specialist has reviewed their work.
+
+Studiosity offers two main services: same-day feedback on written drafts and instant guidance from specialists for study questions. To use the service, students click "Submit Your Document" or "Connect Now," depending on which option they choose. The former allows students to upload their assignments for feedback on structure, language, spelling, and grammar.
+
+The review process involves a specialist providing feedback, and students receive an email notification with a link to view their results. This information can be used to make changes before submitting the work. In addition to same-day feedback, Studiosity also offers instant guidance from specialists for study questions, allowing students to connect with experts in various subjects.
+
+The service is designed to help students feel more confident and reassured about their writing and studying. Thousands of students worldwide use Studiosity each year, achieving success through this support. To access the service, log into the student portal, find the Studiosity link, and bookmark it for easy reference. Students can also contact support services if they need assistance finding the link or using the service.
+
+Overall, Studiosity provides a valuable resource for students looking to improve their writing skills, receive guidance on study questions, and enhance their academic experience. By utilizing this service, students can develop essential skills and build confidence in their abilities.

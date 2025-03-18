@@ -1,0 +1,8 @@
+# Topic 7 essential reading Reading• . Duration: 2 hours 15 minutes 2h 15m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/4zFdG/topic-7-essential-reading)
+
+There is no text to summarize. The provided content appears to be a list of resources and assignments for a computer science or graph theory course, including topics such as adjacency matrices, isomorphic graphs, bipartite graphs, Dijkstra's algorithm, and exercises. It does not contain any specific text or data that needs summarization.
+
+If you could provide the actual text you would like me to summarize, I would be happy to assist you in breaking it down into 15 sentences while preserving key information, formulae, and technical details.
+

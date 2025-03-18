@@ -1,0 +1,304 @@
+# Week 2 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## The representation of a set using Venn diagrams Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/MqEpp/the-representation-of-a-set-using-venn-diagrams)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Venn diagram is a graphical representation used to visualize the possible relations among a collection of sets. The universal set (U) contains everything, and a set A is a subset of U. The Venn diagram represents A as an area in red within U. Given a set A, its complement (A') is a set containing all elements in U not in A, represented by the area outside A in the Venn diagram. The union of A and A' is always equal to the universal set U. Venn diagrams can also represent the intersection of two sets A and B as an overlapping area, and their symmetric difference as the area in red representing all elements in either A or B but not both. To show that two sets are identical, one can draw a Venn diagram for each set and compare them. The symmetric difference of A and B is equal to the union of A and B minus the intersection of A and B. This concept can be demonstrated using Venn diagrams by comparing areas representing different operations. De Morgan's laws state that (A ∩ B)' = A' ∪ B' and (A ∪ B)' = A' ∩ B', which can be visualized in a Venn diagram. The commutative, associative, and distributive laws of sets also have graphical representations using Venn diagrams. Additionally, the concept of partitioning a set into smaller subsets can be represented graphically with Venn diagrams. Review resources are available to help students further understand these concepts. A summative assessment will evaluate students' understanding of these key concepts.
+
+Note: Some technical details and specific examples were omitted from the summary to maintain conciseness, while still preserving the essential information and key findings.
+
+---
+
+## De Morgan's laws Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/MNAbf/de-morgans-laws)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Augustus De Morgan was a British mathematician who formulated De Morgan's laws, which describe the relationship between mathematical statements and their opposites.
+
+De Morgan's laws are applicable to sets, propositions, and logic gates, and their structure is always the same.
+
+The first law states that the complement of the union of two sets is equal to the intersection of their complements: A ∩ B' = (A' ∪ B')'.
+
+The second law states that the complement of the intersection of two sets is equal to the union of their complements: A ∪ B' = (A' ∩ B').
+
+De Morgan's laws can be proven using membership tables and Venn diagrams. The first law can be demonstrated by building a membership table showing that the columns corresponding to the complement of the union and the intersection of the complements are identical.
+
+The second law can also be proven using a membership table, as the column corresponding to the complement of the intersection is equal to the column corresponding to the union of the complements.
+
+Venn diagrams can be used to visualize De Morgan's laws. The diagram for A ∪ B shows all elements in A or B, while the diagram for A ∩ B' shows all elements not in both A and B.
+
+By examining these Venn diagrams, it is clear that (A' ∪ B') = A ∩ B', demonstrating the first law.
+
+Similarly, the diagram for A ∩ B shows all common elements between A and B, while the diagram for A' ∪ B' shows all elements not in both A and B.
+
+This demonstrates that A ∪ B' = (A' ∩ B'), showing the second law.
+
+De Morgan's laws have practical applications, as illustrated by an example involving subsets of a universal set.
+
+In this example, the complement of A ∪ B is equal to the complement of A intersection the complement of B.
+
+This demonstrates that De Morgan's laws are valid and applicable in real-world scenarios.
+
+Overall, De Morgan's laws provide a fundamental understanding of set relationships and have numerous applications in mathematics and other fields.
+
+---
+
+## Laws of sets: Commutative, associative and distributives Video• . Duration: 11 minutes 11 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/QEPbf/laws-of-sets-commutative-associative-and-distributives)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The lecture covers three set identities: commutativity, associativity, and distributivity.
+
+Commutativity refers to an operation where the order of elements does not affect the result. For example, addition and multiplication are commutative operations, while subtraction is not.
+
+The union of two sets A and B is commutative, as A ∪ B = B ∪ A.
+
+However, the set difference is not commutative, as A \ B ≠ B \ A.
+
+Associativity refers to an operation where the order in which elements are combined does not affect the result. The union and intersection of three sets A, B, and C are associative, as (A ∩ B) ∪ C = A ∪ (B ∩ C).
+
+The distributive law states that A \ (B ∪ C) = (A \ B) ∪ (A \ C), which is used to simplify set expressions.
+
+De Morgan's laws state that the complement of a union is equal to the intersection of complements, and vice versa: ¬(A ∪ B) = ¬A ∩ ¬B, and ¬(A ∩ B) = ¬A ∪ ¬B.
+
+The absorption law states that A ∩ (A ∪ B) = A and A ∪ (A ∩ B) = A.
+
+Another set identity is related to complement: the complement of a union of two sets is equal to the intersection of their complements.
+
+Additionally, the complement of an empty set is the universal set, and vice versa.
+
+The complement of a set A is denoted as ¬A, which represents all elements not in A.
+
+To simplify set expressions using set identities, one can apply De Morgan's laws, commutativity, and distributive law.
+
+Set operations include union, intersection, difference, and complement.
+
+The lecture concludes with an overview of the set identities covered in the lesson.
+
+---
+
+## Partition of a set Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/FuScz/partition-of-a-set)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A partition of an object is a subdivision into parts that are completely separated from each other yet form the whole object. Data partitioning has various applications in Computer Science, such as big data analysis. Two sets A and B are said to be disjointed if their corresponding intersection is equal to the empty set. This means they have no element in common.
+
+A partition of a set A is a set of subsets A_i of A, where all subsets are disjointed and the union of all subsets is equal to A. The concept of disjoint sets can be visualized using Venn diagrams. For example, the sets A_1 to A_5 are subsets of A, demonstrating that they are disjointed.
+
+The union of all subsets A_i is equal to the set A, which means the collection of subsets is a partition of A. To determine if a collection of subsets is a partition of a given set S, one must check if the union of all subsets is equal to S and if all elements are mutually disjointed.
+
+---
+
+## Answer to question 8 on the problem sheet Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/Zlip3/answer-to-question-8-on-the-problem-sheet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The problem presents a set theory exercise involving subsets A, B, and C of a universal set U. The goal is to draw a three-binary digit labeled Venn diagram that divides U into eight disjoint regions.
+
+To accomplish this, each digit represents an element in the corresponding set (A, B, or C). For example, 101 means the element is in both A and C.
+
+The problem provides a membership table for subset X of U and asks to identify its region on the Venn diagram. The region contains elements that are in X, which includes values 001, 100, 101, and 110.
+
+These elements can be described as the union of A and C minus the intersection of B and C. In other words, X = (A ∪ C) - (B ∩ C).
+
+The problem also defines set Y as represented by regions 000, 011, 101, 110, and 111 on the Venn diagram. To describe Y using set notation, we need to understand its relationship with the symmetric difference of A, B, and C.
+
+The symmetric difference of A, B, and C contains elements that are in at least one of them but not all of them. In this case, it includes values 100, 010, and 001.
+
+The complement of the symmetric difference is equal to U minus the symmetric difference of A, B, and C. By taking the complement, we obtain the set Y, which consists of elements 000, 011, 101, 110, and 111.
+
+This relationship holds because the symmetric difference contains only those elements that are not in all three sets (A, B, and C), leaving out the regions where an element belongs to exactly one or two of these sets.
+
+---
+
+## Answer to question 11 on the problem sheet Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/yFK2d/answer-to-question-11-on-the-problem-sheet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript provides a set theory problem where A = [1, 2] and B = [2, 3]. To solve this, we need to find the powerset of A ∩ B, A ∪ B, and A × B. The intersection of two sets is given by elements that are in both sets, resulting in A ∩ B = [2]. The powerset of A ∩ B includes the empty set and {2}. The union of two sets is given by elements that are in either set, resulting in A ∪ B = [1, 2, 3]. The powerset of A ∪ B includes the empty set and all possible subsets of [1, 2, 3], totaling 7 subsets. The Cartesian product of two sets, A × B, is given by (x, y), where x is from A and y is from B, resulting in A × B = [(1, 2), (1, 3), (2, 2), (2, 3)]. The powerset of A × B includes all possible subsets of the Cartesian product.
+
+---
+
+## Topic 1 Webinar Video• . Duration: 1 hour 8 minutes 1h 8m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/B7F94/topic-1-webinar)
+
+I'll provide a summary of the lesson plan.
+
+**Topic 1: Sets**
+
+The lesson covers basic set operations, set identities, and proofs using membership tables, Venn diagrams, and set identities.
+
+**Key Concepts:**
+
+1. Set Operations:
+	* Union
+	* Intersection
+	* Difference
+	* Complement
+2. Set Identities:
+	* A set is a collection of unique elements.
+	* The union of two sets is the set containing all elements from both sets.
+	* The intersection of two sets is the set containing only common elements.
+3. Proofs using Membership Tables and Venn Diagrams:
+	* Membership tables for proving equalities between sets
+	* Venn diagrams for visualizing set relationships
+
+**Set Manipulation:**
+
+1. Proving Equivalence using Membership Tables:
+	* Using membership tables to prove that two sets are equivalent (i.e., have the same elements)
+2. Proving Non-Equivalence using Venn Diagrams:
+	* Using Venn diagrams to visualize and prove that two sets are not equivalent
+3. Special Case: Empty Set
+	* The empty set is a subset of every set.
+
+**Powersets:**
+
+1. Definition and Properties:
+	* A powerset is the set of all possible subsets of a given set.
+2. Relationship between Number of Elements and Powersets:
+	* If a set has n elements, its powerset has 2^n elements.
+
+**Summary and Next Steps:**
+
+The lesson covers basic set operations, set identities, and proofs using membership tables, Venn diagrams, and set identities. The next steps include exploring additional resources, practicing with problems, and completing a summative assessment.
+
+**Reading Materials:**
+
+1. Reading Sets problem sheet
+2. Reading Sets problem sheet - solutions
+
+**Video Resources:**
+
+1. Video Answer to question 8 on the problem sheet
+2. Video Answer to question 11 on the problem sheet
+3. Topic 1 Webinar
+
+**Duration:** Approximately 1 hour and 28 minutes
+
+---
+
+## Laws of sets: Commutative, associative and distributives Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/3E79H/laws-of-sets-commutative-associative-and-distributives)
+
+## Step 1: Understand the laws of sets and their applications
+The problem requires us to simplify a given expression using the laws of sets. The laws of sets are mathematical principles used to manipulate and simplify set operations.
+
+## Step 2: Identify the laws applicable to the given expression
+To simplify the expression (A∪B)∩(A∪B c ), we need to apply the distributive law, absorption law, complement law, and double negation law.
+
+## Step 3: Apply the distributive law
+First, we distribute the intersection over the union using the distributive law: (A∪B)∩(A∪B c ) = (A∩(A∪B c )) ∪ (B∩(A∪B c ).
+
+## Step 4: Simplify each term
+Next, we simplify each term. A∩(A∪B c ) can be simplified using the absorption law, which states that A∩(A∪B) = A.
+
+## Step 5: Apply the distributive law to B
+For the second term, B∩(A∪B c ), we apply the distributive law again. However, since (B∩B c ) equals ∅, we need to find an alternative way to simplify this expression.
+
+## Step 6: Simplify using De Morgan's laws and complement law
+We use De Morgan's laws to relate the complement of the union of sets to the intersection of their complements. By applying De Morgan's laws, (A∪B) c = A c ∩ B c .
+
+## Step 7: Combine simplified terms
+Now we combine the simplified terms. Since B∩(A∪B c ) can be rewritten as B∩(A c ∩B c ), and since B∩B c is a contradiction (∅), this simplifies to just B.
+
+## Step 8: Apply the absorption law
+With A from step 4, we can now simplify further using the absorption law. This states that A ∪ (B ∩ A) = A.
+
+## Step 9: Final simplification
+Applying the absorption law to our expression gives us A ∪ B ∩ A, which simplifies to just A.
+
+
+The final answer is: $\boxed{A}$
+
+---
+
+## Set operations reading and practice questions Reading• . Duration: 2 hours 2h
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/CeoYL/set-operations-reading-and-practice-questions)
+
+Here is a summary of the text in 15 sentences:
+
+The provided text mentions various topics for consolidation, including set operations, complement of a set, symmetric difference, membership tables, De Morgan's laws, and set properties. These topics are covered on pages 78-86 of Koshy's book. The text also references exercises on pages 93, specifically questions 5, 6, 7, 8, 11, 12, 14, 17, 27, 34, 35, 39, and 42. Some exercises have solutions provided in the "Solutions to Odd-Numbered Exercises" section at the back of the book. The text advises students to consult this section if they are unsure about their answers. Additionally, the text mentions several video lectures that cover these topics. These videos include the representation of a set using Venn diagrams, De Morgan's laws, and the laws of sets (commutative, associative, and distributive). The text also references practice assignments for each topic. There is a 4-minute video on the representation of a set using Venn diagrams, an 8-minute video on De Morgan's laws, and an 11-minute video on the laws of sets. Furthermore, the text mentions a reading assignment for 15 minutes that covers the laws of sets. The text also references a practice assignment for partitioning a set. The purpose of this lesson is to review and consolidate knowledge of various set operations concepts.
+
+---
+
+## Peer review guidance Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/H3d7B/peer-review-guidance)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Peer review is a collaborative process where students, scholars, or researchers evaluate each other's work to provide feedback and learn from one another. In an academic setting, peer reviews involve carefully reading a peer's assignment to critique its content and arguments. As part of the Computer Science programme, peer reviews may be required assignments. There are two parts to peer-graded assignments: submitting your own assignment and grading a minimum number of peers' submitted assignments. To receive a grade for your own assignment, you must complete both tasks.
+
+When grading your peer's work, you will be provided with a rubric that clearly describes the assignment components and the type of responses that correspond to each possible grade. Rubrics are used to ensure grading consistency and help learners understand the expectations of each assignment. The purpose of peer review is not just to critique but to offer constructive feedback that can help authors improve their work.
+
+Peer review challenges you to critically evaluate another's work, sharpening your analytical skills. By identifying strengths, weaknesses, and gaps in someone else's writing, you develop a keen eye for detail, which is invaluable in your own work and academic pursuits. Peer review also improves writing and research skills by providing insights into effective techniques.
+
+Through peer review, you can learn from each other, gain new perspectives on your work, and develop analytical and evaluative skills essential for academic success and professional development. The process fosters collaborative learning and academic integrity. It encourages constructive feedback and dialogue, leading to the development of a supportive academic network.
+
+Participating in peer review prepares you for future academic and professional experiences by mirroring professional scholarly review processes. By engaging in peer review, you reinforce your own knowledge and understanding of the subject matter, leading to better retention and mastery of the content. Peer review develops empathy and communication skills by providing opportunities to give constructive, respectful, and helpful feedback.
+
+It also provides insight into the review process, demystifying academic publishing and research presentation. By participating in peer reviews, you gain exposure to diverse research topics and methodologies, which can spark interest in interdisciplinary study or collaboration. Finally, successfully engaging in peer review enhances your confidence in your own academic abilities by providing a sense of accomplishment and assurance in your skills and knowledge.
+
+---
+
+## Topic 1 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/wI47a/topic-1-summary)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Set theory is a fundamental area of mathematics that studies collections of objects, known as sets. It forms the basis for various mathematical disciplines and has applications in computer science, logic, and more. A set is defined as an unordered collection of unique objects, which can be represented using listing methods, set builder notation, or Venn diagrams. The cardinality of a set refers to its size, while a subset of a set is a smaller set that contains some or all elements of the original set. There are different types of sets, including empty sets, finite sets, and infinite sets. The powerset of a set is the collection of all possible subsets. Set operations include union, intersection, symmetric difference, and complement. Laws of set theory, such as commutative laws, associative laws, and distributive laws, govern how these operations work. De Morgan's laws provide additional relationships between sets. To prove a relation between two given sets, one can use the laws of set theory or Venn diagrams. Regular assessment is crucial to ensure understanding against learning outcomes. This exercise helps reflect on learning journey, identify areas for improvement, and develop an action plan. Reviewing course materials, seeking additional resources, practicing problems, and seeking help from instructors or peers are recommended strategies for improvement. Implementing the action plan and regularly reviewing progress are essential steps in continuous learning.
+
+Note: I did not include any specific numerical values or examples in this summary, as they were not present in the original text.
+
+---
+
+## Sets problem sheet Reading• . Duration: 30 minutes 30 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/YyoV3/sets-problem-sheet)
+
+Unfortunately, there is no text to summarize in this case. The provided text appears to be a notice or announcement related to a lesson on sets and does not contain any substantive content.
+
+However, I can provide a summary of the overall structure and topics covered in the announcement:
+
+The announcement recommends that students attempt to complete a worksheet containing problems relating to the topic of sets as a way to prepare for an upcoming exam. The worksheet will be made available with solutions in the next reading session. Additionally, videos and slides related to the topic are available for viewing during the lesson.
+
+If you could provide the actual text from the "Reading Sets problem sheet" or other relevant materials, I would be happy to help summarize it for you.
+
+---
+
+## Sets problem sheet - solutions Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/MmpP6/sets-problem-sheet-solutions)
+
+There is no text provided to summarize. The given text appears to be a instructional document or a course outline for a set theory lesson, and it does not contain any specific information or technical details to summarize. It only provides an overview of the content and duration of each section, as well as recommendations for students. If you could provide the actual text to summarize, I would be happy to assist you.
+
+---
+
+## Topic 1 webinar slides Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/yQlHQ/topic-1-webinar-slides)
+
+There is no text to summarize. The provided text appears to be a lesson plan or schedule for a study session, outlining the topics to be covered and the duration of each activity. It does not contain any technical details or key information that would require summarization.
+
+If you could provide the actual text that needs to be summarized, I would be happy to assist you in condensing it into 5 sentences while preserving all relevant information, formulae, and technical details.
+
+---
+

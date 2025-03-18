@@ -1,0 +1,20 @@
+# User defined functions
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/JE7Wd/user-defined-functions
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Functions are blocks of code that perform specific tasks, allowing coders to organize their code into discrete sections and reuse it in different contexts. Functions have three main parts: the function keyword, the function name, and the curly braces containing the function body. Coders can define functions using the P5 library or create their own custom functions.
+
+Functions can be called by typing the function name followed by two round parentheses. The function body is executed every time the function is called. Refactoring involves separating code into smaller functions to improve organization and reusability.
+
+When a function is defined, it has no effect unless its return value is used or its output is printed. Functions can take input parameters, which are values passed to the function when it's called.
+
+Functions can also have output parameters, which are returned values that the caller of the function needs to use. The scope of a variable determines where it's accessible and how changes made within a specific block affect it.
+
+In P5 JS, functions are used extensively for their versatility and flexibility. By building upon existing dependencies, coders create a tiered structure known as a software stack. High-level programming involves writing code that interacts with the user directly, while low-level programming focuses on interacting with machine hardware directly.
+
+Functions are essential tools in coding, allowing developers to reuse code and work efficiently. In this video lesson, we explore how functions can be defined and called using P5 JS, including returning early from a function and managing the call stack.

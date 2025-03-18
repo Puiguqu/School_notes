@@ -1,0 +1,18 @@
+# Introduction to discrete mathematics Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/WGa1T/introduction-to-discrete-mathematics)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Discrete mathematics is a branch of mathematics that deals with discrete or distinct objects rather than continuous objects. It studies structures and algorithms used to represent and manipulate discrete objects. Discrete objects are separated or distinct from each other, such as integers or rational numbers. Discrete mathematics has many applications in computer science, including programming languages, software development, cryptography, and algorithms.
+
+Graph theory is one of the main areas of study in discrete mathematics, used to model and analyze networks such as social networks, transportation networks, and communication networks. Boolean algebra studies logical operations such as AND, OR, and NOT, and their application in computer circuits. It is an important foundation for studying computer science and has many applications.
+
+Data structures are used to store and manipulate data efficiently and effectively, and they are a crucial aspect of computer science. Discrete mathematics is used to design and analyze data structures and study the complexity of algorithms that manipulate them. The module covers 10 topics over 20 weeks, with two weeks per topic.
+
+The assessment consists of three elements: 10 summative quizzes (20% of final grade), a midterm assignment (30% of final grade), and a final exam (50% of final grade). By studying the module, students gain a mathematical understanding of discrete mathematics topics that improve their skills in thinking abstractly. The course includes a video introduction to discrete mathematics, readings on the syllabus and getting started, and a careers video.
+
+The discussion prompt asks students what they know about sets, which is an important concept in discrete mathematics. Set theory is introduced in Lesson 1.1, covering topics such as union, intersection, and complement of sets. The module is designed to improve reasoning and problem-solving capabilities, making it an essential field of study for computer science and other fields.
+
+Overall, the course aims to provide students with a mathematical understanding of discrete mathematics topics that will support their studies in computer science.
+

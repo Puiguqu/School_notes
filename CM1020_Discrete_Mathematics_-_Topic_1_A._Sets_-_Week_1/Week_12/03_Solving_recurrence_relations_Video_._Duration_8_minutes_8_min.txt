@@ -1,0 +1,16 @@
+# Solving recurrence relations
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/wKxir/solving-recurrence-relations
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A recurrence relation can be solved using linear homogeneous recurrences and strong induction. A linear homogeneous recurrence has the form $a_n = c_1a_{n-1} + \cdots + c_ka_{n-k}$, where each term is a multiple of the previous term. The characteristic equation is obtained by dividing both sides by $a_{n-k}$, resulting in $r^n = c_1r^{n-1} + \cdots + c_k$. Solving this equation gives a solution to the recurrence relation.
+
+The Fibonacci recurrence relation is an example of a linear homogeneous recurrence with two distinct roots: $r_1 = 1 + \sqrt{5}/2$ and $r_2 = 1 - \sqrt{5}/2$. The general solution to the Fibonacci recurrence relation is given by $F_n = A_1r_1^n + A_2r_2^n$, where $A_1$ and $A_2$ are constants determined using initial conditions.
+
+In a strong induction proof, we prove that a statement $P(n)$ is true for all integers $n \geq k$, given that it holds for $0, 1, 2, ..., k-1$. To do this, we first verify the base case ($P(k)$), and then assume $P(0), P(1), ..., P(k-1)$ are true. We then show that $P(k+1)$ is also true using these assumptions.
+
+In the context of recurrence relations, strong induction can be used to prove that a solution to a linear homogeneous recurrence relation satisfies the given recurrence relation.

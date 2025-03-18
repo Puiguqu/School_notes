@@ -1,0 +1,8 @@
+# Computer architecture
+Reading•
+. Duration: 45 minutes
+45 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/eCKMV/computer-architecture
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 2 Data Manipulation. Read Section 2.1. This reading is available in the Online Library via the VLeBooks collection. Lesson 7.0 Introduction Lesson 7.1 Computer architecture Video: Video CPU and memory . Duration: 7 minutes 7 min Reading: Reading CPU and memory – Lecture summary . Duration: 10 minutes 10 min Practice Assignment: Practice quiz - CPU and memory ....

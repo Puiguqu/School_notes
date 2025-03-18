@@ -1,0 +1,18 @@
+# Nested quantifiers Reading• . Duration: 1 hour 30 minutes 1h 30m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/tyMc8/nested-quantifiers)
+
+Unfortunately, there is no text provided for me to summarize in 15 sentences. The text appears to be a list of reading assignments, exercises, and videos related to predicate logic, but it does not contain any specific information or concepts that can be summarized.
+
+However, I can provide some general information about the topics mentioned:
+
+Predicate logic is a branch of mathematics that deals with reasoning and argumentation using predicates, which are statements that describe properties or relationships between entities. Quantifiers, such as "for all" and "there exists," are used to express these properties or relationships in formal language.
+
+Logical operators, such as conjunction and disjunction, are used to combine predicates and quantifiers to form more complex statements.
+
+Nested quantifiers refer to the use of quantifiers within themselves, which can lead to complex logical structures.
+
+The texts mentioned (Rosen, 2012, and Koshy, 2004) are likely textbooks or study materials that cover these topics in detail. The exercises listed provide opportunities for practice and reinforcement of the concepts learned from reading the material.
+
+If you could provide a specific text or passage that you would like me to summarize, I would be happy to try and assist you.
+

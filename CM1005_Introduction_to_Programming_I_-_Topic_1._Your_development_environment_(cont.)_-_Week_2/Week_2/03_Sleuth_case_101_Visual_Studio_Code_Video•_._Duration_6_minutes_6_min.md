@@ -1,0 +1,8 @@
+# Sleuth case 101: Visual Studio Code Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/QPi7r/sleuth-case-101-visual-studio-code)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The lecture is about solving Sleuth puzzles using Visual Studio Code. The first case is "Central Station" series 101, which can be solved by clicking on "Let's solve some crimes" and then "crime". A zip file will be downloaded containing the necessary files to solve the puzzle. The files include an image of a lady named Anna, an index.html file, a P5 JS library file, and a sketch.js file. The sketch.js file is the actual crime that needs to be solved. The goal is to draw a rectangle around Anna's body using the rect function. To do this, the initial coordinates (x, y) are set to 70, 45. The width and height of the rectangle can be adjusted by changing these values. A live server extension is used to run the code in the browser. The sketch.js file comes with a handy feature that displays the x and y coordinates as the mouse moves around it. To add code to the sketch.js file, the rect function is written with the initial coordinates and width/height parameters. The file is saved by pressing "Command S" on Mac or "Control S" on Windows. The solution can be uploaded back to the Sleuth application by clicking on "Browse", selecting the sketch.js file, and then clicking on "solution". This results in a 100% score. Using Visual Studio Code is recommended for future modules as it is a modern coding editor that will be used throughout the degree.
+

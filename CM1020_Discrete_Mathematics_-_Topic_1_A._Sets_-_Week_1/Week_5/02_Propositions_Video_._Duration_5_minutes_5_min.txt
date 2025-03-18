@@ -1,0 +1,26 @@
+# Propositions
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/YpbgV/propositions
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. A proposition is a declarative sentence that can be either true or false but not both.
+2. Propositions are the basic building blocks of logic and are used to construct reasoning and logical statements.
+3. In mathematics, propositions are considered as the most fundamental elements of logic.
+4. Examples of propositions include "London is the capital of United Kingdom" (true), "1 plus 1 equals 2" (true), and "2 is less than 3" (true).
+5. Propositions can also be false, such as "Madrid is the capital of France".
+6. A proposition can be considered true or false based on its content, regardless of how it is expressed in words.
+7. Not all sentences are propositions; examples of non-propositions include "x plus 1 equals 2" (because x is unknown) and "what time is it?".
+8. Propositions with variables, such as "p is a proposition", can be simplified using propositional variables like p, q, r, s.
+9. Propositional variables are typically letters that represent propositions in mathematical notation.
+10. The use of propositional variables simplifies notations and makes expressions more concise.
+11. A true proposition asserts something that is indeed true, while a false proposition asserts something that is not true.
+12. Propositions can be combined using logical operators to create compound propositions.
+13. Compound propositions combine multiple propositions with logical operators such as conjunction (AND), disjunction (OR), and negation (NOT).
+14. The truth value of a compound proposition depends on the truth values of its constituent propositions.
+15. Understanding propositions is crucial in logic, mathematics, and other fields that rely on reasoning and argumentation.
+
+Note: I condensed some details and omitted certain examples to fit within the 15-sentence limit while maintaining the essential information and technical details.

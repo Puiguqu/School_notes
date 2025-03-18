@@ -1,0 +1,40 @@
+# Exploring a p5 object: Vector Video• . Duration: 18 minutes 18 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/M747L/exploring-a-p5-object-vector)
+
+Here is a summary of the content:
+
+**Lesson Summary**
+
+This lesson introduces the `p5` object, specifically the `vector` class. The instructor explains various methods that can be used with this class, including:
+
+1. Creating and manipulating vectors
+2. Using static and non-static methods for vector manipulation
+3. Randomly generating points to create a pattern
+
+**Key Concepts**
+
+* Understanding the difference between static and non-static methods in `p5`
+* Learning how to use various methods to manipulate vectors, such as:
+	+ `x`, `y` properties to access individual components of a vector
+	+ `length()` method to calculate the magnitude of a vector
+	+ `normalize()` method to normalize a vector to length 1
+	+ Multiplying and dividing vectors by numbers to scale them
+
+**Example Code**
+
+The instructor provides example code snippets that demonstrate how to use these methods, including:
+
+* Creating and manipulating vectors using static methods
+* Randomly generating points to create a pattern
+* Using the `normalize()` method to normalize vectors
+* Scaling vectors using multiplication and division
+
+**Graded Assignment**
+
+A graded assignment is mentioned, which requires students to practice using the `p5` vector class with various methods.
+
+**Next Steps**
+
+The instructor mentions that in the next lesson, they will explore how to use these methods to create a more complex project, such as creating a Tamagotchi.
+

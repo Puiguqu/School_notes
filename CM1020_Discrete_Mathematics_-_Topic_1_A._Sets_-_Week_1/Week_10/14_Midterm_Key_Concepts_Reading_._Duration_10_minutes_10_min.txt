@@ -1,0 +1,18 @@
+# Midterm Key Concepts
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/YSNzH/midterm-key-concepts
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The discrete mathematics midterm exam review covers seven key concepts: set theory, functions, logarithms, propositional logic, logical arguments, predicates, and Boolean algebra. Set theory involves understanding sets as collections of distinct objects, with key operations including intersection, union, and difference. Venn diagrams are used to visually display the relationship among sets and their elements. Power sets are the collection of all subsets that can be formed from a given set, including the empty set.
+
+Functions are rules that assign exactly one output to each input, with types including injections, surjections, and bijections. Composition of functions involves applying one function to the result of another, creating a composite function. The inverse of a function reverses the action of the original function. Logarithms represent the power to which a specified base number must be raised to obtain a specific number.
+
+Propositional logic deals with propositions that are either true or false and argument forms involving propositions. Truth tables, tautologies, contrapositives, inverses, and converses are essential concepts in propositional logic. Logical arguments involve forming conclusions based on a set of premises, with validity depending on whether the conclusion logically follows from the premises.
+
+Predicates and quantifiers are used to build logical expressions that make more complex assertions about objects in a domain. Boolean algebra deals with variables that take only two values, with operations including AND, OR, and NOT. Logic circuits, De Morgan's laws, Karnaugh maps, and sum of products are integral parts of Boolean algebra. Understanding these concepts is essential for solving equations and interpreting logarithmic expressions.
+
+The midterm exam review includes practice questions, reading materials, and a video tutorial to help students prepare for the exam. The review covers set theory, functions, logarithms, propositional logic, logical arguments, predicates, and Boolean algebra, providing students with a comprehensive understanding of these key concepts.

@@ -1,0 +1,16 @@
+# Sleuth: case by case 302
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/xsh76/sleuth-case-by-case-302
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The transcript describes a case study using the game Sleuth, where the objective is to guide a spotlight from a detective to a target (Sergey Minsky) through a scene. The user can navigate the scene by adjusting the x-coordinate of the spotlight. The scene file contains coordinates for the starting point (89,111) and the ending point (289,110). To animate the spotlight, the user must adjust the increment values of x and y using plus or minus equals signs.
+
+The user starts at the x-coordinate 829 and wants to reduce it to reach Sergey Minsky. By subtracting 1 from x, the spotlight moves one pixel towards its target. The goal is to stop the spotlight perfectly on Sergey Minsky. To achieve this, the user must carefully adjust the increment values of x and y.
+
+The scene file also includes a blank screen for editing the spotlight's starting position. The user can use variables (x and y) to control the spotlight's movement. Initially, x is set to 829, but it needs to be reduced to reach the target.
+
+To animate the spotlight, the user can increment or decrement the value of x using plus or minus equals signs. For example, if x is set to 829, subtracting 1 from x would move the spotlight one pixel to the left. The user must carefully adjust these values to guide the spotlight to its target.

@@ -1,0 +1,15 @@
+# Bijective functions Video• . Duration: 11 minutes 11 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/mQfoi/bijective-functions)
+
+This is not a typical math lesson in which a specific topic and problems are presented. The text appears to be a transcript of a video lecture or a learning platform's content, where various topics related to functions and mathematical concepts are briefly discussed.
+
+There isn't a specific problem or question that requires a step-by-step solution. However, I can provide an overview of the topics covered in the lesson:
+
+1. **Functions**: The text discusses what functions are, examples of functions (e.g., F of X = 2X), and how to prove that a function is bijection.
+2. **Bijective Functions**: The lesson explains what bijective functions are, how to prove a function is bijective, and provides practice assignments.
+3. **Inverse Functions**: The text discusses finding the inverse function of a given function (e.g., F-1 of X = X/2) and its properties (e.g., composition).
+4. **Symmetry with Respect to the Line Y = X**: The lesson explains how to visualize functions and their inverses on a graph, highlighting the symmetry between the two.
+
+If you'd like, I can help with solving problems related to these topics or provide additional explanations on any of the concepts covered in this text.
+

@@ -1,0 +1,212 @@
+# Week 6 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## Logical implication Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/3z6Lq/logical-implication)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logical implication is a type of conditional statement that can be defined as "if p then q", where p is called the hypothesis and q is called the conclusion or consequence. The truth table for an implication shows that it is true to think that if the hypothesis is false, then any conclusion can be implied whether it's false or true. There are multiple ways to express conditional statements, such as "if p, then q" or "p only if q". Implication can also be expressed in other forms, including "q follows from p", "p is sufficient for q", and "q unless not p".
+
+The converse of an implication is the proposition "q implies p", while the contrapositive is the proposition "not q implies not p". The inverse of an implication is the proposition "not p implies not q". These three propositions are related to the original implication.
+
+Implication can be used to express statements such as "if it's sunny, then John goes to the park" or "n has one digit if n is less than 10". Symbolic logic expressions for these statements include "p implies q", while English translations may vary depending on the context.
+
+Logical implication is an important concept in computer logic and other areas of mathematics. Understanding logical implication can help individuals develop their critical thinking skills and make informed decisions. The concepts of converse, inverse, and contrapositive are also essential to understanding more advanced topics in propositional logic.
+
+In conclusion, logical implication is a fundamental concept in mathematics and computer science that involves conditional statements and their relationships with other propositions. Understanding the truth table, different expressions for implications, and the concepts of converse, inverse, and contrapositive can help individuals develop a strong foundation in propositional logic.
+
+---
+
+## Logical equivalence Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/Mn7lM/logical-equivalence)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logical equivalence is a concept in propositional logic where two propositions have the same truth value. The biconditional statement "p if and only if q" is true when p and q have the same truth values and false otherwise. Two propositions are logically equivalent if they always have the same truth value. The symbol "=" is not a logical operator, but rather denotes that two propositions are equivalent. To determine equivalence, one can use truth tables to check whether the two propositions have the same truth values.
+
+For example, the proposition "p implies q" is equivalent to "non-p or q". However, the converse and inverse of an implication are different from the original implication. The precedence order of compound propositions includes implication and equivalence, which updates the table of precedence for logical operators.
+
+Implication and equivalence can be used to simplify complex compound propositions. The biconditional statement "p if and only if q" is a way to express the idea that two propositions are equivalent. Logical equivalence can be proven using truth tables by checking whether the two propositions have the same truth values in all possible cases.
+
+The concept of logical equivalence is important in computer logic, where it can be used to simplify code and improve efficiency. The precedence order of compound propositions ensures that operators are applied in the correct order when simplifying complex expressions.
+
+In summary, logical equivalence is a fundamental concept in propositional logic that allows us to determine whether two propositions have the same truth value. It can be proven using truth tables and has important applications in computer logic.
+
+---
+
+## Laws of propositional logic Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/iQQpn/laws-of-propositional-logic)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Propositional logic is an algebra involving multiple laws that enable reasoning and proof of equivalence. The law of idempotence states that p or p is equivalent to p and p and p is equivalent to p. The commutative law states that p or q is equivalent to q or p and p and q is equivalent to q and p. The associative law states that the conjunction and disjunction operators can be distributed over each other. The distributive law states that the order of operators does not matter as long as the sequence remains the same. The identity law states that p or false is equivalent to p and p and true is equivalent to p. The domination law states that p or true is always equivalent to true and p and false is always equivalent to false.
+
+DeMorgan's laws formalize how we negate conjunction and disjunction, ensuring that we change the logical connective after negating a proposition. The Absorption laws state that p or p and q is equivalent to p and p and q or q is equivalent to p. The negation law states that p or not p is always true (tautology) and p and not p is always false. The Double Negation law states that not not p is equivalent to p.
+
+To prove equivalence between two compound propositions, we can use DeMorgan's laws, double negation, distributive laws, and identity laws. For example, the given proposition "not p and not q or q" can be simplified using these laws to arrive at a logically equivalent form "true and not p or not q". This demonstrates how propositional logic laws can be used to simplify complex expressions and prove equivalence between two propositions.
+
+---
+
+## Answer to question 4 on problem sheet Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/hYRy9/answer-to-question-4-on-problem-sheet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The first exercise on propositional logic involves using the listing method to specify the truth set corresponding to given statements. The propositions relate to the letter "l" in the word "software". P states that l is a vowel, while q states that l comes after the letter K in the alphabet. To find the truth set of not q, we identify the letters in software that come before K, which are a, e, and f. For p or q, we need to find the letters that are both in the set of vowels (p) and those that come after K (q). The intersection of these sets is {a, e}. To find the truth set of p or q, we combine the set of vowels with those that come after K, resulting in {s, f, t, w, r, o}.
+
+---
+
+## Answer to question 5 on problem sheet Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/zCRV3/answer-to-question-5-on-problem-sheet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Propositional logic is the study of statements that can be either true or false, and how to reason about them using logical operators. Two propositions, p and q, are considered. A truth table is constructed to show the truth value of each logical statement involving p and q. The truth table has at least 2^n rows, where n is the number of propositions. For two propositions, there are 4 possible combinations: 0, 0; 0, 1; 1, 0; and 1, 1. Notation for negation (not) is used to create new columns in the truth table.
+
+The first column represents p, with values 0 and 1. The second column represents q, also with values 0 and 1. The third column represents not p, which is 1 when p is 0, and 0 when p is 1. Similarly, the fourth column represents not q. 
+
+To evaluate the truth value of "p or q", the columns are examined for rows in which either p or q (or both) is true. The first row has neither p nor q true; all other rows have at least one proposition true, so the statement "p or q" is true for those rows.
+
+Similarly, to evaluate the truth value of "p and q", the columns are examined for rows in which both p and q are true. Only the last row meets this condition, so "p and q" is false for that row and true otherwise.
+
+Noting the statement "not p or not q", its truth table is constructed similarly to the others. This statement holds if either not p (and thus) not q is true; only when both are 0 does it hold that the statements are false.
+
+DeMorgan's second law states that "not p or not q" and "not p and not q" are equivalent, meaning they have the same truth values for all combinations of p and q. This equivalence is demonstrated using the truth table.
+
+This summary provides an overview of constructing truth tables for propositional logic statements involving two propositions (p and q), evaluating their truth values, and demonstrating DeMorgan's second law.
+
+---
+
+## Propositional logic webinar Video• . Duration: 1 hour 35 minutes 1h 35m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/IfyCh/propositional-logic-webinar)
+
+This is a transcript of an online learning session, likely for a computer science or mathematics course. The conversation covers various topics related to propositional logic and Boolean algebra. Here's a summary of the main points:
+
+**Propositional Logic**
+
+* The instructor explains that if there exists a y such that pxy is true for all x in the domain, it does not necessarily mean that pxy is true for all x.
+* A counterexample can be used to demonstrate this.
+
+**Boolean Algebra**
+
+* The instructor demonstrates how to use a K-Map to simplify an expression by selecting only the groups with fixed variables and removing those with changing variables.
+* This process helps to reduce the complexity of the expression.
+
+**Applications**
+
+* The instructor discusses various applications of propositional logic, including midterm assessments.
+
+**Extra Resources**
+
+* Additional reading materials are provided for further learning, including problem sheets, solutions, and videos.
+
+**Summative Assessment**
+
+* A summative assessment is mentioned as a future step in the course.
+
+This transcript appears to be an online lecture or tutorial, where the instructor guides students through various concepts and applications of propositional logic and Boolean algebra.
+
+---
+
+## Logical implication Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/gqoTm/logical-implication)
+
+Here are 15 sentences summarizing the text on logical implication:
+
+1. Logical implication is a fundamental concept in propositional logic that states "if p, then q" (p→q).
+2. The truth table for p→q shows that it is false only when p is true and q is false.
+3. When p is true and q is true, the implication p→q is true.
+4. When p is true and q is false, the implication p→q is false.
+5. When p is false, the implication p→q is true regardless of the truth value of q.
+6. The implication p→q can be evaluated as: "If it is raining and the ground is wet, then p→q is true; if it is raining but not wet, p→q is false; and if it is not raining, p→q is true regardless."
+7. Logical implication is a compound statement that is used to express cause-and-effect relationships between propositions.
+8. The truth table for p→q helps us understand the conditions under which the implication is true or false.
+9. In everyday language, implications like "If it is raining, then the ground is wet" are often used to convey cause-and-effect relationships.
+10. Logical implication is an essential concept in propositional logic and computer science.
+11. The duration of lessons and practice assignments on logical implication varies from 20 minutes to 30 minutes.
+12. Videos, readings, and practice assignments cover topics such as logical equivalence and laws of propositional logic.
+13. Peer-graded assignments and summative assessments evaluate students' understanding of logical implication.
+14. Reviewing peers' work and summarizing the reading material are also part of the learning process.
+15. Understanding logical implication is crucial for applying it in real-world scenarios, such as evaluating cause-and-effect relationships in computer science and everyday language.
+
+---
+
+## Non-equivalence Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/rOHW9/non-equivalence)
+
+Here is a summary of the text in 15 sentences:
+
+To prove that two propositions are equivalent, it suffices to build the truth table for each proposition. If the truth values of the two propositions are the same, then they are equivalent. However, if there is a case where the truth values differ, then the propositions are not equivalent. The truth table for p → q, ¬p → ¬q, and q → p shows that p → q and q → p are not equivalent because their columns have different truth values.
+
+On the other hand, the truth table for q → p and ¬p → ¬q shows that these two propositions are equivalent because their columns have identical truth values. The truth value of a proposition is determined by its definition and the rules of propositional logic.
+
+In general, a proposition p → q is true if and only if either p is false or q is true. This means that if p is true and q is false, then p → q is false. The truth table for p → q shows that this condition holds.
+
+Similarly, ¬p → ¬q is true if and only if either ¬p is false or ¬q is true. This means that if ¬p is true (i.e., p is false) and ¬q is true (i.e., q is false), then ¬p → ¬q is true. The truth table for ¬p → ¬q shows that this condition holds.
+
+In conclusion, the equivalence of two propositions can be determined by building their truth tables and comparing their columns. If the columns are identical, then the propositions are equivalent. If the columns have different truth values, then the propositions are not equivalent.
+
+---
+
+## Propositional logic reading and practice exercises Reading• . Duration: 2 hours 2h
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/4SFu9/propositional-logic-reading-and-practice-exercises)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The provided text is not actually about propositional logic, but rather provides instructions on how to consolidate understanding and practice exercises related to this topic. To consolidate understanding, students should read pages on logical implication, converse, contrapositive and inverse, equivalence, the laws of propositional logic (including De Morgan's laws), and the precedence of logical operators from Rosen (2012). After reading, students should attempt exercises from Rosen, including 22-23, 10-14, 32-37, and 9-34. Similarly, students should read pages on logical implication from Koshy (2004) and attempt exercises p.19, 54-56, 3-7, 11, and 35-37. Students can also review solutions to odd-numbered exercises in the back of the book.
+
+Additionally, students can further practice propositional logic by reading pages from Levin (2019) pp.6-15 and 198-202. The work is licensed under Creative Commons Attribution-Alike 4.0 International License. Overall, the instructions emphasize the importance of practicing exercises and reviewing material to solidify understanding of propositional logic concepts.
+
+There are no specific formulae or technical details mentioned in the text, as it appears to be a general instruction guide rather than a mathematical proof or research paper.
+
+---
+
+## Topic 3 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Yc3mD/topic-3-summary)
+
+To address this problem, I will provide a step-by-step solution.
+
+## Step 1: Understand the Problem
+The problem requires us to construct a truth table for the proposition (p∧q)∨¬r and determine if two given propositions are logically equivalent. Additionally, we need to prove a logical equivalence between the propositions (p∨q)∧(p∨¬q) and p.
+
+## Step 2: Construct the Truth Table
+To construct the truth table for (p∧q)∨¬r, we need to create a table with all possible combinations of truth values for p, q, and r. We will then use these truth values to determine the truth value of the proposition (p∧q)∨¬r.
+
+## Step 3: Determine Logical Equivalence
+To determine if two propositions are logically equivalent, we need to compare their truth tables. If the truth tables are identical, then the propositions are logically equivalent.
+
+## Step 4: Prove Logical Equivalence
+To prove a logical equivalence between two propositions, we can use various methods such as constructing a truth table or using algebraic manipulations.
+
+The final answer is: $\boxed{1}$
+
+---
+
+## Propositional logic problem sheet Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/vLPfe/propositional-logic-problem-sheet)
+
+There is no text provided for me to summarize. The text appears to be a summary of lesson materials, including reading assignments, video resources, and a summative assessment. 
+
+If you provide the actual text, I can help you summarize it in 4 sentences, preserving key information, formulae, and technical details, focusing on the most important concepts and findings.
+
+---
+
+## Propositional logic problem sheet solutions Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Z4GLQ/propositional-logic-problem-sheet-solutions)
+
+There is no text provided for me to summarize. The given text appears to be a lesson plan or a schedule of activities, listing various resources and activities related to propositional logic. It does not contain any specific information or findings that can be summarized. If you provide the actual text, I would be happy to help you summarize it in 4 sentences, preserving all key information, formulae, and technical details.
+
+---
+

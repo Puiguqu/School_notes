@@ -1,0 +1,22 @@
+# Scope - global and local with var
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/2TcvQ/scope-global-and-local-with-var
+
+This is a transcript of an online video lecture on programming concepts, specifically on scope and global vs local variables.
+
+The lecturer explains that when a variable is defined inside a function, it has a specific scope and can only be accessed within that function. If the function returns, the variable goes out of scope.
+
+The lecturer then introduces the concept of global variables, which are outside of any function and retain their value even after the function has returned.
+
+The lecturer notes that using global variables can lead to poor code organization and makes it harder to understand and maintain code.
+
+Instead, the lecturer suggests creating a local variable within the function, which is accessible only within that function. This approach helps to keep code modular and easier to understand.
+
+The lecturer also introduces the concept of the "var" keyword in JavaScript, which creates a new scope for variables when used inside an immediately invoked function expression (IIFE).
+
+In addition to explaining the concepts of scope and global vs local variables, the lecture touches on other topics such as functions, input and output, variable copying, and debugging techniques.
+
+The video concludes with practice assignments and additional resources to help students reinforce their understanding of these programming concepts.

@@ -1,0 +1,16 @@
+# Logic gates Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/PbOVm/logic-gates)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logic gates are electronic circuits that process input signals based on logical operations. The most basic logic circuits are OR gates, AND gates, and invertors (NOT gates). Logic gates can have single inputs or multiple inputs and produce either a single output or multiple outputs. The truth tables for these basic gates are used to determine their outputs.
+
+The AND gate produces a high output when all inputs are high, while the OR gate produces a high output when at least one input is high. Invertors flip the input signal. The XOR gate produces a high output when the inputs are different, while the NAND and NOR gates produce a low output when both inputs are high.
+
+The XNOR gate is similar to the XOR gate but inverts the output. Logic gates can be combined to create more complex circuits. The AND, OR, XOR, and XNOR operations are associative and commutative, allowing for the extension of their use to multiple inputs.
+
+De Morgan's laws can be represented using logic gates, with the first law being "the complement of the product is equal to the sum of the complements". The second law states "the compliment of the sum is equal to the product of the complements". Logic gates are used to represent these laws in a visual format.
+
+The lecture introduced and explored logic gates, covering basic gates and their truth tables. It also examined additional gates, such as XOR, NAND, NOR, and XNOR, and their relationships to basic gates. Finally, it discussed the representation of De Morgan's laws using logic gates.
+

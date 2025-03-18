@@ -1,0 +1,111 @@
+# Week 19 - CM1030 How Computers Work - How a computer works - Week 1
+
+## Introduction: Collecting your own dataset Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/QOke8/introduction-collecting-your-own-dataset)
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys....
+
+---
+
+## Testing Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/S3e1e/testing)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning models often do not perform as expected or desired, even when they work well. This can make it difficult to determine if a system is working acceptably. A common approach is to evaluate how much of the training data the model classifies correctly. The percentage of correct classifications on the test set is a better indicator of a model's performance in practice. Machine learning works by optimizing the model to perform well on the training data, which can lead to poor performance on new data not seen during training. This is known as overfitting. To mitigate this, it's essential to split the data into a training set and a test set, with a larger training set used for learning. A good starting point is to use a 4:1 ratio of training to testing data. Testing is a crucial part of machine learning, and professionals often use complex methods to evaluate their models. However, simply splitting the data into train and test sets is a good beginning. It's also essential to consider the application context and type of errors that are most critical. For example, in medical tests, it's better to err on the side of caution and recognize a disease incorrectly than miss it altogether. The training set should be large enough to allow the model to learn effectively from the data. Evaluating how well humans perform on a task can also provide valuable insights into machine learning performance. By considering these factors, machine learning practitioners can develop more accurate and reliable models that generalize well to new data.
+
+---
+
+## Problems with machine learning: overfitting Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/IMCwl/problems-with-machine-learning-overfitting)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning data sets often fail to perform well due to the algorithm's tendency to learn irrelevant details from the training set. This can lead to poor performance on testing sets or in real-world applications. To mitigate this issue, machine learning practitioners favor using simple models that still achieve desired results. A good data set is essential for success in machine learning, and collecting data should aim to mimic real-world conditions as closely as possible. Varying factors such as background, lighting, and attire can help improve the quality of the data set.
+
+The goal is to ensure that the model learns what it's supposed to learn and not rely on irrelevant features. If a model doesn't perform as expected after testing, examining the misclassified examples can reveal patterns and areas for improvement. Additional training examples can be added to address issues, such as classes with ambiguous boundaries or insufficient data.
+
+In some cases, revising the problem itself may be necessary, by limiting class sets or controlling conditions. Getting a working machine learning model is not an exact science and requires extensive testing and iteration. Even experts in the field spend significant time refining their models through trial and error. The key to success lies in thoroughly testing the model, analyzing misclassified data, and making targeted improvements to the training set.
+
+Overall, understanding the challenges and limitations of machine learning is crucial for developing effective and reliable algorithms. By acknowledging these issues and taking steps to address them, practitioners can increase their chances of success in this field.
+
+---
+
+## Applications of machine learning Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/dmw6D/applications-of-machine-learning)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning has achieved significant success in real-world applications beyond laboratory settings. One notable example is image recognition technology used in smartphones, such as Apple's Photos app, which relies on face recognition to search for photos. The Google Engine also heavily relies on machine learning to provide good results. Additionally, machine learning has enabled automatic translation software, with early datasets like the Canadian Parliament proceedings being used to train translation models.
+
+Speech recognition technology, such as Amazon Alexa and Apple Siri, is another impressive application of machine learning. This technology uses large amounts of recorded voice data to understand user queries and provide accurate responses. Online shopping also utilizes machine learning for product recommendations, leveraging hundreds of millions of customers' data to make personalized suggestions.
+
+A key characteristic of modern machine learning is the amount of data used; companies with vast amounts of data, such as Amazon, Facebook, and Google, can utilize it most effectively. The growth of internet data is likely to fuel new breakthroughs in machine learning applications. Some potential areas include automatic medical diagnosis from radiology scans and computers that can write news articles.
+
+Self-driving cars also rely on machine learning, particularly image recognition technology to detect objects such as other cars, bicycles, pedestrians, and road signs. This application of machine learning is based on the same techniques used in previous courses. The development of self-driving cars has advanced significantly, with a full trial taking place near London recently.
+
+Overall, machine learning has become an essential tool for various applications, from image recognition to speech recognition, and its potential continues to grow as more data becomes available.
+
+---
+
+## Dangers of machine learning Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/iJUPK/dangers-of-machine-learning)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning is a rapidly advancing technology with immense potential to improve human lives. However, there are also concerns about its dangers, particularly the risk of artificial intelligence surpassing human intelligence and becoming uncontrollable. Nick Bostrom's book "Superintelligence" explores this scenario, which some experts consider likely but unlikely. Creating human-level intelligence and beyond requires significant breakthroughs in various fields.
+
+Machine learning is being used in various applications, including insurance, bank loans, and job placement. However, these systems can be biased if the data they rely on is unrepresentative or features are not properly considered. Biased systems can lead to unfair outcomes, particularly in critical decision-making processes. The lack of transparency in machine learning models makes it difficult to understand why a particular decision was made.
+
+To mitigate bias, ensuring that datasets are representative and diverse is crucial. Machine learning professionals should come from diverse backgrounds to bring different perspectives to the development of these systems. Moreover, involving more people in the data collection process can help identify biases that might be overlooked by individual experts. Learning about machine learning is essential for understanding its potential impact on society.
+
+The author emphasizes the importance of teaching machine learning to ensure that future workers are equipped to address the challenges and opportunities presented by this technology.
+
+---
+
+## Interview: Benefits and danger of Machine Learning Video• . Duration: 18 minutes 18 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/PMJcL/interview-benefits-and-danger-of-machine-learning)
+
+The discussion on the benefits and dangers of machine learning highlights the importance of considering both technical and social aspects when developing and using these systems. The interview with experts in the field emphasizes that machine learning is not a magic solution, but rather a tool that can be used to benefit humanity if designed and used responsibly.
+
+Some key points from the discussion include:
+
+1. **The need for explainable machine learning**: Rebecca's point about the importance of understanding how machine learning algorithms work and why they make certain decisions is crucial in building trust in these systems.
+2. **Human context and social backgrounds**: The discussion highlights the need to consider the diverse perspectives and experiences of individuals interacting with technology, rather than just focusing on technical aspects.
+3. **Societal impact and benefits**: The experts emphasize that machine learning can have a significant impact on society, both positively and negatively, and it is essential to consider these implications when developing and using these systems.
+4. **Responsibility and ethics**: The interview with experts stresses the importance of taking responsibility for the consequences of using machine learning and ensuring that these systems are designed and used in an ethical manner.
+
+Overall, the discussion emphasizes the need for a multidisciplinary approach to understanding machine learning, one that considers both technical and social aspects. By doing so, we can harness the benefits of machine learning while minimizing its risks and ensuring that it is used for the greater good.
+
+---
+
+## Trying different datasets Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/yizmr/trying-different-datasets)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The next exercise will involve practicing machine learning with example datasets. To do this, you need to train and test by loading images from a file instead of a video. You can switch from video to file by clicking the upload button to load files for a particular class. Once loaded, you can click "Load an image to classify" to load a new test image to classify.
+
+Each zip file contains folders "Train" with training data and "Test" with testing data. Each folder has sub-folders for each class. To train and test, you need to load the training data into the training set and then classify each image in the testing set.
+
+The goal is to see how many images can be correctly classified and understand why some work better than others. You will likely find that some examples are more difficult to classify than others. Analyzing these results can help you identify areas for improvement and suggest ways to improve the results.
+
+Unfortunately, there is no further information provided in the text about specific datasets, training methods, or classification algorithms. However, it is clear that the exercise involves practical experience with machine learning and image classification.
+
+---
+
+## Evaluating the four datasets Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/tDXe3/evaluating-the-four-datasets)
+
+Unfortunately, you haven't provided the text to summarize. Please provide the text related to machine learning, and I'll be happy to assist you in summarizing it into 6 sentences while preserving key information, formulae, and technical details.
+
+---
+

@@ -1,0 +1,16 @@
+# Exclude a set of values
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/LNoIn/exclude-a-set-of-values
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The speaker introduces manipulating arrays using for loops as another technique. They use an array called "circles" with 1,000 random integer values between 0 and 100. In their draw function, they instruct the drawing of circles at a random location, ignoring any circle under 10 pixels in size. Circles are drawn in red if bigger than 50 pixels, otherwise blue.
+
+The speaker uses a for loop to iterate over the array, with `var i = 0` and `i < circles.length`. Inside the loop, they use an if statement to check if a circle's size is less than 10. If true, they skip using the `continue` keyword to move on to the next iteration.
+
+They also use another if statement to determine whether to draw in red or blue based on the circle's size. The `continue` keyword allows them to bypass drawing smaller circles.
+
+The speaker draws ellipses at a random location, using the value from the array as the ellipse's size. They only draw ellipses with a width greater than 10 pixels.

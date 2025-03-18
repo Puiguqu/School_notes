@@ -1,0 +1,47 @@
+# Webinar on graphs Video• . Duration: 1 hour 24 minutes 1h 24m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/7ys5z/webinar-on-graphs)
+
+This is a transcript of a lecture on graph theory, specifically on Dijkstra's algorithm for finding the shortest path in weighted graphs. Here's a breakdown of the content:
+
+**Introduction to Graph Theory**
+
+The lecture starts by revisiting what is a graph, its properties, and terminology.
+
+**Degree Sequence of a Graph**
+
+The degree sequence of a graph refers to the number of edges connected to each vertex.
+
+**Adjacency Matrix**
+
+An adjacency matrix is a square matrix used to represent a graph. Each entry in the matrix indicates whether there is an edge between two vertices or not.
+
+**Weighted Graphs**
+
+The lecture then moves on to weighted graphs, where each edge has a weight associated with it.
+
+**Dijkstra's Algorithm**
+
+Dijkstra's algorithm is introduced as a method for finding the shortest path in a weighted graph. The algorithm works by:
+
+1. Initializing the distance to all vertices apart from the starting point to 0 and all others to infinity.
+2. Starting from the starting point, visiting each node and updating the distances and previous nodes if shorter paths are found.
+
+**Example Walkthrough**
+
+The lecture provides an example walkthrough of Dijkstra's algorithm using a sample weighted graph. The example shows how the algorithm is applied to find the shortest path from vertex A to all other vertices in the graph.
+
+**Key Takeaways**
+
+The key takeaways from the lecture are:
+
+* Understanding what a graph, adjacency matrix, and weighted graphs are.
+* Knowing how Dijkstra's algorithm works for finding the shortest path in weighted graphs.
+* Being able to apply Dijkstra's algorithm using an example walkthrough.
+
+**Additional Resources**
+
+The lecture concludes with suggestions for additional resources, including video lectures, webinars, reading materials, and practice problems.
+
+Overall, this transcript provides a comprehensive introduction to graph theory, including the concept of weighted graphs and Dijkstra's algorithm. The example walkthrough helps illustrate how the algorithm works in practice.
+

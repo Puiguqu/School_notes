@@ -1,0 +1,14 @@
+# Answer to question 7 on the problem sheet
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/eteEc/answer-to-question-7-on-the-problem-sheet
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The floor function F(X) is defined as the largest integer less than or equal to X, where f maps real numbers to integers. The graph of F(X) for X in the interval from -3 to 3 is plotted. To find the floor of π, which is between 3 and 4, we get 3; for -2.5, we get -3; and for -1, we get -1. The function F is not injective because each element of its range has more than one pre-image, such as the case where the floor of 2.5 equals both 2 and 2.1. However, it is bijective (onto) since every element of its codomain has a pre-image on the floor function.
+
+Furthermore, the graph shows that F(X) = -3 for multiple values of X. For example, floor(2.5), floor(-0.5), and floor(4) all yield 2. Since there is no real number such that the floor function equals only one value in the codomain (negative integers), the set {n ∈ ℤ: n ≥ -3} has an infinite number of elements and cannot be exactly equal to any integer; therefore, F(X) = n ≠ for all n > -3. The solution is also proven using logical reasoning.
+
+In conclusion, while the floor function maps real numbers into integers (but doesn't always map one-to-one), it does provide every integer in its codomain with pre images: there are values that take the same output on both sides; therefore it can be said to be a bijective function.

@@ -1,0 +1,6 @@
+# Revision Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/MQqMV/revision)
+
+There is no text to summarize in your request. The provided text appears to be a summary or schedule of study activities, but it lacks specific details about the content, formulae, technical details, or key concepts being studied. If you could provide the actual text or context, I would be happy to assist you with summarizing and preserving its important information.
+

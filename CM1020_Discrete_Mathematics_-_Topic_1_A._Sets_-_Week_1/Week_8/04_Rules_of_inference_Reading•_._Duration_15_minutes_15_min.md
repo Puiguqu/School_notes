@@ -1,0 +1,22 @@
+# Rules of inference Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Be0GQ/rules-of-inference)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+1. Rules of inference are fundamental logical principles that outline valid ways to derive conclusions from premises.
+2. They serve as building blocks of logical reasoning, enabling construction of valid arguments and proofs.
+3. Modus Ponens states that if P→Q and P are both true, then Q is true: P→Q P −−−− ∴Q.
+4. Modus Tollens states that if P→Q and ¬Q are both true, then ¬P is true: P→Q ¬Q −−−− ∴¬P.
+5. Hypothetical Syllogism states that if P→Q and Q→R are both true, then P→R is true: P→Q Q→R −−−− ∴P→R.
+6. Disjunctive Syllogism states that if P∨Q and ¬P are both true, then Q is true: P∨Q ¬P −−−− ∴Q.
+7. Conjunction states that if P and Q are both true, then P∧Q is true: P Q −−−− ∴P∧Q.
+8. Simplification states that if P∧Q is true, then P is true: P∧Q −−−− ∴P.
+9. Addition states that if P is true, then P∨Q is true: P −−−− ∴P∨Q.
+10. Existential Instantiation states that if ∃xP(x) is true, then P(c) is true for some particular c: ∃xP(x) −−−− ∴P(c).
+11. Universal Generalisation states that if P(c) is true for any arbitrary c, then ∀xP(x) is true: P(c) for any arbitrary c −−−−−−− −−−∴ ∀xP(x).
+12. Existential Generalisation states that if P(c) is true for some particular c, then ∃xP(x)is true: P(c) for some particular c −−−−−−− −−−∴∃xP(x).
+13. Rules of inference are used to prove statements in practice through examples.
+14. Example 1 demonstrates the use of Modus Ponens to prove Q is true given P∨Q and ¬P.
+15. Example 2 demonstrates the use of Universal Generalisation to prove R(a)∧S(a) is true, given ∀x(P(x)→R(x)) and ∀x(Q(x)→S(x)), with premises P(a) and Q(a).
+

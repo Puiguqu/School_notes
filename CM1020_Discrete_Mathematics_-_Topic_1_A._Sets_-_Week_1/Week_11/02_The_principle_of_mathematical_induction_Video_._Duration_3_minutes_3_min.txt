@@ -1,0 +1,10 @@
+# The principle of mathematical induction
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/kJ0Xr/the-principle-of-mathematical-induction
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Mathematical induction is a principle used to assert that a propositional function P(n) is true for all positive integers n. The formal definition of mathematical induction involves two steps: the basic step (proving P(1) is true) and the inductive step (proving that if P(k) is true, then P(k+1) is also true). The intuition behind induction is that if a property holds true for one value (P(1)), it will hold true for all subsequent values due to the iterative application of the property. This can be formalized using the following rule of inference: P(1) is true, and for all k, P(k) implies P(k+1). Therefore, for all n, P(n) is true. Mathematical induction can be used to prove statements about formulas, inequalities, divisibility, properties of subsets, and their cardinality. It can also be applied to assert that a propositional function P(n) is true for all integers greater than a particular integer. The structure of mathematical induction involves verifying the basic step (P(1) = True) and the inductive step (if P(k) is true, then P(k+1) is also true). In strong induction, the assumption that P(k-1) is true is made before the induction hypothesis. Mathematical induction can be used to prove statements about infinite sequences, allowing for the conclusion that a statement holds true for all positive integers. The principle of mathematical induction has various applications in mathematics and other fields, including algebra, geometry, and computer science. It provides a powerful tool for proving statements about properties of numbers and functions. By using mathematical induction, mathematicians can establish the validity of a wide range of statements with high confidence.

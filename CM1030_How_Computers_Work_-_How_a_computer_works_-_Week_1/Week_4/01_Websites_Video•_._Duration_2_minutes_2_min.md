@@ -1,0 +1,10 @@
+# Websites Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/W7qNq/websites)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Internet refers to the underlying network that connects computers across the world, while the World Wide Web is a way of communicating and sharing information using the Internet. The web consists of pages connected by links, with each webpage being a single document loaded into a browser at a given time. A website is a collection of pages, such as those for Goldsmiths. Modern websites are interactive, utilizing data from multiple sources and constantly updating based on user interaction. They are examples of complex computer science concepts, including web applications. Web applications use various protocols to send emails and participate in video conferencing via applications like Skype. The web is the most popular use of the Internet, but there are other uses, such as email and video conferencing. A webpage is a single document loaded into a browser, while a website is a collection of pages. Websites can be categorized into different types, including webmail applications, social networks, and online courses. The next few videos will guide you through the process of applying your learning on websites. To summarize key concepts, the Internet and World Wide Web are distinct entities, with the internet providing the underlying network and the web being a way to communicate and share information. Modern websites require advanced computer science concepts, including data storage, security, and state management. The structure of a website includes clients (browsers) and servers, which work together to display and update content. Understanding these concepts is crucial for building and maintaining modern websites.
+
+Key formulas or technical details are not mentioned in the text, but it does provide an overview of the fundamental concepts and relationships between different components of the World Wide Web.
+

@@ -1,0 +1,8 @@
+# Operating system architecture
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/TcxFm/operating-system-architecture
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.2. This reading is available in the Online Library via the VLeBooks collection. Lesson 9.0 Introduction Lesson 9.1: What is an operating system? Lesson 9.2 Operating system function: application loading, files systems and memory management Video: Video File systems and memory management . Duration: 6 minutes 6 min Reading: Reading Operating system architecture . Duration: 1 hour 1h Practice Assignment: Practice quiz - Five questions on operating system functions . Duration: 30 minutes 30 min Video: Video Chat App . Duration: 4 minutes 4 min Operating system architecture Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.2. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

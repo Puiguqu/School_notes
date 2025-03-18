@@ -1,0 +1,6 @@
+# Motivating problem Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/p3VSN/motivating-problem)
+
+Motivating problem: How does Coursera work? How does the information get to you? What happens on your computer and what happens in Coursera's computers? Make notes on your thoughts in response to these questions. Lesson 15.0 Introduction Video: Video Introduction to the web . Duration: 1 minute 1 min Reading: Reading Motivating problem . Duration: 15 minutes 15 min Discussion Prompt: Your web page ....
+

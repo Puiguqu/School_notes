@@ -1,0 +1,23 @@
+# Interview: The perils of passwords Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/imWQZ/interview-the-perils-of-passwords)
+
+This appears to be a transcript of a lecture on computer security, specifically the topic of passcodes. The lecturer, Sarah, discusses various approaches to creating secure passcodes and their interactions with human-computer interaction.
+
+Here are some key points from the transcript:
+
+1. The importance of user-friendly passcodes: While security is crucial, it's equally important for passcodes to be easy to use.
+2. Using three-letter English words as passcodes: Sarah discusses an experiment where she created a passcode using three-letter English words, such as "cat," "bee," and "dog." This approach was found to be more user-friendly than traditional alphanumeric codes or numbers alone.
+3. Security benefits of using multiple words: The use of multiple words creates a large search space that is difficult for hackers to guess.
+4. Eye gaze reduction: Using shorter passcodes, like three-letter English words, reduces eye gazes on the screen while copying the code, making it faster and more efficient.
+
+The lecture concludes by emphasizing the importance of understanding security risks and best practices when creating passcodes.
+
+Some potential discussion questions or activities based on this transcript:
+
+* How do you think using multiple words as a passcode would impact your own password creation habits?
+* What are some other approaches to creating secure passcodes that might be more user-friendly?
+* Can you think of any real-world examples where the use of multiple words as a passcode might be beneficial or detrimental?
+
+Overall, this transcript provides a comprehensive overview of the importance of passcodes in computer security and explores innovative approaches to making them more user-friendly while maintaining their security.
+

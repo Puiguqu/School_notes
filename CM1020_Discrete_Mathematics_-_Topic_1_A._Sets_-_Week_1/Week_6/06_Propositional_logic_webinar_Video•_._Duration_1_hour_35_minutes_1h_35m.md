@@ -1,0 +1,30 @@
+# Propositional logic webinar Video• . Duration: 1 hour 35 minutes 1h 35m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/IfyCh/propositional-logic-webinar)
+
+This is a transcript of an online learning session, likely for a computer science or mathematics course. The conversation covers various topics related to propositional logic and Boolean algebra. Here's a summary of the main points:
+
+**Propositional Logic**
+
+* The instructor explains that if there exists a y such that pxy is true for all x in the domain, it does not necessarily mean that pxy is true for all x.
+* A counterexample can be used to demonstrate this.
+
+**Boolean Algebra**
+
+* The instructor demonstrates how to use a K-Map to simplify an expression by selecting only the groups with fixed variables and removing those with changing variables.
+* This process helps to reduce the complexity of the expression.
+
+**Applications**
+
+* The instructor discusses various applications of propositional logic, including midterm assessments.
+
+**Extra Resources**
+
+* Additional reading materials are provided for further learning, including problem sheets, solutions, and videos.
+
+**Summative Assessment**
+
+* A summative assessment is mentioned as a future step in the course.
+
+This transcript appears to be an online lecture or tutorial, where the instructor guides students through various concepts and applications of propositional logic and Boolean algebra.
+

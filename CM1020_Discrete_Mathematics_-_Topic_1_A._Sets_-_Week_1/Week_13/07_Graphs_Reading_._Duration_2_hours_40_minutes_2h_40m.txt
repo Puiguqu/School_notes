@@ -1,0 +1,10 @@
+# Graphs
+Reading•
+. Duration: 2 hours 40 minutes
+2h 40m - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/BaYxT/graphs
+
+Here is a summary of the text in 15 sentences:
+
+The provided extracts from Koshy and Levin textbooks cover key topics in graph theory, including definitions, applications, degree sequences, simple, regular, and complete graphs, and paths. The work is licensed under the Creative Commons Attribution- Alike 4.0 International License. After completing the reading, students are encouraged to attempt exercises that match the corresponding pages and sections in the textbooks. Exercises for Koshy can be found on p.534, while those for Levin are located on pp.243, 242-43, and 277-80. The solutions to these exercises can be found at the back of the books under specific sections. Students are advised to consult the solution section if they need help with their answers. Graph theory is an essential concept in various fields, including computer science and engineering. A graph is defined as a set of vertices connected by edges, where each edge has a label or weight associated with it. The degree sequence of a graph refers to the number of edges incident on each vertex. Simple graphs have no multiple edges between any two vertices, while regular graphs have equal degrees for all vertices. Complete graphs are those where every pair of distinct vertices is connected by an edge. Graphs also include paths and circuits, which are sequences of edges connecting vertices in a specific order. The degree sequence of a graph can be used to determine its properties and behavior. In the context of graph theory, simple, regular, and complete graphs have important applications in computer science, engineering, and other fields.

@@ -1,0 +1,16 @@
+# Data representation
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/n7hfU/data-representation
+
+There is no text provided for me to summarize. The given text appears to be a learning resource list or syllabus for a computer science course, and it does not contain any specific information that needs summarization.
+
+However, I can provide a summary of the learning resource list itself:
+
+The recommended reading for this topic on data representation is from Brookshear and Brylow's "Computer Science: An Overview" book, specifically Chapter 1 on Data Storage. It is essential to read sections 1.4 and 1.5, as well as appendices A and B. Optional readings include sections 1.6 and 1.7. The resources are available in the Online Library via VLeBooks collection.
+
+The learning activities include a discussion prompt, videos, reading assignments, and practice quizzes, which cover topics such as data storage, representation, and optimization of web page load time. These activities aim to provide students with a comprehensive understanding of data representation and its applications in computer science.
+
+If you could provide the actual text that needs summarization, I would be happy to assist you further.

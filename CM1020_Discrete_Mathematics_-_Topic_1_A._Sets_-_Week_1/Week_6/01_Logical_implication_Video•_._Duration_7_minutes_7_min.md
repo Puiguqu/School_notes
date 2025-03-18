@@ -1,0 +1,16 @@
+# Logical implication Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/3z6Lq/logical-implication)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logical implication is a type of conditional statement that can be defined as "if p then q", where p is called the hypothesis and q is called the conclusion or consequence. The truth table for an implication shows that it is true to think that if the hypothesis is false, then any conclusion can be implied whether it's false or true. There are multiple ways to express conditional statements, such as "if p, then q" or "p only if q". Implication can also be expressed in other forms, including "q follows from p", "p is sufficient for q", and "q unless not p".
+
+The converse of an implication is the proposition "q implies p", while the contrapositive is the proposition "not q implies not p". The inverse of an implication is the proposition "not p implies not q". These three propositions are related to the original implication.
+
+Implication can be used to express statements such as "if it's sunny, then John goes to the park" or "n has one digit if n is less than 10". Symbolic logic expressions for these statements include "p implies q", while English translations may vary depending on the context.
+
+Logical implication is an important concept in computer logic and other areas of mathematics. Understanding logical implication can help individuals develop their critical thinking skills and make informed decisions. The concepts of converse, inverse, and contrapositive are also essential to understanding more advanced topics in propositional logic.
+
+In conclusion, logical implication is a fundamental concept in mathematics and computer science that involves conditional statements and their relationships with other propositions. Understanding the truth table, different expressions for implications, and the concepts of converse, inverse, and contrapositive can help individuals develop a strong foundation in propositional logic.
+

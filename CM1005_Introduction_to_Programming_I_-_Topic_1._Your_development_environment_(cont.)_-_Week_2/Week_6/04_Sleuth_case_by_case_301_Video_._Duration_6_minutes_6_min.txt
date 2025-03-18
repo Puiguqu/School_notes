@@ -1,0 +1,16 @@
+# Sleuth case by case: 301
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/FSMZW/sleuth-case-by-case-301
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Crooked Attorney case (Case 303) is a puzzle that requires breaking into various safes to find incriminating documents. The first safe has a cryptic combination lock using variables Cryptic_Store_CombA and Cryptic_Store_CombB. To crack the safe, the player must use events such as mousePressed and mouseReleased to set the variables equal to specific values. The first variable, Cryptic_Store_CombA, is set to 16 when the mouse button is released. By commenting on the code, it's easier to track the variables' changes.
+
+The second variable, Cryptic_Store_CombB, is not yet solved in this example. The player must continue working on cracking the combination lock by using other events such as mouseDragged and keyPress. In the example, mouseDragged sets Cryptic_Store_CombA equal to 5 when the mouse is being dragged.
+
+The player can also use key presses to set Cryptic_Store_CombA equal to 22. The goal is to crack the combination lock using these variables, and the game tracks progress in terms of completion percentage. At the end of this video, the solution has been partially completed, but there's still more work to be done.
+
+The additional page content provides links to related videos, lessons, and reading materials, including a discussion prompt and reflection exercises.

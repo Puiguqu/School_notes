@@ -1,0 +1,22 @@
+# Servers and databases
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/CPTsn/servers-and-databases
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A database is a collection of data stored in a structured way, managed by a piece of software called a database management system. A database model represents how the data is represented and accessed, with the relational model being the most common type. The relational model breaks down an item of data into different elements like title, summary, and instructor.
+
+A relational database stores all its data in tables, where each row is a tuple and each column is an attribute. Each cell contains data, which can be text or numbers, but more complex data like photos are typically stored in files and their file names are stored in the database.
+
+To link multiple tables together, a third table called an "enrollments" table is used, with attributes for learners and courses. The enrollments table uses an "id" attribute to identify entries from one table to another, allowing data to be linked between tables.
+
+Relational databases have functions to access data, including SELECT, PROJECT, and JOIN operations. The SELECT operation retrieves data from a particular tuple, while the PROJECT operation extracts only some of the attributes of a table.
+
+The POWER of relational databases is that they allow you to combine multiple tables to create new combined tables, using the JOIN operation. This enables the creation of useful web pages without having to manually design each one.
+
+Databases also enable ordinary web users to contribute to parts of the website by saving their input to the database. This allows for user-generated content and dynamic web pages that can be updated in real-time.
+
+The modern web is made possible by the power of databases, which provide a way to store and manage large amounts of data in a structured and organized manner.

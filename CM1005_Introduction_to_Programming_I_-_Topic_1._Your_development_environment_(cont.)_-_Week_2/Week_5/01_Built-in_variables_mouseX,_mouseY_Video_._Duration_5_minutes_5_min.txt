@@ -1,0 +1,18 @@
+# Built-in variables: mouseX, mouseY
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/gYFs5/built-in-variables-mousex-mousey
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Variables are placeholders in computer memory that store and retrieve specific values. In p5.js, variables such as mouseX and mouseY represent the x-coordinate and y-coordinate of the mouse cursor on the screen. The mouseX variable provides the x-coordinate across the canvas, while the mouseY variable provides the y-coordinate. Variables can be used to make code more dynamic and interactive.
+
+For example, in a sketch that draws a circle following the mouse cursor, using mouseX and mouseY as variables allows the circle to move smoothly across the screen. Variables are also useful for accessing the width and height of the canvas. In this case, using variables such as width and height allows the size of the circle to change when the canvas is resized.
+
+One important concept in p5.js is the use of arithmetic operators, including division (denoted by the forward slash command). This can be used to create more complex calculations with variables. For example, dividing the width and height by 2 can be used to calculate the center point of the circle.
+
+Variables are not limited to built-in values such as mouseX and mouseY. Users can also define their own variables using code. This allows for more control over the behavior of the sketch and can create more complex interactions between variables.
+
+The use of variables is essential for creating interactive sketches that respond to user input, such as mouse movements or keyboard presses. By understanding how to use variables effectively in p5.js, users can create more dynamic and engaging visualizations.

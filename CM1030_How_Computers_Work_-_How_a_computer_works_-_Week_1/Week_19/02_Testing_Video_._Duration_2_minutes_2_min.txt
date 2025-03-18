@@ -1,0 +1,10 @@
+# Testing
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/S3e1e/testing
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning models often do not perform as expected or desired, even when they work well. This can make it difficult to determine if a system is working acceptably. A common approach is to evaluate how much of the training data the model classifies correctly. The percentage of correct classifications on the test set is a better indicator of a model's performance in practice. Machine learning works by optimizing the model to perform well on the training data, which can lead to poor performance on new data not seen during training. This is known as overfitting. To mitigate this, it's essential to split the data into a training set and a test set, with a larger training set used for learning. A good starting point is to use a 4:1 ratio of training to testing data. Testing is a crucial part of machine learning, and professionals often use complex methods to evaluate their models. However, simply splitting the data into train and test sets is a good beginning. It's also essential to consider the application context and type of errors that are most critical. For example, in medical tests, it's better to err on the side of caution and recognize a disease incorrectly than miss it altogether. The training set should be large enough to allow the model to learn effectively from the data. Evaluating how well humans perform on a task can also provide valuable insights into machine learning performance. By considering these factors, machine learning practitioners can develop more accurate and reliable models that generalize well to new data.

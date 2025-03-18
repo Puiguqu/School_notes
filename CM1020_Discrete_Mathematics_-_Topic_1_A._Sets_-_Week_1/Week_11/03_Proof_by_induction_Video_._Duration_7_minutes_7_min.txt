@@ -1,0 +1,10 @@
+# Proof by induction
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/uZ1u0/proof-by-induction
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Mathematical induction is a method used to prove formulas, inequalities, and divisibility for all positive integers. To prove a propositional function P(n), two steps must be verified: the basis step (P(1) is true) and the inductive step (if P(k) is true, then P(k+1) is true). The formula "sum from 1 to n is equal n multiplied by n plus 1 divided by 2" can be proved using mathematical induction. The basis step states that for n=1, the sum from 1 to 1 is indeed equal 1*(1+1)/2 = 1. The inductive step involves assuming P(k) is true and showing that P(k+1) is also true. For example, if P(n) states "3^n is less than n!", then if P(7) is true (3^7 < 7!), it can be shown that P(8) is also true (3^8 < 8!). Mathematical induction can be used to prove inequalities and divisibility as well. For instance, it can be used to prove "6^n+4 is divisible by 5" for all positive integers n. However, not all statements can be proved using mathematical induction. An incorrect example of an induction proof is given, where the statement "2^i = sum from i=0 to n-1 2^i" is claimed to be true, but it is actually false (e.g., 2^0 ≠ 3). This highlights the importance of verifying both the basis step and inductive step to avoid false conclusions. In general, mathematical induction requires careful attention to both steps to ensure a valid proof.

@@ -1,0 +1,10 @@
+# Binary search trees
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/FTdMQ/binary-search-trees
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A binary search tree (BST) is a type of binary tree that maintains a sorted order of elements. Each node in a BST contains a value, pointer to the left child, and pointer to the right child. The BST property states that the left subtree of a node contains only nodes with values less than the node's value. The right subtree of a node contains only nodes with values greater than the node's value. Both the left and right subtrees must also be binary search trees. To build a binary search tree, one can start with an empty tree and recursively add nodes with values that maintain the BST property. The height of a binary search tree is determined by the maximum depth of the tree, which is calculated using the formula H = log2(n), where n is the number of nodes in the tree. Binary trees are used to search for values on a sorted list by traversing the tree from left to right. This type of search is more efficient than linear searches, especially for large datasets. To find the height of a binary search tree, one can use the formula H = log2(n) or recursively traverse the tree and keep track of the depth. The key concept in building a binary search tree is maintaining the BST property, which ensures that all nodes are sorted. Understanding how to build and traverse binary search trees is essential for searching large datasets efficiently.

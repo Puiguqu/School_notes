@@ -1,0 +1,8 @@
+# Hack it: Rocket
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/supplement/Ob49J/hack-it-rocket
+
+When you have completed the rocket example from the lecture, attempt the following extensions. Change the look of the rocket to your own design. Alter the rocket to move more quickly or slowly. Change the rocket object to use vectors instead of the x, y and thrust values. Add sounds to the rocket - watch the game project sound video later in the topic first. Add a fire method to the rocket object which will shoot a bullet out of the top of the rocket (tricky). Lesson 9.1 Methods Video: Video Methods: Objects which can do things . Duration: 8 minutes 8 min Video: Video This: making objects refer to themselves . Duration: 10 minutes 10 min Practice Assignment: Methods . Duration: 15 minutes 15 min Reading: Reading Hack it: Rocket . Duration: 1 hour 1h Discussion Prompt: Rocket . Duration: 20 minutes 20 min Lesson 9.2 p5 vector - static and non-static methods Hack it: Rocket When you have completed the rocket example from the lecture, attempt the following extensions. Change the look of the rocket to your own design. Alter the rocket to move more quickly or slowly. Change the rocket object to use vectors instead of the x, y and thrust values. Add sounds to the rocket - watch the game project sound video later in the topic first. Add a fire method to the rocket object which will shoot a bullet out of the top of the rocket (tricky). Mark as completed Dislike Report an issue

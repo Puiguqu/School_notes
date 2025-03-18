@@ -1,0 +1,10 @@
+# RGB (red, green and blue) colours
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/sf1qh/rgb-red-green-and-blue-colours
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript discusses how to create 16,777,216 colors using the RGB (red, green, and blue) color model. The background command sets the background color by clearing any existing images and setting the new color. The argument can range from 0 (black) to 255 (white), with values between 0 and 255 producing different shades of gray. This is because computers store values in memory using bits, which can only be one of two values: 0 or 1. Eight bits are used to represent a single byte, allowing for 256 possible values. However, in computing, we start from 0, so the range is adjusted accordingly. The RGB color model has three arguments: red, green, and blue. By setting these values independently, different colors can be created. For example, setting all three to 255 produces white, while a combination of 0s and 1s creates various shades of gray. Mixing colors by combining shades is also possible, allowing for the creation of new colors. The RGB color space has 16,777,216 possible combinations, which can be calculated using the formula: 256^3. This allows for an incredibly wide range of colors to be created and manipulated. Online tools such as rapidtables.com can aid in finding perfect shades or creating custom colors. Experimentation with different combinations is key to developing one's own unique color palette.

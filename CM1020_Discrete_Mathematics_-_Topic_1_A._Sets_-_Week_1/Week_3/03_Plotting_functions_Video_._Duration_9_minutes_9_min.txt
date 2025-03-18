@@ -1,0 +1,26 @@
+# Plotting functions
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/LJ9wV/plotting-functions
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A function f is called linear if it is of the form f(x) = ax + b, where a and b are real numbers. The gradient of the function f, a, determines whether the function is increasing or decreasing. If a is positive, the function is increasing, and if a is negative, the function is decreasing.
+
+A quadratic function is of the form f(x) = ax^2 + bx + c, where a, b, and c are real numbers and a ≠ 0. The graph of a quadratic function is a parabola that opens upwards or downwards depending on the value of a.
+
+An exponential function is of the form f(x) = b^x, where b > 0 and b ≠ 1. The variable b is called the base of the function.
+
+The laws of exponential functions include:
+
+* b^x * b^y = b^(x+y)
+* b^x / b^y = b^(x-y)
+* (b^x) * y = b^((x)y)
+* a * b^x = (a*b)^x
+* a/b^x = a/(b^x)
+
+If the base b is greater than 1, the function is increasing and represents growth. If the base b is less than 1, the function is decreasing and represents decay.
+
+The domain of an exponential function is the set of all real numbers. The range of an exponential function depends on the value of the base and can be the set of all positive real numbers or other intervals.

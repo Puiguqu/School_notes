@@ -1,0 +1,10 @@
+# Conditional statements using !=
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/bwkwj/conditional-statements-using
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript discusses the use of conditional statements in programming, focusing on the "not equal to" operator (!=). The operator is used to signify the concept of not or !=. In a simple example, the code checks if a variable named "name" does not equal "Simon", and prints a message to the console indicating that the name is not Simon. When the name is changed to "Simone", the code correctly outputs "Hey you're not Simon". The video then moves on to a more complex scenario: a bomb defuser game, where the player must press a hidden key (secretKey) to defuse the bomb. The secretKey is initialized to the letter "F" and is checked against the pressed key in the game's key-pressed command. If the keys match, the game state changes, but if not, the player loses the game. To add pressure to the game, a countdown timer is introduced, which counts down from 300 seconds before the bomb blows up. The countdown is displayed on the screen and decrements by one each second. However, when the countdown reaches zero, the game does not end; instead, it displays "Game over" and loses. To fix this issue, an additional conditional statement is added to change the game state to 2 (game lost) when the countdown reaches zero. The video concludes with a discussion of possible improvements to the game, such as randomizing the secretKey or introducing lives.

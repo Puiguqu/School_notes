@@ -1,0 +1,10 @@
+# Data storage
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/oRXWW/data-storage
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The main memory of a computer stores information that is currently being used, whereas mass storage holds data permanently. Main memory uses microchips called Random Access Memory (RAM) to store information, while mass storage is achieved through various technologies such as hard disks, optical drives, and flash storage. Microchips handle bits, which can represent true or false values. The simplest operation on a bit is flipping it, making it its opposite. More complex operations combine two bits, such as AND, which produces an output of one if both inputs are one, but zero otherwise. A flip-flop circuit can store information by receiving a one on its top input, resulting in a one output that remains even when the input stops. This circuit is the basis of main memory chips. Mass storage devices vary widely, including hard disks, optical drives, and flash storage. SSDs (solid-state drives) are slower than RAM but much faster than traditional hard disks. Optical drives are slow to write to, making them suitable for permanent archiving rather than frequently changing documents. The tradeoff between storage capacity, power usage, and speed is significant in computer design. Modern computers often employ multiple types of storage, such as SSDs and hard disks, to balance these competing factors. Cloud storage offers massive hard disk space and guaranteed data retention, but at the cost of slower access times. Additionally, some main memory systems include a cache, which stores frequently accessed data for rapid retrieval.

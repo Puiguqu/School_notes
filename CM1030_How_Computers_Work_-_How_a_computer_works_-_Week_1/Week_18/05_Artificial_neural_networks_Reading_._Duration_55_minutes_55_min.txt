@@ -1,0 +1,10 @@
+# Artificial neural networks
+Reading•
+. Duration: 55 minutes
+55 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/tc3YE/artificial-neural-networks
+
+There is no text provided for me to summarize. The text appears to be a table of contents or a list of materials from a computer science textbook, specifically Chapter 11 Artificial Intelligence and Section 11.5 on artificial neural networks. It includes various videos, reading materials, practice assignments, and discussion prompts.
+
+If you could provide the actual text, I would be happy to summarize it for you in 15 sentences, focusing on the most important concepts and findings, as well as key information, formulae, and technical details.

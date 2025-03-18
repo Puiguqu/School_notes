@@ -1,0 +1,103 @@
+# Week 17 - CM1005 Introduction to Programming I - Topic 1. Your development environment (cont.) - Week 2
+
+## Methods: Objects which can do things Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/32PCx/methods-objects-which-can-do-things)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video discusses building upon knowledge of functions and objects to bring them together. Objects can contain properties (attributes) and methods (functions). Methods are used to perform actions on an object, such as drawing itself to the screen or updating values. The syntax for defining a method is similar to that of a function, with the name specified before the colon, followed by the function keyword, open and closed parentheses, and the body enclosed in braces or curly brackets. Methods can return values just like functions. To call a method, use the same data operator as properties, with the object name followed by the method name and parentheses to set arguments. Accessing an object's properties from within a method can be tricky, and is left for future videos. A coding example is provided, where a "kitty" object is created with methods for drawing itself and saying "meow". The "meow" method takes no parameters but simply outputs the text "meow" to the screen at a specified position. To make the meow function actually invoke an action, it is called from within the draw function. A comment is added to call the meow function with a position parameter. The video explains that methods can be made more flexible by adding parameters, which allows for different positions of the text to be displayed. Parameters are set using the syntax xPos and yPos, followed by their values. This makes it possible to call the method multiple times with different positions. Methods can also be used in a similar way to functions, being able to run the same function repeatedly without repetition.
+
+---
+
+## This: making objects refer to themselves Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/z6HHH/this-making-objects-refer-to-themselves)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+In JavaScript, objects can have functions called "methods" that allow them to perform actions on themselves. The `this` keyword refers to the current object being executed within a method. When creating an object with properties and functions, the `this` keyword points to the object when its code is running. This allows the object to access its own properties.
+
+In the example provided, an object named "rocket" was created with methods for drawing and moving it on the canvas. The original draw function contained multiple references to "rocket", which were replaced with "this" using Find and Replace in the editor. This ensured that the correct object reference was used within the method.
+
+The moveRocket function was also modified to use "this" instead of referencing the rocket object directly. This allowed the code to work as intended, reducing complexity in the draw function.
+
+By using methods, objects can encapsulate their own behavior and maintain a clean and organized codebase. The example demonstrated how methods can be used to reduce repetition and improve readability.
+
+---
+
+## Exploring a p5 object: Vector Video• . Duration: 18 minutes 18 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/M747L/exploring-a-p5-object-vector)
+
+Here is a summary of the content:
+
+**Lesson Summary**
+
+This lesson introduces the `p5` object, specifically the `vector` class. The instructor explains various methods that can be used with this class, including:
+
+1. Creating and manipulating vectors
+2. Using static and non-static methods for vector manipulation
+3. Randomly generating points to create a pattern
+
+**Key Concepts**
+
+* Understanding the difference between static and non-static methods in `p5`
+* Learning how to use various methods to manipulate vectors, such as:
+	+ `x`, `y` properties to access individual components of a vector
+	+ `length()` method to calculate the magnitude of a vector
+	+ `normalize()` method to normalize a vector to length 1
+	+ Multiplying and dividing vectors by numbers to scale them
+
+**Example Code**
+
+The instructor provides example code snippets that demonstrate how to use these methods, including:
+
+* Creating and manipulating vectors using static methods
+* Randomly generating points to create a pattern
+* Using the `normalize()` method to normalize vectors
+* Scaling vectors using multiplication and division
+
+**Graded Assignment**
+
+A graded assignment is mentioned, which requires students to practice using the `p5` vector class with various methods.
+
+**Next Steps**
+
+The instructor mentions that in the next lesson, they will explore how to use these methods to create a more complex project, such as creating a Tamagotchi.
+
+---
+
+## Bringing it all together: Tamagotchi Video• . Duration: 29 minutes 29 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uE1tV/bringing-it-all-together-tamagotchi)
+
+This is a transcript of a programming lesson where the instructor is teaching the basics of the p5.js library, specifically the `vector` class. The lesson covers various aspects of vectors, including their representation, operations, and usage in graphics programming.
+
+Here's a breakdown of the key points covered in the lesson:
+
+1. **Vector Representation**: The instructor explains that vectors are represented as arrays of numbers, typically in the form `[x, y]`.
+2. **Vector Operations**: The lesson covers basic vector operations such as addition, subtraction, scalar multiplication, and normalization.
+3. **p5 Vector Class**: The instructor introduces the `vector` class from the p5.js library, which provides a convenient way to work with vectors in graphics programming.
+4. **Static and Non-Static Methods**: The lesson explains the difference between static and non-static methods in the context of the `vector` class. Static methods can be called without creating an instance of the class, while non-static methods require an instance of the class to be created.
+5. **p5 Vector - Static and Non-Static Methods**: The instructor demonstrates various static and non-static methods provided by the `vector` class, including those for scaling, rotating, and shifting vectors.
+6. **Mouse Coordinates**: The lesson covers how to access mouse coordinates in p5.js using the `mouseX`, `mouseY`, `pmouseX`, and `pmouseY` variables.
+7. **Normalized Vector**: The instructor explains how to create a normalized vector by dividing the original vector by its magnitude.
+8. **Rotating Coordinates**: The lesson demonstrates how to rotate coordinates around the origin using the `rotate()` method.
+
+The lesson concludes with a practical exercise where students are encouraged to adapt the tamagotchi example provided in the transcript to add more features and reactions, such as responding to keyboard input or mouse movements.
+
+Overall, this lesson provides a comprehensive introduction to vectors and their usage in graphics programming using p5.js. It covers essential concepts, demonstrates various techniques, and encourages experimentation and creativity.
+
+---
+
+## Hack it: Rocket Reading• . Duration: 1 hour 1h
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/supplement/Ob49J/hack-it-rocket)
+
+I don't see any text provided for me to summarize. The text appears to be a table of contents or a list of assignments for a programming lesson, but it doesn't contain any specific information or concepts to summarize.
+
+If you provide the text you'd like me to summarize, I'll be happy to assist you in condensing it into 14 sentences while preserving key information, formulae, and technical details.
+
+---
+

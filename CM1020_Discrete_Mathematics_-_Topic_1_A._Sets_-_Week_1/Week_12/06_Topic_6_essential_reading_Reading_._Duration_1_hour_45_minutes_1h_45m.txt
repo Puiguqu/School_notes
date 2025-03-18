@@ -1,0 +1,12 @@
+# Topic 6 essential reading
+Reading•
+. Duration: 1 hour 45 minutes
+1h 45m - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/L9zA7/topic-6-essential-reading
+
+Here is a summary of the text in 15 sentences:
+
+The textbook by Koshy covers topics such as recursion, recursively defined functions, sets, and algorithms. The definition of recursion is discussed, which states that a function f is recursive if f(f(x)) = f(x) for all x in its domain. Recursively defined functions are functions that can be defined using other instances of the same function. There are three types of recursively defined functions: direct recursion, indirect recursion, and mixed recursion. The textbook also covers recursively defined sets, which are sets that can be defined using recursive formulas. These sets have a similar structure to the set of natural numbers, with each element being represented as a pair of smaller elements. Recursively defined algorithms are used to solve problems efficiently by breaking them down into smaller sub-problems. Examples of such algorithms include merge sort and binary search. The textbook also covers recurrence relations, which are equations that define how a sequence evolves over time. Solving recurrence relations is essential for understanding many algorithmic techniques, including dynamic programming and greedy algorithms. Recurrence relations can be solved using various methods, including substitution and iteration. In addition to these topics, the textbook provides essential reading material on recursion. The Koshy textbook includes video lessons, practice assignments, and peer-reviewed assignments to help students learn about recursion. Students are encouraged to review their peers' work and provide feedback, which helps foster a sense of community among learners. Overall, the Koshy textbook aims to provide comprehensive coverage of recursion and its applications in computer science.
+
+Note that there is limited technical information or formulae provided in the original text, and most of it appears to be general information about a textbook's structure and content.

@@ -1,0 +1,17 @@
+# Topic 2 essential reading
+Reading•
+. Duration: 3 hours 5 minutes
+3h 5m - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/MUWjO/topic-2-essential-reading
+
+Unfortunately, I couldn't find any text to summarize in 15 sentences. The provided text appears to be a set of instructions and recommendations for reading and completing exercises related to discrete mathematics.
+
+However, I can provide a general outline of the topics mentioned:
+
+* The definition of a function is discussed.
+* Key concepts include domain, co-domain, range, injection (one-to-one), surjection (onto), and plotting functions.
+* There are recommended readings and resources, including Koshy's book and Levin's Discrete Mathematics: An Open Introduction.
+* Exercises are provided for students to practice these concepts further.
+
+If you could provide the actual text you would like me to summarize, I'd be happy to help.

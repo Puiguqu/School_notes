@@ -1,0 +1,14 @@
+# Rooted and binary search trees Reading• . Duration: 2 hours 10 minutes 2h 10m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/joTQH/rooted-and-binary-search-trees)
+
+Here is a summary of the text in 15 sentences:
+
+The provided text discusses two topics: rooted trees and binary search trees, which will be covered from Koshy's pp.646-52 and pp.664-68 and Levin's pp.251-53. The work is licensed under Creative Commons Attribution- Alike 4.0 International License. After completing the reading, students are encouraged to attempt exercises from Koshy's textbook, specifically exercises 5, 6, 15, and 16. These exercises have solutions provided at the back of the book for reference. Students can check their answers by consulting the Solutions to odd-numbered exercises section. If incorrect, they should review the question and try again. The topics covered include rooted trees and binary search trees.
+
+The video "Rooted Trees" is available for 8 minutes, while the reading "Rooted Trees" takes approximately 15 minutes. A practice assignment for rooted trees also exists, lasting around 20 minutes. Similarly, a video titled "Binary Search Trees" can be found for 14 minutes, accompanied by a 15-minute reading on the same topic. Another practice assignment for binary search trees is available, also lasting around 20 minutes.
+
+Additionally, there is a 2-hour and 10-minute reading that covers both rooted and binary search trees. There is also a discussion prompt titled "Binary and Linear Searches," which lasts 10 minutes. A peer-graded assignment on trees is scheduled to last an hour, and students are encouraged to review their peers' work as part of the Trees Assignment. Finally, a summary of topic 8 can be found for 15 minutes.
+
+There are no key findings or formulae mentioned in this text, but rather instructions for further reading, exercises, and assignments related to rooted trees and binary search trees.
+

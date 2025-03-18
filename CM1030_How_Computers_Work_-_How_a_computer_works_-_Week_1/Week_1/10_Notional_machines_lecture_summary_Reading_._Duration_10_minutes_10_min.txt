@@ -1,0 +1,10 @@
+# Notional machines – lecture summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/MTL0X/notional-machines-lecture-summary
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Abstraction is a fundamental concept in computer science that simplifies complex systems by representing them in a more understandable form. Abstraction helps users understand and control complex software without needing to know all the underlying complexities. A notional machine is a simplified model that captures the essential actions of a complex software system. The video player notional machine involves a timeline, playhead, and actions such as playing, pausing, and stopping. The timeline represents the sequence of images in the video, while the playhead indicates the current position. Playing automatically moves the playhead forward to display the next image, and pausing and stopping halt the movement of the playhead. Users can click on the timeline to move to a different position in the video using the notional machine. Notional machines are used to simplify and understand software actions, and to apply the concept to various software applications. Throughout the course, students will learn to build notional machines for different software applications. The key skills and concepts related to notional machines include identifying and creating abstractions, using notional machines to simplify software actions, and applying notional machines to various software applications. Understanding representational abstraction and action abstraction is also important. Students should be familiar with how videos can be abstracted as sequences of images and the functions of a video player as a notional machine. Notional machines play a crucial role in simplifying the use and understanding of software, making it easier for users to interact with complex systems. By using notional machines, users can better understand and control complex software without needing to know all the underlying complexities.

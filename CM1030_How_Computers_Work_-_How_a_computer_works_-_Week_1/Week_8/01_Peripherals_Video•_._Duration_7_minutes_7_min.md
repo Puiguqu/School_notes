@@ -1,0 +1,22 @@
+# Peripherals Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/kkWAg/peripherals)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. A computer consists of a CPU (central processing unit) and memory, but also includes various peripheral devices such as screens, keyboards, hard disks, sound cards, and more.
+2. These devices are connected to the CPU and memory via the bus, which is like a central highway for data transfer.
+3. The bus allows for communication between the CPU, memory, and peripheral devices, including displays, keyboards, and graphics cards.
+4. Each peripheral device has its own controller, which decodes data received from the bus and sends it to the device.
+5. Graphics processing units (GPUs) are highly specialized controllers that handle parallel programming and produce high-speed graphics.
+6. Universal Serial Bus (USB) is a type of controller used for connecting devices such as hard disks, external sound cards, and keyboards to computers.
+7. USB supports multiple devices and allows for independent data transfer between the CPU and devices.
+8. Bluetooth is another protocol used for wireless communication between peripheral devices and computers.
+9. Devices communicate with the CPU using load instructions, which send signals along the bus to the controller and then to the device.
+10. Some machine languages have specialized commands for accessing peripheral devices, while others use memory-mapped IO (input/output) to simplify communication.
+11. Memory-mapped IO allows peripherals to be treated as part of the main memory, reducing the number of instructions needed to interact with them.
+12. The speed of memory and devices is critical in determining the overall performance of a computer, as accessing peripheral devices can be many times slower than memory or registers.
+13. Software can often execute other instructions while waiting for data from memory, but may be blocked if that data is not available.
+14. Direct memory access (DMA) enables faster communication between devices and memory by allowing them to communicate directly without CPU intervention.
+15. Understanding the interaction between peripheral devices and the CPU is crucial in optimizing computer performance and software functionality.
+

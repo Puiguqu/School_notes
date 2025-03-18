@@ -1,0 +1,14 @@
+# Web servers Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/u24dk/web-servers)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The web and HTTP protocol are used to send information between clients and servers. Clients send requests to servers, which then send web pages back using HTML file formats. Early days of the web involved simple URLs that referred to actual files in a file system. However, most websites now use more complex methods to create web pages.
+
+Web pages are often created on the fly by combining a template with data from a database. A template provides the basic layout and formatting, while detailed information is stored in a database. Databases are designed for storing numbers and small amounts of data, so large amounts like videos are typically stored as separate files called assets.
+
+In a database-driven website, a script (e.g., PHP) creates an HTML file by fetching data from a database and combining it with an HTML template. The URL refers to the script and its arguments, which control how the script works. Modern websites use routing engines to interpret URLs and generate web pages, rather than relying on file systems.
+
+The router uses the URL to determine which part of the server program to use, and combines data from a database and a templating engine to create the web page. The templating engine is often separate from the router. This approach allows for greater flexibility and scalability in modern websites.
+

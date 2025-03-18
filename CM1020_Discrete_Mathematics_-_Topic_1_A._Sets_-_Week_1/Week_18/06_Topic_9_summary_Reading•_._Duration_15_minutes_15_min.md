@@ -1,0 +1,32 @@
+# Topic 9 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/zkCnI/topic-9-summary)
+
+Here are the 15 key points from the text:
+
+1. A relation R from a set A to a set B is a subset of the Cartesian product A×B, denoted by R⊆A×B.
+2. If (a,b)∈R, we say that a is related to b by R.
+3. Reflexive: Every element is related to itself, ∀a∈A,(a,a)∈R.
+4. Symmetric: If an element is related to another, then the second element is related to the first, ∀a,b∈A,(a,b)∈R⟹(b,a)∈R.
+5. Anti-symmetric: If an element is related to another and vice versa, then they must be the same element, ∀a,b∈A,(a,b)∈R and (b,a)∈R⟹a=b.
+6. Transitive: If an element is related to a second element, which is related to a third element, then the first element is related to the third, ∀a,b,c∈A,(a,b)∈R and (b,c)∈R⟹(a,c)∈R.
+7. An adjacency matrix can define a relation, and its properties (reflexivity, symmetry, and anti-symmetry) can be easily deduced from it.
+8. An equivalence relation is a relation that is reflexive, symmetric, and transitive, which partitions the set into equivalence classes.
+9. A partial order is a relation that is reflexive, anti-symmetric, and transitive, providing a way to order elements in a set.
+10. A total order is a partial order where every pair of elements is comparable, also called a linear order.
+11. The equivalence class of an element a∈A, denoted by [a], is the set of all elements x∈A such that (a,x)∈R.
+12. Equivalence classes partition the set A into disjoint subsets where every element in A belongs to exactly one equivalence class.
+13. Understanding relations and their properties provides a powerful tool for modeling and analyzing complex systems in mathematics and computer science.
+14. Regularly assessing understanding and capabilities against learning outcomes is crucial as you progress through the course.
+15. The exercise aims to help reflect on the learning journey, identify areas for improvement, and develop a plan for improvement.
+
+Additionally, here are some potential action plans based on the text:
+
+* Review course materials and textbooks
+* Seek out additional resources that could aid understanding
+* Practice additional problems or exercises
+* Seek help from instructor or peers
+* Schedule additional study sessions on the topic
+
+Please note that these points and action plans are based on a general interpretation of the text, and may not be specific to your individual needs or learning style.
+

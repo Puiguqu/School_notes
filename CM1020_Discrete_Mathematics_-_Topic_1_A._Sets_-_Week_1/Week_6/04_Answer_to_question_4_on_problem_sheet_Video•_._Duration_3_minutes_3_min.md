@@ -1,0 +1,8 @@
+# Answer to question 4 on problem sheet Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/hYRy9/answer-to-question-4-on-problem-sheet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The first exercise on propositional logic involves using the listing method to specify the truth set corresponding to given statements. The propositions relate to the letter "l" in the word "software". P states that l is a vowel, while q states that l comes after the letter K in the alphabet. To find the truth set of not q, we identify the letters in software that come before K, which are a, e, and f. For p or q, we need to find the letters that are both in the set of vowels (p) and those that come after K (q). The intersection of these sets is {a, e}. To find the truth set of p or q, we combine the set of vowels with those that come after K, resulting in {s, f, t, w, r, o}.
+

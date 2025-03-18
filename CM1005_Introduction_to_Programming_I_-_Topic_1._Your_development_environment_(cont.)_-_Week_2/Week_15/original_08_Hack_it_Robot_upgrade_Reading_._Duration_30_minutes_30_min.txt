@@ -1,0 +1,8 @@
+# Hack it: Robot upgrade
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/supplement/17bAq/hack-it-robot-upgrade
+
+The robots have had an upgrade and the new firmware is making one of them go rogue. Find the deranged robot to save humanity! the starter sketch here: robotUpgrade ZIP File Lesson 8.1 Two dimensional arrays Lesson 8.2 Nesting objects and arrays Lesson 8.3 patterns Video: Video Find the matching value . Duration: 4 minutes 4 min Video: Video Find the highest / lowest value . Duration: 7 minutes 7 min Video: Video Exclude a set of values . Duration: 5 minutes 5 min Reading: Reading Hack it: Robot upgrade . Duration: 30 minutes 30 min Practice Assignment: patterns . Duration: 12 minutes 12 min Hack it: Robot upgrade The robots have had an upgrade and the new firmware is making one of them go rogue. Find the deranged robot to save humanity! the starter sketch here: robotUpgrade ZIP File Mark as completed Dislike Report an issue

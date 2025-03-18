@@ -1,0 +1,29 @@
+# Being creative with nested iteration
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/TH3Xr/being-creative-with-nested-iteration
+
+This is a transcript of a coding lesson, specifically on using nested iteration to create visual effects in p5.js. Here's a breakdown of the main points covered:
+
+1. Introduction to nested iteration:
+	* The concept of iterating over multiple variables simultaneously.
+	* Example of using nested loops to draw a grid of ellipses.
+2. Creating a distance field:
+	* Using the `dist()` function to calculate distances from the mouse position.
+	* Scaling the distance to control the size of the ellipses.
+3. Movable center and dynamic ellipses:
+	* Using `mouseX` and `mouseY` to create a movable center point.
+	* Changing the `r` value based on the distance to create dynamic ellipses.
+4. Striped columns using conditional statements:
+	* Using the modulo operator (`%`) to check if an index is even or odd.
+	* Alternating between white and purple colors for each column.
+
+The lesson concludes with some practice assignments, including:
+
+1. Nested iteration to draw grids
+2. Being creative with nested iteration (e.g., making Warhol soup)
+3. Debugging techniques
+
+These exercises are designed to help learners apply the concepts learned in this lesson to create more complex and visually appealing effects using p5.js.

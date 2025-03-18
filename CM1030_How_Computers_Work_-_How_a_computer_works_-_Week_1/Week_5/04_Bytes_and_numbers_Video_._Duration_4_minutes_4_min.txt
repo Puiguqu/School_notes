@@ -1,0 +1,16 @@
+# Bytes and numbers
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/a5WKD/bytes-and-numbers
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Bits are simple representations that can be used for various types of data. To represent more complex data, bits must be combined together. In modern computers, memory is addressed in larger chunks, such as bytes, which are eight bits. Bytes are the standard measure of memory and are often too small to access directly on a computer. The smallest element that can be accessed is typically 64 bits or 8 bytes. This may seem inefficient, but accessing data in 64-bit chunks speeds up the computer.
+
+A byte can represent 256 different patterns of ones and zeros called bit patterns, each representing something different, such as letters, numbers, or colors. Numbers are useful because they can be used to represent other types of data. In the decimal system, each place value is multiplied by a power of 10, while in binary, each place value is multiplied by a power of 2. Binary notation can be used to represent decimal numbers as a pattern of bits.
+
+A single byte can only represent up to 255 numbers, but most computers use 32-bit or 64-bit representations, which can handle much larger numbers, including positive and negative values, as well as fractions. Numbers are the fundamental building block of everything on a computer and will be used as the basis for understanding other data representations.
+
+The decimal system is based on powers of 10, while binary is based on powers of 2, but both use place value to represent numbers. This concept can also be applied to other types of data, such as letters, images, and sounds. Understanding how bits, bytes, and numbers work together is essential for grasping computer science concepts.

@@ -1,0 +1,8 @@
+# Artificial intelligence
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/5WVgy/artificial-intelligence
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 11 Artificial Intelligence. Sections 11.1 and 11.2. This reading is available in the Online Library via the VLeBooks collection. Lesson 17.0 Introduction Lesson 17.1 Artificial intelligence Video: Video Artificial intelligence . Duration: 4 minutes 4 min Reading: Reading Artificial intelligence . Duration: 1 hour 1h Discussion Prompt: What makes AI hard? . Duration: 30 minutes 30 min Practice Assignment: Practice quiz – Alpha Go . Duration: 30 minutes 30 min Lesson 17.2 Machine learning Artificial intelligence Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 11 Artificial Intelligence. Sections 11.1 and 11.2. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

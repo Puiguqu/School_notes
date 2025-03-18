@@ -1,0 +1,10 @@
+# Running your first program with Brackets
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/HOii9/running-your-first-program-with-brackets
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The instructor is going to show how to run the first sketch using Brackets IO editor. The first step is to download the example sketch from the Coursera platform. The sketch is extracted from a zip file, and the folder opens when double-clicked on a Mac or by doing something different on other platforms. In the folder, there are three files: index.html, p5.min.js, and sketch.js. The first two files are used to run the sketch, but only the third file needs to be edited during the time spent on intro to programming. To edit the sketch.js file, a specific code editor called Brackets IO is needed to download and install. Once downloaded, the editor should be opened and the folder containing all three files should be opened instead of individual files. There are two ways to open the folder: dragging it into the left-hand bar or using the "open folder" option in the file menu. The instructor shows how to access and edit the sketch.js file within Brackets IO, including a live preview feature that allows changes to be seen immediately without saving. However, there are potential pitfalls, such as editing the wrong file or opening it incorrectly, which can cause errors. If changes are made incorrectly in the live preview window, the change may not appear unless the correct file is edited first. Another error occurs if there's a mistake in the code, resulting in a blank white screen. The instructor notes that dealing with such issues will be covered in later videos.

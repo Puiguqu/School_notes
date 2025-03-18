@@ -1,0 +1,10 @@
+# Introduction: Computers that see
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/dCRRc/introduction-computers-that-see
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Recognizing people's faces is an effortless task for humans, but programming a computer to do so proves challenging due to its complexity. Creating a set of rules based on physical characteristics, such as hair color or eye color, would be too broad and could describe many individuals. The task requires identifying unique features, like the shape of a person's nose or chin. However, breaking down this task into smaller details is difficult for computers, making it hard to program them for face recognition. Face recognition is an example of artificial intelligence (AI), which involves tasks that are easily performed by humans but challenging for machines. Machine learning is a technique that can solve many AI problems, including those related to vision and pattern recognition. This technique is revolutionizing what computers can do in terms of recognizing and processing visual data. The goal of machine learning is to enable computers to learn from experience and improve their performance over time. In the context of face recognition, machine learning algorithms can be trained on large datasets of images to identify patterns and features that distinguish one person from another. These algorithms can then be applied to new, unseen images to recognize individual faces. The power of machine learning lies in its ability to handle complex tasks with large amounts of data. However, it also requires significant computational resources and expertise to implement effectively. Despite the challenges, researchers are actively working on developing more advanced machine learning techniques for face recognition and other AI applications.

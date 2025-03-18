@@ -1,0 +1,8 @@
+# Data compression
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/8nRf0/data-compression
+
+The Essential reading for this topic on data compression is from: Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global edition). Chapter 1 Data storage. At this point you should read section 1.9. This reading is available in the Online Library via the VLeBooks collection. Lesson 6.1 Compression Discussion Prompt: Data compression . Duration: 10 minutes 10 min Video: Video Compression ....

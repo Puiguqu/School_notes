@@ -1,0 +1,14 @@
+# Sound
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/ReJnf/sound
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+The P5 sound library allows developers to add sound effects to their game projects. To use this feature, one must download a new template that includes a preload function. The preload function loads assets, such as sounds, into memory before the setup function is called. In the preload function, you can set the format of the sound files (e.g., MP3 or WAV) and load specific sound files using the `loadSound` function. A variable named `jumpSound` is used to store the loaded sound file, which is a .wav file named "jump.wav". The sound file is linked to its location in the computer's directory structure, with relative paths preferred for simplicity.
+
+In the setup function, you can set additional variables and functions before the game loop begins. In this case, we have already set up the `setup` function in the provided template. Next, a key press event handler is required; however, since our character doesn't jump yet, we'll modify it to trigger when either the "W" or space keys are pressed. The sound file's volume can be controlled using the `volume` function.
+
+A typical setup function includes variables such as lives and a call to start the game. After copying the template code into the new sketch file and modifying as necessary, the resulting code is capable of playing sound effects at specific points during gameplay. In this example, pressing either the "W" or space keys lifts the character and plays the jump sound effect.

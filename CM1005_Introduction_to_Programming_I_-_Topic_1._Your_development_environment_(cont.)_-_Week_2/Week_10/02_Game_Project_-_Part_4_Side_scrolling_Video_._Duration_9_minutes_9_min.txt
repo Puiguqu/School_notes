@@ -1,0 +1,31 @@
+# Game Project - Part 4: Side scrolling
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/D5Ze9/game-project-part-4-side-scrolling
+
+Here is a summary of the video transcript:
+
+**Game Project Part 4: Side Scrolling**
+
+The instructor introduces Game Project Part 4, focusing on creating a side-scrolling background for a game. The project involves using code to render trees in a window and move them along as part of a scrolling background.
+
+**Step-by-Step Process**
+
+1. The instructor creates a new window using the Visual Studio Code editor and imports necessary modules.
+2. They find and replace instances of `tree pose x` with `trees x` within their code, ensuring proper variable usage.
+3. A second tree rendering is added to the code, but it requires an additional declaration and initialization.
+4. The instructor saves the file and observes how the trees render correctly in their new window.
+
+**Game Project Overview**
+
+The instructor showcases the completed side-scrolling game project, highlighting the character's movement and interaction with the environment. This demonstrates the final result of Game Project Part 4.
+
+**Key Takeaways**
+
+* Using code to create a scrolling background involves finding and replacing variable names.
+* Proper usage of variables is essential for successful rendering.
+* Adding trees in an off-screen space allows for efficient rendering of multiple trees without affecting performance.
+
+The instructor encourages students to review the provided reading material, watch the video, and prepare for their midterm submission.

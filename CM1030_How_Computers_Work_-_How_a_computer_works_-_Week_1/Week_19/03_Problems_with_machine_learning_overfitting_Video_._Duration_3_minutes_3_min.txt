@@ -1,0 +1,16 @@
+# Problems with machine learning: overfitting
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/IMCwl/problems-with-machine-learning-overfitting
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning data sets often fail to perform well due to the algorithm's tendency to learn irrelevant details from the training set. This can lead to poor performance on testing sets or in real-world applications. To mitigate this issue, machine learning practitioners favor using simple models that still achieve desired results. A good data set is essential for success in machine learning, and collecting data should aim to mimic real-world conditions as closely as possible. Varying factors such as background, lighting, and attire can help improve the quality of the data set.
+
+The goal is to ensure that the model learns what it's supposed to learn and not rely on irrelevant features. If a model doesn't perform as expected after testing, examining the misclassified examples can reveal patterns and areas for improvement. Additional training examples can be added to address issues, such as classes with ambiguous boundaries or insufficient data.
+
+In some cases, revising the problem itself may be necessary, by limiting class sets or controlling conditions. Getting a working machine learning model is not an exact science and requires extensive testing and iteration. Even experts in the field spend significant time refining their models through trial and error. The key to success lies in thoroughly testing the model, analyzing misclassified data, and making targeted improvements to the training set.
+
+Overall, understanding the challenges and limitations of machine learning is crucial for developing effective and reliable algorithms. By acknowledging these issues and taking steps to address them, practitioners can increase their chances of success in this field.

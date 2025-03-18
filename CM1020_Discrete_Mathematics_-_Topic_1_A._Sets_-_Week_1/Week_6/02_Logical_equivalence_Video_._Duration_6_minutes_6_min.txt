@@ -1,0 +1,18 @@
+# Logical equivalence
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/Mn7lM/logical-equivalence
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logical equivalence is a concept in propositional logic where two propositions have the same truth value. The biconditional statement "p if and only if q" is true when p and q have the same truth values and false otherwise. Two propositions are logically equivalent if they always have the same truth value. The symbol "=" is not a logical operator, but rather denotes that two propositions are equivalent. To determine equivalence, one can use truth tables to check whether the two propositions have the same truth values.
+
+For example, the proposition "p implies q" is equivalent to "non-p or q". However, the converse and inverse of an implication are different from the original implication. The precedence order of compound propositions includes implication and equivalence, which updates the table of precedence for logical operators.
+
+Implication and equivalence can be used to simplify complex compound propositions. The biconditional statement "p if and only if q" is a way to express the idea that two propositions are equivalent. Logical equivalence can be proven using truth tables by checking whether the two propositions have the same truth values in all possible cases.
+
+The concept of logical equivalence is important in computer logic, where it can be used to simplify code and improve efficiency. The precedence order of compound propositions ensures that operators are applied in the correct order when simplifying complex expressions.
+
+In summary, logical equivalence is a fundamental concept in propositional logic that allows us to determine whether two propositions have the same truth value. It can be proven using truth tables and has important applications in computer logic.

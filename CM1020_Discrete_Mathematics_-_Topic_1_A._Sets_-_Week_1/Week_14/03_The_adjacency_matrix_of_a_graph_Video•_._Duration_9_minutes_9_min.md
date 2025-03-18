@@ -1,0 +1,18 @@
+# The adjacency matrix of a graph Video• . Duration: 9 minutes 9 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/GbYw5/the-adjacency-matrix-of-a-graph)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A graph can be represented by a set of vertices and a set of edges or connections. The adjacency list represents a graph as a list of vertices and their corresponding individual adjacent vertices. For example, the adjacency list of the graph shown below is as follows: vertex A has B and C as its adjacent vertices, vertex B has A, C, and D as its adjacent vertices, and so on.
+
+A graph can also be represented by its corresponding adjacency matrix. The adjacency matrix represents a graph as a set of entries m_ij, where i and j represent the vertices of the graph. The values in the leading diagonal are loops, which means there is an edge between a vertex and itself.
+
+The number of edges in an undirected graph is equal to half the sum of all the elements m_ij of its corresponding adjacency matrix. This can be expressed as m = (1/2) * ∑m_ij. The sum of all the elements of the adjacency matrix is equal to the sum of the degree sequences of the graph.
+
+For example, given the graph with vertices v_1, v_2, and v_3, the degree sequence is [4, 5, 3], and the sum of the degree sequences is 12. The corresponding adjacency matrix has a sum of elements equal to 12, which matches the number of edges in the graph (6).
+
+The adjacency matrix of a directed graph represents the direction of each edge. In this case, each entry m_ij represents the number of paths from vertex i to vertex j.
+
+For instance, in the given directed graph, the first row of M^2 shows that there is one path of length 2 from v_1 to v_1, four paths of length 2 from v_1 to v_1, and so on for other vertices.
+

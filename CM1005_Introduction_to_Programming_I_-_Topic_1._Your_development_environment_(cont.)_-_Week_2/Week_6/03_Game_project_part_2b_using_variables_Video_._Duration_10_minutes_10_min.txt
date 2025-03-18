@@ -1,0 +1,36 @@
+# Game project part 2b: using variables
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/jx2tB/game-project-part-2b-using-variables
+
+To make the most of this transcript, I'll provide a summary and some suggested next steps.
+
+**Summary**
+
+The transcript appears to be a video tutorial or lesson on creating a simple game using Visual Studio Code and the JavaScript programming language. The instructor guides the learner through creating a game project, including:
+
+1. Creating a new project and setting up the basic structure.
+2. Adding a game character using variables.
+3. Drawing a tree using variables.
+4. Identifying mistakes and correcting them.
+
+**Suggested Next Steps**
+
+Based on the transcript, here are some suggested next steps for the learner:
+
+1. **Complete Game Project 2**: Follow the instructions to complete Game Project 2a and 2b. These projects seem to build upon each other and require the learner to implement various game features.
+2. **Practice with Code Philosophy**: The instructor mentions code philosophy in Lesson 3.4, which might be a good opportunity for the learner to learn about clean coding practices, debugging techniques, and optimizing code.
+3. **Review Reading Assignments**: Make sure to review the reading assignments, including "Reading Code" and any other relevant materials.
+4. **Familiarize yourself with Visual Studio Code**: Take some time to explore Visual Studio Code's features and settings. This will help you become more comfortable using the IDE.
+
+**Additional Resources**
+
+If you're interested in learning more about game development or programming, here are some additional resources:
+
+* Codecademy's Game Development Course
+* Udemy's JavaScript and Game Development Course
+* GitHub's Game Development Tutorials
+
+Remember to practice regularly and don't hesitate to ask for help if you get stuck!

@@ -1,0 +1,16 @@
+# Machine learning exercise
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/jZsig/machine-learning-exercise
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The next exercise will use an interactive plugin for machine learning, which may not work on all browsers based on the Chromium engine. It's recommended to try it with Firefox or use the plugin on GitHub if issues persist. The plugin displays a live video from the webcam, allowing users to select "Video" to see their feed. Alternatively, images can be loaded from a file using "From File." The goal is to classify images into two or three classes based on user input.
+
+The algorithm will learn to distinguish between the user's presence and background (blank space). The user creates the first class by typing in the text box provided. Videos are then added to the "me" class, with each addition creating a training example displayed as thumbnail images next to the "Add to Class" button.
+
+Background images are added to class 2, allowing users to test the algorithm's classification capabilities. The plugin switches from training mode to classification mode when selecting "Classify." It then runs the current video image through the trained classifier, predicting the class it belongs to based on its output. This process has been tested with an image of the user in the frame, correctly identifying as "Me," and without the user in the frame, correctly identifying as "Background."
+
+Users are encouraged to train three different classes and assess the machine learning algorithm's ability to distinguish between them. The exercise concludes with a discussion prompt on how users found machine learning.

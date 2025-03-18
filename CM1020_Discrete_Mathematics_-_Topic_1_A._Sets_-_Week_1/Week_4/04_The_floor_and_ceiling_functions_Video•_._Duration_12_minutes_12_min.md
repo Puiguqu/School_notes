@@ -1,0 +1,18 @@
+# The floor and ceiling functions Video• . Duration: 12 minutes 12 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/NQl51/the-floor-and-ceiling-functions)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The floor function is defined as a function from R to Z that takes a real number x as input and gives output the largest integer less than or equal to x. The ceiling function is also defined as a function from R to Z that takes a real number x as input and gives output the smallest integer greater than or equal to x.
+
+The floor function rounds down a real number, while the ceiling function rounds up a real number.
+
+For example, given an integer n, if n is less than or equal to x, and x is strictly less than n plus 1, then the floor of x is equal to n. Similarly, for negative numbers, if x is between two integers, the floor of x will be the lower integer.
+
+The ceiling function rounds up a real number to the nearest integer. For example, given an integer n, if n is greater than or equal to x, and x is strictly less than n minus 1, then the ceiling of x is equal to n.
+
+To prove that the floor function satisfies certain properties, let m be an integer and assume that the floor of x is equal to m. Adding n to both sides of this inequality yields the result that the floor of x plus n equals the floor of x on its own plus n.
+
+The ceiling function also has similar properties.
+

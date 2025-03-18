@@ -1,0 +1,10 @@
+# Binomial coefficients and identities
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/07yNc/binomial-coefficients-and-identities
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The binomial theorem states that given two variables x and y and a non-negative integer n, then x + y^n = ∑[k=0 to k=n] n choose k times x^k times y^(n-k). This formula allows us to expand binomials of any degree. The coefficient of x^8 times y^7 in the expansion of 3x - y^15 is obtained when k = 8, and is equal to 15 choose 8 times 3^8 times (-1)^7 divided by 8! times 7!. The binomial theorem can also be used to show that 2^n = ∑[k=0 to k=n] n choose k. This result follows from applying the binomial theorem with x = 1 and y = 1. Another application of the binomial theorem is to find the number of subsets of a set with n elements, which is equal to 2^n. Pascal's identity states that given two integers n and k with n ≥ k ≥ 1, then n choose k + n choose k-1 is equal to (n+1) choose k. This identity can be used to simplify complicated binomial coefficients. Pascal's triangle is a number triangle with numbers arranged in staggered rows such that the element at row r and column n is the binomial coefficient of n choose r. The result of adding two adjacent binomial coefficients in this triangle is the binomial coefficient in the next row between these two coefficients.

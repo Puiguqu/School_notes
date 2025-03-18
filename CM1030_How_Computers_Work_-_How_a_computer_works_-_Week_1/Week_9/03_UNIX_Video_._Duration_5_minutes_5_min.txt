@@ -1,0 +1,16 @@
+# UNIX
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/AJ8f1/unix
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Unix was developed in the 1970s at AT&T Corporation as an operating system for their computers. It became extremely popular due to its high-level language syntax (C) allowing it to run on different computer architectures. Unix was initially used in professional settings and was the standard for many computer scientists. However, AT&T attempted to restrict users from modifying the code, leading Richard Stallman to create his own version of Unix that would be open-source and free to access. This led to the "free software movement" and the "open-source-software Movement." Stallman primarily worked on utilities, creating free versions of most standard Unix utilities.
+
+Linus Torvalds implemented a free software kernel for Unix called Linux, naming it after himself. The Linux kernel became incredibly popular and is now almost the standard version of Unix. The Linux kernel is used in various systems, including web servers, mobile phones, and operating systems like Android. Linux-based systems use a permissive license, allowing commercial integration with other software.
+
+In contrast, BSD (Berkeley Software Distribution) has a more permissive license, making it compatible with commercial software. Steve Jobs used BSD as the basis for his NeXTSTEP operating system, which later became OS X when he rejoined Apple. The Mac operating system still uses a Unix-like kernel called BSD, and iPhone devices also run on BSD. Android phones use the Linux kernel.
+
+Unix is considered a fundamental inspiration for modern operating systems, including Windows. However, Microsoft developed its own kernel, user interface, and Windows is independent of Unix. Unix's legacy can be seen in various systems, and learning about it is essential for computer scientists.

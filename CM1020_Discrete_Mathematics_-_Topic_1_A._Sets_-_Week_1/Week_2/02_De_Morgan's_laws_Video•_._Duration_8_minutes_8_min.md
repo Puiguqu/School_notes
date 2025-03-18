@@ -1,0 +1,34 @@
+# De Morgan's laws Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/MNAbf/de-morgans-laws)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Augustus De Morgan was a British mathematician who formulated De Morgan's laws, which describe the relationship between mathematical statements and their opposites.
+
+De Morgan's laws are applicable to sets, propositions, and logic gates, and their structure is always the same.
+
+The first law states that the complement of the union of two sets is equal to the intersection of their complements: A ∩ B' = (A' ∪ B')'.
+
+The second law states that the complement of the intersection of two sets is equal to the union of their complements: A ∪ B' = (A' ∩ B').
+
+De Morgan's laws can be proven using membership tables and Venn diagrams. The first law can be demonstrated by building a membership table showing that the columns corresponding to the complement of the union and the intersection of the complements are identical.
+
+The second law can also be proven using a membership table, as the column corresponding to the complement of the intersection is equal to the column corresponding to the union of the complements.
+
+Venn diagrams can be used to visualize De Morgan's laws. The diagram for A ∪ B shows all elements in A or B, while the diagram for A ∩ B' shows all elements not in both A and B.
+
+By examining these Venn diagrams, it is clear that (A' ∪ B') = A ∩ B', demonstrating the first law.
+
+Similarly, the diagram for A ∩ B shows all common elements between A and B, while the diagram for A' ∪ B' shows all elements not in both A and B.
+
+This demonstrates that A ∪ B' = (A' ∩ B'), showing the second law.
+
+De Morgan's laws have practical applications, as illustrated by an example involving subsets of a universal set.
+
+In this example, the complement of A ∪ B is equal to the complement of A intersection the complement of B.
+
+This demonstrates that De Morgan's laws are valid and applicable in real-world scenarios.
+
+Overall, De Morgan's laws provide a fundamental understanding of set relationships and have numerous applications in mathematics and other fields.
+

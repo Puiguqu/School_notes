@@ -1,0 +1,10 @@
+# Sleuth case by case 801
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/Pxwo1/sleuth-case-by-case-801
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The instructor presents a video case study where they need to identify members of the Order of the Knuth at an opera performance. The audience is divided into rows and seats, with each member wearing a distinctive item of clothing - in this case, a bowtie. The instructor uses a 2D array to represent the audience, with each person having x and y coordinates and a "located" property set to false. Their goal is to set these properties to true for members of the Order. They copy comments from the original code into their own, adding or commenting out sections as needed. The instructor then iterates through the stalls array, setting the "located" property to true for each member they identify. For the first level, this involves assigning each person's coordinates without using a loop, but subsequent levels require the use of a FOR loop. Sometimes, nested loops are necessary. The instructor uses the correct row and seat numbers, counting from zero instead of one, to identify the members of the Order. They start with four members wearing bowties in the fifth and eighth rows, respectively. Additional members are identified using similar logic. The instructor uploads their code to Sleuth and submits a solution, earning approximately 40% of points for correctly identifying five out of nine members of the Order.

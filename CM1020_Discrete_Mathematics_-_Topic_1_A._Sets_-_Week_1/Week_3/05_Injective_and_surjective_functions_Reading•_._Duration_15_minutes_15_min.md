@@ -1,0 +1,21 @@
+# Injective and surjective functions Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/t9YrS/injective-and-surjective-functions)
+
+## Step 1: Understanding Injective Functions
+An injective function, also known as a one-to-one function, is a function where every element of the codomain is mapped to at most one element from the domain.
+
+## Step 2: Understanding Surjective Functions
+A surjective function, also known as an onto function, is a function where every element in the codomain is mapped by at least one element from the domain.
+
+## Step 3: Understanding Bijective Functions
+A bijective function is both injective and surjective. This means that every element in the codomain is mapped to exactly one element from the domain.
+
+## Step 4: Analyzing Examples of Injective, Surjective, and Bijective Functions
+We can analyze examples such as f(1)=a, f(2)=b, f(3)=c for injectivity, g(1)=a, g(2)=a, g(3)=b for non-injectivity, h(1)=a, h(2)=b, h(3)=c for surjectivity, and i(1)=a, i(2)=b, i(3)=c for bijectivity.
+
+## Step 5: Drawing Conclusions
+From the analysis of examples, we can conclude that injective functions map each element in the domain to at most one element in the codomain, surjective functions map each element in the codomain to at least one element in the domain, and bijective functions are both injective and surjective.
+
+The final answer is: $\boxed{1}$
+

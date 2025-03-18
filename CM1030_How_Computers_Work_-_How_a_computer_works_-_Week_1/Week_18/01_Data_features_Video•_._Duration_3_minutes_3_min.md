@@ -1,0 +1,16 @@
+# Data features Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/2ZDTx/data-features)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+A machine-learning model takes an input and produces an output, which can be represented as numbers. This means that any data that can be represented as numbers can be applied to machine learning. Images are typically represented on a computer as a grid of pixels, each with numerical values representing colors. However, small changes in lighting or image positioning can significantly impact pixel values, making this a poor representation for machine learning.
+
+To overcome this, we need a better way to represent images as numbers. In machine learning, low-level features like pixels are often used, but these don't carry much meaningful information on their own. Higher-level features, such as nose length, weight, or first color, may be more suitable for machine learning tasks.
+
+The choice of features can significantly impact the performance of a machine learning model. Certain features may not be enough to distinguish between two classes, while others may provide sufficient information. Feature extraction is an important part of the machine learning process, which involves calculating more meaningful features from raw data.
+
+This can involve writing custom code to extract features, but advances in machine learning have made it possible to learn features themselves. Specialized features, such as edge detection or face recognition, are often used in specific applications. The goal of feature extraction is to improve the performance of a machine learning model by providing more meaningful and relevant data.
+
+Overall, understanding how to represent images as numbers and choose meaningful features is crucial for effective machine learning. By extracting higher-level features from raw pixel data, we can improve the accuracy and efficiency of our models.
+

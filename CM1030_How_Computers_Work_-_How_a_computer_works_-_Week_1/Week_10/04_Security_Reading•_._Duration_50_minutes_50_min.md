@@ -1,0 +1,8 @@
+# Security Reading• . Duration: 50 minutes 50 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/7yx3l/security)
+
+There is no text to summarize. The provided text appears to be a course description and learning plan for a computer science class, specifically focusing on operating systems security. It outlines a lesson plan with readings, videos, practice assignments, and assessments related to malware protection.
+
+If you could provide the actual text from Chapter 3.5 of "Computer Science: An Overview" by Brookshear and Brylow, I would be happy to assist you in summarizing it into 13 sentences while preserving key information, formulae, and technical details.
+

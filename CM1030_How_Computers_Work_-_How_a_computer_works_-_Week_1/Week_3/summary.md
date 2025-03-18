@@ -1,0 +1,143 @@
+# Week 3 - CM1030 How Computers Work - How a computer works - Week 1
+
+## What is a website? Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/31ArX/what-is-a-website)
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys....
+
+---
+
+## Networks Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/uHit5/networks)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Computers, tablets, and phones are connected to each other through networks, allowing communication between devices.
+2. A network consists of multiple computers connected together using links, resembling a fishing net when diagrammed and zoomed out.
+3. Traditional networking used copper cables, but optic fibers and wireless networks have become increasingly popular alternatives.
+4. Wireless networks use electromagnetic waves to transmit signals without physical connection, whereas wired networks rely on copper wires or fiber optics.
+5. Bandwidth is the amount of data that can be sent over a network within a given time; high bandwidth networks are more desirable for data-intensive applications like streaming video.
+6. Wi-Fi networks often have high bandwidth, but mobile networks may have lower bandwidth due to varying signal strengths and obstacles.
+7. Reliability is another crucial factor in network performance; wired networks are generally more reliable than wireless ones due to their physical connection.
+8. Wireless networks can be unreliable due to factors like signal strength, walls, and interference from other users.
+9. Networks require a physical infrastructure to link computers, either through wires or electromagnetic waves.
+10. However, mere connectivity is not enough; computers must also understand the messages being sent to them using a standardized language called protocols.
+11. Protocols follow strict rules that define how communication occurs, when messages are sent, and what they contain.
+12. If two computers use different protocols, they cannot understand each other, leading to failed communication.
+13. There are various types of networks that differ in physical medium and protocols used, such as Wi-Fi, cellular networks, and wired networks.
+14. These differences can create obstacles for inter-network communication, where devices on one network may not be compatible with those on another.
+15. The Internet emerges as a solution to these compatibility issues by providing a standardized framework for communication between different types of networks.
+
+---
+
+## The internet Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/9mqJ2/the-internet)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Internet is a network of networks that connects different networks and allows computers to communicate with each other across these networks. A router connects two networks, forwarding messages from one network to another and translating between network protocols. When sending a message over the Internet, it doesn't just go directly from the sender to the receiver; instead, it's forwarded by lots of routers across many networks before reaching its destination.
+
+Most users connect to local networks in their homes, workplaces, or public spaces like libraries or internet cafes. These networks don't generally communicate directly with each other but are connected via Internet Service Providers (ISPs). ISPs can span whole countries and are often connected to international ISPs called the Internet Backbone.
+
+To send a message over the Internet, a protocol is needed. The Internet Protocol (IP) is used by all computers and routers to communicate, even if they're on different networks or in different countries. This protocol works like an envelope, where the sender's IP address and other information are included to ensure delivery.
+
+When sending an email, the message is put into a virtual envelope called a Packet that includes the recipient's IP address and other information. The packet is then sent to the router, which forwards it to the ISP's protocol packet. This process repeats until the message reaches its destination.
+
+In reality, messages traveling over the Internet often use multiple protocols wrapped up in each other. For example, email uses the send-mail protocol, web pages use the HTTP protocol, and TCP ensures reliable transmission of data. Each of these protocols is wrapped in an IP packet that might be further wrapped in a WiFi packet when sent over WiFi.
+
+Every computer on the Internet has an IP address, which allows routers to know how to reach any other computer on the Internet. However, IP addresses are not user-friendly for humans; instead, URLs (Uniform Resource Locators) make it easy for humans to remember and type in internet addresses. The domain name part of a URL is converted to an IP address using the Domain Name Service (DNS).
+
+When sending emails or accessing websites, messages often travel through email servers or web servers before reaching their destinations. These servers handle large volumes of data and use specific protocols to ensure delivery. Overall, the Internet works because all computers and routers understand the same protocol, allowing them to communicate across different networks and countries.
+
+---
+
+## Security threats Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/6omW4/security-threats)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Computers and software enable many things that were not possible a few years ago, allowing global communication and collaboration. However, malicious intent can lead to various threats to online security, impacting privacy, personal data, and bank accounts. A virus is a piece of software that copies itself from one computer to another without the user's knowledge, causing damage such as slowing down the computer or stealing data. Spyware records user activity and sends information to third parties, including keyboard input for password recovery. Trojan horses masquerade as legitimate software but perform harmful actions in secret.
+
+Another security threat is hacking, where individuals gain unauthorized access to systems to steal data. Hackers often target web servers or Internet servers with valuable data. Phishing attacks involve tricking users into revealing sensitive information like passwords or bank details through fake emails or websites.
+
+To mitigate these risks, it's essential to take measures to guard against security threats. In future videos, lessons on networks, security, encryption, and security defenses will be discussed. The importance of strong passwords and password management will also be explored. A practice assignment is available for students to assess their understanding of security concepts.
+
+Overall, online security is crucial to protect personal data, prevent financial loss, and ensure safe communication. By understanding the risks and taking proactive measures, individuals can safeguard their digital presence.
+
+---
+
+## Encryption Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/Rgo20/encryption)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Internet relies on routers to forward messages between computers, but this also means that any message sent can be read by computers controlled by others. To ensure private online communications, encryption is used to send messages in codes that can only be read by the intended recipient. Encryption involves converting text into an unreadable form using a mathematical algorithm and a key. Julius Caesar's code, which replaced each letter with a letter three places along the alphabet, demonstrates this principle. Modern internet communications use more sophisticated algorithms, but they still convert text into an unreadable format.
+
+Encryption algorithms are designed to be difficult to crack, even with the world's fastest computers. However, encryption is not foolproof, and there are ways to get around it. Phishing attacks can trick users into using the wrong key, while malicious routers can intercept packets sent to a bank or other secure website. To defend against these attacks, certificates are used to validate public keys and ensure they come from trustworthy sources.
+
+Every public key has a certificate that demonstrates its validity, which is issued by trusted security companies. Web browsers can check whether a certificate is valid before using it for encryption. If the certificate is not valid, the browser will display a warning message, indicating that the encryption may be readable by criminals. Encryption is the basis of many defenses against security threats, and understanding how it works is crucial to staying safe online.
+
+---
+
+## Security defences Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/yGz8w/security-defences)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Protecting against security threats requires understanding various types of threats. Viruses and malicious software are combated using antivirus software that scans for known viruses. Firewalls can prevent unauthorized access to computers, while access control restricts who can access a computer or server by requiring login credentials such as usernames and passwords.
+
+Access controls enable different levels of access to ensure privacy and security. For example, a learner may be able to view videos and take quizzes but not edit grades. System administrators and software developers have the ability to make changes to the system, while teachers can only edit course materials and see grades.
+
+Passwords are crucial for access control, but they can be easily guessed by hackers using automated programs. To mitigate this risk, websites often require users to choose unusual passwords with a mix of uppercase and lowercase letters and numbers. However, good passwords can be hard to remember, leading people to use easily guessable variations.
+
+To address this issue, two-factor authentication has become increasingly popular, requiring both a password and a code sent via mobile phone to access a site. This approach is more secure than relying solely on passwords. Understanding computer security is essential to avoid taking unnecessary risks online.
+
+---
+
+## Interview: The perils of passwords Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/imWQZ/interview-the-perils-of-passwords)
+
+This appears to be a transcript of a lecture on computer security, specifically the topic of passcodes. The lecturer, Sarah, discusses various approaches to creating secure passcodes and their interactions with human-computer interaction.
+
+Here are some key points from the transcript:
+
+1. The importance of user-friendly passcodes: While security is crucial, it's equally important for passcodes to be easy to use.
+2. Using three-letter English words as passcodes: Sarah discusses an experiment where she created a passcode using three-letter English words, such as "cat," "bee," and "dog." This approach was found to be more user-friendly than traditional alphanumeric codes or numbers alone.
+3. Security benefits of using multiple words: The use of multiple words creates a large search space that is difficult for hackers to guess.
+4. Eye gaze reduction: Using shorter passcodes, like three-letter English words, reduces eye gazes on the screen while copying the code, making it faster and more efficient.
+
+The lecture concludes by emphasizing the importance of understanding security risks and best practices when creating passcodes.
+
+Some potential discussion questions or activities based on this transcript:
+
+* How do you think using multiple words as a passcode would impact your own password creation habits?
+* What are some other approaches to creating secure passcodes that might be more user-friendly?
+* Can you think of any real-world examples where the use of multiple words as a passcode might be beneficial or detrimental?
+
+Overall, this transcript provides a comprehensive overview of the importance of passcodes in computer security and explores innovative approaches to making them more user-friendly while maintaining their security.
+
+---
+
+## Interview with a system administrator at Goldsmiths Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/Br2JD/interview-with-a-system-administrator-at-goldsmiths)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Department of Computing at Goldsmiths University has set up a lab with Apple iMacs running Mac OS and Windows. The machines are used by students, staff, and visitors, but only those with a Goldsmiths user account can log in. To restrict access to the computers, Goldsmiths uses centrally managed user accounts, which ensures that only authorized individuals can use the labs. The department also advises students to save their work on network storage drives, which are secured and accessible only to individual users.
+
+To prevent data corruption between users, each student has a personal network storage drive mounted when they log in. If a student saves files locally on one of the machines, only that user's data is accessible to others who load onto the same machine. The department also has an administrator account for managing software and settings remotely using remote tools.
+
+The administrator account allows the IT team to manage the computers, software, and settings, which is essential for maintaining security and control over the lab machines. The use of centrally managed user accounts and local admin accounts ensures that only authorized individuals can access and modify data on the machines. By taking these measures, the department minimizes the risk of unauthorized access or data corruption.
+
+The lab machines are used by students for teaching purposes, but also for short courses and other activities within Goldsmiths. The IT team at Goldsmiths is responsible for managing the security of the computers and ensuring that only authorized individuals have access to them.
+
+---
+

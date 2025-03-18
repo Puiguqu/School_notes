@@ -1,0 +1,27 @@
+# Topic 2 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Hv0v8/topic-2-summary)
+
+Here are the 15 key points about functions that preserve all essential information:
+
+1. Functions in programming are modular units of code designed to perform specific tasks, allowing for code reuse and organization.
+2. A function f maps one element from a set A to a unique element in a set B, denoted as f:A→B.
+3. Understanding the domain, co-domain, and range of a function is crucial.
+4. Injective (one-to-one) functions map each element in the domain to a distinct element in the co-domain.
+5. Surjective (onto) functions map every element in the co-domain to at least one element in the domain.
+6. Bijective functions are both injective and surjective, meaning they establish a one-to-one correspondence between the domain and co-domain.
+7. The inverse function of a bijective function can be found by swapping the domain and co-domain.
+8. To plot a graph of a function f, one needs to understand if the function is injective, surjective, or bijective.
+9. If a function f is a bijection, its graph will be symmetric with respect to the straight line y=x.
+10. Function composition is denoted as (f∘g)=f(g()), where f and g are functions in the same domain and range.
+
+Some specific functions that need understanding include:
+
+11. Linear functions: f(x) = mx + b, where m and b are constants.
+12. Quadratic functions: f(x) = ax^2 + bx + c, where a, b, and c are constants.
+13. Ceiling function: ⌈x⌉ = the smallest integer greater than or equal to x.
+14. Floor function: ⌊x⌋ = the largest integer less than or equal to x.
+15. Exponential function: f(x) = e^x, where e is a base constant.
+
+The learning exercise aims to help students reflect on their understanding of functions and identify areas for improvement by rating their knowledge against the learning outcomes and creating an action plan to address any gaps in their understanding.
+

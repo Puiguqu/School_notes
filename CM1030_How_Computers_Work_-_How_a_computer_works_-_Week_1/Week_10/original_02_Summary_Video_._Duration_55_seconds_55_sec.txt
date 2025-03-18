@@ -1,0 +1,8 @@
+# Summary
+Video•
+. Duration: 55 seconds
+55 sec
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/2iPMA/summary
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key Well done. In this topic, you've got underneath the hood of your operating system, whether you're a Windows user, a Mac user, or a Linux user. Whether it's Android or iOS, you've understood a little bit more about what your operating system is really doing behind the scenes. You now know about operating system utilities, the graphical user interface, and it's called the kernel. You've also found out how the kernel manages device drivers, the file system, and also a memory. This is an understanding that will be really important to you as a computer scientist. Because whatever software you're developing or working with, will ultimately be interacting with that very operating system. So, all its functions are absolutely fundamental to all of computing. ## END TRANSCRIPT ## ## ADDITIONAL PAGE CONTENT ## Lesson 10.1 Operating system security Lesson 10.2 Summary Discussion Prompt: What have you learned? . Duration: 30 minutes 30 min Graded Assignment: Summative quiz [001] – Topic 5 Submitted Video: Video Summary . Duration: 55 seconds 55 sec Summative quiz and Coursework assessment

@@ -1,0 +1,10 @@
+# Peer review debrief
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/JgZG6/peer-review-debrief
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The number of file formats can be confusing due to competition between software vendors. Different file formats reflect differences in compression, such as uncompressed audio (wav) versus compressed audio (MP3). Image file formats like JPEG, PNG, and GIF have distinct compression methods, with JPEG optimized for photographs and GIF better suited for line art. Vector graphics format Adobe Illustrator represents images using shape, making it easier to edit. Bitmap formats like JPEG are less suitable for editing. The PDF format is designed for efficient reading but not for editing. Document files like Microsoft Word doc contain text and formatting information in addition to the actual text. Text files like TXT only contain ASCII or Unicode text with no additional metadata. Understanding data representation is crucial to choose the right file format and use it effectively. Different file formats have their own advantages and disadvantages, which must be considered when working with them. Compression is an important aspect of file formats, as seen in the differences between wav and MP3. The choice of file format depends on the intended purpose of the file, such as reading or editing. Having a good understanding of data representation will help individuals make informed decisions about file formats. This knowledge is essential for computer scientists and can be applied in various work contexts.

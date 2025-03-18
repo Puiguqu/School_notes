@@ -1,0 +1,8 @@
+# Definition of a tree Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/wuiwv/definition-of-a-tree)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A graph G is considered acyclic if it has no cycles, including loops and parallel edges. The directed graph G1 contains at least one cycle and is therefore not acyclic. In contrast, the directed graph G2 is cycle-free and hence acyclic. An undirected graph G is a tree if and only if it is connected and acyclic. This means that there exists a path between any two vertices of G, and G has no cycles. The graph G1 is connected but not a tree because it contains at least one cycle. On the other hand, the graph G2 is both connected and cycle-free, making it a tree. A forest in graph theory refers to a cycle-free disconnected graph. An undirected graph is considered a tree if there exists a unique simple path between any two of its vertices. This property can be proven by contradiction, where assuming a non-unique path leads to a cycle, contradicting the definition of a tree. By this reasoning, a tree with n vertices has exactly n-1 edges. A rooted tree is defined as a tree in which one vertex is designated as the root, and every edge is directed away from the root. The concept of tracing graph theory introduces the idea of analyzing graphs by identifying cycles and paths. Understanding acyclic graphs, trees, and rooted trees is essential for studying graph theory.
+

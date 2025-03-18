@@ -1,0 +1,21 @@
+# Final exam key concepts review
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/eWltl/final-exam-key-concepts-review
+
+Here is the revised version of your question:
+
+I need help with understanding key concepts in computer science, particularly those related to networks, operating systems, machine learning, and software engineering.
+
+Can you provide me with information on:
+
+1. URL components: What are they, and how do they work?
+2. Deadlock in operating systems: How is it defined, and what are the causes and resolution methods?
+3. Machine learning classification: Can you explain this concept in detail, including data collection, feature extraction, model training, and evaluation?
+4. Software engineering concepts: What are system utilities, memory management, kernel, process scheduling, security threats, and semaphores?
+
+Additionally, can you provide examples of practical applications and real-world scenarios for each of these topics? I would also appreciate any additional resources or references that can help me further understand these concepts.
+
+Please feel free to ask if you need any clarification on the questions.

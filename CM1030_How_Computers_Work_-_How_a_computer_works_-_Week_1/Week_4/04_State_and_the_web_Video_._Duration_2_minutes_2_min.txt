@@ -1,0 +1,24 @@
+# State and the web
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/Agy5S/state-and-the-web
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Software, including websites, has state, which refers to changing configurations that affect how users interact with it.
+2. The page being viewed is an obvious example of website state, as different pages have distinct states.
+3. E-commerce sites also track more subtle states, such as remembering which items a user has viewed and displaying them on the page for easy access.
+4. Logging in to a site changes the user's ability to interact with it, highlighting the importance of understanding state.
+5. A common problem is when a website logs out a user without their knowledge, often due to inactivity.
+6. Web servers, where websites are stored, typically have no state and respond uniformly to requests.
+7. Despite this, user interactions can create subtle states that change within a single page.
+8. One key way websites track state is through the use of cookies, small amounts of data stored on users' computers by their browser software.
+9. Cookies allow websites to keep track of user login status and browsing history.
+10. While some people worry about the privacy implications of cookies, they are essential for most websites to function properly.
+11. A website's notional machine should consider how it is affected by state, such as changes in user interactions and page views.
+12. Understanding state can help users work more effectively with websites on a daily basis.
+13. The concept of state is also relevant to networks, where data is transmitted between clients and servers.
+14. Web applications and APIs (Application Programming Interfaces) rely heavily on understanding state to function correctly.
+15. Overall, recognizing the importance of state in website functionality can help users navigate online interactions more effectively.

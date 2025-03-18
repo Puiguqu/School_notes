@@ -1,0 +1,14 @@
+# Client side interaction
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/2xVMr/client-side-interaction
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Modern websites are not just collections of information that we read passively; they require interaction. The oldest form of interaction on the web is links, which send requests to servers to generate new webpages. However, there aren't enough links for modern websites, especially for dynamic content like videos. Implementing interactions as links would be too slow and inefficient. Instead, client-side interaction is used, where all functionality is implemented in a user's web browser using the JavaScript language. This allows for faster and more responsive interactions.
+
+One example of client-side interaction is templating, which sends templates directly to the client and data separately from the template. The client then combines the two to create the webpage, reducing the amount of data sent by the server. This approach makes the process more efficient and responsive. Another advantage is that the output doesn't have to be HTML, and the client can display it in a different way.
+
+This understanding of client-side and server-side processing is crucial for web development. Client-side interaction allows for flexibility and scalability, making it suitable for mobile apps and other non-web applications as well. The distinction between client-side and server-side processing will be important to learn throughout one's computer science degree.

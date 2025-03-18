@@ -1,0 +1,34 @@
+# Laws of sets: Commutative, associative and distributives Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/3E79H/laws-of-sets-commutative-associative-and-distributives)
+
+## Step 1: Understand the laws of sets and their applications
+The problem requires us to simplify a given expression using the laws of sets. The laws of sets are mathematical principles used to manipulate and simplify set operations.
+
+## Step 2: Identify the laws applicable to the given expression
+To simplify the expression (A∪B)∩(A∪B c ), we need to apply the distributive law, absorption law, complement law, and double negation law.
+
+## Step 3: Apply the distributive law
+First, we distribute the intersection over the union using the distributive law: (A∪B)∩(A∪B c ) = (A∩(A∪B c )) ∪ (B∩(A∪B c ).
+
+## Step 4: Simplify each term
+Next, we simplify each term. A∩(A∪B c ) can be simplified using the absorption law, which states that A∩(A∪B) = A.
+
+## Step 5: Apply the distributive law to B
+For the second term, B∩(A∪B c ), we apply the distributive law again. However, since (B∩B c ) equals ∅, we need to find an alternative way to simplify this expression.
+
+## Step 6: Simplify using De Morgan's laws and complement law
+We use De Morgan's laws to relate the complement of the union of sets to the intersection of their complements. By applying De Morgan's laws, (A∪B) c = A c ∩ B c .
+
+## Step 7: Combine simplified terms
+Now we combine the simplified terms. Since B∩(A∪B c ) can be rewritten as B∩(A c ∩B c ), and since B∩B c is a contradiction (∅), this simplifies to just B.
+
+## Step 8: Apply the absorption law
+With A from step 4, we can now simplify further using the absorption law. This states that A ∪ (B ∩ A) = A.
+
+## Step 9: Final simplification
+Applying the absorption law to our expression gives us A ∪ B ∩ A, which simplifies to just A.
+
+
+The final answer is: $\boxed{A}$
+

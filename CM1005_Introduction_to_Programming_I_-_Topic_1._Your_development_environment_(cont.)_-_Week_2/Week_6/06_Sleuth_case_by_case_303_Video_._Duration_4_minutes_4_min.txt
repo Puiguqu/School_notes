@@ -1,0 +1,10 @@
+# Sleuth case by case: 303
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/bldZJ/sleuth-case-by-case-303
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Crooked Attorney case (Case 303) is a puzzle game that requires solving a series of interactions with a safe. The player must navigate through various instructions and commands to crack the safe. The game uses variables Cryptic_Store_CombA and Cryptic_Store_CombB, which may have different names in the player's puzzle. To start, the player needs to run the sketch and identify the safe. The safe is initially non-interactive, but pressing a button on the mouse causes it to move left or right. The goal is to make Cryptic_Store_CombA equal 16 when the mouse button is released. This is achieved by using an event handler for the mouseReleased command. To test this, the player opens the console and enters the commands manually. The player discovers that setting Cryptic_Store_CombA equal 5 when the mouse is being dragged also works. Additionally, making Cryptic_Store_CombA equal 22 when any key is pressed is another required action. The game uses a grading system to track progress, with the current solution at 37.5% complete. However, the player has not yet addressed Cryptic_Store_CombB. To continue solving the puzzle, the player must carefully follow the instructions and test different actions. This requires coding practice and attention to detail. By mastering these interactions, the player can unlock the safe and progress in the game.

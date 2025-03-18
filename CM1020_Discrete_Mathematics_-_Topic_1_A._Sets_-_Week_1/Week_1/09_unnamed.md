@@ -1,0 +1,28 @@
+# 
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/fImoa/the-definition-of-a-set)
+
+Here is a summary of the text in 15 sentences, preserving the original content:
+
+A set is a fundamental concept in mathematics and computer science, representing a collection of distinct objects considered as an object in its own right.
+
+A set can be defined in two ways: Definition 1 states that a set is a collection of objects, while Definition 2 describes it as an unordered collection of distinct elements.
+
+The symbol ∈ denotes membership in a set, such as "a ∈ A" meaning a is an element of set A. Conversely, a symbol ∉ is used to denote non-membership, like "a ∉ A".
+
+Special sets include N (natural numbers), Z (integers), Q (rational numbers), and R (real numbers).
+
+The empty set, denoted as ∅ or {}, represents a set with no elements.
+
+Cardinality of a set refers to the number of distinct elements in that set. For example, |A| = 4 means the cardinality of set A is 4.
+
+Finite sets have a limited number of elements, while infinite sets have an unlimited number of elements. The set of natural numbers N={1,2,3,…} is an example of an infinite set.
+
+To list all elements in a set using the listing method, simply write down each element within curly braces.
+
+For example, the set A = {1,2,3,4,5,6,7} contains the elements 1 through 7.
+
+Similarly, the set B = {2,4,6,8,10} and set C=N={1,2,3,4,…} also contain their respective listed elements.
+
+This listing method is used to represent sets in a clear and concise manner.
+

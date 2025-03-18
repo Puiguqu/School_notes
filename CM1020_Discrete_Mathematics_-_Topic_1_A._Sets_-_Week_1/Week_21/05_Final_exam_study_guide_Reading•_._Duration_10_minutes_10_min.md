@@ -1,0 +1,12 @@
+# Final exam study guide Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Mgtp5/final-exam-study-guide)
+
+Here is a summary of the text in 10 sentences, preserving key information, formulae, and technical details:
+
+Set Theory: The definition of sets includes elements, subsets, power sets, and cardinality. Set operations include union, intersection, difference, complement, set-builder notation, and set identities. In Predicate Logic, propositions are distinguished from statements, and quantifiers such as universal and existential quantification are used to interpret logical expressions. Functions and Relations involve understanding function types (injective, surjective, bijective), determining function one-to-one or onto, finding inverses, plotting functions on graphs, and interpreting relations.
+
+Combinations and Permutations use principles of permutations and combinations to determine possible outcomes of events. Graph Theory involves Eulerian cycles/paths, Hamiltonian cycles/paths, graph properties, and degree sequences. Boolean Algebra involves designing and interpreting logical gates, simplifying expressions, and resolving problems using induction proofs and other methods.
+
+Mathematical Proofs and Recursion involve understanding different proof types (induction, contrapositive, contradiction) and identifying base cases and general cases in recursively defined problems. Finally, Algorithms use techniques such as Dijkstra's Algorithm to solve problems efficiently, with practice exams and study guides available for review.
+

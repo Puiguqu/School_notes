@@ -1,0 +1,74 @@
+# Week 12 - CM1030 How Computers Work - How a computer works - Week 1
+
+## Semaphores Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/QUUL8/semaphores)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The concept of processes is introduced, allowing multiple tasks to run simultaneously on a computer. However, up to now, each process has been considered independent, with its own memory area and no interaction between them. When multiple processes need to access the same resource, such as a file or printer, problems can arise. If one process writes to the resource while another is reading from it, data corruption can occur. To solve this problem, locking mechanisms have been introduced, where a process locks a resource when accessing it. However, if two processes try to lock the same resource at the same time, a deadlock can occur.
+
+A deadlock happens when both processes are waiting for each other to unlock their resources, causing an infinite wait. This is a common problem in parallel software, where multiple processes share resources. To avoid deadlocks, special instructions called semaphores have been introduced, which allow one process to lock and unlock a resource simultaneously. Semaphores can help prevent data corruption and ensure that resources are accessed safely.
+
+The concept of threads is also discussed, as they share memory and can lead to similar problems with concurrent access. To solve these problems, locks and semaphores are used to manage shared resources and prevent deadlocks. The introduction of semaphores and locks has improved the safety and reliability of parallel software systems.
+
+---
+
+## Mobile payments Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/rRGZg/mobile-payments)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+A computer system needs to handle money processes, which has become increasingly important with digital services and mobile payments. Kenya's M-Pesa system was a pioneering example of mobile payments, allowing users to add and transfer funds using their mobile phones. The system works by sending requests to the M-Pesa servers, where databases record user accounts and balances. A program looks up the balance, adds the transferred amount, and updates the database with a new number.
+
+The servers need to handle many transactions simultaneously, which is achieved through processes. However, if multiple requests are made to the same account, the previous transaction's result may be overwritten, leading to errors. This is where semaphores come in - they ensure that only one process can write to an account at a time, preventing overwrites.
+
+The use of semaphores is crucial in financial systems, such as bank accounts and databases, to prevent simultaneous access without the risk of data loss. The scenario described illustrates the problem of lost transactions due to concurrent access. In practice, concurrency problems like this are common in computer systems that handle multiple requests simultaneously. Mobile payments, such as those made through M-Pesa, rely on the coordination of processes and semaphores to ensure accurate transactions.
+
+The system's architecture is designed to handle millions of users and thousands of transactions daily, with servers creating new processes for each request. The use of semaphores allows the system to manage concurrent access to user accounts and prevent data corruption. The importance of semaphores in financial systems cannot be overstated, as they enable the creation of secure and reliable payment processing systems.
+
+Overall, the use of semaphores and concurrency control mechanisms is essential for ensuring the accuracy and reliability of financial transactions, particularly in systems that handle multiple requests simultaneously.
+
+---
+
+## Case study debrief Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/BmNpI/case-study-debrief)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The operating system manages memory allocation to applications, which may need to request additional memory if they load large data. Applications also interact with the file system, using device drivers for graphics, keyboard, mouse, and touchscreen functionality. Processes are essential for concurrent application usage, as the operating system switches between them.
+
+To minimize interruptions, some applications, like a video player, process data directly in memory, while others, such as a note-taking app, load large files into memory at once. The video player may need to access network drivers if streaming from the internet, whereas the note-taking app relies heavily on keyboard drivers. 
+
+The operating system uses processes differently, with the video player constantly performing tasks and requiring frequent interruptions for other applications. In contrast, the note-taking app spends most of its time waiting for user input, only executing when interrupted by the keyboard.
+
+Despite not sharing resources directly, applications may share files or data through separate processes. For example, a note-taking app might sync with a cloud server in a separate process, using the same file.
+
+The design of an application significantly affects how it interacts with the operating system and its performance. The applications discussed in this video likely differ from real-world examples but demonstrate similar principles for interacting with the OS.
+
+Overall, understanding how different applications interact with the operating system is crucial for optimal performance and efficiency.
+
+---
+
+## Summary Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/uFzFA/summary)
+
+There is no text to summarize. The provided text appears to be a video transcript and does not contain any technical details or concepts to summarize. It provides an overview of the importance of multiple processors, multiprocessing, and operating systems, but it does not present specific formulas, technical details, or findings that can be summarized in 15 sentences.
+
+If you could provide the actual text, I would be happy to assist you in summarizing it in 15 sentences, preserving key information, formulae, and technical details.
+
+---
+
+## Handling competition among processes Reading• . Duration: 50 minutes 50 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/FKV8Y/handling-competition-among-processes)
+
+There is no text to summarize. The provided text appears to be a course outline or a list of resources for learning about operating systems, specifically inter-process communication. It does not contain any specific information that can be summarized.
+
+If you could provide the actual text or context, I would be happy to help you summarize it in 14 sentences, preserving key information, formulae, and technical details.
+
+---
+

@@ -1,0 +1,8 @@
+# Security
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/7yx3l/security
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.5. This reading is available in the Online Library via the VLeBooks collection. Lesson 10.1 Operating system security Discussion Prompt: Protecting yourself from malware . Duration: 30 minutes 30 min Video: Video Operating system security . Duration: 7 minutes 7 min Reading: Reading Security . Duration: 50 minutes 50 min Practice Assignment: Practice quiz – Five questions on operating system security . Duration: 30 minutes 30 min Lesson 10.2 Summary Summative quiz and Coursework assessment Security Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 3 Operating systems. Read Section 3.5. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

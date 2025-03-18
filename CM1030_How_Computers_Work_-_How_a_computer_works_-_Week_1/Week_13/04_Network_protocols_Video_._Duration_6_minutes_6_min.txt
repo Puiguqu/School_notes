@@ -1,0 +1,26 @@
+# Network protocols
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/ljnY8/network-protocols
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Protocols are essential for network communication as they provide rules for computers to follow over networks.
+2. Protocols prevent problems that can occur during network communications, such as messages being mixed up or transmitted at the same time.
+3. Carrier Sense Multiple Access with Collision Detection (CSMA/CD) is a protocol implemented in the Ethernet standard to resolve collisions and ensure efficient transmission.
+4. Messages are divided into packets, each containing message data and additional information, known as the packet header.
+5. Protocols define the information contained within the packet header.
+6. When sending a packet over the internet, it must use both the protocols of the physical network being used and the internet protocol (IP) protocol.
+7. The IP packet is then encapsulated in another packet for the physical network being used, such as Wi-Fi or Ethernet.
+8. Routers remove the IP packet from the physical network packet and re-encapsulate it with a new packet to be sent over the next network.
+9. Data is typically transmitted using multiple layers of packets inside other packets, each based on a different protocol.
+10. The innermost layer is normally the application layer, which includes protocols such as HTTP for web pages and POP/SMTP for email.
+11. The transport layer handles communication between the start point and destination of a message, without worrying about content or networks.
+12. TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two examples of transport layer protocols.
+13. The network layer handles transmission across multiple networks, including routers, and is almost always implemented using IP protocol.
+14. The link layer protocol handles transmission over a single physical network, such as Ethernet or Wi-Fi.
+15. Network ports, which are numbers attached to packets, determine where the packet should be sent, allowing software to decide which application to use it with.
+
+Note: I did not include some minor details and examples in this summary for brevity. Let me know if you need anything else!

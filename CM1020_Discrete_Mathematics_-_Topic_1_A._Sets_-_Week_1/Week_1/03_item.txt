@@ -1,0 +1,11 @@
+#  - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/iq8RO/the-definition-of-a-set
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Set theory is a branch of mathematics that deals with properties of well-defined collections of objects. The concept of sets was introduced by George Cantor, a German mathematician. A set is defined as a collection of any kind of objects, such as people, ideas, or numbers. The empty set is a set that contains nothing and is denoted by curly brackets with no elements inside. Sets can be written in the form E = {elements}, where the elements are listed between curly brackets. For example, the set of positive even numbers less than 10 is represented as E = {2, 4, 6, 8}. The cardinality of a set S, denoted by |S|, is the number of elements in the set. The empty set has no elements and therefore its cardinality is 0.
+
+A set A is considered a subset of another set B if every element of A is also an element of B. This is equivalent to saying that if x is an element of A, then x is also an element of B for all elements x. The empty set is a subset of any set and a set is always a subset of itself. There are special sets such as N (natural numbers), Z (integers), Q (rational numbers), and R (real numbers). Each of these sets can be related to the others, where N is a subset of Z, Z is a subset of Q, and Q is a subset of R.
+
+The concept of set theory forms the basis of several other fields of study such as counting theory, relations, graph theory, and finite state machines. Understanding sets and their properties is essential in these fields.

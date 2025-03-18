@@ -1,0 +1,18 @@
+# Distinguishable objects and boxes
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/i6JAK/distinguishable-objects-and-boxes
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Counting problems can be reduced to finding the number of ways objects can be placed into boxes. The objects can be either distinguishable or indistinguishable, and the boxes can also be distinguishable or indistinguishable. Counting problems can take place with exclusion or without exclusion, where exclusion means no box can contain more than one object.
+
+When placing distinguishable balls into distinguishable boxes with exclusion, it is equivalent to forming an unordered selection of k boxes from n available boxes. The number of ways of distributing k distinguishable balls into n distinguishable boxes with exclusion is equal to n factorial over n minus k factorial (n! / (n-k)!).
+
+Without exclusion, the distribution is equivalent to making an ordered selection of k boxes from n boxes with repetition, and the number of ways is n to the power of k (n^k). When placing indistinguishable balls into distinguishable boxes with exclusion, it is equivalent to forming a combination of size k from a set of size n, resulting in n factorial over k factorial times n minus k factorial.
+
+Without exclusion for indistinguishable balls, it is equivalent to forming a combination of size k from a set of size n with repetition, giving (n+k-1) factorial over k factorial times n minus 1 factorial. The problem of distributing eight indistinguishable balls into six distinguishable boxes is equivalent to choosing an unordered selection of 8 items from a set of 6 elements when repetition is permitted.
+
+The number of ways to distribute eight indistinguishable balls into six distinguishable boxes equals 13 choose 8, which is equal to 1,287. The lecture discussed how counting problems can be modeled by distributing objects into boxes and looked at various scenarios with exclusion or without exclusion for both distinguishable and indistinguishable objects.

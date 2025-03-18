@@ -1,0 +1,8 @@
+# Security and the web Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/Ihqg9/security-and-the-web)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+The web relies on sending messages across the internet, making security a major concern. These messages can be intercepted by malicious computers trying to hack websites and extract private data. Websites use encryption, such as HTTPS (Hypertext Transfer Protocol Secure), to secure data transmission. The "S" in HTTPS stands for secure, indicating that all transmitted data is encrypted. When using HTTPS, the URL shows "HTTPS" instead of "HTTP", and most browsers display a padlock symbol. However, not seeing this symbol on a website's URL can be worrisome. Websites also use access control, requiring login credentials to access sensitive information. Strong encryption ensures secure login names and passwords. Despite these measures, website software can still be hacked, highlighting the importance of installing latest software updates. A website's security should include features like two-factor authentication, password protection, and encrypted data transmission. Users should be aware when logging in or out, as well as whether data is being sent securely. Additionally, users should verify the security certificate and ensure it is valid. The web relies on secure connections between clients (web browsers) and servers (websites), with encryption ensuring that sensitive information is protected from interception. By taking these precautions, individuals can protect themselves and their data when using websites for security-sensitive activities.
+

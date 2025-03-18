@@ -1,0 +1,18 @@
+# Truth tables and truth sets Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/5AQxS/truth-tables-and-truth-sets)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A truth table is a tabular representation of all possible combinations of its propositional variables. To construct a truth table for n propositional variables, create a table with 2^n rows and n columns. Fill the columns with all possible combinations of values, starting with false values. This ensures that every possible combination of the propositional variables is represented.
+
+For example, considering three propositional variables p, q, and r, the resulting truth table would have eight rows, representing all possible combinations of these variables. Each column represents a propositional variable, alternating between true and false values to cover all possibilities.
+
+A truth set is defined as the set of elements from a set S for which a proposition is true. For instance, if p is the proposition "n is even" on the set of integers from 1-10, then the truth set of p is {2, 4, 6, 8, 10}.
+
+In practice, truth sets are denoted using capital letters (e.g., P for the truth set of p). The concept of truth tables and truth sets allows us to systematically determine the truth value of complex propositions. By examining all possible combinations of propositional variables, we can assess the truth value of a proposition in a systematic and objective manner.
+
+The construction of truth tables involves creating a table with n columns, where each column represents a propositional variable, and filling it with alternating true and false values. This ensures that every possible combination of the propositional variables is represented in the table.
+
+Truth sets provide an alternative way to represent the truth value of propositions. By examining the elements of a set S for which a proposition holds true, we can define the truth set of the proposition.
+

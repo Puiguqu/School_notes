@@ -1,0 +1,18 @@
+# Function arguments
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/osYr3/function-arguments
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript discusses using functions with arguments to create reusable code. Functions have their own special type of variable called arguments, which are used to pass values into the function at call time. The example code draws a flower from the setup function, without using the draw function. To control the position and size of the flower, the author creates arguments for the x position, y position, and stem height.
+
+The argument names should differ from other variables declared in the same scope to avoid confusion. The arguments are defined within parentheses and separated by commas. The author uses "find and replace" to replace all references to base x with x, base y with y, and stem heights with h.
+
+To pass variables into the draw function, the author uses a for loop to draw multiple flowers with different positions and sizes. Each flower is drawn in the body of the loop, using the i index to spread them out horizontally. The height of each flower increases as it moves across the screen.
+
+The author adds an argument for the color of the petals, defining variables r, g, and b for red, green, and blue. The colors are used to set the hue of the petals, creating different patterns. Two separate loops are created to draw flowers with different colors, one set to purple and the other to yellow.
+
+The author uses a random function to generate heights for some of the flowers, creating a more varied pattern. This demonstrates how passing arguments into functions can create complex and interesting patterns. The video transcript provides an introduction to functions with arguments and their applications in programming.

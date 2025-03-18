@@ -1,0 +1,18 @@
+# Fill, stroke, noFill
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/CWSls/fill-stroke-nofill
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript introduces basic drawing commands in Processing, including fill, noFill, stroke, and noStroke. Fill changes the inside color of shapes, while noFill makes them transparent. The stroke command controls the outline colors, with three arguments for RGB (red, green, and blue). NoStroke eliminates outlines.
+
+In the setup function, fill is used to set the initial shape colors, but this can cause problems when drawing multiple shapes with different colors. To fix this, the color should be set at the beginning of the draw function. Additionally, noStroke must be added to prevent outlines from appearing.
+
+The fill command also accepts a fourth argument for transparency or alpha value, which allows for semi-transparent colors. Experimenting with these commands can create interesting effects.
+
+The transcript introduces the concept of program flow, including setup and draw functions, as well as the importance of debugging. The practice assignments cover various topics, such as RGB colors, drawing shapes, and debugging techniques.
+
+Overall, the video provides a comprehensive introduction to Processing's drawing capabilities, including fill, stroke, noFill, and transparency. It also highlights the importance of program flow and debugging in creating effective programs.

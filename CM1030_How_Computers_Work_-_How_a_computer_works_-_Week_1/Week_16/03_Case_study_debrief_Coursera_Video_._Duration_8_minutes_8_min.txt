@@ -1,0 +1,12 @@
+# Case study debrief: Coursera
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/iRMvn/case-study-debrief-coursera
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Coursera uses HTTPS protocol for secure communication with clients. Coursera runs on Amazon Web Services (AWS), which provides cloud hosting platform for multiple websites. AWS uses serverless architecture to scale resources dynamically. Coursera has a complex architecture that combines various technologies such as network protocols, HTTP, servers, databases, and HTML rendering. The website uses React framework for rendering web pages. Server-side rendering is used initially to render the full page on the server, but client-side rendering is used later to load only changed parts of the page. Coursera uses a combination of both server-side and client-side rendering to optimize performance. Thread pooling is used in the rendering process to improve efficiency. Video compression and transcoding are done using special methods to stream videos efficiently. The website also uses software frameworks for rendering web pages, such as React. HTML templates are sent to clients, and data is sent separately to be combined in the browser to create a web page. Server-side rendering allows powerful servers to do most of the work, while client-side rendering updates web pages with minimal data transfer. Coursera engineers constantly update and improve code to ensure smooth performance. The website's architecture is complex and involves multiple technologies that may not be immediately apparent from using the site.
+
+Note: I've condensed some information to fit the 15-sentence limit while trying to preserve key details, but some technical terms and concepts might still require further explanation or clarification.

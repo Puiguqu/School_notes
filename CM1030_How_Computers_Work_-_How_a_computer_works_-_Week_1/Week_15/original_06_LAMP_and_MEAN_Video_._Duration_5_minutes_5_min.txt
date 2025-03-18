@@ -1,0 +1,8 @@
+# LAMP and MEAN
+Video•
+. Duration: 5 minutes
+5 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/E4yIV/lamp-and-mean
+
+Lesson 15.0 Introduction Lesson 15.1 The internet Lesson 15.2 The web Video: Video Web servers . Duration: 4 minutes 4 min Video: Video Client side interaction . Duration: 2 minutes 2 min Video: Video Clusters and clouds . Duration: 2 minutes 2 min Reading: Reading The world wide web . Duration: 1 hour 1h Practice Assignment: Practice quiz – LAMP versus MEAN . Duration: 30 minutes 30 min Video: Video LAMP and MEAN . Duration: 5 minutes 5 min Discussion Prompt: Web clients and servers . Duration: 30 minutes 30 min

@@ -1,0 +1,20 @@
+# Mid-term quiz key concepts checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/sznFn/mid-term-quiz-key-concepts-checklist
+
+Here is a summary of the provided text in 15 sentences:
+
+The study guide outlines essential skills, concepts, and knowledge required to complete the 'How Computers Work' mid-term exam. The exam assesses topics from basic computer operations to advanced concepts like encryption, dynamic libraries, and memory management. Encryption prevents unauthorized access to private files by converting data into a coded format.
+
+Dynamic libraries differ from executables, resources, and user files as they contain code used by applications but are not part of the main executable. Memory addresses define a specific cell in memory and play a crucial role in identifying it.
+
+The system bus connects peripheral devices (e.g., keyboards, mice) to hardware components that control device input and output. Domain names differentiate from IP addresses, email addresses, and hexadecimal numbers, playing a key role in web addresses.
+
+Utilities are small software programs designed for specific tasks like disk formatting, and the MEMLOAD instruction transfers data between main memory and registers. Computer security is important as certain types of malware fail due to restrictions on background processes, privileged instructions, and administrator access.
+
+File size comparisons show that uncompressed images can represent a large number of words compared to text. Data compression techniques, such as run-length encoding, are used to compress images that can be easily compressed using this method.
+
+The study guide covers key concepts and skills required for the mid-term exam, including encryption, dynamic libraries, memory management, peripheral devices, domain names, utilities, MEMLOAD instruction, computer security, file size comparisons, and data compression techniques. The final assessment includes a summative quiz and coursework submission.

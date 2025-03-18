@@ -1,0 +1,24 @@
+# Answer to question 8 on the problem sheet
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/Zlip3/answer-to-question-8-on-the-problem-sheet
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The problem presents a set theory exercise involving subsets A, B, and C of a universal set U. The goal is to draw a three-binary digit labeled Venn diagram that divides U into eight disjoint regions.
+
+To accomplish this, each digit represents an element in the corresponding set (A, B, or C). For example, 101 means the element is in both A and C.
+
+The problem provides a membership table for subset X of U and asks to identify its region on the Venn diagram. The region contains elements that are in X, which includes values 001, 100, 101, and 110.
+
+These elements can be described as the union of A and C minus the intersection of B and C. In other words, X = (A ∪ C) - (B ∩ C).
+
+The problem also defines set Y as represented by regions 000, 011, 101, 110, and 111 on the Venn diagram. To describe Y using set notation, we need to understand its relationship with the symmetric difference of A, B, and C.
+
+The symmetric difference of A, B, and C contains elements that are in at least one of them but not all of them. In this case, it includes values 100, 010, and 001.
+
+The complement of the symmetric difference is equal to U minus the symmetric difference of A, B, and C. By taking the complement, we obtain the set Y, which consists of elements 000, 011, 101, 110, and 111.
+
+This relationship holds because the symmetric difference contains only those elements that are not in all three sets (A, B, and C), leaving out the regions where an element belongs to exactly one or two of these sets.

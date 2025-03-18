@@ -1,0 +1,16 @@
+# Welcome to the course and about us
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/pbzys/welcome-to-the-course-and-about-us
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The course "Introduction to Programming" aims to teach the fundamentals of coding through fun and creative applications. The instructors, Simon and Edward, will cover topics such as hacking, self-teaching, project structuring, debugging, and testing using p5.js. The course is designed to be engaging and interactive, with a focus on hands-on learning. Simon, one of the instructors, is a musician who turned to programming after being interested in how computers worked. He has a background in Computer Science, Human-Computer Interaction, and has worked on various projects including audio-visual performances, installations, and data visualizations.
+
+Edward, the other instructor, has a different background but shares similar interests and expertise. The course is open to students of all backgrounds and skill levels, including those who have already learned programming. The instructors encourage students to share their own experiences and goals with coding, and invite them to introduce themselves in a discussion prompt.
+
+The course will cover topics such as p5.js, which is a JavaScript library used for creative coding. The instructors plan to provide technical information and tools used in the module, as well as an introduction to programming syllabus and strategies for success. The course is designed to be self-paced, with videos, readings, and discussions that can be completed at the student's own pace.
+
+Overall, the course aims to provide a comprehensive introduction to programming, covering topics such as coding fundamentals, project structuring, debugging, and testing using p5.js.

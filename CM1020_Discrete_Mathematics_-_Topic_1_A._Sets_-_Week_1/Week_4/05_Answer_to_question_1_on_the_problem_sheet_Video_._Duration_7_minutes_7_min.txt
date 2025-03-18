@@ -1,0 +1,10 @@
+# Answer to question 1 on the problem sheet
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/zEG84/answer-to-question-1-on-the-problem-sheet
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript discusses functions A, B, and C, as well as two functions f and g that map between these sets. The domain of a function is the set of all inputs, while the co-domain is the set of all possible outputs. The range of a function is the set of all actual outputs. Function f maps set A to set B, with a table defining the mapping: x = 1 => f(x) = a, x = 2 => f(x) = b, etc. Similarly, function g maps set B to set C: x = a => g(x) = w, x = b => g(x) = x, etc. The domain of f is {1, 2, 3, 4, 5, 6}, the co-domain is {a, b, c, d}, and the range is also {a, b, c, d}. For function g, the domain is {a, b, c, d} and the range is {w, x, y, z}. To find f(1), we look at the table and see that f(1) = a. The pre-image of d under function f is {5, 6}, as both are mapped to d. Finally, g(f(3)) = g(a) = w. Function f is not one-to-one because multiple inputs map to the same output (d = 5 and d = 6). However, function f is onto because every element in the co-domain has a pre-image. To show that g is both one-to-one and onto, we can see from the arrow diagram that each element in the range has a unique pre-image, making g one-to-one. Additionally, since the range equals the co-domain, g is also onto.

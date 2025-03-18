@@ -1,0 +1,8 @@
+# Data representation
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/n7hfU/data-representation
+
+The Essential reading for this topic on data representation is from: Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global edition). Chapter 1 Data storage. At this point you should read sections 1.4 and 1.5, and you will also need to refer to appendices A and B. You may also find it interesting to read sections 1.6 and 1.7, but this is optional. This reading is available in the Online Library via the VLeBooks collection. Lesson 5.0 Introduction Lesson 5.1 Data storage Lesson 5.2 Data representation Discussion Prompt: Data representation in bits . Duration: 10 minutes 10 min Video: Video Bytes and numbers . Duration: 4 minutes 4 min Video: Video Other types of data . Duration: 6 minutes 6 min Reading: Reading Data representation . Duration: 1 hour 1h Video: Video Interview with Sarah Wiseman about data entry . Duration: 10 minutes 10 min Practice Assignment: Practice quiz - Case study: optimising a web page load time . Duration: 30 minutes 30 min Data representation The Essential reading for this topic on data representation is from: Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global edition). Chapter 1 Data storage. At this point you should read sections 1.4 and 1.5, and you will also need to refer to appendices A and B. You may also find it interesting to read sections 1.6 and 1.7, but this is optional. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

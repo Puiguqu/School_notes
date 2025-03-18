@@ -1,0 +1,8 @@
+# Summary
+Video•
+. Duration: 49 seconds
+49 sec
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/8sXhC/summary
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key You've done a lot this week. You've loaded up the Coursera web page. You've selected videos to watch and stream them to your computer or phone. You've typed in assignments, and submitted them on the assignment page. Maybe you've read and contributed to forums. That's probably what you do most weeks, but this week was different. This week, you understood a lot more about the technologies that made this happen, from network protocols to web servers and databases. And who knows, maybe you'll never think of a web page in quite the same way again. ## END TRANSCRIPT ## ## ADDITIONAL PAGE CONTENT ## Lesson 16.1 Databases Lesson 16.2 Summary Peer-graded Assignment: Web sites . Duration: 3 hours 3h Review Your Peers: Web sites Video: Video Case study debrief: Coursera . Duration: 8 minutes 8 min Discussion Prompt: What have you learned? . Duration: 30 minutes 30 min Graded Assignment: Practice quiz – Topic 8 . Duration: 30 minutes 30 min Video: Video Summary . Duration: 49 seconds 49 sec

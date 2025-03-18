@@ -1,0 +1,269 @@
+# Week 10 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## Logic gates Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/PbOVm/logic-gates)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Logic gates are electronic circuits that process input signals based on logical operations. The most basic logic circuits are OR gates, AND gates, and invertors (NOT gates). Logic gates can have single inputs or multiple inputs and produce either a single output or multiple outputs. The truth tables for these basic gates are used to determine their outputs.
+
+The AND gate produces a high output when all inputs are high, while the OR gate produces a high output when at least one input is high. Invertors flip the input signal. The XOR gate produces a high output when the inputs are different, while the NAND and NOR gates produce a low output when both inputs are high.
+
+The XNOR gate is similar to the XOR gate but inverts the output. Logic gates can be combined to create more complex circuits. The AND, OR, XOR, and XNOR operations are associative and commutative, allowing for the extension of their use to multiple inputs.
+
+De Morgan's laws can be represented using logic gates, with the first law being "the complement of the product is equal to the sum of the complements". The second law states "the compliment of the sum is equal to the product of the complements". Logic gates are used to represent these laws in a visual format.
+
+The lecture introduced and explored logic gates, covering basic gates and their truth tables. It also examined additional gates, such as XOR, NAND, NOR, and XNOR, and their relationships to basic gates. Finally, it discussed the representation of De Morgan's laws using logic gates.
+
+---
+
+## Combinational circuits Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/MG7OU/combinational-circuits)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Combination circuits are networks of logic gates that model Boolean functions. A combination circuit implements a Boolean function given its current configuration of input signals. The goal is to minimize the number of gates used to minimize circuit cost. Boolean functions can be implemented in different ways using combination circuits.
+
+To build a logic network from a Boolean function, label gate outputs as functions of input variables, express Boolean functions for each gate at the first level, and repeat the process until all outputs are written as Boolean expressions. Combinational circuits can be used to design systems for solving specific problems like addition or multiplication.
+
+For example, a half adder can be designed using logic gates to perform binary bit additions. The truth table shows that the sum is represented by the output of the X OR gate, while the carry outputs are represented by the AND gate. To overcome limitations, a full adder with three inputs can be transformed from a half adder.
+
+A full adder's Boolean expression can be represented as x' or y' or carry in, and carry out is expressed as xy plus carry in. These expressions can be designed using a combinational circuit to perform binary bit additions accurately. To simplify complexity, box diagrams are often used to present only inputs and outputs.
+
+This lecture introduced and defined combination circuits, built logic networks from Boolean functions, and showed how they can be used to design systems for solving specific problems.
+
+---
+
+## Simplification of circuits Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/c8Fsg/simplification-of-circuits)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Boolean algebra can be used to represent and simplify Boolean functions. Simplification of circuits is beneficial as it reduces the global cost, computation time, and allows more circuits to be fitted on the same chip. Two types of simplifications are discussed: algebraic simplification and Karnaugh maps. Algebraic simplification uses De Morgan's laws, distributive laws, commutative, idempotent, and complement laws, and absorption law. The Boolean expression E is simplified using these laws to obtain a simpler form. A full adder circuit can also be simplified using these laws. A Karnaugh map (K-map) is a graphical representation of Boolean functions, showing the true table and allowing for simplification by identifying adjacent 1's. K-maps are useful for expressions with 2, 3, 4, or 5 variables. The number of cells in a K-map represents the total number of possible input variables. To simplify a Boolean function using a K-map, identify all 1's and group them into rectangles of maximum size by adjacent 1's, then write terms for each rectangle. This process is called minimization. Minimization can reduce the complexity of circuits and improve their performance. The De Morgan's laws, distributive laws, commutative, idempotent, and complement laws, and absorption law are used to simplify Boolean expressions and functions. These laws can be applied to various types of Boolean functions, including full adders. K-maps provide a visual representation of Boolean functions and are useful for simplifying and minimizing these functions. The simplified form of the Boolean expression E is x plus yz, which represents a minimized version of the original function.
+
+Note that I did not include any specific formulas or technical details as they were not mentioned in the provided text, but rather focused on summarizing the main concepts and ideas discussed in the lecture.
+
+---
+
+## Webinar on Boolean algebra Video• . Duration: 1 hour 26 minutes 1h 26m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/mmDtB/webinar-on-boolean-algebra)
+
+This transcript appears to be a lecture on Boolean Algebra, specifically on how to simplify Boolean expressions and apply it to logic gates and networks.
+
+The lecture covers the following topics:
+
+1. Introduction to Boolean algebra and its operations
+2. Construction of truth tables for Boolean functions
+3. Application of Karnaugh maps to simplify Boolean expressions
+4. Sum-product form of Boolean expressions
+5. Simplification of Boolean expressions using sum-product form
+
+The lecturer also provides examples and explanations, including the computation of a specific Boolean function.
+
+Some key points highlighted in the lecture include:
+
+* The importance of understanding Boolean algebra operations and their applications.
+* The use of truth tables to analyze and simplify Boolean functions.
+* The application of Karnaugh maps to group consecutive 1s and simplify expressions.
+* The sum-product form of Boolean expressions, which can be used to simplify complex expressions.
+
+The lecture also touches on the importance of reducing the number of logic gates and networks in digital circuits, as it reduces the cost and improves the performance of the system.
+
+Overall, this lecture provides a comprehensive overview of Boolean algebra and its applications in digital electronics.
+
+---
+
+## Mid-Term preparation by Dr Lahcen Ouarbya Video• . Duration: 1 hour 25 minutes 1h 25m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/ZXSoc/mid-term-preparation-by-dr-lahcen-ouarbya)
+
+This transcript appears to be a video lecture on predicate logic, specifically covering topics such as negation of statements, implications, and applications of predicate logic. The speaker provides explanations, examples, and practice assignments for students to follow along.
+
+The main topics covered in the lecture include:
+
+1. Negation of statements: The speaker explains how to negate statements using "not" or "all".
+2. Implications: The speaker discusses how to negate implications by changing the order of the statements.
+3. Applications of predicate logic: The speaker provides examples and explanations of how predicate logic can be used in real-world scenarios.
+
+The lecture also includes additional resources, such as reading materials, practice assignments, and graded assignments, which students can access to further their understanding of predicate logic.
+
+Some key takeaways from the lecture include:
+
+* Negating a statement using "not" or "all".
+* Changing the order of statements to negate an implication.
+* Understanding the applications of predicate logic in real-world scenarios.
+
+The speaker also mentions that there will be a midterm assessment, and provides resources for students to prepare for it.
+
+---
+
+## New Video Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/pkeLG/new-video)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Studiosity service is an online platform that provides personalized, same-day feedback on written drafts and connects students with specialists for study questions. To access the service, log into the institution's student portal and find the Studiosity link. The service can be used to get feedback on structure, language, spelling, and grammar or to chat with a specialist about study questions. Students can upload their documents before bedtime for same-day feedback the next morning.
+
+Once the document is reviewed by a specialist, students will receive an email and mobile notification with feedback. They can then view the feedback and make changes before submitting the work. The service also offers instant feedback on writing, English skills, math, science, and essential skills. Students can connect with a specialist through the "Connect Now" option.
+
+The Studiosity service has been used by thousands of students worldwide, helping them feel more confident and reassured about their writing and study. To use the service, bookmark the page for easier access next time. The service is available to help students achieve their best this year.
+
+---
+
+## Simplification of circuits Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/z6jzo/simplification-of-circuits)
+
+Here are the key points from the text:
+
+The simplification of circuits using Boolean algebra involves applying postulates and theorems to reduce complexity and simplify digital circuits.
+
+A common technique for simplifying Boolean expressions is by using rules of Boolean algebra such as distributive law, idempotent law, absorption law.
+
+Consider a circuit with two OR gates and three AND gates. The output F(A,B,C) can be simplified using Boolean algebra as follows:
+
+F(A,B,C) = A.B + A.(B+C) + B.(B+C)
+
+By applying the distributive law, we get:
+
+F(A,B,C) = A.B + A.B + A.C + B.B + B.C
+
+Using idempotent law and absorption law, we simplify further:
+
+F(A,B,C) = A.B + A.C + B + B.C
+
+This simplifies to:
+
+F(A,B,C) = B + AC
+
+The original circuit can be simplified to two basic digital logic gates: an AND gate and an OR gate.
+
+Another way of simplifying circuits is by using a Karnaugh map to simplify the corresponding Boolean expression.
+
+---
+
+## Topic 5 essential reading Reading• . Duration: 2 hours 45 minutes 2h 45m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Wj7ql/topic-5-essential-reading)
+
+Here is a summary of the text in 15 sentences:
+
+The provided text serves as a resource for consolidating knowledge on key topics in digital electronics, including gates, circuits, Boolean expressions, and circuit simplification. The text references Koshy's book, specifically pages 824-837 and 840-848, which cover these topics. To further reinforce understanding, the reader is encouraged to complete exercises from the same book (Koshy 2004). Exercises range from basic logic gates to more advanced concepts, including Boolean algebra and Karnaugh maps. Solutions to odd-numbered exercises can be found in a section at the back of the book called "Solutions to Odd-Numbered Exercises". The text also mentions a series of practice assignments for each topic, with durations ranging from 30 minutes to 1 hour. Video lessons are available on topics such as logic gates, combinational circuits, and circuit simplification, with durations of 5-15 minutes per video. Additionally, reading materials and discussion prompts are provided, with durations ranging from 15 minutes to 20 minutes. The text also mentions summative assessments and midterm assessments for evaluating the reader's understanding of these topics. Furthermore, there is an ungraded plugin available for simulating domino logic gates. To complete the resources effectively, the reader should review essential reading, including a summary of topic 5. The text does not provide any technical details or formulae specific to digital electronics, but rather serves as a guide for understanding and applying key concepts. Overall, the text appears to be a resource for students in an introductory digital electronics course.
+
+---
+
+## Domino logic gates simulation Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/3GYVz/domino-logic-gates-simulation)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+Logic gates are basic elements of electronic circuits that implement Boolean operations. Computers are composed of billions of these tiny electrical components. Logic gates take input information and output processed information accordingly depending on their characteristics. The complexity of computers is difficult to visualize due to the electrical signals they receive. A dominoes-based simulation can be used to represent this process, where a chain of falling dominoes represents high voltage and standing dominoes represent low voltage.
+
+The Domino logic gates simulation allows users to simulate different types of logic gates, including OR, AND, and XOR gates. The simulation also includes a 2-bit binary addition using a combination of these gates. Users can navigate through the simulations by clicking on buttons at the bottom corners or reset the current simulation by clicking the central button.
+
+The next exercise will involve simulating more complex logic gates and learning how to replicate them with real dominoes. The simulation is designed to be interactive, allowing users to experiment with different inputs and observe the output. Logic gates are a fundamental concept in computer science, and understanding their behavior is crucial for designing electronic circuits.
+
+In addition to the Domino logic gates simulation, there are several other resources available for learning about logic gates and combinatorial circuits. These include videos, practice assignments, and reading materials. The lesson includes a peer-graded assignment on Boolean algebra and a summative assessment at the end of the topic.
+
+---
+
+## Topic 5 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/uuY2O/topic-5-summary)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Boolean algebra is a fundamental topic in digital systems design that equips students with essential skills and knowledge. Key learning outcomes include understanding Boolean concepts, such as binary variables and functions, basic operations (AND, OR, NOT), truth tables, and applying Boolean laws and theorems to simplify expressions. Boolean laws include identity, idempotent, complement and double negation laws, while commutative, associative, and distributive laws are used to rearrange and simplify expressions. Absorption and De Morgan’s Theorems can further simplify complex expressions. Algebraic simplification techniques use algebraic manipulation to simplify Boolean expressions. Karnaugh maps (K-maps) are used to visually simplify expressions by grouping adjacent 1's.
+
+Students will learn about logic gates, including basic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR), and their symbolic representations. Circuit implementation involves translating simplified Boolean expressions into digital circuit designs using logic gates. Optimization techniques aim to minimize the number of logic gates used in digital circuits for cost, speed, and power efficiency. By studying Boolean algebra, students can design and optimize digital systems.
+
+The course includes video lessons, practice assignments, reading materials, and discussions to reinforce learning outcomes. Students will review their peers' work on a peer-graded assignment on Boolean algebra. A summative assessment and midterm assessment are also included in the course. The topic of Boolean algebra is essential for understanding and designing digital systems.
+
+---
+
+## Boolean algebra problem sheet Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/K71FR/boolean-algebra-problem-sheet)
+
+There is no text provided to summarize. The given text appears to be a list of learning materials and resources for a course, including a video webinar on Boolean algebra, reading materials, and assessment opportunities. However, it does not contain any specific information or technical details that can be summarized in 4 sentences. If you could provide the actual text, I would be happy to help summarize it.
+
+---
+
+## Boolean algebra problem sheet solution Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/iS7ls/boolean-algebra-problem-sheet-solution)
+
+There is no text to summarize. The provided text appears to be a course or lesson plan outline, listing durations and resources for Boolean algebra lessons, but it does not contain any specific information or content to summarize. If you provide the actual text you'd like summarized, I'll be happy to assist you in condensing it into 4 sentences while preserving key concepts and technical details.
+
+---
+
+## Midterm study guide Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/m54Us/midterm-study-guide)
+
+Here is a summary of the text in 15 sentences, focusing on key concepts and findings:
+
+Discrete Mathematics midterm exam preparation checklist is essential for success. The study should focus on mastering set theory, functions, logarithms, propositional logic, logical arguments, predicates, and Boolean algebra. Set theory includes understanding sets, subsets, universal sets, power sets, and Venn diagrams. Functions cover domain, co-domain, range, bijections, injections, surjections, and inverse functions. Logarithmic functions and their properties are also crucial to understand.
+
+Propositional logic involves truth tables, logical operators, and laws of propositional logic. Logical arguments require assessing validity and constructing arguments using different reasoning methods. Predicates involve understanding quantifiers, negating predicates, and translating statements into words and vice versa. Boolean algebra covers operations, principles, expressions, and Karnaugh maps.
+
+To prepare for the midterm exam, students should read study guides (10 minutes) and practice questions (1 hour). They can also watch videos on midterm preparation (1 hour 25 minutes) or take a graded assignment (3 minutes). Additionally, reading about what studiosity offers (10 minutes) is recommended. Students are encouraged to complete ungraded assignments (1 hour) and report any issues.
+
+Mastering these concepts will improve chances of success for the midterm assessment.
+
+---
+
+## Midterm Key Concepts Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/YSNzH/midterm-key-concepts)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The discrete mathematics midterm exam review covers seven key concepts: set theory, functions, logarithms, propositional logic, logical arguments, predicates, and Boolean algebra. Set theory involves understanding sets as collections of distinct objects, with key operations including intersection, union, and difference. Venn diagrams are used to visually display the relationship among sets and their elements. Power sets are the collection of all subsets that can be formed from a given set, including the empty set.
+
+Functions are rules that assign exactly one output to each input, with types including injections, surjections, and bijections. Composition of functions involves applying one function to the result of another, creating a composite function. The inverse of a function reverses the action of the original function. Logarithms represent the power to which a specified base number must be raised to obtain a specific number.
+
+Propositional logic deals with propositions that are either true or false and argument forms involving propositions. Truth tables, tautologies, contrapositives, inverses, and converses are essential concepts in propositional logic. Logical arguments involve forming conclusions based on a set of premises, with validity depending on whether the conclusion logically follows from the premises.
+
+Predicates and quantifiers are used to build logical expressions that make more complex assertions about objects in a domain. Boolean algebra deals with variables that take only two values, with operations including AND, OR, and NOT. Logic circuits, De Morgan's laws, Karnaugh maps, and sum of products are integral parts of Boolean algebra. Understanding these concepts is essential for solving equations and interpreting logarithmic expressions.
+
+The midterm exam review includes practice questions, reading materials, and a video tutorial to help students prepare for the exam. The review covers set theory, functions, logarithms, propositional logic, logical arguments, predicates, and Boolean algebra, providing students with a comprehensive understanding of these key concepts.
+
+---
+
+## [IMPORTANT] - Mid-term Assessment [001] Question3 (e) Update Reading• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/8jdNC/important-mid-term-assessment-001-question3-e-update)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The instructor has made a correction to Question 3(e) regarding tautologies. The revised question states that a tautology is a proposition that is always true. Three propositions, p, q, and r, are introduced. The student is asked to determine whether ((p ∨ q) ∧ (r → s)) ⟺ ((p ∧ r) → s) ∧ ((q ∧ r) → s) is a tautology or not. A truth table can be used to analyze the given proposition. To solve this problem, the student needs to use the laws of propositions or the truth table. The correct solution involves using De Morgan's law and other logical equivalences to simplify the expression. The student should show that the two expressions are logically equivalent. If the two expressions are logically equivalent, then ((p ∨ q) ∧ (r → s)) ⟺ ((p ∧ r) → s) ∧ ((q ∧ r) → s) is a tautology. Otherwise, it is not a tautology. The student can use truth tables or logical equivalences to determine the nature of the proposition. The instructor provides additional resources and guidance for students to complete the problem. The correct answer should be provided in the Mid-Term Assessment [001] activity. The instructor thanks students for taking the time to read the correction and wishes them luck with their coursework.
+
+---
+
+## What is Studiosity? Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/3OwNX/what-is-studiosity)
+
+Here is a summary of the text in 15 sentences:
+
+The University of London is piloting an online service called Studiosity to support students with their academic writing. The service can also provide additional support for topics such as basic math questions. Through Studiosity, users can upload drafts of essays, reports, and other written assessments. Experts in academic writing will review the work and provide detailed feedback to improve it. Students can use Studiosity to check if their draft is on the right track or get instant feedback on writing or math/science questions. The service aims to address common student concerns, such as structuring assignments, addressing conclusions, and resolving mathematical errors. To access Studiosity, students can upload their assignments for fast feedback or chat live with experts. The platform provides a range of resources, including lesson plans (Lesson 5.2), extra resources (Lesson 5.3), summative assessments (Lesson 5.4), and midterm assessments (Lesson 5.5). The University of London is also providing additional support materials, such as video lessons (Video: Video Mid-Term preparation by Dr Lahcen Ouarbya) and reading guides (Reading: Reading Midterm study guide). Students can use the platform to prepare for their midterm assessment, which includes practice questions and a graded assignment. The service covers various topics, including academic writing, math, science, and study skills. Studiosity provides detailed feedback on assignments, covering structure, content, and overall quality. By using Studiosity, students can receive expert feedback and guidance to improve their academic work.
+
+---
+
+## What does the feedback cover Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/RZH5r/what-does-the-feedback-cover)
+
+Here is a summary of the text in 8 sentences, preserving key information:
+
+Students will receive personalized, constructive academic feedback on assessment drafts up to 5,500 words within under 24 hours. The feedback focuses on specific areas: structure, spelling, grammar, punctuation, and referencing. A video lecture by Dr. Lahcen Ouarbya titled "Mid-Term preparation" is scheduled for 1 hour and 25 minutes, providing students with valuable information for the midterm assessment. Additionally, a reading guide and key concepts are available to help prepare students for the test. Students will also have access to practice assignment questions, which can be completed in one hour. Furthermore, they will receive graded feedback on their midterm assessment submission. The feedback is designed to be personalized and helpful, allowing students to improve their work with specific guidance. Overall, this support system aims to enhance student learning and understanding of the material.
+
+---
+

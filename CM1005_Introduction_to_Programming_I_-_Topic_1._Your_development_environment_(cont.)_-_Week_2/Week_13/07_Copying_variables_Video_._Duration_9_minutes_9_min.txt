@@ -1,0 +1,24 @@
+# Copying variables
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/kiVWz/copying-variables
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+In JavaScript, when assigning one variable to another, the value is copied, not referenced, for simple types such as numbers, strings, and booleans. This means that changes made to one variable do not affect the other. However, when dealing with complex data types like objects, arrays, or functions, a reference is created, which can lead to unexpected behavior.
+
+Objects in JavaScript are instances of a class, and they have properties that store values. When copying an object, only a reference to the original object is copied, not a deep copy of its contents. This means that changes made to one object will affect both objects if they share the same reference.
+
+To demonstrate this concept, an example sketch was created using JavaScript and HTML5 Canvas. The sketch features two rectangles with properties like size and position, which were manipulated to show how changes made to one rectangle affected both.
+
+In the sketch, when the `rect2` variable was assigned the value of `rect1`, both variables pointed to the same object in memory. Changing the `x` property of one rectangle changed the other due to this shared reference.
+
+To avoid this behavior and pass by value with objects, a trick can be used: creating a new object that contains only the desired properties. This approach works for simple types like numbers but requires more complex logic when dealing with arrays or functions.
+
+In the case of arrays, using `const` or `let` variables helps to ensure that changes made to one array do not affect other variables that reference it indirectly.
+
+To illustrate this concept further, a quick example was created using global variables and console.log statements. The output showed that changes made to one variable affected both variables due to the shared reference.
+
+In conclusion, when working with JavaScript objects, arrays, or functions, understanding how references are created can help avoid unexpected behavior. By using techniques like creating new objects or using `const` or `let` variables, developers can ensure predictable results and write more maintainable code.

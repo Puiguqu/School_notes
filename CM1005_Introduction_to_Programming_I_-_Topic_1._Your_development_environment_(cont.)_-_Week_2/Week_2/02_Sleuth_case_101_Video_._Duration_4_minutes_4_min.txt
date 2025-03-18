@@ -1,0 +1,10 @@
+# Sleuth case 101
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/HCSFM/sleuth-case-101
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript introduces Case 101, "Lina Lovelace," a crime-solving game using Sleuth, a visual programming language. The first stage is called Central Station, where players download and unzip a crime file to open it in the Finder. The project folder is then dragged into the left bar, and the sketch.js file is opened, providing instructions on how to solve the case. Lina Lovelace's location at the railway station is identified as a starting point for tracking her movements. A rectangle is drawn around Lina using the rect command within the draw function, with coordinates 18, 195 provided by crosshairs in the image viewer. The initial rectangle size is set to 100x100, but it needs to be adjusted to fit Lina's entire body. The correct size is determined to be 200 wide and 400 high, with some adjustments made for accuracy. The updated rectangle is then uploaded and submitted as part of the solution. After passing the first stage, players can proceed to the next case, Small Talk Speakeasy. Sleuth provides various tools and features, including visual programming, debugging, and live preview functionality. Players are encouraged to discuss their solutions in a discussion prompt and complete additional lessons on code philosophy and assessment guidelines. The video transcript includes links to related videos and labs for further learning. Overall, Case 101 introduces players to the basics of Sleuth and the concept of solving crimes using visual programming.

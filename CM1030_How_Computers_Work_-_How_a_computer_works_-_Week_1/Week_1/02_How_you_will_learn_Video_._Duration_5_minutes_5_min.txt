@@ -1,0 +1,10 @@
+# How you will learn
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/VpTiX/how-you-will-learn
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+This course aims to teach fundamental knowledge about modern computer systems and their operation. It focuses on applying that knowledge in practice rather than just learning facts. The course uses a combination of videos, readings, quizzes, discussions, and peer review exercises to achieve this goal. Videos will cover core concepts, while readings will provide deeper understanding. Passively watching or reading alone is not enough; active practice through quizzes, discussions, and peer reviews is essential. Quizzes will test knowledge of network protocols, among other topics, and are worth consideration for the final mark. Practice quizzes are also part of the course and help learners develop their skills. Discussions involve working with peers to understand computer systems chosen by them. Peer review exercises provide early feedback on work and teach an important skill: evaluating one's own work and that of others. This skill is crucial in professional settings where self-assessment will be necessary. The mark scheme used for peer reviews is the same as for tutor marks, ensuring consistency. The scale for marking ranges from pass (40%) to first-class degrees (above 90%), with mid-range grades indicating good performance. Coursework accounts for 50% of the final mark and includes tests taken weekly; the exam is worth the remaining 50%. The course prepares learners for both the exam and coursework, which will have multiple-choice questions similar to quizzes and long-answer questions like peer review exercises. Learners are encouraged to participate fully in all activities to ensure preparedness for assessments.

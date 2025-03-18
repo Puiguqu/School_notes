@@ -1,0 +1,14 @@
+# Security threats Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/6omW4/security-threats)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Computers and software enable many things that were not possible a few years ago, allowing global communication and collaboration. However, malicious intent can lead to various threats to online security, impacting privacy, personal data, and bank accounts. A virus is a piece of software that copies itself from one computer to another without the user's knowledge, causing damage such as slowing down the computer or stealing data. Spyware records user activity and sends information to third parties, including keyboard input for password recovery. Trojan horses masquerade as legitimate software but perform harmful actions in secret.
+
+Another security threat is hacking, where individuals gain unauthorized access to systems to steal data. Hackers often target web servers or Internet servers with valuable data. Phishing attacks involve tricking users into revealing sensitive information like passwords or bank details through fake emails or websites.
+
+To mitigate these risks, it's essential to take measures to guard against security threats. In future videos, lessons on networks, security, encryption, and security defenses will be discussed. The importance of strong passwords and password management will also be explored. A practice assignment is available for students to assess their understanding of security concepts.
+
+Overall, online security is crucial to protect personal data, prevent financial loss, and ensure safe communication. By understanding the risks and taking proactive measures, individuals can safeguard their digital presence.
+

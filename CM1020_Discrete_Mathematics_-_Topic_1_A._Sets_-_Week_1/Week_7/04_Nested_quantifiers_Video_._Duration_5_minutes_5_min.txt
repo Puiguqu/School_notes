@@ -1,0 +1,10 @@
+# Nested quantifiers
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/9EecU/nested-quantifiers
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Nested quantifiers are used to express statements with multiple variables. The meaning of nested quantifiers includes "for all x, for all y, P(x, y)" meaning P(x, y) is true for every pair x, y; "there exists x, there exists y, P(x,y)" meaning there is a pair x,y for which P(x,y) is true; and "for all x there exists y, P(x,y)" meaning that for every x there is a y for which P(x,y) is true. There also exists the statement "there exists x for all y, P(x,y)" meaning that there is an x for which P(x,y) is true for every y. Variables in a predicate can be either bound or free, with a variable being bound if it is within the scope of a quantifier and free if it is not bound by a quantifier or particular value. The Logical operations introduced in propositional logic, including negation, disjunction, conjunction, implication, and equivalence, can also be applied to quantified statements. For example, "there exists x P(x,y)" is equivalent to "P(x) and Q(y)" where P(x) denotes x > 3 and Q(y) denotes y^2 is even. However, the order of nested quantifiers does not matter when they are of the same type (e.g., "for all x, for all y, P(x,y)" is equivalent to "for all y, for all x P(x, y)"). The order of nested quantifiers can change when they are of different types (e.g., "for all x, there exists y, P(x,y)" is not equivalent to "there exists y for all x, P(x,y)"). When simplifying the notation of nested quantifiers, it is essential to maintain consistency in the order of quantifiers. The variables within a predicate can be bound or free, and their relationship affects the meaning of the statement. Nested quantifiers are used to express complex statements with multiple variables, and understanding their properties and relationships is crucial for logical reasoning.

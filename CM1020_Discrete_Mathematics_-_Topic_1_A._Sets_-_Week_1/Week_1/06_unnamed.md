@@ -1,0 +1,14 @@
+# 
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/btz8b/set-operations)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The lesson discusses set operations, including intersection, union, difference, and symmetric difference. Given two sets A and B, the union of A and B (A ∪ B) contains all elements in either A or B. The membership table shows combinations of sets that an element belongs to, with 0 indicating not a member and 1 indicating a member. The intersection of A and B (A ∩ B) contains elements belonging to both A and B.
+
+The formula for the union is: X ∈ A ∪ B if and only if X ∈ A or X ∈ B.
+The membership table for A ∪ B shows that an element not in A but in B, and vice versa, are included in the union. The intersection (A ∩ B) contains elements belonging to both sets.
+
+For the difference, A \ B, it contains elements in A but not in B: X ∈ A \ B if and only if X ∈ A and X ∉ B.
+Membership tables for A \ B show that an element not in A or B is excluded from the difference.
+

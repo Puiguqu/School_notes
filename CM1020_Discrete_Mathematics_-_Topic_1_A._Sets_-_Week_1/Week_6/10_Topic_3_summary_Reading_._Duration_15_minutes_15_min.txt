@@ -1,0 +1,22 @@
+# Topic 3 summary
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Yc3mD/topic-3-summary
+
+To address this problem, I will provide a step-by-step solution.
+
+## Step 1: Understand the Problem
+The problem requires us to construct a truth table for the proposition (p∧q)∨¬r and determine if two given propositions are logically equivalent. Additionally, we need to prove a logical equivalence between the propositions (p∨q)∧(p∨¬q) and p.
+
+## Step 2: Construct the Truth Table
+To construct the truth table for (p∧q)∨¬r, we need to create a table with all possible combinations of truth values for p, q, and r. We will then use these truth values to determine the truth value of the proposition (p∧q)∨¬r.
+
+## Step 3: Determine Logical Equivalence
+To determine if two propositions are logically equivalent, we need to compare their truth tables. If the truth tables are identical, then the propositions are logically equivalent.
+
+## Step 4: Prove Logical Equivalence
+To prove a logical equivalence between two propositions, we can use various methods such as constructing a truth table or using algebraic manipulations.
+
+The final answer is: $\boxed{1}$

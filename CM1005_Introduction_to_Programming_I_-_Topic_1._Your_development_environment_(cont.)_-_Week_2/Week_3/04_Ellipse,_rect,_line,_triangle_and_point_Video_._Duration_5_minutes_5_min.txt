@@ -1,0 +1,24 @@
+# Ellipse, rect, line, triangle and point
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/NhMrI/ellipse-rect-line-triangle-and-point
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. The video transcript discusses various shapes that can be drawn using Processing (P5).
+2. The ellipse command takes four parts, with the center coordinates being the x and y values, and the width and height being the same diameter.
+3. Changing the height of an ellipse makes it squished in a certain direction, while changing the width makes it stretched out lengthwise.
+4. The line command has four arguments, representing two pairs of x and y coordinates for the endpoints of the line.
+5. To draw a horizontal or vertical line, the x-coordinates should be equal, while to draw a diagonal line, they should not be.
+6. The triangle command takes six arguments, representing three pairs of coordinates for each corner of the triangle.
+7. The order of coordinates in the triangle command does not matter, and any type of triangle can be drawn using this method.
+8. Processing retains the state of stroke weight, which means that once set, it remains valid until changed.
+9. To change the stroke weight, use the "stroke weight" command followed by a value in pixels, as demonstrated with the point command.
+10. The code is provided for each shape command, including ellipses, lines, triangles, and points.
+11. The video transcript also covers other topics such as drawing functions, RGB colours, fill, stroke, noFill, setup, draw, and programme flow.
+12. Practice assignments are available for these topics, allowing viewers to practice their skills.
+13. Programming exercises, including "Hack it: Robot parade" and "Code it from scratch: Kandinsky", provide further opportunities for practice and learning.
+14. Discussion prompts are also provided to encourage viewer engagement and discussion.
+15. The video transcript concludes by summarizing the key concepts and shapes that can be drawn using Processing (P5).

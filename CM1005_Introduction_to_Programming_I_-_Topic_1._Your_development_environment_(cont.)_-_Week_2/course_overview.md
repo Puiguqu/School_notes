@@ -1,0 +1,286 @@
+
+## Week 15
+
+### Initialising and accessing 2D arrays Video• . Duration: 10 minutes 10 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Arrays can store elements of any type, including Booleans, strings, numbers, and objects. They can also store other arrays, making them useful for representing grids or matrices of information. To create a 2D array, we nest sets of square brackets to indicate that each element is an array of values.
+
+For example, `my2DArray = [[1, 2, 3], [4, 5, 6]]` creates a 2D array with one element that contains three numbers. We can access elements of the inner arrays using square brackets, just like we would for 1D arrays.
+
+To iterate through all the elements of a 2D array, we need to use a nested loop structure. The outer loop iterates over each row in the array, and the inner loop iterates over each element within that row.
+
+For example, `for (i = 0; i < groups.length; i++) { console.log(groups[i]); }` prints out each row of the `groups` array. To access individual elements within a row, we can use another nested loop: `for (j = 0; j < groups[i].length; j++) { console.log(groups[i][j]); }`
+
+It's essential to keep track of which variable is controlling the outer loop (`i`) and which one controls the inner loop (`j`). Using a consistent naming convention, such as using `i` for the outer loop and `j` for the inner loop, can help avoid confusion.
+
+Two-dimensional arrays are powerful tools for representing complex data structures. With practice, you'll become more comfortable working with them and be able to apply your knowledge to real-world problems.
+
+The text also mentions the importance of discussing patterns and nesting objects and arrays as part of the lesson progression.
+
+---
+
+### Arrays of objects Video• . Duration: 12 minutes 12 min
+
+It appears that the provided transcript is not a problem to be solved, but rather a tutorial on using arrays and objects in programming, specifically in the context of p5.js.
+
+However, if you'd like, I can try to extract some specific problems or exercises from the transcript and provide solutions. Please let me know which part of the tutorial you'd like me to focus on.
+
+---
+
+### Complex object properties Video• . Duration: 12 minutes 12 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The speaker demonstrates how to store objects with array properties in JavaScript. They create an object for a bus with various properties, including x position, length, height, wheel diameter, and driver position. The speaker explains that they will use a two-dimensional array of objects to represent the passengers on the bus.
+
+To start, they initialize an empty passengers array and add five passenger objects to it. Each passenger object has an exponential value (x position) and a random height between 40 and 80. They then draw the driver using the original drawing function, passing in the bus.driver object as an argument.
+
+Next, they comment out the code for drawing the passengers and modify it to extract the x position from each passenger object. They pass the passenger objects at each index to the adapted function, which draws a school child with varying heights.
+
+The speaker notes that there is room for variation, such as adjusting the width of the passengers or giving them different colors or haircuts. They leave this to the viewer's discretion.
+
+Throughout the presentation, the speaker uses comments and code snippets to explain their thought process and provide examples.
+
+---
+
+### Find the matching value Video• . Duration: 4 minutes 4 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript discusses basic algorithms for searching arrays in JavaScript. A large array with 1,000 numbers is used as an example, and a variable named "meaningOfLife" is created to store the index of the first instance of the number 42. The array is accessed using the property numArray.length, which returns the length of the array. A for loop is written to iterate over the array, starting from index 0 and stopping when it reaches the last element of the array (i.e., when i < numArray.length). Inside the loop, the condition is checked if the value at index i in the array equals 42 using the syntax numArray[i] == 42. If true, the meaningOfLife variable is assigned the current index i.
+
+The transcript highlights an important point: if the loop finishes without finding 42, the last value returned will be the index of the last element in the array. To fix this issue, the for loop is modified to use a break statement when the value equals 42 is found, which causes the loop to exit prematurely.
+
+The corrected code uses a break statement to stop iterating over the array once 42 is found, ensuring that the first instance of 42 is returned as its index. The meaningOfLife variable is then printed in the console output using the syntax console.log("the meaning of life is at index" + i).
+
+Overall, the video emphasizes the importance of using a break statement to exit a loop prematurely when a specific condition is met, ensuring that the correct index is returned.
+
+Key concepts and findings include:
+
+* Using a for loop to iterate over an array
+* Accessing array elements using the property numArray[i]
+* Checking conditions within the loop using if statements
+* Using a break statement to exit a loop prematurely
+* Returning the first instance of a specific value in an array
+
+Formulae and technical details are not explicitly mentioned, but they can be inferred from the code examples provided.
+
+---
+
+### Find the highest / lowest value Video• . Duration: 7 minutes 7 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. The video discusses finding the highest or lowest value in an array.
+2. A sketch is shown with a little for loop to push random values into an array between 0 and 1000.
+3. A variable called `highestValue` is created to store the highest value found, while another variable `highestIndex` stores the index of that value.
+4. The `for` loop iterates through each value in the array, comparing it with the current `highestValue`.
+5. If a value is higher than `highestValue`, it updates `highestValue` and `highestIndex`.
+6. To find the smallest value, a similar approach is used, but starting from 0.
+7. However, setting `smallestValue` to 0 or -1 does not work for all cases, as it only considers positive values.
+8. Instead, `smallestValue` is initialized to null and set equal to the first element of the array if it's less than the current value.
+9. This ensures that the smallest value in the array is found correctly, even when dealing with negative numbers.
+10. The code includes a console log statement to verify the output and identify any bugs.
+11. In this case, the bug is fixed by changing `smallestValue` comparison to be equal to null instead of just not equal to zero.
+12. With the corrected code, the smallest value in the array is found correctly at index 65 with a value of 0.
+13. The video also touches on how to skip over certain values in the array when applying an operation only to some of them.
+14. This will be covered in a future video lesson.
+15. The video concludes by mentioning additional lessons, including two-dimensional arrays, nesting objects and arrays, and patterns, which will be covered in subsequent videos.
+
+Note: Some technical details, such as the use of `numArray.length` and `i++`, are not explicitly mentioned in this summary, but are assumed to be present in the original text.
+
+---
+
+### Exclude a set of values Video• . Duration: 5 minutes 5 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The speaker introduces manipulating arrays using for loops as another technique. They use an array called "circles" with 1,000 random integer values between 0 and 100. In their draw function, they instruct the drawing of circles at a random location, ignoring any circle under 10 pixels in size. Circles are drawn in red if bigger than 50 pixels, otherwise blue.
+
+The speaker uses a for loop to iterate over the array, with `var i = 0` and `i < circles.length`. Inside the loop, they use an if statement to check if a circle's size is less than 10. If true, they skip using the `continue` keyword to move on to the next iteration.
+
+They also use another if statement to determine whether to draw in red or blue based on the circle's size. The `continue` keyword allows them to bypass drawing smaller circles.
+
+The speaker draws ellipses at a random location, using the value from the array as the ellipse's size. They only draw ellipses with a width greater than 10 pixels.
+
+---
+
+### Code it from scratch: Bookcase Reading• . Duration: 1 hour 1h
+
+Write a program that creates a 2D array for a bookcase, such that each outer array is a shelf and the inner array stores the books. You can make this as big as you want but try to have at least four shelves with a minimum of five books on each. Write a series of functions that print the following to the console. The first book on each shelf. The total number of books. All the books. The books on a particular shelf specified in a parameter....
+
+---
+
+### Hack it: Robot upgrade Reading• . Duration: 30 minutes 30 min
+
+There is no text provided for me to summarize. The text appears to be a prompt or introduction to a coding challenge or game, but it does not contain any relevant information about robots, firmware, or upgrades. Can you provide the actual text you would like me to summarize? I'll do my best to preserve all key information, formulae, and technical details in an 8-sentence summary.
+
+---
+
+## Week 17
+
+### Methods: Objects which can do things Video• . Duration: 8 minutes 8 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video discusses building upon knowledge of functions and objects to bring them together. Objects can contain properties (attributes) and methods (functions). Methods are used to perform actions on an object, such as drawing itself to the screen or updating values. The syntax for defining a method is similar to that of a function, with the name specified before the colon, followed by the function keyword, open and closed parentheses, and the body enclosed in braces or curly brackets. Methods can return values just like functions. To call a method, use the same data operator as properties, with the object name followed by the method name and parentheses to set arguments. Accessing an object's properties from within a method can be tricky, and is left for future videos. A coding example is provided, where a "kitty" object is created with methods for drawing itself and saying "meow". The "meow" method takes no parameters but simply outputs the text "meow" to the screen at a specified position. To make the meow function actually invoke an action, it is called from within the draw function. A comment is added to call the meow function with a position parameter. The video explains that methods can be made more flexible by adding parameters, which allows for different positions of the text to be displayed. Parameters are set using the syntax xPos and yPos, followed by their values. This makes it possible to call the method multiple times with different positions. Methods can also be used in a similar way to functions, being able to run the same function repeatedly without repetition.
+
+---
+
+### This: making objects refer to themselves Video• . Duration: 10 minutes 10 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+In JavaScript, objects can have functions called "methods" that allow them to perform actions on themselves. The `this` keyword refers to the current object being executed within a method. When creating an object with properties and functions, the `this` keyword points to the object when its code is running. This allows the object to access its own properties.
+
+In the example provided, an object named "rocket" was created with methods for drawing and moving it on the canvas. The original draw function contained multiple references to "rocket", which were replaced with "this" using Find and Replace in the editor. This ensured that the correct object reference was used within the method.
+
+The moveRocket function was also modified to use "this" instead of referencing the rocket object directly. This allowed the code to work as intended, reducing complexity in the draw function.
+
+By using methods, objects can encapsulate their own behavior and maintain a clean and organized codebase. The example demonstrated how methods can be used to reduce repetition and improve readability.
+
+---
+
+### Exploring a p5 object: Vector Video• . Duration: 18 minutes 18 min
+
+Here is a summary of the content:
+
+**Lesson Summary**
+
+This lesson introduces the `p5` object, specifically the `vector` class. The instructor explains various methods that can be used with this class, including:
+
+1. Creating and manipulating vectors
+2. Using static and non-static methods for vector manipulation
+3. Randomly generating points to create a pattern
+
+**Key Concepts**
+
+* Understanding the difference between static and non-static methods in `p5`
+* Learning how to use various methods to manipulate vectors, such as:
+	+ `x`, `y` properties to access individual components of a vector
+	+ `length()` method to calculate the magnitude of a vector
+	+ `normalize()` method to normalize a vector to length 1
+	+ Multiplying and dividing vectors by numbers to scale them
+
+**Example Code**
+
+The instructor provides example code snippets that demonstrate how to use these methods, including:
+
+* Creating and manipulating vectors using static methods
+* Randomly generating points to create a pattern
+* Using the `normalize()` method to normalize vectors
+* Scaling vectors using multiplication and division
+
+**Graded Assignment**
+
+A graded assignment is mentioned, which requires students to practice using the `p5` vector class with various methods.
+
+**Next Steps**
+
+The instructor mentions that in the next lesson, they will explore how to use these methods to create a more complex project, such as creating a Tamagotchi.
+
+---
+
+### Bringing it all together: Tamagotchi Video• . Duration: 29 minutes 29 min
+
+This is a transcript of a programming lesson where the instructor is teaching the basics of the p5.js library, specifically the `vector` class. The lesson covers various aspects of vectors, including their representation, operations, and usage in graphics programming.
+
+Here's a breakdown of the key points covered in the lesson:
+
+1. **Vector Representation**: The instructor explains that vectors are represented as arrays of numbers, typically in the form `[x, y]`.
+2. **Vector Operations**: The lesson covers basic vector operations such as addition, subtraction, scalar multiplication, and normalization.
+3. **p5 Vector Class**: The instructor introduces the `vector` class from the p5.js library, which provides a convenient way to work with vectors in graphics programming.
+4. **Static and Non-Static Methods**: The lesson explains the difference between static and non-static methods in the context of the `vector` class. Static methods can be called without creating an instance of the class, while non-static methods require an instance of the class to be created.
+5. **p5 Vector - Static and Non-Static Methods**: The instructor demonstrates various static and non-static methods provided by the `vector` class, including those for scaling, rotating, and shifting vectors.
+6. **Mouse Coordinates**: The lesson covers how to access mouse coordinates in p5.js using the `mouseX`, `mouseY`, `pmouseX`, and `pmouseY` variables.
+7. **Normalized Vector**: The instructor explains how to create a normalized vector by dividing the original vector by its magnitude.
+8. **Rotating Coordinates**: The lesson demonstrates how to rotate coordinates around the origin using the `rotate()` method.
+
+The lesson concludes with a practical exercise where students are encouraged to adapt the tamagotchi example provided in the transcript to add more features and reactions, such as responding to keyboard input or mouse movements.
+
+Overall, this lesson provides a comprehensive introduction to vectors and their usage in graphics programming using p5.js. It covers essential concepts, demonstrates various techniques, and encourages experimentation and creativity.
+
+---
+
+### Hack it: Rocket Reading• . Duration: 1 hour 1h
+
+I don't see any text provided for me to summarize. The text appears to be a table of contents or a list of assignments for a programming lesson, but it doesn't contain any specific information or concepts to summarize.
+
+If you provide the text you'd like me to summarize, I'll be happy to assist you in condensing it into 14 sentences while preserving key information, formulae, and technical details.
+
+---
+
+## Week 2
+
+### Introduction to Sleuth Video• . Duration: 11 minutes 11 min
+
+This transcript appears to be a guide for learning how to solve puzzles in the Sleuth game, specifically using Visual Studio Code as an Integrated Development Environment (IDE) and p5.js as a programming language.
+
+The guide starts by walking through the first puzzle, where the player must identify Lina Lovelace by drawing a rectangle around her. The transcript explains the commands used in the code, such as `rect()` and `stroke()`, and provides examples of how to use these functions to draw shapes.
+
+The second puzzle is more challenging, requiring the player to identify two different women in the image. The guide provides step-by-step instructions on how to solve this puzzle, including measuring the image and using the `stroke()` function to change the color of the rectangle.
+
+Throughout the transcript, there are several mentions of the Sleuth game's scoring system and the importance of understanding the code philosophy behind the puzzles. The guide also touches on the idea that the player has four attempts remaining to solve each puzzle before they will be stopped from continuing by the chief.
+
+The final section of the transcript provides information about upcoming lessons, including an introduction to Sleuth reading, a video tutorial on how to use Visual Studio Code with Sleuth, and a lab assignment where players will work through multiple puzzles in the Rookie stage of the game.
+
+---
+
+### Sleuth case 101 Video• . Duration: 4 minutes 4 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The video transcript introduces Case 101, "Lina Lovelace," a crime-solving game using Sleuth, a visual programming language. The first stage is called Central Station, where players download and unzip a crime file to open it in the Finder. The project folder is then dragged into the left bar, and the sketch.js file is opened, providing instructions on how to solve the case. Lina Lovelace's location at the railway station is identified as a starting point for tracking her movements. A rectangle is drawn around Lina using the rect command within the draw function, with coordinates 18, 195 provided by crosshairs in the image viewer. The initial rectangle size is set to 100x100, but it needs to be adjusted to fit Lina's entire body. The correct size is determined to be 200 wide and 400 high, with some adjustments made for accuracy. The updated rectangle is then uploaded and submitted as part of the solution. After passing the first stage, players can proceed to the next case, Small Talk Speakeasy. Sleuth provides various tools and features, including visual programming, debugging, and live preview functionality. Players are encouraged to discuss their solutions in a discussion prompt and complete additional lessons on code philosophy and assessment guidelines. The video transcript includes links to related videos and labs for further learning. Overall, Case 101 introduces players to the basics of Sleuth and the concept of solving crimes using visual programming.
+
+---
+
+### Sleuth case 101: Visual Studio Code Video• . Duration: 6 minutes 6 min
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The lecture is about solving Sleuth puzzles using Visual Studio Code. The first case is "Central Station" series 101, which can be solved by clicking on "Let's solve some crimes" and then "crime". A zip file will be downloaded containing the necessary files to solve the puzzle. The files include an image of a lady named Anna, an index.html file, a P5 JS library file, and a sketch.js file. The sketch.js file is the actual crime that needs to be solved. The goal is to draw a rectangle around Anna's body using the rect function. To do this, the initial coordinates (x, y) are set to 70, 45. The width and height of the rectangle can be adjusted by changing these values. A live server extension is used to run the code in the browser. The sketch.js file comes with a handy feature that displays the x and y coordinates as the mouse moves around it. To add code to the sketch.js file, the rect function is written with the initial coordinates and width/height parameters. The file is saved by pressing "Command S" on Mac or "Control S" on Windows. The solution can be uploaded back to the Sleuth application by clicking on "Browse", selecting the sketch.js file, and then clicking on "solution". This results in a 100% score. Using Visual Studio Code is recommended for future modules as it is a modern coding editor that will be used throughout the degree.
+
+---
+
+### Code philosophy: what it feels like to code Video• . Duration: 3 minutes 3 min
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Coding can be an emotionally challenging experience, with coders often feeling frustrated due to the complexity and time-consuming nature of the work. This frustration is compounded by the misconception that coding is fast and easy, as depicted in movies and games industry portrayals. However, real-world examples demonstrate that coding can take years or even decades to complete, with projects like Grand Theft Auto requiring hundreds of people over three and a half years. Coders often put in long hours, including 18-hour days, to meet deadlines. Despite the challenges, coding is also highly addictive due to the sense of empowerment and autonomy it provides. Coders feel capable of solving problems and learning new skills, which fosters an optimistic outlook. This mindset enables coders to approach problems with a zen-like patience, viewing each challenge as an opportunity for growth. The concept of "flow" is particularly relevant to coding, where individuals experience intense focus, mastery, and intrinsic reward. Flow is characterized by feelings of timelessness, where the world recedes and all that matters is the task at hand. Coders often report experiencing endorphins or a sense of joy when solving problems or completing code successfully. Vikram Chandra's quote illustrates this phenomenon, describing the feeling of being in "a state of flow" where the world "fell away" and time "receded." The key takeaway is that coding can be challenging but also deeply rewarding, particularly when done in a state of flow. By embracing this mindset, coders can cultivate a positive relationship with their work and overcome frustration and obstacles. Code philosophy emphasizes the importance of understanding one's emotional state while coding and finding ways to optimize productivity and enjoyment. Ultimately, coding is an act of faith that requires patience, persistence, and a growth mindset.
+
+---
+
+### Sleuth: important information Reading• . Duration: 10 minutes 10 min
+
+Here is a summary of the text in 15 sentences:
+
+Sleuth is an educational activity designed to teach programming fundamentals. Students will work as private investigators, solving code crimes in various cases using their programming skills. The chief will provide guidance throughout the journey. Sleuth is a formative tool, meaning it won't directly affect grades but completing all puzzles is highly recommended. Completing the activity serves as a crucial learning experience for grasping basics of programming. Students can access Sleuth through two entry points: Rookie mode in Week 2 and Pro mode in Week 12.
+
+Rookie mode is suitable for novice investigators, while Pro mode offers more advanced cases. Both modes are available at any time, but it's recommended to complete them as outlined in the course schedule. To solve puzzles, students can use either Brackets or Visual Studio Code, but Visual Studio Code is recommended due to its modern and robust features.
+
+The instructor will introduce Sleuth in the next video, and students will embark on their adventure as private investigators. The main mission is to solve code crimes using programming skills, with guidance from the chief throughout the journey. Students can discuss one of the crime puzzles as part of their project submission for this module. Overall, Sleuth aims to provide a structured learning progression for grasping programming basics.
+
+---
+
+### Information about your assessments Reading• . Duration: 10 minutes 10 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The module will contain various summative and formative assessments. Summative assessments directly contribute to the final grade, while formative assessments provide low-stakes practice opportunities with feedback on progress. The course has two major assessments, each worth 50% of the grade: Coursework 1 and Coursework 2. Each coursework consists of a project, with Coursework 1 assessed halfway through the course (around Week 12) and Coursework 2 assessed at the end of the course (around Week 22). There are also several graded activities that have zero weighting, meaning they do not contribute to the final grade but are essential for learning.
+
+These activities include Lesson 1.2 Introduction to Sleuth, Lesson 1.3 Code Philosophy, and Lesson 1.4 About your assessments, as well as Reading: Reading Information about your assessments and Reading: Reflect on your learning. The duration of these activities is approximately 10 minutes each. Additionally, there are two other reading activities: Reading: Reading Information about your assessments and Reading: Reflect on your learning.
+
+The estimated time per week for each activity is not specified, but they are considered essential components of the module. The course aims to provide a detailed breakdown of all marks and assessment details. Students should mark as completed, dislike, or report an issue with any activities or assignments.
+
+---
+
+### Reflect on your learning Reading• . Duration: 10 minutes 10 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The instructor congratulates students on completing a portion of the course, which includes setting up a development toolkit, drawing with simple shapes and 2D coordinates using p5.js, and working through Sleuth cases. Students should reflect on their learning to identify areas for improvement and set concrete action plans to enhance their understanding. Evaluating learning is an essential skill that will contribute to success in any academic or professional endeavor. Reflecting on learning involves asking questions like "How comfortable am I with setting up and using the development environment?" or "How do I feel about my ability to use shapes and the coordinate system in p5.js?" Students should develop a plan to address areas of uncertainty, such as scheduling additional study sessions, seeking out resources, or posting on the discussion forum for clarification. The instructor recommends setting specific, measurable goals for improvement. Evaluation activities will be included at the end of each topic to regularly review progress and adjust strategies and goals based on ongoing self-assessment and new feedback. Learning is a continuous process, and it's okay to revise plans as needed. Students should aim to enhance their understanding of p5.js drawing functions, 2D coordinates, and Sleuth concepts. The instructor encourages students to seek out additional resources to reinforce their understanding of these concepts. By reflecting on learning and developing concrete action plans, students can improve their skills and knowledge. The course will continue with the introduction to Sleuth, code philosophy, and assessments. Students should be prepared to evaluate their progress regularly and adjust their strategies as needed. Overall, the instructor is committed to supporting students in achieving their goals and success in the course. By working together and seeking help when needed, students can overcome challenges and achieve their full potential.
+
+---
+

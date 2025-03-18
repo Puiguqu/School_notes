@@ -1,0 +1,10 @@
+# De Morgan's laws for quantifiers
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/1Sr4y/de-morgans-laws-for-quantifiers
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+De Morgan's laws are applied to predicate logic to formalize intuitions about negation. The rules for negating quantifiers can be summarized as follows: (1) ¬∀x P(x) ≡ ∃x ¬P(x), where P is a predicate over x; (2) ¬∃x P(x) ≡ ∀x ¬P(x). These laws allow us to formalize intuitions about negation of quantified expressions. The example S, "All university computers are connected to the network," can be expressed as ∀x P(x), where U is students in computer science and p(x) is "x has taken a course in neural networks." The negation of S can be expressed as ¬S ≡ ∃x ¬p(x), meaning there is at least one student who has not taken a course in neural networks. Similarly, the example R, "There is a student of Computer Science who didn't take a course in Machine Learning," can be expressed as ∃x q(x), where U is students in computer science and q(x) denotes "X didn't take a course in machine learning." The negation of R can be expressed as ¬R ≡ ∀x ¬q(x), meaning every student in computer science has taken a course in machine learning. De Morgan's laws can be applied to nested quantifiers by moving the negation through all quantifiers and replacing each "for all" with "there exists" and vice versa. For example, ¬∀x ∃y P(x, y) ≡ ∃x ∀y ¬P(x, y). The application of De Morgan's laws demonstrates how to formalize intuitions about negation in predicate logic.

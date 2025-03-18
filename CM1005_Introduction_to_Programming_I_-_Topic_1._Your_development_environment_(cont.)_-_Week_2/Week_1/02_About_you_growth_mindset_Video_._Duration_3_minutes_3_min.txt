@@ -1,0 +1,16 @@
+# About you: growth mindset
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/FU6zd/about-you-growth-mindset
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The art of programming goes beyond understanding code syntax; it also requires a problem-solving mindset. As a programmer, one must be prepared to encounter challenges that may not be resolved immediately, as this is an inevitable part of the learning process. In fact, working through problems can help learners develop their coding skills and become better programmers. However, identifying where codes don't work and why is crucial for success. The best approach is to be prepared and fail well, rather than giving up when faced with errors.
+
+The module will cover techniques to solve errors, organize code, minimize errors, and find and correct them. Debugging is a vital process in programming that involves identifying and fixing errors. This module aims to teach fundamental skills of programming while developing the mindset necessary for continued learning and success throughout one's career.
+
+Coders are human beings who make mistakes, but by approaching problems with the right mindset, they can learn more about coding and develop elegant solutions. The key strategy is to be prepared, not just in terms of knowledge, but also in terms of patience and persistence. The module will introduce learners to p5.js, a popular JavaScript library used for creating interactive graphics.
+
+The journey to becoming proficient in programming is ongoing, and one must never stop learning. By the end of this module, learners should have acquired fundamental skills and developed the mindset necessary to continue improving their programming abilities throughout their careers.

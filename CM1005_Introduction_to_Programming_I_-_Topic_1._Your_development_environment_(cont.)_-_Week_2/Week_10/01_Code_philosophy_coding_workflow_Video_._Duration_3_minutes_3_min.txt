@@ -1,0 +1,18 @@
+# Code philosophy: coding workflow
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/8WmtF/code-philosophy-coding-workflow
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+The code philosophy focus on optimizing coding workflows to reduce errors and frustration, increasing productivity. Recognizing repetitive actions can help identify areas for improvement. Key areas include organizing screen space, browser organization, launching code only once, copying and pasting carefully, and saving multiple versions of the code.
+
+Organizing screen space is crucial to see at least three essential components: code, output, and console. A second screen can be beneficial for added space. Browsers should have only necessary tabs open to avoid consuming CPU and RAM.
+
+When coding in a browser, launch the code once and let it auto-update or refresh as needed. Avoid closing the browser window after reviewing the code and repeatedly pressing the live preview button. Copying and pasting code blocks one at a time helps prevent errors.
+
+Using the "Find and replace" function is more efficient than renaming variables manually. Relying on undo or redo functions to access different versions of the code can lead to crashes, so it's better to save multiple versions instead. Consistent naming systems for drafts and storing projects in separate folders help maintain a well-ordered hard drive.
+
+A cluttered desktop with too many files can slow down the machine and hinder coding productivity. Removing old drafts and keeping only necessary files helps maintain a clean hard drive. By optimizing the coding workflow, coders can increase their rates of coding while reducing errors and frustration.

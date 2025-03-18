@@ -1,0 +1,6 @@
+# Propositional logic problem sheet solutions Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Z4GLQ/propositional-logic-problem-sheet-solutions)
+
+There is no text provided for me to summarize. The given text appears to be a lesson plan or a schedule of activities, listing various resources and activities related to propositional logic. It does not contain any specific information or findings that can be summarized. If you provide the actual text, I would be happy to help you summarize it in 4 sentences, preserving all key information, formulae, and technical details.
+

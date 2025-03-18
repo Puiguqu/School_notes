@@ -1,0 +1,20 @@
+# The factory pattern
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/p1Edo/the-factory-pattern
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+The video discusses the factory pattern, a design pattern used to create objects without specifying their exact class. The goal is to reduce code duplication and improve maintainability when creating multiple instances of an object with similar properties and methods. In the example code, a single tadpole object is created with various properties and methods, but this becomes cumbersome to manage. To solve this problem, a factory function called `createTadpole` is introduced, which creates a new instance of the tadpole object. The `createTadpole` function takes two arguments: `x` and `y`, which specify the position of the tadpole on the screen. The function returns an instance of the tadpole object with its properties set to random values. To create multiple tadpoles, a global array called `tadpoles` is created and populated with instances of the tadpole object using a for-loop. Each instance of the tadpole object is created by calling the `createTadpole` function with different `x` and `y` values.
+
+The code also includes drawing and updating logic for each tadpole, as well as event handling for mouse clicks on the screen. The drawing and updating logic are now applied to all instances of the tadpole object in the array, rather than just a single instance. Finally, the video demonstrates how to extend the factory pattern to create more complex objects, such as frogs.
+
+Key formulas and technical details:
+
+*   `var t = createTadpole(x, y)`: creates a new instance of the tadpole object with properties set to random values
+*   `tadpoles.push(createTadpole(x, y))`: populates the `tadpoles` array with instances of the tadpole object
+*   `for (var i = 0; i < tadpoles.length; i++) { ... }`: loops through each instance of the tadpole object in the array and applies drawing and updating logic
+
+The factory pattern is a useful design pattern for reducing code duplication and improving maintainability when creating multiple instances of an object with similar properties and methods.

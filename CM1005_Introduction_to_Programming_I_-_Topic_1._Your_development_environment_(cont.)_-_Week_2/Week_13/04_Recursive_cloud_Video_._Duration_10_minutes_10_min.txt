@@ -1,0 +1,16 @@
+# Recursive cloud
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/KI9Jj/recursive-cloud
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The concept of recursion in programming is demonstrated using the example of Russian dolls and the Droste effect. Recursion is a technique where a function calls itself within its own definition. The `recurse` function is created to demonstrate this concept, with three arguments: x position, y position, and scale. Initially, the function calls itself only once with the initial values of x, y, and scale.
+
+The conditional statement that checks if the recursive call should continue is commented out, which would create an infinite loop and crash the program. To make the recursion more interesting, the ellipses are shifted across by adding a value to the x position, which decreases as the scale gets smaller. This creates a gradual shift effect. However, when the direction of the shift is reversed by using `-scale` instead of `+scale`, the number of function calls increases exponentially.
+
+This leads to an exponential growth in code being executed, making recursion dangerous if not managed properly. To create a cloudy pattern with chains of movement, random offsets are added to both x and y positions. This makes each circle's position proportional to its size, creating a pleasing effect. Finally, random colors are added to make the pattern more detailed.
+
+The recursive cloud example showcases the versatility of recursion in generating complex patterns. It encourages experimentation and exploration of different techniques and parameters to achieve unique results. The video lesson provides additional resources for learning about functions, function arguments, returning values from functions, variables, scope, debugging techniques, and practice assignments.

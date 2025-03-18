@@ -1,0 +1,79 @@
+# Week 16 - CM1030 How Computers Work - How a computer works - Week 1
+
+## Servers and databases Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/CPTsn/servers-and-databases)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A database is a collection of data stored in a structured way, managed by a piece of software called a database management system. A database model represents how the data is represented and accessed, with the relational model being the most common type. The relational model breaks down an item of data into different elements like title, summary, and instructor.
+
+A relational database stores all its data in tables, where each row is a tuple and each column is an attribute. Each cell contains data, which can be text or numbers, but more complex data like photos are typically stored in files and their file names are stored in the database.
+
+To link multiple tables together, a third table called an "enrollments" table is used, with attributes for learners and courses. The enrollments table uses an "id" attribute to identify entries from one table to another, allowing data to be linked between tables.
+
+Relational databases have functions to access data, including SELECT, PROJECT, and JOIN operations. The SELECT operation retrieves data from a particular tuple, while the PROJECT operation extracts only some of the attributes of a table.
+
+The POWER of relational databases is that they allow you to combine multiple tables to create new combined tables, using the JOIN operation. This enables the creation of useful web pages without having to manually design each one.
+
+Databases also enable ordinary web users to contribute to parts of the website by saving their input to the database. This allows for user-generated content and dynamic web pages that can be updated in real-time.
+
+The modern web is made possible by the power of databases, which provide a way to store and manage large amounts of data in a structured and organized manner.
+
+---
+
+## Interview with Matthew Yee-king about NoSQL Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/PJlkx/interview-with-matthew-yee-king-about-nosql)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Dr. Matthew Yee-King discussed trends in current web programming, particularly the rise of NoSQL databases. He defined NoSQL as an alternative to traditional relational database models like SQL. NoSQL databases offer flexible data structures such as hierarchical and graph-based models. Dr. Yee-King used MongoDB as a common example of a NoSQL database, specifically a document storage database that stores structured documents in JSON format. This approach allows for easier data modeling and flexibility in storing complex relationships between data elements. In contrast, SQL databases use a flat rows and columns structure. NoSQL databases offer advantages such as the ability to store varied forms of data without a fixed schema. They also enable more flexible searching and indexing methods, but at the cost of potentially reduced efficiency compared to SQL databases. Dr. Yee-King mentioned that one of the key benefits of NoSQL databases is their flexibility in handling complex data structures. He used his own experience building a multiple-choice questioning survey engine as an example of how MongoDB's document-based approach simplified data modeling and querying. Another advantage of NoSQL databases is that they do not require defining a schema before storing data, allowing for more dynamic data models. However, this also means that searching and indexing data can be more complex in NoSQL databases compared to SQL databases. Despite these challenges, Dr. Yee-King noted that NoSQL databases are widely used in modern web development and offer an alternative approach to traditional relational database models. He emphasized the importance of understanding both SQL and NoSQL databases in today's web programming landscape.
+
+Key points:
+
+* NoSQL databases offer flexible data structures such as hierarchical and graph-based models.
+* MongoDB is a common example of a NoSQL database, specifically a document storage database that stores structured documents in JSON format.
+* NoSQL databases provide advantages such as flexibility in handling complex data structures and dynamic schema-less data modeling.
+* However, this also means that searching and indexing data can be more complex in NoSQL databases compared to SQL databases.
+* Dr. Yee-King emphasized the importance of understanding both SQL and NoSQL databases in today's web programming landscape.
+
+ Formulae and technical details:
+
+* NoSQL databases use a variety of data models, including:
+ + Hierarchical data model
+ + Graph-based data model
+* MongoDB is a document storage database that stores structured documents in JSON format.
+* SQL databases use a flat rows and columns structure.
+* NoSQL databases offer flexible searching and indexing methods, but at the cost of potentially reduced efficiency compared to SQL databases.
+
+---
+
+## Case study debrief: Coursera Video• . Duration: 8 minutes 8 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/iRMvn/case-study-debrief-coursera)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Coursera uses HTTPS protocol for secure communication with clients. Coursera runs on Amazon Web Services (AWS), which provides cloud hosting platform for multiple websites. AWS uses serverless architecture to scale resources dynamically. Coursera has a complex architecture that combines various technologies such as network protocols, HTTP, servers, databases, and HTML rendering. The website uses React framework for rendering web pages. Server-side rendering is used initially to render the full page on the server, but client-side rendering is used later to load only changed parts of the page. Coursera uses a combination of both server-side and client-side rendering to optimize performance. Thread pooling is used in the rendering process to improve efficiency. Video compression and transcoding are done using special methods to stream videos efficiently. The website also uses software frameworks for rendering web pages, such as React. HTML templates are sent to clients, and data is sent separately to be combined in the browser to create a web page. Server-side rendering allows powerful servers to do most of the work, while client-side rendering updates web pages with minimal data transfer. Coursera engineers constantly update and improve code to ensure smooth performance. The website's architecture is complex and involves multiple technologies that may not be immediately apparent from using the site.
+
+Note: I've condensed some information to fit the 15-sentence limit while trying to preserve key details, but some technical terms and concepts might still require further explanation or clarification.
+
+---
+
+## Summary Video• . Duration: 49 seconds 49 sec
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/8sXhC/summary)
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key You've done a lot this week....
+
+---
+
+## Database fundamentals Reading• . Duration: 1 hour 1h
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/becb4/database-fundamentals)
+
+There is no text provided for me to summarize. The text appears to be a description of a learning resource, including a reading assignment and practice quiz on database systems from the book "Computer Science: An Overview" by Brookshear and Brylow. If you could provide the actual text, I would be happy to assist you in summarizing it in 14 sentences.
+
+---
+

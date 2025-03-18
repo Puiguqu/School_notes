@@ -1,0 +1,16 @@
+# Boolean functions
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/DsDb9/boolean-functions
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A Boolean function defines a mapping from one or multiple Boolean input values to a Boolean output value. For n Boolean input values, there are 2^n possible combinations. A truth table can be used to represent a Boolean function, but it is not the only form of representation. The algebraic form of a Boolean function can be expressed in various ways, including the sum of products form and the product of sums form.
+
+The sum of products form is more convenient for simplification purposes. To build a function in this form, focus on the values of the variable that make the output equal to 1, then express it as the sum of products of all the terms for which f equals 1. If an input equals 0, its complement is used.
+
+The exclusive or function can be expressed as x or y = x'y + xy'. The implies function can be expressed as x → y = x' + y. Two useful Boolean functions are the exclusive or function and the implies function. These functions have specific truth tables that illustrate their behavior. 
+
+The sum of products form is used in this lecture for building Boolean functions. It allows for easier simplification of complex expressions.

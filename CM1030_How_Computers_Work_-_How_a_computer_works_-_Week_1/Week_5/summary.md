@@ -1,0 +1,106 @@
+# Week 5 - CM1030 How Computers Work - How a computer works - Week 1
+
+## The bit Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/geG5T/the-bit)
+
+There is no text provided for me to summarize. Please provide the text you would like me to summarize, and I'll be happy to assist you in condensing it into 4 sentences while preserving key information, formulae, and technical details.
+
+---
+
+## Data storage Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/oRXWW/data-storage)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The main memory of a computer stores information that is currently being used, whereas mass storage holds data permanently. Main memory uses microchips called Random Access Memory (RAM) to store information, while mass storage is achieved through various technologies such as hard disks, optical drives, and flash storage. Microchips handle bits, which can represent true or false values. The simplest operation on a bit is flipping it, making it its opposite. More complex operations combine two bits, such as AND, which produces an output of one if both inputs are one, but zero otherwise. A flip-flop circuit can store information by receiving a one on its top input, resulting in a one output that remains even when the input stops. This circuit is the basis of main memory chips. Mass storage devices vary widely, including hard disks, optical drives, and flash storage. SSDs (solid-state drives) are slower than RAM but much faster than traditional hard disks. Optical drives are slow to write to, making them suitable for permanent archiving rather than frequently changing documents. The tradeoff between storage capacity, power usage, and speed is significant in computer design. Modern computers often employ multiple types of storage, such as SSDs and hard disks, to balance these competing factors. Cloud storage offers massive hard disk space and guaranteed data retention, but at the cost of slower access times. Additionally, some main memory systems include a cache, which stores frequently accessed data for rapid retrieval.
+
+---
+
+## Why does my computer slow down if I open a big file? Video• . Duration: 2 minutes 2 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/hUF2Y/why-does-my-computer-slow-down-if-i-open-a-big-file)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The main memory is much faster than hard disks, which can slow down the loading of large files into an application. When a large file is loaded, it can freeze the application due to the slower speed of hard disks compared to main memory. However, this is not the only reason for slowing down after loading a large file; even if the file's loaded, the operating system may still be slowed down by other applications or processes using up all available main memory. When main memory becomes full, virtual memory is used to save some of the data to hard disk storage in an area called virtual memory. Virtual memory tries to minimize the amount of data stored in it that would otherwise be needed immediately. However, hard disks and virtual memory are much slower than real memory, which can slow down applications when using files stored in virtual memory. Upgrading memory is generally cheaper and easier than upgrading processors, making it a more cost-effective solution for slowing down issues caused by insufficient main memory. The operating system uses algorithms to decide what data should be stored in virtual memory, prioritizing the most critical or frequently used data over others. When an application runs out of main memory, it can switch between different applications and processes to find available space before loading a new file into memory. However, if the load is too large, the operating system may not have enough time to process the switch before loading the new file into virtual memory. If this happens repeatedly, it can cause an application or entire system to freeze due to the slow speed of hard disks and virtual memory. This slowdown can be mistaken for a processor problem but is often caused by insufficient main memory. The amount of data that needs to be stored in virtual memory depends on various factors such as the size of the file being loaded, how much RAM is available, and other processes competing for resources.
+
+---
+
+## Bytes and numbers Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/a5WKD/bytes-and-numbers)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Bits are simple representations that can be used for various types of data. To represent more complex data, bits must be combined together. In modern computers, memory is addressed in larger chunks, such as bytes, which are eight bits. Bytes are the standard measure of memory and are often too small to access directly on a computer. The smallest element that can be accessed is typically 64 bits or 8 bytes. This may seem inefficient, but accessing data in 64-bit chunks speeds up the computer.
+
+A byte can represent 256 different patterns of ones and zeros called bit patterns, each representing something different, such as letters, numbers, or colors. Numbers are useful because they can be used to represent other types of data. In the decimal system, each place value is multiplied by a power of 10, while in binary, each place value is multiplied by a power of 2. Binary notation can be used to represent decimal numbers as a pattern of bits.
+
+A single byte can only represent up to 255 numbers, but most computers use 32-bit or 64-bit representations, which can handle much larger numbers, including positive and negative values, as well as fractions. Numbers are the fundamental building block of everything on a computer and will be used as the basis for understanding other data representations.
+
+The decimal system is based on powers of 10, while binary is based on powers of 2, but both use place value to represent numbers. This concept can also be applied to other types of data, such as letters, images, and sounds. Understanding how bits, bytes, and numbers work together is essential for grasping computer science concepts.
+
+---
+
+## Other types of data Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/OCKBS/other-types-of-data)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+The American Standard Code for Information Interchange (ASCII) is a standard for representing texts that includes all English alphabet letters, numbers, and special characters in seven bits. However, this standard does not accommodate languages like French or German, which have accents, and excludes the majority of the world's population. A new standard called Unicode can represent almost any writing system and is extensible to include other writing systems. Many computer systems still use ASCII, but it is being replaced by Unicode. Text and numbers are a common combination in computer data, such as web pages, spreadsheets, and corporate databases. Images and sounds can also be represented as complex data. Pixels, or picture elements, make up images, with millions of pixels in modern pictures. Brightness is typically represented by eight bits, creating shades between black and white. Colors are created using three numbers (red, green, and blue) and a fourth number for transparency (alpha). The alpha channel allows for transparent images, where an alpha value of 0 means complete transparency. Videos are created by having sequences of images, which can be built from simple bits. Audio is represented as a series of microscopic changes in air pressure recorded as numbers, typically over 44,000 times per second. Sound files are made up of individual samples, and videos can include millions of numbers, making them large data files that can fill up memory chips and hard disks. Understanding how data is represented is crucial for computer performance, especially when working with complex data like images and audio. As a computer scientist, it's essential to understand data representation and design new representations to optimize data storage and processing.
+
+---
+
+## Interview with Sarah Wiseman about data entry Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/9VeEG/interview-with-sarah-wiseman-about-data-entry)
+
+The provided text is a transcript of a conversation between two individuals, likely a lecturer and a student, discussing the importance of data entry and number representation in various contexts. The discussion covers several topics, including:
+
+1. The challenges of designing effective number entry interfaces.
+2. The impact of errors in data entry on patient safety in medical settings.
+3. Strategies for preventing errors, such as triangulating data and checking user input.
+4. Examples of well-designed number entry interfaces, both good and bad.
+
+The conversation highlights the need for designers to consider the human factors involved in data entry, including cognitive biases and the tendency for users to overlook their mistakes. It also emphasizes the importance of testing and refining interface designs to ensure they are efficient, effective, and user-friendly.
+
+Some key takeaways from the discussion include:
+
+* Designing number entry interfaces that minimize errors requires a deep understanding of human factors and cognition.
+* Strategies such as triangulating data and checking user input can help prevent errors in high-stakes applications like medical settings.
+* Well-designed number entry interfaces should be intuitive, efficient, and visually appealing.
+* Poorly designed interfaces can lead to frustration and mistakes, highlighting the need for rigorous testing and iteration.
+
+The conversation also provides a glimpse into the importance of data representation, including how bits and numbers are used in various contexts. The discussion touches on the concept of video bytes and other forms of digital media, suggesting that understanding data representation is crucial for creating effective interfaces and experiences.
+
+Overall, the transcript highlights the significance of human-centered design principles in creating user-friendly and efficient interfaces for tasks like data entry. It emphasizes the need for designers to consider cognitive biases, user behavior, and technical requirements when designing interfaces that can minimize errors and optimize performance.
+
+---
+
+## Data storage Reading• . Duration: 1 hour 1h
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/CsMJ1/data-storage)
+
+The Essential reading for this topic on data representation is from: Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global edition). Chapter 1 Data storage. At this point you should read sections 1.1, 1.2, and 1.3. We will return to the chapter later in the topic. This reading is available in the Online Library via the VLeBooks collection. Lesson 5.0 Introduction Lesson 5.1 Data storage Discussion Prompt: Storage devices ....
+
+---
+
+## Data representation Reading• . Duration: 1 hour 1h
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/n7hfU/data-representation)
+
+There is no text provided for me to summarize. The given text appears to be a learning resource list or syllabus for a computer science course, and it does not contain any specific information that needs summarization.
+
+However, I can provide a summary of the learning resource list itself:
+
+The recommended reading for this topic on data representation is from Brookshear and Brylow's "Computer Science: An Overview" book, specifically Chapter 1 on Data Storage. It is essential to read sections 1.4 and 1.5, as well as appendices A and B. Optional readings include sections 1.6 and 1.7. The resources are available in the Online Library via VLeBooks collection.
+
+The learning activities include a discussion prompt, videos, reading assignments, and practice quizzes, which cover topics such as data storage, representation, and optimization of web page load time. These activities aim to provide students with a comprehensive understanding of data representation and its applications in computer science.
+
+If you could provide the actual text that needs summarization, I would be happy to assist you further.
+
+---
+

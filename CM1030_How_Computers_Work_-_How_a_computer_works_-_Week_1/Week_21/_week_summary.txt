@@ -1,0 +1,61 @@
+# Week_21 - Summary
+
+## Course summary
+Video•
+. Duration: 4 minutes
+4 min
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The course has concluded, and students are now ready to take the exam. The exam will feature multiple-choice questions based on the activities completed throughout the course. Some questions will test basic knowledge, while others will require critical thinking. Long-answer written questions will also be included, following the same pattern as peer reviews. The marking scheme uses the same rubrics as peer reviews. Students should be aware of what is being looked for in terms of content and structure.
+
+The exam will cover various topics, including networks, operating systems, data, and machine learning. It is designed to challenge students and push them to their limits. However, with adequate preparation, getting a good grade is possible. To prepare, students should practice and test themselves using ungraded quiz versions and additional practice questions. They can also try solving exercises again with different applications or websites.
+
+The course provides everything needed to pass and perform well on the exam. Students who have completed the course and studied the materials will be well-prepared for the exam. The final exam key concepts checklist and review should also be consulted before taking the exam.
+
+---
+
+## Example exam papers
+Reading•
+. Duration: 2 hours
+2h
+
+Here is a summary of the text in 15 sentences:
+
+The course provides two previous exam papers for practice, which are available in PDF format. The first paper was taken by students at Goldsmiths University of London, while the second was taken by students from University of London Worldwide in September 2019. The exams are in the same format and contain similar types of questions that will be on the actual exam. To prepare for the exam, it is recommended to take practice under timed conditions (2 hours) without access to answers. This allows students to assess their own performance and identify areas for improvement. If a student is unsure about an answer, they should review the relevant section of the course to check their understanding. The course provides a range of resources to support learning, including a 4-minute video summary, practice assignments, discussion prompts, and graded assignments. The exam covers various topics, including notional machines for applications and websites. Students can access example exam papers to familiarize themselves with the format and question types. The course aims to help students develop critical thinking and problem-solving skills through self-assessment and revision. By practicing under timed conditions, students can gauge their performance and refine their knowledge before the actual exam. The course also provides a final exam key concepts checklist and review to ensure students are well-prepared for the assessment. Overall, the course aims to provide students with a comprehensive learning experience that prepares them for the exam.
+
+---
+
+## Final exam key concepts checklist
+Reading•
+. Duration: 10 minutes
+10 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+To prepare for the final exam in the 'How Computers Work' course, it's essential to master key concepts, skills, and knowledge areas. Data representation and transmission involve understanding binary form, compression techniques (lossy and lossless), memory types (registers, RAM, hard disks), and machine instructions (e.g., LOAD and STORE). Computer architecture and hardware cover CPU components (ALU, control unit, registers), the memory hierarchy (Registers, Cache, RAM, Hard Disks), and file formats (uncompressed, lossless compressed, lossy compressed). Networking and communication involve IP addresses, network protocols (Application Layer, Transport Layer, Network Layer, Link Layer), network types (PAN, LAN, WAN), and web server components. Machine learning classification involves understanding that it outputs predefined categories, while machine learning project steps include data collection, feature extraction, model training, and model evaluation. Run-length encoding is a simple compression algorithm. Operating system components include system utilities, memory manager, kernel, process scheduler, security threats (viruses, phishing, DDoS Attacks), and semaphores. Practical applications and real-world scenarios involve GPS navigation, online shopping, face recognition, taking quizzes on platforms, and video game controllers. Understanding ASCII and Unicode character encoding standards is also crucial. The system bus plays a vital role in computer systems. Deadlock occurs when multiple processes wait for each other to release resources; it can be resolved using techniques like process prioritization or deadlock detection algorithms. URL components involve understanding the different parts of a URL (protocol, domain, path, query string) and their roles in networking and web servers. Mastering these key concepts will help prepare students for the final exam in the 'How Computers Work' course.
+
+---
+
+## Final exam key concepts review
+Reading•
+. Duration: 10 minutes
+10 min
+
+Here is the revised version of your question:
+
+I need help with understanding key concepts in computer science, particularly those related to networks, operating systems, machine learning, and software engineering.
+
+Can you provide me with information on:
+
+1. URL components: What are they, and how do they work?
+2. Deadlock in operating systems: How is it defined, and what are the causes and resolution methods?
+3. Machine learning classification: Can you explain this concept in detail, including data collection, feature extraction, model training, and evaluation?
+4. Software engineering concepts: What are system utilities, memory management, kernel, process scheduling, security threats, and semaphores?
+
+Additionally, can you provide examples of practical applications and real-world scenarios for each of these topics? I would also appreciate any additional resources or references that can help me further understand these concepts.
+
+Please feel free to ask if you need any clarification on the questions.
+
+---
+

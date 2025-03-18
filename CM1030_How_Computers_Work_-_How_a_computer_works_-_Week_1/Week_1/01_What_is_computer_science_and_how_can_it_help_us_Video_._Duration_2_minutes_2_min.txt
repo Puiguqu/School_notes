@@ -1,0 +1,10 @@
+# What is computer science and how can it help us?
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/UBZG7/what-is-computer-science-and-how-can-it-help-us
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Computer science is defined as the science of computers, aiming to understand their inner workings. The course aims to introduce students to fundamental ideas used by computer scientists to think about and understand computers. Computer science can be applied to various aspects beyond software development. It encompasses understanding living things (biology) and society (social sciences), with a focus on computers. Computers are ubiquitous devices that work similarly, despite varying user interfaces. The course will explore practical problems faced by users and apply theoretical concepts to solve them. It is not a manual for a specific piece of software but rather an introduction to fundamental ideas in computer science. This knowledge can be applied to various daily activities with computers. The course is designed to provide hands-on experience with practical problems, expanding the scope of theory-based concepts. Computer science aims to understand the underlying principles and mechanisms that govern computing systems. It involves analyzing complex systems, identifying patterns, and developing solutions. Understanding computer science can lead to innovative ideas and problem-solving approaches in various fields. The course is designed for users interested in understanding computers better, whether for personal or professional purposes. It provides a comprehensive introduction to computer science concepts and practical applications. By the end of the course, students will gain a solid foundation in fundamental ideas and be equipped to tackle everyday problems with computers. The course promises to provide engaging learning experiences through video lectures, readings, and interactive discussions.

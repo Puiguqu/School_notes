@@ -1,0 +1,14 @@
+# Laws of propositional logic
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/iQQpn/laws-of-propositional-logic
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Propositional logic is an algebra involving multiple laws that enable reasoning and proof of equivalence. The law of idempotence states that p or p is equivalent to p and p and p is equivalent to p. The commutative law states that p or q is equivalent to q or p and p and q is equivalent to q and p. The associative law states that the conjunction and disjunction operators can be distributed over each other. The distributive law states that the order of operators does not matter as long as the sequence remains the same. The identity law states that p or false is equivalent to p and p and true is equivalent to p. The domination law states that p or true is always equivalent to true and p and false is always equivalent to false.
+
+DeMorgan's laws formalize how we negate conjunction and disjunction, ensuring that we change the logical connective after negating a proposition. The Absorption laws state that p or p and q is equivalent to p and p and q or q is equivalent to p. The negation law states that p or not p is always true (tautology) and p and not p is always false. The Double Negation law states that not not p is equivalent to p.
+
+To prove equivalence between two compound propositions, we can use DeMorgan's laws, double negation, distributive laws, and identity laws. For example, the given proposition "not p and not q or q" can be simplified using these laws to arrive at a logically equivalent form "true and not p or not q". This demonstrates how propositional logic laws can be used to simplify complex expressions and prove equivalence between two propositions.

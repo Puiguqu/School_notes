@@ -1,0 +1,26 @@
+# Operating system security
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/dvzIj/operating-system-security
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Operating systems have a crucial role in protecting data from unauthorized access.
+2. The most basic security function provided by an operating system is a login, which ensures that only authorized users can access the computer.
+3. However, with multiple users sharing a computer, it's essential to restrict what each user can do, such as accessing other people's files.
+4. To achieve this, there are two levels of access: ordinary users and administrators (also known as superusers or root users).
+5. Ordinary users have limited rights, including the ability to use applications and change personal data, but not access other users' files or make changes to the computer.
+6. Administrators, on the other hand, have complete control over the computer, including installing applications, adding new users, and deleting user accounts.
+7. The operating system uses a concept called memory management to prevent one application from accessing the memory space of another.
+8. To achieve this, the operating system has two levels of machine instructions: Privileged Instructions and regular instructions.
+9. Privileged Instructions are restricted to privileged code, such as the kernel of the operating system, and can only be executed by authorized processes.
+10. Regular instructions, on the other hand, can be executed by any process and do not have access to privileged memory areas.
+11. The CPU's hardware enforces these privilege levels, preventing unauthorized code from accessing privileged instructions.
+12. Security in operating systems is built into both the software (operating system) and hardware (CPU).
+13. Understanding how operating systems secure data and prevent unauthorized access is essential for managing computers and networks.
+14. Malware protection is a critical aspect of operating system security, and users must be aware of the risks and take steps to protect themselves.
+15. The lesson discusses the importance of operating system security and provides resources for further learning, including videos, readings, and practice assignments.
+
+Note: I've kept the key concepts and technical details, but summarized the text in a way that's easy to understand. If you'd like me to elaborate on any specific point, feel free to ask!

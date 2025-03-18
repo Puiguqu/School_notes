@@ -1,0 +1,27 @@
+# Interview with Matthew Yee-king about NoSQL
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/PJlkx/interview-with-matthew-yee-king-about-nosql
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+Dr. Matthew Yee-King discussed trends in current web programming, particularly the rise of NoSQL databases. He defined NoSQL as an alternative to traditional relational database models like SQL. NoSQL databases offer flexible data structures such as hierarchical and graph-based models. Dr. Yee-King used MongoDB as a common example of a NoSQL database, specifically a document storage database that stores structured documents in JSON format. This approach allows for easier data modeling and flexibility in storing complex relationships between data elements. In contrast, SQL databases use a flat rows and columns structure. NoSQL databases offer advantages such as the ability to store varied forms of data without a fixed schema. They also enable more flexible searching and indexing methods, but at the cost of potentially reduced efficiency compared to SQL databases. Dr. Yee-King mentioned that one of the key benefits of NoSQL databases is their flexibility in handling complex data structures. He used his own experience building a multiple-choice questioning survey engine as an example of how MongoDB's document-based approach simplified data modeling and querying. Another advantage of NoSQL databases is that they do not require defining a schema before storing data, allowing for more dynamic data models. However, this also means that searching and indexing data can be more complex in NoSQL databases compared to SQL databases. Despite these challenges, Dr. Yee-King noted that NoSQL databases are widely used in modern web development and offer an alternative approach to traditional relational database models. He emphasized the importance of understanding both SQL and NoSQL databases in today's web programming landscape.
+
+Key points:
+
+* NoSQL databases offer flexible data structures such as hierarchical and graph-based models.
+* MongoDB is a common example of a NoSQL database, specifically a document storage database that stores structured documents in JSON format.
+* NoSQL databases provide advantages such as flexibility in handling complex data structures and dynamic schema-less data modeling.
+* However, this also means that searching and indexing data can be more complex in NoSQL databases compared to SQL databases.
+* Dr. Yee-King emphasized the importance of understanding both SQL and NoSQL databases in today's web programming landscape.
+
+ Formulae and technical details:
+
+* NoSQL databases use a variety of data models, including:
+ + Hierarchical data model
+ + Graph-based data model
+* MongoDB is a document storage database that stores structured documents in JSON format.
+* SQL databases use a flat rows and columns structure.
+* NoSQL databases offer flexible searching and indexing methods, but at the cost of potentially reduced efficiency compared to SQL databases.

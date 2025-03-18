@@ -1,0 +1,6 @@
+# The world wide web Reading• . Duration: 1 hour 1h
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/IpIhQ/the-world-wide-web)
+
+I don't see any provided text for me to summarize. The text appears to be a description of an online learning resource, including a video, reading, practice assignment, and discussion prompt, related to computer science and networking. If you provide the actual text, I can help summarize it in 15 sentences, preserving key information, formulae, and technical details.
+

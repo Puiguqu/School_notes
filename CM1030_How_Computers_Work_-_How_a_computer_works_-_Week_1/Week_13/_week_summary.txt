@@ -1,0 +1,103 @@
+# Week_13 - Summary
+
+## Introduction to Networks
+Video•
+. Duration: 1 minute
+1 min
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys....
+
+---
+
+## Networks
+Video•
+. Duration: 6 minutes
+6 min
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+A network is a collection of computers connected together to communicate. Networks can be classified based on their physical connections, such as wired (Ethernet) or wireless (WiFi). However, networks can also be classified based on their size, with Local Area Networks (LANs) connecting computers in close proximity, Wide Area Networks (WANs) connecting across a larger area, and Personal Area Networks (PANS) connecting multiple devices to each other. Clusters are computers networked together to combine power and increase reliability. Networks can be classified based on their topology, with star networks having a central computer connected to peripheral devices, bus networks using a single wire or hub to connect devices, and ring networks having devices connected in a circular configuration.
+
+Switches and routers are used to connect networks of the same type (switches) or different types (routers), respectively. Client-server communication is a common model where individual computers (clients) communicate with a central computer (server). This model is similar to a star network but uses virtual connections rather than physical ones. Peer-to-peer communication, on the other hand, allows individual computers to communicate directly with each other. Network protocols, such as TCP/IP and HTTP, govern how data is transmitted over networks.
+
+LANs are often connected to WANs, which can span across multiple locations or even countries. PANs are typically used for mobile devices and personal use cases. Cluster configurations allow for increased power and reliability by distributing workload among multiple computers. Understanding network architectures, protocols, and topologies is essential for designing and implementing efficient networks.
+
+Note that I've tried to preserve the original text's format and focus on key information, technical details, and important concepts, while also condensing it into 15 sentences.
+
+---
+
+## Interview Case study: How does a campus network work?
+Video•
+. Duration: 3 minutes
+3 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The Goldsmiths campus has a single physical network that connects all desktop computers via Ethernet cables to switches, which are then connected to multiple switches around the campus, ultimately connecting to servers. However, the network is separated into separate Virtual Local Area Networks (VLANs) using virtual local area networks (VLANs). Each port within a switch can be configured to connect to a different VLAN, allowing separation of services and configuration of the network into segmented areas. Students can connect wirelessly with their own computers by logging in with their Goldsmiths username and password, accessing the Wi-Fi network, which is made up of wireless access points connected to the physical network through separate VLANs. The Goldsmiths network uses Dynamic Host Configuration Protocol (DHCP) for IP address assignment to computers that connect to the physical network. DHCP assigns an IP address within a set range from a DHCP server in response to a computer's request. Some machines may have static IP addresses, which remain unchanged and are useful for servers with fixed addresses. The Goldsmiths network connects to the Internet through the Joint Academic Network (JANET), a network connecting UK education institutions and research institutions. JANET provides internet access by connecting the Goldsmiths network to the wider Internet. The campus network is managed as a single, large physical network but functions within separate VLANs for different services and configurations. The use of VLANs allows for efficient management of the network and separation of services. The Goldsmiths network supports wireless connectivity with students' computers using their usernames and passwords to authenticate access to the Wi-Fi network. Understanding how networks work is crucial, especially in university or corporate settings where networking plays a vital role. Network architectures, including video networks and interview case studies, provide insights into different aspects of network functioning. Network protocols, like DHCP, are essential for managing and configuring the physical network, including IP address assignment to computers connecting to it. 
+
+Note that I've kept the original structure and sentence structure as much as possible while condensing the information into a shorter summary. Let me know if you have any further requests!
+
+---
+
+## Network protocols
+Video•
+. Duration: 6 minutes
+6 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+1. Protocols are essential for network communication as they provide rules for computers to follow over networks.
+2. Protocols prevent problems that can occur during network communications, such as messages being mixed up or transmitted at the same time.
+3. Carrier Sense Multiple Access with Collision Detection (CSMA/CD) is a protocol implemented in the Ethernet standard to resolve collisions and ensure efficient transmission.
+4. Messages are divided into packets, each containing message data and additional information, known as the packet header.
+5. Protocols define the information contained within the packet header.
+6. When sending a packet over the internet, it must use both the protocols of the physical network being used and the internet protocol (IP) protocol.
+7. The IP packet is then encapsulated in another packet for the physical network being used, such as Wi-Fi or Ethernet.
+8. Routers remove the IP packet from the physical network packet and re-encapsulate it with a new packet to be sent over the next network.
+9. Data is typically transmitted using multiple layers of packets inside other packets, each based on a different protocol.
+10. The innermost layer is normally the application layer, which includes protocols such as HTTP for web pages and POP/SMTP for email.
+11. The transport layer handles communication between the start point and destination of a message, without worrying about content or networks.
+12. TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two examples of transport layer protocols.
+13. The network layer handles transmission across multiple networks, including routers, and is almost always implemented using IP protocol.
+14. The link layer protocol handles transmission over a single physical network, such as Ethernet or Wi-Fi.
+15. Network ports, which are numbers attached to packets, determine where the packet should be sent, allowing software to decide which application to use it with.
+
+Note: I did not include some minor details and examples in this summary for brevity. Let me know if you need anything else!
+
+---
+
+## TCP and UDP
+Video•
+. Duration: 7 minutes
+7 min
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The internet standard defines two main transport layer protocols: Transmission Control Protocol (TCP) and User Datagram Protocol (UDP). TCP is a reliable protocol that ensures messages get through, while UDP is an unreliable protocol suitable for real-time applications. In the context of mobile payments, TCP establishes a connection between the sender's phone and the recipient's bank to ensure message reliability. The connection is established by sending packets with the "syn" packet to confirm readiness. Once connected, devices can send data, with acknowledgments sent after each packet transmission. To handle large data sets, TCP assigns numbers to packets (e.g., packet 1, packet 2). Acknowledgments always include the packet number for sender verification.
+
+However, if packets get lost or are delayed, TCP's reliance on acknowledgments slows down communication. In contrast, UDP sends packets without acknowledging them and does not resend lost packets. For example, in an online racing game, using TCP would delay gameplay due to frequent acknowledgement requests. Using UDP allows for faster communication, as lost packets can be adjusted during the game.
+
+In summary, TCP prioritizes message reliability over speed, while UDP balances speed with minimal latency. The transport layer ensures that messages reach their destination without considering content, and the application layer handles specific applications' needs, such as ultra-reliable or real-time communication.
+
+---
+
+## Network fundamentals
+Reading•
+. Duration: 1 hour
+1h
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.1. This reading is available in the Online Library via the VLeBooks collection. Lesson 13.0 Introduction Lesson 13.1 Network architectures Video: Video Networks . Duration: 6 minutes 6 min Reading: Reading Network fundamentals . Duration: 1 hour 1h Practice Assignment: Practice quiz – Five questions on networks ....
+
+---
+
+## Internet protocols
+Reading•
+. Duration: 1 hour
+1h
+
+There is no text to summarize. The provided text appears to be a citation for a computer science book, specifically chapter and lesson information from a online library. It does not contain any content that needs to be summarized.
+
+If you could provide the actual text you would like me to summarize, I would be happy to assist you.
+
+---
+

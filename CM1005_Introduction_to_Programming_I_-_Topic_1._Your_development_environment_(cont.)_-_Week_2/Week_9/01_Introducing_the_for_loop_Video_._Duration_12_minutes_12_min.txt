@@ -1,0 +1,24 @@
+# Introducing the for loop
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/CfwCi/introducing-the-for-loop
+
+This is not a problem to be solved, but rather a transcript of a lesson on programming in Processing, specifically on the use of for loops.
+
+However, I can provide some general guidance on how to apply the concepts learned from this lesson:
+
+**For Loops**
+
+1. **Understand the syntax**: A for loop consists of three parts: initialization, update, and increment/decrement.
+2. **Use variable incrementation**: Instead of hardcoding a value, use a variable to control the increment or decrement.
+3. **Use the index variable**: Access array elements using their index (position) in the array.
+
+**Tips**
+
+1. **Practice, practice, practice!** For loops can be tricky at first, so make sure to experiment and practice regularly.
+2. **Debugging is key**: Use the debugger or print statements to identify issues with your code.
+3. **Combine with conditional statements**: Use for loops in conjunction with if/else statements to create more complex logic.
+
+If you have a specific problem or coding task related to this lesson, feel free to share it, and I'll do my best to assist you!

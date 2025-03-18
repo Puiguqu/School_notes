@@ -1,0 +1,32 @@
+# Platforms
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/0Hs92/platforms
+
+I'll provide a response in the format you requested.
+
+There is no specific problem to solve, but rather a series of instructions and guidance on creating a game project.
+
+However, I can provide some general guidance on completing the tasks mentioned:
+
+1. Adding a platform: To add another platform, follow these steps:
+	* Create a new object with the `platforms.push` method.
+	* Set the x-coordinate to 500 (as specified in the instructions).
+	* Set the y-coordinate to 200 (as specified in the instructions).
+	* Use the `floorPos_y-100` calculation to set the y-coordinate correctly.
+2. Checking for contact with a platform: To check if the character is in contact with a platform, follow these steps:
+	* Create a variable `isContact` and initialize it to false.
+	* Loop through each platform using the `for` loop.
+	* Call the `checkContact` method on each platform and store the result in the `isContact` variable.
+	* If `isContact` is true, set the character's position accordingly (e.g., stop falling).
+3. Creating enemies with constructor functions: To create enemies using constructor functions, follow these steps:
+	* Create a new function that takes in parameters for the enemy's properties (e.g., x-coordinate, y-coordinate, size, etc.).
+	* Use this function to create multiple enemy objects.
+4. Completing Sleuth and preparing for assessment: To complete Sleuth and prepare for assessment, follow these steps:
+	* Review your game project code and make sure it is complete and functional.
+	* Test your game thoroughly to ensure that all features are working as expected.
+	* Prepare a written report or presentation to describe your game project and its components.
+
+Please let me know if you have any specific questions or need further guidance on completing these tasks.

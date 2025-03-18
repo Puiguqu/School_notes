@@ -1,0 +1,8 @@
+# Set operations reading and practice questions Reading• . Duration: 2 hours 2h
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/CeoYL/set-operations-reading-and-practice-questions)
+
+Here is a summary of the text in 15 sentences:
+
+The provided text mentions various topics for consolidation, including set operations, complement of a set, symmetric difference, membership tables, De Morgan's laws, and set properties. These topics are covered on pages 78-86 of Koshy's book. The text also references exercises on pages 93, specifically questions 5, 6, 7, 8, 11, 12, 14, 17, 27, 34, 35, 39, and 42. Some exercises have solutions provided in the "Solutions to Odd-Numbered Exercises" section at the back of the book. The text advises students to consult this section if they are unsure about their answers. Additionally, the text mentions several video lectures that cover these topics. These videos include the representation of a set using Venn diagrams, De Morgan's laws, and the laws of sets (commutative, associative, and distributive). The text also references practice assignments for each topic. There is a 4-minute video on the representation of a set using Venn diagrams, an 8-minute video on De Morgan's laws, and an 11-minute video on the laws of sets. Furthermore, the text mentions a reading assignment for 15 minutes that covers the laws of sets. The text also references a practice assignment for partitioning a set. The purpose of this lesson is to review and consolidate knowledge of various set operations concepts.
+

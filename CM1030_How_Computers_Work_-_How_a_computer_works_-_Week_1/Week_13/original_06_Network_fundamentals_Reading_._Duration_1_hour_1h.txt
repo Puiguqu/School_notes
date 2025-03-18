@@ -1,0 +1,8 @@
+# Network fundamentals
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/9RIUK/network-fundamentals
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.1. This reading is available in the Online Library via the VLeBooks collection. Lesson 13.0 Introduction Lesson 13.1 Network architectures Video: Video Networks . Duration: 6 minutes 6 min Reading: Reading Network fundamentals . Duration: 1 hour 1h Practice Assignment: Practice quiz – Five questions on networks . Duration: 30 minutes 30 min Video: Video Interview Case study: How does a campus network work? . Duration: 3 minutes 3 min Discussion Prompt: A network near you . Duration: 30 minutes 30 min Lesson 13.2 Network protocols Network fundamentals Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet. Read Section 4.1. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

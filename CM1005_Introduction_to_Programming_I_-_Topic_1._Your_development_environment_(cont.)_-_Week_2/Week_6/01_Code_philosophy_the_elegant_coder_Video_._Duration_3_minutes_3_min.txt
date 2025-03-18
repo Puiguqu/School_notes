@@ -1,0 +1,16 @@
+# Code philosophy: the elegant coder
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/K6c0Y/code-philosophy-the-elegant-coder
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Elegant code is about writing efficient and readable code that conveys its purpose without unnecessary complexity. According to Antoine Saint-Exupéry, perfection is achieved when there's nothing left to take away, implying that elegant code should be minimalistic. Elegant code aims for well-named variables, good use of objects, logical organization, and explanatory comments. On the other hand, redundancy, commented out blocks of unused code, unused variables, and unnecessary images are not elegant. Coders strive to avoid these elements to write clean and maintainable code.
+
+Elegant code follows conventions, including aligning brackets and indenting code between them by one's hub. When lines get long, coders often break them onto separate lines and use comments to plan their work. The goal is to make the code as simple as possible while still being functional.
+
+The concept of elegant code was discussed in relation to Fredrik Olofsson's tweet-length music code fragments, which produced intricate music despite being concise. However, coders would not consider this "elegant" due to its complexity. A winning entry from the 2004 obfuscated C competition showcased clever but tortuously complex code that failed the test for elegance.
+
+In summary, elegant code is about writing efficient, readable, and maintainable code that follows conventions and avoids redundancy. Coders should strive to write simple yet functional code that conveys its purpose without unnecessary complexity.

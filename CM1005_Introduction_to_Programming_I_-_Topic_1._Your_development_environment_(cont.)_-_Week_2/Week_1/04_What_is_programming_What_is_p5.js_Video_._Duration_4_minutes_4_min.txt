@@ -1,0 +1,18 @@
+# What is programming? What is p5.js?
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/T1nL0/what-is-programming-what-is-p5-js
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+A program consists of individual commands that are executed by the computer to perform specific actions. These commands are the smallest building blocks of a program and are put together in the right order to solve a problem or complete a task. The language used to write these commands is called Source Code or code. A code editor, such as Brackets Editor, is used to write and edit code, providing suggestions and spotting errors.
+
+A programming language sets the vocabulary for the commands used in a program, and the computer interprets these commands to convert them into binary instructions that its hardware understands. The language used in this course is JavaScript, which is powerful but relatively easy to learn and widely used in websites and applications such as Google Docs and Coursera.
+
+A library is a collection of code written by someone else that can be used in a program to avoid reinventing the wheel. The p5.JS library is designed for beginners and focuses on creating graphical JavaScript applications and animations. It allows users to develop more complicated programs with less boilerplate code.
+
+Writing a program involves entering commands and saving them to a file on the computer, requiring precision and attention to detail. Running a program, or executing it, can be done by clicking a button in a code editor, such as Brackets, which launches the web browser. The language used determines the dictionary of commands available for use.
+
+The computer interprets these commands and converts them into binary instructions that its hardware understands, allowing it to execute the program. A 2D coordinate system is used in programming, with x and y coordinates defining the position of objects on a screen. Practice assignments, such as running a first program, are provided to help users get started with p5.JS.

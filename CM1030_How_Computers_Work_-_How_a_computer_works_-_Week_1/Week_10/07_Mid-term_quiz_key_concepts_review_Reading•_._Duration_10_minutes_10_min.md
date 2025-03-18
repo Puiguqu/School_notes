@@ -1,0 +1,16 @@
+# Mid-term quiz key concepts review Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/y5ran/mid-term-quiz-key-concepts-review)
+
+Here is a summary of the text in 15 sentences:
+
+Encryption converts data into a coded format to prevent unauthorized access. This ensures that only those with the correct decryption key can read the information, protecting sensitive data from hackers. Dynamic libraries are collections of code that applications use at runtime but are not included in the main executable file. This allows for modular programming and efficient memory usage, as the same library can be used by multiple programs simultaneously.
+
+Memory addresses are unique identifiers for specific locations in a computer's memory. They allow the CPU to access and manipulate data stored at that location efficiently. Peripheral devices like keyboards and mice connect to the system bus via device controllers, which manage communication between the peripheral and the CPU.
+
+Domain names are human-readable addresses used to access websites, mapping to numerical IP addresses assigned to each device on a network. Domain names are easier for humans to remember and use. Utilities are small software programs designed to perform specific tasks like disk formatting, file management, and system diagnostics.
+
+These tools help maintain and optimize computer performance. The MEMLOAD instruction loads data from main memory into a register, crucial for data manipulation and processing within the CPU. Computer security measures, such as background processes, privileged instructions, and administrator access, prevent malware from operating unnoticed.
+
+File size comparisons can be made by comparing an uncompressed image of 896x1024 pixels to text, which is roughly equivalent in file size. Run-length encoding is a simple compression technique effective on images with large areas of uniform color. By mastering these concepts and skills, students will be well-prepared to complete the 'How Computers Work' mid-term exam.
+

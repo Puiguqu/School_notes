@@ -1,0 +1,31 @@
+# Game project part 2a: game character
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/pc0l7/game-project-part-2a-game-character
+
+Based on the provided transcript, I will provide a summary of the main points and key takeaways from the lesson:
+
+**Lesson Summary**
+
+The lesson focuses on creating game characters using code. The instructor provides step-by-step guidance on how to draw a basic character using Visual Studio Code.
+
+**Key Takeaways**
+
+1. **Start with simple shapes**: Begin by drawing basic shapes, such as ellipses, rectangles, and lines, to create the foundation of your character.
+2. **Use variables to position elements**: Use variables to position elements on the screen, making it easier to move and align them.
+3. **Copy and paste code**: To avoid repetitive code, learn how to copy and paste sections of code.
+4. **Keep code concise**: Aim for 10-15 lines of code to draw a character, as longer code can become complex and difficult to manage.
+5. **Practice with different variations**: Experiment with varying the character's design, such as changing the body shape or adding arms.
+6. **Use comments and referencing**: Use comments to explain your code and reference other sections of code when needed.
+
+**Actionable Tips**
+
+1. Practice drawing simple shapes using Visual Studio Code.
+2. Experiment with positioning elements using variables.
+3. Learn how to copy and paste code efficiently.
+4. Keep your code concise and organized.
+5. Try different character variations to improve your design skills.
+
+By following these tips and practicing regularly, you can develop your coding skills and create more complex and engaging game characters.

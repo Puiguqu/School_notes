@@ -1,0 +1,16 @@
+# Machine learning Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/kA0Hg/machine-learning)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Machine learning is an approach to programming computers that involves teaching them by giving them examples of what to do. Instead of writing code to solve a task, a machine learning algorithm learns from data to perform a specific function. The algorithm uses statistical methods to analyze the data and adapt its performance over time. Deep neural networks, also known as deep learning, are a type of machine learning that has become increasingly popular due to the availability of large amounts of data and powerful computing resources. However, the underlying algorithms used in deep learning have been around for decades.
+
+Machine learning involves creating statistical programs called models that take an input and produce an output. The model is trained on example data, which includes both inputs and corresponding outputs. The algorithm adapts the details of the model to map inputs to outputs based on the training data. Once trained, a machine learning model can be used to make predictions on new, unseen data.
+
+Machine learning has many applications, including image recognition, natural language processing, and speech recognition. It can also be used for classification tasks, such as identifying objects in images or determining medical diagnoses. Regression is another type of output, where the algorithm produces continuous values rather than discrete categories. Generative models can create new examples, such as generating music or text.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning involves training a model on labeled data to predict outputs. Unsupervised learning involves training a model on unlabeled data to identify patterns or categories. Reinforcement learning involves training a model through trial and error, where the algorithm receives rewards for correct behavior.
+
+Machine learning has become increasingly important in recent years due to advances in computing power and data availability. The field continues to evolve as new algorithms and techniques are developed to improve performance and efficiency.
+

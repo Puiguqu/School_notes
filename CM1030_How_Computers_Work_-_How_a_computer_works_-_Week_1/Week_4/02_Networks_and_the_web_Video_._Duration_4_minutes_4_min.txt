@@ -1,0 +1,10 @@
+# Networks and the web
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/mquGg/networks-and-the-web
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The web is a network technology that fundamentally relies on communication over networks. Websites are accessed through organizations' web servers, which hold information used by many people via different clients (computers or software). Communication between clients and servers occurs through packets sent using the Internet Protocol (IP) and Hypertext Transfer Protocol (HTTP). HTTP is a protocol that allows for the transfer of data over IP. To access a website, a client (such as a web browser) sends an HTTP request packet to a server, which includes a URL consisting of "HTTP", domain name, and query string. The query string allows websites to create pages tailored to individual requirements. When a server receives a query, it sends back a web page, which is typically too large for single packets, so it's split into multiple packets. Some elements like pictures are sent separately from text. Modern websites are networked applications that rely on transferring packets across the Internet between clients and servers. The client sends HTTP requests, and the server responds with web pages. The web uses IP to enable communication over the Internet and HTTP as a protocol to transfer data between servers and clients. A query string is used to specify requirements for website content. Web search engines use query strings to create results tailored to individual needs. The web's functionality relies on state, modularity, networks, security, and client-server communication.

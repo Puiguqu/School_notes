@@ -1,0 +1,8 @@
+# Internet protocols
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/ZGKxe/internet-protocols
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet Read Section 4.4. This reading is available in the Online Library via the VLeBooks collection. Lesson 13.0 Introduction Lesson 13.1 Network architectures Lesson 13.2 Network protocols Video: Video Network protocols . Duration: 6 minutes 6 min Reading: Reading Internet protocols . Duration: 1 hour 1h Video: Video TCP and UDP . Duration: 7 minutes 7 min Practice Assignment: Practice quiz – Five questions on network protocols . Duration: 30 minutes 30 min Discussion Prompt: Networked software . Duration: 30 minutes 30 min Internet protocols Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 4 Networking and the internet Read Section 4.4. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

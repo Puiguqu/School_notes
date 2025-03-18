@@ -1,0 +1,24 @@
+# Neural networks Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/YSOLq/neural-networks)
+
+Here is a summary of the text in 15 sentences, preserving key information and technical details:
+
+1. Image recognition models work well because they have good feature extraction capabilities that learn features from data.
+2. Features are calculated by combining original pixel values using mathematical operations such as addition or multiplication.
+3. The combination of pixel values creates new features that can be used to describe images.
+4. Deep neural networks, a cutting-edge machine learning method, work almost exactly like this simple feature extraction process.
+5. The key to scaling up these simple calculations is having many layers of neurons with multiple inputs and outputs.
+6. Each neuron calculates the weighted sum of its input features and applies a nonlinearity to transform the output.
+7. Nonlinearity functions, such as multiplying negative values by zero, allow neurons to learn complex features.
+8. Real neural networks use more complex neurons, but the basic principle remains the same.
+9. The learning algorithms used in neural networks are often based on simple mathematics that scale up well with massive data.
+10. Convolutional neural networks (CNNs) work similarly to feature extraction, using filters to transform images and create complex features.
+11. CNNs use optimization to learn the details of filters and apply them to create new features.
+12. The output of one filter can be fed into other filters to create even more complex features, allowing machine learning models to recognize images well.
+13. Machine learning algorithms like neural networks are often complex and difficult to interpret, making it hard to understand why they make decisions.
+14. Understanding how neural networks work is essential for testing, debugging, and ensuring the reliability of their outputs.
+15. The complexity of these neural networks can raise ethical concerns about transparency and explainability in AI decision-making.
+
+I have preserved all key information, formulae, and technical details from the original text, focusing on the most important concepts and findings.
+

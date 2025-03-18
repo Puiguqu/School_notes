@@ -1,0 +1,663 @@
+# CM1030 How Computers Work - How a computer works - Week 1
+
+## Table of Contents
+
+- Week 1
+- Week 10
+- Week 11
+- Week 12
+- Week 13
+- Week 14
+- Week 15
+- Week 16
+- Week 17
+- Week 18
+- Week 19
+- Week 2
+- Week 20
+- Week 21
+- Week 3
+- Week 4
+- Week 5
+- Week 6
+- Week 7
+- Week 8
+- Week 9
+
+## Week 1
+
+- What is computer science and how can it help us?
+Video•
+. Duration: 2 minutes
+2 min
+- How you will learn
+Video•
+. Duration: 5 minutes
+5 min
+- Abstraction
+Video•
+. Duration: 4 minutes
+4 min
+- Abstraction in data representations
+Video•
+. Duration: 4 minutes
+4 min
+- Notional machines
+Video•
+. Duration: 4 minutes
+4 min
+- CPU and memory
+Video•
+. Duration: 3 minutes
+3 min
+- Module syllabus
+Reading•
+. Duration: 10 minutes
+10 min
+- Module step-by-step guide
+Reading•
+. Duration: 10 minutes
+10 min
+- Abstraction and abstraction in data representations – lecture summary
+Reading•
+. Duration: 10 minutes
+10 min
+- Notional machines – lecture summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 10
+
+- Operating system security
+Video•
+. Duration: 7 minutes
+7 min
+- Summary
+Video•
+. Duration: 55 seconds
+55 sec
+- New Video
+Video•
+. Duration: 1 minute
+1 min
+- Security
+Reading•
+. Duration: 50 minutes
+50 min
+- What you need to submit by the end of Week 12
+Reading•
+. Duration: 10 minutes
+10 min
+- Mid-term quiz key concepts checklist
+Reading•
+. Duration: 10 minutes
+10 min
+- Mid-term quiz key concepts review
+Reading•
+. Duration: 10 minutes
+10 min
+- What is Studiosity?
+Reading•
+. Duration: 10 minutes
+10 min
+Resume
+. Click to resume
+- What does the feedback cover
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 11
+
+- Multitasking
+Video•
+. Duration: 1 minute
+1 min
+- History of operating systems
+Video•
+. Duration: 6 minutes
+6 min
+- Processes
+Video•
+. Duration: 4 minutes
+4 min
+- History of operating systems
+Reading•
+. Duration: 50 minutes
+50 min
+- Coordinating the machine's activities
+Reading•
+. Duration: 45 minutes
+45 min
+- Process simulation
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 12
+
+- Semaphores
+Video•
+. Duration: 5 minutes
+5 min
+- Mobile payments
+Video•
+. Duration: 4 minutes
+4 min
+- Case study debrief
+Video•
+. Duration: 3 minutes
+3 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Handling competition among processes
+Reading•
+. Duration: 50 minutes
+50 min
+
+## Week 13
+
+- Introduction to Networks
+Video•
+. Duration: 1 minute
+1 min
+- Networks
+Video•
+. Duration: 6 minutes
+6 min
+- Interview Case study: How does a campus network work?
+Video•
+. Duration: 3 minutes
+3 min
+- Network protocols
+Video•
+. Duration: 6 minutes
+6 min
+- TCP and UDP
+Video•
+. Duration: 7 minutes
+7 min
+- Network fundamentals
+Reading•
+. Duration: 1 hour
+1h
+- Internet protocols
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 14
+
+- Network security
+Video•
+. Duration: 4 minutes
+4 min
+- Interview Case study: protecting a network
+Video•
+. Duration: 2 minutes
+2 min
+- Introduction to peer review
+Video•
+. Duration: 1 minute
+1 min
+- Summary
+Video•
+. Duration: 54 seconds
+54 sec
+- Network security
+Reading•
+. Duration: 50 minutes
+50 min
+
+## Week 15
+
+- Introduction to the web
+Video•
+. Duration: 1 minute
+1 min
+- Internet application protocols
+Video•
+. Duration: 6 minutes
+6 min
+- Web servers
+Video•
+. Duration: 4 minutes
+4 min
+- Client side interaction
+Video•
+. Duration: 2 minutes
+2 min
+- Clusters and clouds
+Video•
+. Duration: 2 minutes
+2 min
+- LAMP and MEAN
+Video•
+. Duration: 5 minutes
+5 min
+- Motivating problem
+Reading•
+. Duration: 15 minutes
+15 min
+- The internet
+Reading•
+. Duration: 1 hour
+1h
+- The world wide web
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 16
+
+- Servers and databases
+Video•
+. Duration: 8 minutes
+8 min
+- Interview with Matthew Yee-king about NoSQL
+Video•
+. Duration: 6 minutes
+6 min
+- Case study debrief: Coursera
+Video•
+. Duration: 8 minutes
+8 min
+- Summary
+Video•
+. Duration: 49 seconds
+49 sec
+- Database fundamentals
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 17
+
+- Introduction: Computers that see
+Video•
+. Duration: 1 minute
+1 min
+- Artificial intelligence
+Video•
+. Duration: 4 minutes
+4 min
+- Machine learning
+Video•
+. Duration: 6 minutes
+6 min
+- Machine learning algorithms
+Video•
+. Duration: 6 minutes
+6 min
+- Interview with Machine Learning experts
+Video•
+. Duration: 7 minutes
+7 min
+- Artificial intelligence
+Reading•
+. Duration: 1 hour
+1h
+- Machine learning exercise
+Reading•
+. Duration: 15 minutes
+15 min
+
+## Week 18
+
+- Data features
+Video•
+. Duration: 3 minutes
+3 min
+- Neural networks
+Video•
+. Duration: 6 minutes
+6 min
+- Interview: Data features
+Video•
+. Duration: 11 minutes
+11 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Artificial neural networks
+Reading•
+. Duration: 55 minutes
+55 min
+
+## Week 19
+
+- Introduction: Collecting your own dataset
+Video•
+. Duration: 1 minute
+1 min
+- Testing
+Video•
+. Duration: 2 minutes
+2 min
+- Problems with machine learning: overfitting
+Video•
+. Duration: 3 minutes
+3 min
+- Applications of machine learning
+Video•
+. Duration: 3 minutes
+3 min
+- Dangers of machine learning
+Video•
+. Duration: 8 minutes
+8 min
+- Interview: Benefits and danger of Machine Learning
+Video•
+. Duration: 18 minutes
+18 min
+- Trying different datasets
+Reading•
+. Duration: 15 minutes
+15 min
+- Evaluating the four datasets
+Reading•
+. Duration: 15 minutes
+15 min
+
+## Week 2
+
+- The deep secret of computer science
+Video•
+. Duration: 1 minute
+1 min
+- State
+Video•
+. Duration: 5 minutes
+5 min
+- An e-commerce site
+Video•
+. Duration: 4 minutes
+4 min
+- Why does turning it off and on again work?
+Video•
+. Duration: 3 minutes
+3 min
+- A notional machine: files
+Video•
+. Duration: 6 minutes
+6 min
+- Modularity
+Video•
+. Duration: 2 minutes
+2 min
+- Applications
+Video•
+. Duration: 5 minutes
+5 min
+- Debugging
+Video•
+. Duration: 6 minutes
+6 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Looking inside applications
+Reading•
+. Duration: 20 minutes
+20 min
+- Modularity and applications – lecture summaries
+Reading•
+. Duration: 10 minutes
+10 min
+- Peer review rubric
+Reading•
+. Duration: 20 minutes
+20 min
+
+## Week 20
+
+- Collecting a dataset
+Video•
+. Duration: 3 minutes
+3 min
+- Interview: Advice for your first data science project
+Video•
+. Duration: 10 minutes
+10 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Collecting a dataset
+Reading•
+. Duration: 15 minutes
+15 min
+
+## Week 21
+
+- Course summary
+Video•
+. Duration: 4 minutes
+4 min
+- Example exam papers
+Reading•
+. Duration: 2 hours
+2h
+- Final exam key concepts checklist
+Reading•
+. Duration: 10 minutes
+10 min
+- Final exam key concepts review
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 3
+
+- What is a website?
+Video•
+. Duration: 1 minute
+1 min
+- Networks
+Video•
+. Duration: 4 minutes
+4 min
+- The internet
+Video•
+. Duration: 7 minutes
+7 min
+- Security threats
+Video•
+. Duration: 2 minutes
+2 min
+- Encryption
+Video•
+. Duration: 5 minutes
+5 min
+- Security defences
+Video•
+. Duration: 3 minutes
+3 min
+- Interview: The perils of passwords
+Video•
+. Duration: 10 minutes
+10 min
+- Interview with a system administrator at Goldsmiths
+Video•
+. Duration: 3 minutes
+3 min
+
+## Week 4
+
+- Websites
+Video•
+. Duration: 2 minutes
+2 min
+- Networks and the web
+Video•
+. Duration: 4 minutes
+4 min
+- Security and the web
+Video•
+. Duration: 2 minutes
+2 min
+- State and the web
+Video•
+. Duration: 2 minutes
+2 min
+- Clients and servers
+Video•
+. Duration: 3 minutes
+3 min
+- Embedding and APIs
+Video•
+. Duration: 2 minutes
+2 min
+- Your data
+Video•
+. Duration: 2 minutes
+2 min
+- Summary
+Video•
+. Duration: 2 minutes
+2 min
+
+## Week 5
+
+- The bit
+Video•
+. Duration: 3 minutes
+3 min
+- Data storage
+Video•
+. Duration: 7 minutes
+7 min
+- Why does my computer slow down if I open a big file?
+Video•
+. Duration: 2 minutes
+2 min
+- Bytes and numbers
+Video•
+. Duration: 4 minutes
+4 min
+- Other types of data
+Video•
+. Duration: 6 minutes
+6 min
+- Interview with Sarah Wiseman about data entry
+Video•
+. Duration: 10 minutes
+10 min
+- Data storage
+Reading•
+. Duration: 1 hour
+1h
+- Data representation
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 6
+
+- Compression
+Video•
+. Duration: 7 minutes
+7 min
+- Interview: MP3 format
+Video•
+. Duration: 6 minutes
+6 min
+- Peer review debrief
+Video•
+. Duration: 2 minutes
+2 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Data compression
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 7
+
+- Introduction: What does code really do?
+Video•
+. Duration: 4 minutes
+4 min
+- CPU and memory
+Video•
+. Duration: 7 minutes
+7 min
+- Machine language
+Video•
+. Duration: 10 minutes
+10 min
+- CPU and memory – Lecture summary
+Reading•
+. Duration: 10 minutes
+10 min
+- Computer architecture
+Reading•
+. Duration: 45 minutes
+45 min
+- Machine language
+Reading•
+. Duration: 1 hour
+1h
+- CPU simulation
+Reading•
+. Duration: 15 minutes
+15 min
+
+## Week 8
+
+- Peripherals
+Video•
+. Duration: 7 minutes
+7 min
+- Case study: virtual reality
+Video•
+. Duration: 8 minutes
+8 min
+- Case study debrief
+Video•
+. Duration: 6 minutes
+6 min
+- Summary
+Video•
+. Duration: 1 minute
+1 min
+- Communicating with other devices
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 9
+
+- What is Windows?
+Video•
+. Duration: 1 minute
+1 min
+- Operating systems
+Video•
+. Duration: 3 minutes
+3 min
+- UNIX
+Video•
+. Duration: 5 minutes
+5 min
+- File systems and memory management
+Video•
+. Duration: 6 minutes
+6 min
+- Chat App
+Video•
+. Duration: 4 minutes
+4 min
+- Operating system architecture
+Reading•
+. Duration: 1 hour
+1h
+

@@ -1,0 +1,97 @@
+# CM1005 Introduction to Programming I - Topic 1. Your development environment (cont.) - Week 2
+
+## Table of Contents
+
+- Week 15
+- Week 17
+- Week 2
+
+## Week 15
+
+- Initialising and accessing 2D arrays
+Video•
+. Duration: 10 minutes
+10 min
+- Arrays of objects
+Video•
+. Duration: 12 minutes
+12 min
+- Complex object properties
+Video•
+. Duration: 12 minutes
+12 min
+- Find the matching value
+Video•
+. Duration: 4 minutes
+4 min
+- Find the highest / lowest value
+Video•
+. Duration: 7 minutes
+7 min
+- Exclude a set of values
+Video•
+. Duration: 5 minutes
+5 min
+- Code it from scratch: Bookcase
+Reading•
+. Duration: 1 hour
+1h
+- Hack it: Robot upgrade
+Reading•
+. Duration: 30 minutes
+30 min
+
+## Week 17
+
+- Methods: Objects which can do things
+Video•
+. Duration: 8 minutes
+8 min
+- This: making objects refer to themselves
+Video•
+. Duration: 10 minutes
+10 min
+- Exploring a p5 object: Vector
+Video•
+. Duration: 18 minutes
+18 min
+- Bringing it all together: Tamagotchi
+Video•
+. Duration: 29 minutes
+29 min
+- Hack it: Rocket
+Reading•
+. Duration: 1 hour
+1h
+
+## Week 2
+
+- Introduction to Sleuth
+Video•
+. Duration: 11 minutes
+11 min
+- Sleuth case 101
+Video•
+. Duration: 4 minutes
+4 min
+- Sleuth case 101: Visual Studio Code
+Video•
+. Duration: 6 minutes
+6 min
+- Code philosophy: what it feels like to code
+Video•
+. Duration: 3 minutes
+3 min
+- Sleuth: important information
+Reading•
+. Duration: 10 minutes
+10 min
+- Information about your assessments
+Reading•
+. Duration: 10 minutes
+10 min
+- Reflect on your learning
+Reading•
+. Duration: 10 minutes
+10 min
+

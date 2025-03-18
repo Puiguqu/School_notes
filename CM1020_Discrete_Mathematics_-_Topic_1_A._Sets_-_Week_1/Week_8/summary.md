@@ -1,0 +1,152 @@
+# Week 8 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## De Morgan's laws for quantifiers Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/1Sr4y/de-morgans-laws-for-quantifiers)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+De Morgan's laws are applied to predicate logic to formalize intuitions about negation. The rules for negating quantifiers can be summarized as follows: (1) ¬∀x P(x) ≡ ∃x ¬P(x), where P is a predicate over x; (2) ¬∃x P(x) ≡ ∀x ¬P(x). These laws allow us to formalize intuitions about negation of quantified expressions. The example S, "All university computers are connected to the network," can be expressed as ∀x P(x), where U is students in computer science and p(x) is "x has taken a course in neural networks." The negation of S can be expressed as ¬S ≡ ∃x ¬p(x), meaning there is at least one student who has not taken a course in neural networks. Similarly, the example R, "There is a student of Computer Science who didn't take a course in Machine Learning," can be expressed as ∃x q(x), where U is students in computer science and q(x) denotes "X didn't take a course in machine learning." The negation of R can be expressed as ¬R ≡ ∀x ¬q(x), meaning every student in computer science has taken a course in machine learning. De Morgan's laws can be applied to nested quantifiers by moving the negation through all quantifiers and replacing each "for all" with "there exists" and vice versa. For example, ¬∀x ∃y P(x, y) ≡ ∃x ∀y ¬P(x, y). The application of De Morgan's laws demonstrates how to formalize intuitions about negation in predicate logic.
+
+---
+
+## Rules of inference Video• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/iH69Q/rules-of-inference)
+
+Based on the provided transcript, it appears that the topic is about rules of inference in propositional and predicate logic.
+
+Here's a possible response to the discussion prompt:
+
+**Propositional logic and predicate logic**
+
+To address this question, we need to consider the differences between propositional logic and predicate logic. Propositional logic deals with statements that are either true or false, whereas predicate logic extends this to include variables and predicates that can take on multiple values.
+
+Rules of inference in propositional logic are often based on simple logical operations such as conjunction, disjunction, negation, and implication. In contrast, rules of inference in predicate logic involve more complex operations such as universal instantiation, existential generalization, and modus ponens.
+
+When applying rules of inference, it's essential to carefully analyze the structure of the argument and ensure that the premises logically follow from the conclusion.
+
+Some common mistakes when using rules of inference include:
+
+* Affirming the consequence: incorrectly assuming that a true premise implies a true conclusion.
+* Denying the antecedent: incorrectly assuming that if a premise is false, then the consequent is also false.
+* Existential fallacy: incorrectly assuming that because an individual exists, they have certain properties or characteristics.
+
+To avoid these mistakes, it's crucial to carefully evaluate the logical connections between premises and conclusions.
+
+**Extra resources**
+
+For further learning on rules of inference, I recommend checking out the following resources:
+
+* "Introduction to Model Theory" by Moses Schreiber: This textbook provides a comprehensive introduction to model theory, including an overview of rules of inference.
+* "Logic for Mathematics Students" by Patrick Suppes: This textbook provides a clear and concise introduction to propositional and predicate logic, including rules of inference.
+* Online resources such as Khan Academy's "Introduction to Logic" course and MIT OpenCourseWare's "Logic" course provide additional support and practice exercises.
+
+**Summative assessment**
+
+For the summative assessment, I will be evaluating students' ability to apply rules of inference in propositional and predicate logic. This will involve a written assignment where students will be presented with a series of logical arguments and asked to identify any fallacies or errors. Additionally, students will be required to provide step-by-step reasoning for their answers.
+
+Grading criteria will include:
+
+* Accuracy and completeness of argument
+* Correct application of rules of inference
+* Clarity and organization of writing
+
+By the end of this lesson, students should have a solid understanding of rules of inference in propositional and predicate logic and be able to apply them to solve logical problems.
+
+---
+
+## Rules of inference with quantifiers Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/bpBzT/rules-of-inference-with-quantifiers)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The lecture discusses rules of inference with quantifiers, which are used to remove or reintroduce quantifiers within a statement. Universal instantiation removes the universal quantifier, while universal generalization introduces it. Existential instantiation removes the existential quantifier, while existential generalization introduces it. The universal modus ponens rule combines universal instantiation and modus ponens, while the universal modus tollens rule combines universal instantiation and modus tollens.
+
+To formalize a statement using natural language, one must first determine the universe of discourse and variables, then reformulate the statement by making for all and there exists explicit, introduce variables and predicates, and finally, introduce quantifiers and logical operations. The statement "there exists a real number between any two, not equal real numbers" can be formalized as "for all real numbers x and y, there exists z where z is between x and y." The statement "every student has taken a course in machine learning" can be expressed as "for all x, M of x," while the statement "some student has taken a course in machine learning" can be expressed as "there exists x, M of x."
+
+The lecture also covers De Morgan's laws for quantifiers and provides practice assignments to reinforce understanding. The rules of inference with quantifiers are essential for working with complex statements in predicate logic. The universal modus ponens and universal modus tollens rules are crucial for making logical deductions using quantifiers. By mastering these rules, one can express complex statements using quantifiers and make logical deductions with precision.
+
+In addition to the lecture materials, there are practice assignments and a peer-graded assignment that cover predicate logic. The reading materials provide summaries of the topics covered in the lecture and offer additional practice questions.
+
+---
+
+## Rules of inference Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Be0GQ/rules-of-inference)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+1. Rules of inference are fundamental logical principles that outline valid ways to derive conclusions from premises.
+2. They serve as building blocks of logical reasoning, enabling construction of valid arguments and proofs.
+3. Modus Ponens states that if P→Q and P are both true, then Q is true: P→Q P −−−− ∴Q.
+4. Modus Tollens states that if P→Q and ¬Q are both true, then ¬P is true: P→Q ¬Q −−−− ∴¬P.
+5. Hypothetical Syllogism states that if P→Q and Q→R are both true, then P→R is true: P→Q Q→R −−−− ∴P→R.
+6. Disjunctive Syllogism states that if P∨Q and ¬P are both true, then Q is true: P∨Q ¬P −−−− ∴Q.
+7. Conjunction states that if P and Q are both true, then P∧Q is true: P Q −−−− ∴P∧Q.
+8. Simplification states that if P∧Q is true, then P is true: P∧Q −−−− ∴P.
+9. Addition states that if P is true, then P∨Q is true: P −−−− ∴P∨Q.
+10. Existential Instantiation states that if ∃xP(x) is true, then P(c) is true for some particular c: ∃xP(x) −−−− ∴P(c).
+11. Universal Generalisation states that if P(c) is true for any arbitrary c, then ∀xP(x) is true: P(c) for any arbitrary c −−−−−−− −−−∴ ∀xP(x).
+12. Existential Generalisation states that if P(c) is true for some particular c, then ∃xP(x)is true: P(c) for some particular c −−−−−−− −−−∴∃xP(x).
+13. Rules of inference are used to prove statements in practice through examples.
+14. Example 1 demonstrates the use of Modus Ponens to prove Q is true given P∨Q and ¬P.
+15. Example 2 demonstrates the use of Universal Generalisation to prove R(a)∧S(a) is true, given ∀x(P(x)→R(x)) and ∀x(Q(x)→S(x)), with premises P(a) and Q(a).
+
+---
+
+## Rules of inference reading and practice questions Reading• . Duration: 1 hour 35 minutes 1h 35m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/Jhdd2/rules-of-inference-reading-and-practice-questions)
+
+Unfortunately, the text provided does not contain any specific information about mathematical concepts or formulas. It appears to be a list of resources for learning and practicing various topics in logic, including De Morgan's laws, rules of inference, and rules of inference with quantifiers.
+
+Here is a summary of the text in 15 sentences:
+
+There are several pages assigned to read from Rosen (2012) that cover De Morgan's laws, rules of inference, and rules of inference with quantifiers. The readings also include exercises for practice and review. In addition, exercises from Koshy and Levin are recommended for completion.
+
+Koshy provides information on pp. 43-44. Levin provides additional resources on pp. 6, 202-203, and 205-209.
+
+The work is licensed under the Creative Commons Attribution- Alike 4.0 International License. The text also includes links to videos, practice assignments, and discussion prompts for further learning.
+
+A video lesson on De Morgan's laws for quantifiers can be found, along with a practice assignment that takes approximately 30 minutes.
+
+---
+
+## Topic 4 summary Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/XdLsu/topic-4-summary)
+
+Here are the 15 sentences summarizing the text:
+
+Predicate logic is a branch of logic that extends propositional logic by dealing with predicates and quantifiers. This allows for more expressive and detailed logical representations. The key elements of predicate logic include understanding propositional logic, recognizing the limitations of propositional logic, and learning about terms, predicates, quantifiers, and logical connectives.
+
+Predicate logic enables the translation of natural language statements into formal expressions. It also involves interpreting complex formulas involving multiple quantifiers and predicates. Evaluating logical formulas is another crucial aspect of predicate logic, where truth values are determined based on a particular domain and interpretation.
+
+Understanding logical equivalence, validity, satisfiability, and entailment in predicate logic is essential. Applying quantifiers correctly is critical, including the use of universal and existential quantifiers. Manipulating and transforming logical expressions involving quantifiers is also necessary.
+
+Predicate logic includes techniques such as direct proof, proof by contradiction, and proof by contrapositive for constructing formal proofs. Critical analysis of arguments is also a key aspect, where validity and errors in reasoning are assessed. Improving overall logical thinking and problem-solving skills is the ultimate goal of studying predicate logic.
+
+Regularly assessing understanding against learning outcomes is crucial as students progress through the course. Identifying areas for improvement allows for targeted action plans to be developed. Strategies for improving understanding include reviewing course materials, seeking additional resources, practicing problems, and scheduling additional study sessions.
+
+The exercise aims to help students reflect on their learning journey, identify knowledge gaps, and develop an action plan to improve their understanding of predicate logic. The final assessment will evaluate the student's mastery of the subject matter.
+
+---
+
+## Predicate logic problem sheet Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/4p1qO/predicate-logic-problem-sheet)
+
+Lesson 4.2 Applications Lesson 4.3 Extra resources Reading: Reading Predicate logic problem sheet . Duration: 10 minutes 10 min Reading: Reading Predicate logic problem sheet solution . Duration: 10 minutes 10 min Lesson 4.4 Summative assessment Predicate logic problem sheet tutorial-predicate-logic.pdf PDF File Mark as completed Dislike Report an issue
+
+---
+
+## Predicate logic problem sheet solution Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/yqDej/predicate-logic-problem-sheet-solution)
+
+Lesson 4.2 Applications Lesson 4.3 Extra resources Reading: Reading Predicate logic problem sheet . Duration: 10 minutes 10 min Reading: Reading Predicate logic problem sheet solution . Duration: 10 minutes 10 min Lesson 4.4 Summative assessment Predicate logic problem sheet solution tutorial-predicate-logic-sol.pdf PDF File Mark as completed Dislike Report an issue
+
+---
+

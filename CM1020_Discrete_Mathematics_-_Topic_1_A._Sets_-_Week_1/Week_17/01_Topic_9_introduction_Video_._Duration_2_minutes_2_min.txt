@@ -1,0 +1,10 @@
+# Topic 9 introduction
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/9TG9j/topic-9-introduction
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A new topic called relations will be introduced, which will cover relationships between living or nonliving things. In mathematics, a relation refers to a connection between two elements, such as the relationship between a positive integer and an integer it divides. Relations can also be defined between two real numbers or between a real number x and the value of f(x) where f is a function. Mathematically, relations are used to study relationships between sets and their properties. The concept of relations in mathematics was introduced in this video lecture, which will be further discussed in the next lecture. Relations can be defined between two elements of the same set or between two different sets. In mathematics, we can use various methods to represent relations, such as matrices and graphs. The matrix representation of a relation is a square matrix where each entry represents a relationship between two elements. Graph representations of a relation are also used to visualize relationships between sets. There are several properties of relations, including reflexive, symmetric, anti-symmetric, and transitive. Reflexivity means that every element is related to itself, symmetry means that if one element is related to another, then the other element is also related to it, and anti-symmetry means that if one element is related to another, then they cannot be equal. Transitivity means that if two elements are related to a third element, then those two elements must also be related to each other. The properties of relations will be discussed in more detail in future lectures. Relations have various applications in computer science, such as between a computer language and a valid statement in the language. Understanding relations is essential for studying mathematics and its many applications.

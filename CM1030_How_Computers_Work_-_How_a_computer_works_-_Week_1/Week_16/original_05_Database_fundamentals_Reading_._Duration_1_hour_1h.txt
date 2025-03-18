@@ -1,0 +1,8 @@
+# Database fundamentals
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/becb4/database-fundamentals
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 9 Database systems. Sections 9.1 and 9.2. This reading is available in the Online Library via the VLeBooks collection. Lesson 16.1 Databases Discussion Prompt: Data about this course . Duration: 30 minutes 30 min Video: Video Servers and databases . Duration: 8 minutes 8 min Reading: Reading Database fundamentals . Duration: 1 hour 1h Video: Video Interview with Matthew Yee-king about NoSQL . Duration: 6 minutes 6 min Practice Assignment: Practice quiz – Databases . Duration: 30 minutes 30 min Lesson 16.2 Summary Database fundamentals Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 9 Database systems. Sections 9.1 and 9.2. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

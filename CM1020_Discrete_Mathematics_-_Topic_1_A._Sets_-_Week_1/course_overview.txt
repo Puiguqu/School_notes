@@ -1,0 +1,775 @@
+# CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## Table of Contents
+
+- Week 1
+- Week 10
+- Week 11
+- Week 12
+- Week 13
+- Week 14
+- Week 15
+- Week 16
+- Week 17
+- Week 18
+- Week 19
+- Week 2
+- Week 20
+- Week 21
+- Week 3
+- Week 4
+- Week 5
+- Week 6
+- Week 7
+- Week 8
+- Week 9
+
+## Week 1
+
+- Introduction to discrete mathematics
+Video•
+. Duration: 4 minutes
+4 min
+- Careers video
+Video•
+. Duration: 3 minutes
+3 min
+- 
+- 
+- 
+- 
+- Discrete Mathematics syllabus
+Reading•
+. Duration: 10 minutes
+10 min
+- Getting started in this module
+Reading•
+. Duration: 10 minutes
+10 min
+- 
+- 
+
+## Week 10
+
+- Logic gates
+Video•
+. Duration: 6 minutes
+6 min
+- Combinational circuits
+Video•
+. Duration: 5 minutes
+5 min
+- Simplification of circuits
+Video•
+. Duration: 5 minutes
+5 min
+- Webinar on Boolean algebra
+Video•
+. Duration: 1 hour 26 minutes
+1h 26m
+- Mid-Term preparation by Dr Lahcen Ouarbya
+Video•
+. Duration: 1 hour 25 minutes
+1h 25m
+- New Video
+Video•
+. Duration: 1 minute
+1 min
+- Simplification of circuits
+Reading•
+. Duration: 15 minutes
+15 min
+- Topic 5 essential reading
+Reading•
+. Duration: 2 hours 45 minutes
+2h 45m
+- Domino logic gates simulation
+Reading•
+. Duration: 10 minutes
+10 min
+- Topic 5 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Boolean algebra problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Boolean algebra problem sheet solution
+Reading•
+. Duration: 10 minutes
+10 min
+- Midterm study guide
+Reading•
+. Duration: 10 minutes
+10 min
+- Midterm Key Concepts
+Reading•
+. Duration: 10 minutes
+10 min
+- [IMPORTANT] - Mid-term Assessment [001] Question3 (e) Update
+Reading•
+. Duration: 3 minutes
+3 min
+- What is Studiosity?
+Reading•
+. Duration: 10 minutes
+10 min
+- What does the feedback cover
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 11
+
+- Introduction to proofs
+Video•
+. Duration: 8 minutes
+8 min
+- The principle of mathematical induction
+Video•
+. Duration: 3 minutes
+3 min
+- Proof by induction
+Video•
+. Duration: 7 minutes
+7 min
+- Strong induction
+Video•
+. Duration: 7 minutes
+7 min
+- Induction
+Reading•
+. Duration: 2 hours
+2h
+
+## Week 12
+
+- Recursive definitions
+Video•
+. Duration: 5 minutes
+5 min
+- Recurrence relations
+Video•
+. Duration: 9 minutes
+9 min
+- Solving recurrence relations
+Video•
+. Duration: 8 minutes
+8 min
+- Webinar on proofs
+Video•
+. Duration: 1 hour 9 minutes
+1h 9m
+- Recursive definitions
+Reading•
+. Duration: 15 minutes
+15 min
+- Topic 6 essential reading
+Reading•
+. Duration: 1 hour 45 minutes
+1h 45m
+- Recursion
+Reading•
+. Duration: 1 hour 45 minutes
+1h 45m
+- Topic 6 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Proofs problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Proofs problem sheet solution
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 13
+
+- Topic 7 introduction
+Video•
+. Duration: 3 minutes
+3 min
+- Definition of a graph
+Video•
+. Duration: 5 minutes
+5 min
+- Walks and paths in a graph
+Video•
+. Duration: 11 minutes
+11 min
+- The degree sequence of a graph
+Video•
+. Duration: 8 minutes
+8 min
+- Special graphs: simple, r-regular and complete graphs
+Video•
+. Duration: 13 minutes
+13 min
+- Walks, paths and circuits in graph theory
+Reading•
+. Duration: 15 minutes
+15 min
+- Graphs
+Reading•
+. Duration: 2 hours 40 minutes
+2h 40m
+
+## Week 14
+
+- Isomorphic graphs
+Video•
+. Duration: 5 minutes
+5 min
+- Bipartite graphs
+Video•
+. Duration: 9 minutes
+9 min
+- The adjacency matrix of a graph
+Video•
+. Duration: 9 minutes
+9 min
+- Dijkstra's algorithm
+Video•
+. Duration: 8 minutes
+8 min
+- Webinar on graphs
+Video•
+. Duration: 1 hour 24 minutes
+1h 24m
+- Topic 7 essential reading
+Reading•
+. Duration: 2 hours 15 minutes
+2h 15m
+- Dijkstra's algorithm simulation
+Reading•
+. Duration: 20 minutes
+20 min
+- Topic 7 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Graph theory problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Graph theory problem sheet solutions
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 15
+
+- Topic 8 introduction
+Video•
+. Duration: 2 minutes
+2 min
+- Definition of a tree
+Video•
+. Duration: 5 minutes
+5 min
+- Spanning trees of a graph
+Video•
+. Duration: 3 minutes
+3 min
+- Minimum spanning tree
+Video•
+. Duration: 7 minutes
+7 min
+- Topic 8 essential reading
+Reading•
+. Duration: 30 minutes
+30 min
+
+## Week 16
+
+- Rooted trees
+Video•
+. Duration: 8 minutes
+8 min
+- Binary search trees
+Video•
+. Duration: 14 minutes
+14 min
+- Rooted trees
+Reading•
+. Duration: 15 minutes
+15 min
+- Binary search trees
+Reading•
+. Duration: 15 minutes
+15 min
+- Rooted and binary search trees
+Reading•
+. Duration: 2 hours 10 minutes
+2h 10m
+- Topic 8 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Trees problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Trees problem sheet solutions
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 17
+
+- Topic 9 introduction
+Video•
+. Duration: 2 minutes
+2 min
+- Definition of a relation: relation versus function
+Video•
+. Duration: 8 minutes
+8 min
+- Matrix and graph representations of a relation
+Video•
+. Duration: 10 minutes
+10 min
+- The properties of a relation: reflexive, symmetric and anti-symmetric
+Video•
+. Duration: 14 minutes
+14 min
+- Relation properties: transitivity
+Video•
+. Duration: 5 minutes
+5 min
+- The properties of a relation: reflexive, symmetric and anti-symmetric
+Reading•
+. Duration: 15 minutes
+15 min
+- Relations
+Reading•
+. Duration: 2 hours 10 minutes
+2h 10m
+
+## Week 18
+
+- Equivalence relations and equivalence classes
+Video•
+. Duration: 6 minutes
+6 min
+- Partial and total order
+Video•
+. Duration: 6 minutes
+6 min
+- Webinar on relations
+Video•
+. Duration: 1 hour 47 minutes
+1h 47m
+- Equivalence relations and equivalence classes
+Reading•
+. Duration: 15 minutes
+15 min
+- Equivalence relations and partial orders
+Reading•
+. Duration: 2 hours
+2h
+- Topic 9 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Problem sheet on relations
+Reading•
+. Duration: 10 minutes
+10 min
+- Problem sheet solution
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 19
+
+- Topic 10 introduction
+Video•
+. Duration: 1 minute
+1 min
+- The basics of counting
+Video•
+. Duration: 14 minutes
+14 min
+- The pigeonhole principle
+Video•
+. Duration: 7 minutes
+7 min
+- Permutations and combinations
+Video•
+. Duration: 9 minutes
+9 min
+- Combinatorics
+Reading•
+. Duration: 2 hours
+2h
+
+## Week 2
+
+- The representation of a set using Venn diagrams
+Video•
+. Duration: 4 minutes
+4 min
+- De Morgan's laws
+Video•
+. Duration: 8 minutes
+8 min
+- Laws of sets: Commutative, associative and distributives
+Video•
+. Duration: 11 minutes
+11 min
+- Partition of a set
+Video•
+. Duration: 3 minutes
+3 min
+- Answer to question 8 on the problem sheet
+Video•
+. Duration: 5 minutes
+5 min
+- Answer to question 11 on the problem sheet
+Video•
+. Duration: 2 minutes
+2 min
+- Topic 1 Webinar
+Video•
+. Duration: 1 hour 8 minutes
+1h 8m
+- Laws of sets: Commutative, associative and distributives
+Reading•
+. Duration: 15 minutes
+15 min
+- Set operations reading and practice questions
+Reading•
+. Duration: 2 hours
+2h
+- Peer review guidance
+Reading•
+. Duration: 10 minutes
+10 min
+- Topic 1 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Sets problem sheet
+Reading•
+. Duration: 30 minutes
+30 min
+- Sets problem sheet - solutions
+Reading•
+. Duration: 10 minutes
+10 min
+- Topic 1 webinar slides
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 20
+
+- Binomial coefficients and identities
+Video•
+. Duration: 9 minutes
+9 min
+- Generalised permutations and combinations
+Video•
+. Duration: 11 minutes
+11 min
+- Distinguishable objects and boxes
+Video•
+. Duration: 9 minutes
+9 min
+- Binomial coefficients and identities
+Reading•
+. Duration: 15 minutes
+15 min
+- Permutations and combinations
+Reading•
+. Duration: 2 hours 10 minutes
+2h 10m
+- Topic 10 module summary
+Reading•
+. Duration: 10 minutes
+10 min
+- Combinatorics problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Combinatorics problem sheet - solution
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 21
+
+- Revision
+Reading•
+. Duration: 10 minutes
+10 min
+- Practice Exam
+Reading•
+. Duration: 2 hours
+2h
+- Practice Exam Solution
+Reading•
+. Duration: 10 minutes
+10 min
+- Final exam key concepts review
+Reading•
+. Duration: 10 minutes
+10 min
+- Final exam study guide
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 3
+
+- Topic 2 introduction
+Video•
+. Duration: 1 minute
+1 min
+- The definition of a function
+Video•
+. Duration: 11 minutes
+11 min
+- Plotting functions
+Video•
+. Duration: 9 minutes
+9 min
+- Injective and surjective functions
+Video•
+. Duration: 14 minutes
+14 min
+- Injective and surjective functions
+Reading•
+. Duration: 15 minutes
+15 min
+- Topic 2 essential reading
+Reading•
+. Duration: 3 hours 5 minutes
+3h 5m
+- Topic 2 problem sheet and solutions
+Reading•
+. Duration: 45 minutes
+45 min
+
+## Week 4
+
+- Function composition
+Video•
+. Duration: 4 minutes
+4 min
+- Bijective functions
+Video•
+. Duration: 11 minutes
+11 min
+- Logarithmic functions
+Video•
+. Duration: 12 minutes
+12 min
+- The floor and ceiling functions
+Video•
+. Duration: 12 minutes
+12 min
+- Answer to question 1 on the problem sheet
+Video•
+. Duration: 7 minutes
+7 min
+- Answer to question 7 on the problem sheet
+Video•
+. Duration: 3 minutes
+3 min
+- Webinar on functions
+Video•
+. Duration: 1 hour 48 minutes
+1h 48m
+- Topic 2 webinar
+Video•
+. Duration: 1 hour 5 minutes
+1h 5m
+- Functions reading and practice exercises
+Reading•
+. Duration: 1 hour
+1h
+- Functions problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Functions problem sheet - solutions
+Reading•
+. Duration: 10 minutes
+10 min
+- Topic 2 summary
+Reading•
+. Duration: 15 minutes
+15 min
+
+## Week 5
+
+- Introduction to propositional logic
+Video•
+. Duration: 2 minutes
+2 min
+- Propositions
+Video•
+. Duration: 5 minutes
+5 min
+- Truth tables and truth sets
+Video•
+. Duration: 5 minutes
+5 min
+- Compound propositions
+Video•
+. Duration: 9 minutes
+9 min
+- Problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Problem sheet solutions
+Reading•
+. Duration: 10 minutes
+10 min
+- Topic 3 essential reading
+Reading•
+. Duration: 30 minutes
+30 min
+
+## Week 6
+
+- Logical implication
+Video•
+. Duration: 7 minutes
+7 min
+- Logical equivalence
+Video•
+. Duration: 6 minutes
+6 min
+- Laws of propositional logic
+Video•
+. Duration: 5 minutes
+5 min
+- Answer to question 4 on problem sheet
+Video•
+. Duration: 3 minutes
+3 min
+- Answer to question 5 on problem sheet
+Video•
+. Duration: 5 minutes
+5 min
+- Propositional logic webinar
+Video•
+. Duration: 1 hour 35 minutes
+1h 35m
+- Logical implication
+Reading•
+. Duration: 15 minutes
+15 min
+- Non-equivalence
+Reading•
+. Duration: 15 minutes
+15 min
+- Propositional logic reading and practice exercises
+Reading•
+. Duration: 2 hours
+2h
+- Topic 3 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Propositional logic problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Propositional logic problem sheet solutions
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 7
+
+- Introduction to predicate logic
+Video•
+. Duration: 1 minute
+1 min
+- What are predicates?
+Video•
+. Duration: 5 minutes
+5 min
+- Quantification
+Video•
+. Duration: 9 minutes
+9 min
+- Nested quantifiers
+Video•
+. Duration: 5 minutes
+5 min
+- Nested quantifiers
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m
+
+## Week 8
+
+- De Morgan's laws for quantifiers
+Video•
+. Duration: 6 minutes
+6 min
+- Rules of inference
+Video•
+. Duration: 15 minutes
+15 min
+- Rules of inference with quantifiers
+Video•
+. Duration: 10 minutes
+10 min
+- Rules of inference
+Reading•
+. Duration: 15 minutes
+15 min
+- Rules of inference reading and practice questions
+Reading•
+. Duration: 1 hour 35 minutes
+1h 35m
+- Topic 4 summary
+Reading•
+. Duration: 15 minutes
+15 min
+- Predicate logic problem sheet
+Reading•
+. Duration: 10 minutes
+10 min
+- Predicate logic problem sheet solution
+Reading•
+. Duration: 10 minutes
+10 min
+
+## Week 9
+
+- Midterm preparation
+Video•
+. Duration: 14 minutes
+14 min
+- Introduction to Boolean algebra
+Video•
+. Duration: 5 minutes
+5 min
+- Postulates of Boolean algebra
+Video•
+. Duration: 8 minutes
+8 min
+- Boolean functions
+Video•
+. Duration: 5 minutes
+5 min
+- Postulates of Boolean algebra
+Reading•
+. Duration: 15 minutes
+15 min
+- Topic 5 essential reading
+Reading•
+. Duration: 2 hours
+2h
+

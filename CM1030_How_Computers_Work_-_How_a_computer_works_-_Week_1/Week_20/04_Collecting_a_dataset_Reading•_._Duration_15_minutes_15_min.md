@@ -1,0 +1,8 @@
+# Collecting a dataset Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/supplement/GGTgR/collecting-a-dataset)
+
+Here is a summary of the text in 15 sentences:
+
+You are tasked with collecting a dataset and training a machine learning model for a classification task. The task should involve putting images into classes, and choosing two or three classes that you think the algorithm can distinguish between. Collect at least 20-40 examples of each class, which can be taken photographs yourself or using existing images. Divide your dataset into a training set and a testing set. Use the plugin to train a model on your dataset, following the same process as previous assignments. The goal is to evaluate how well the classifier performs on the testing set. Evaluate the performance by counting how many examples the classifier got right. If the results are not satisfactory, consider collecting more data or changing the task slightly. This exercise will help you prepare for your machine learning project. You will be asked to reflect on your results after completing the main exercise. The reflection will allow you to analyze your performance and identify areas for improvement. The practice assignment is designed to help you develop a dataset and train a model, which is an essential skill for data science projects. You have 15 minutes to complete the task, and additional time is provided for reading and understanding the material. After completing the exercise, you will be able to analyze your results and identify areas for improvement in your machine learning project.
+

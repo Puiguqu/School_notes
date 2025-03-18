@@ -1,0 +1,8 @@
+# Functions problem sheet Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/UmlOw/functions-problem-sheet)
+
+Here is a summary of the text in 12 sentences, focusing on key concepts and findings:
+
+The lesson plan for Topic 2 includes a variety of videos, practice assignments, and discussions to reinforce understanding of functions. The first video topic is function composition, lasting 4 minutes, followed by a 30-minute practice assignment. A subsequent video covers bijective functions, taking 11 minutes to watch, accompanied by a 30-minute practice assignment. Logarithmic functions are also explored in a 12-minute video, with a 30-minute practice assignment. The lesson plan includes a discussion prompt on functions, lasting 20 minutes. Additionally, there are two reading materials: "Functions" reading and practice exercises (1 hour) and a problem sheet with solutions (10 minutes). Video answers to questions 1 and 7 from the problem sheet are also provided (7 and 3 minutes, respectively). The lesson plan concludes with a reading summary of Topic 2 (15 minutes).
+

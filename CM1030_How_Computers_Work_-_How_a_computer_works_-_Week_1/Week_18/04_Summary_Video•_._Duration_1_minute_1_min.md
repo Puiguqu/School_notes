@@ -1,0 +1,14 @@
+# Summary Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-how-computers-work/lecture/hxfHC/summary)
+
+Unfortunately, there is no text to summarize. The provided text appears to be a video transcript with instructions on how to navigate and use the content, as well as information about machine learning lessons. It does not contain any specific data, formulae, or technical details that could be summarized.
+
+However, I can provide an overview of the main concepts and findings mentioned in the video transcript:
+
+Machine learning is a revolutionary technology that allows computers to learn tasks from example data. By training models with examples, individuals can gain a hands-on understanding of how machine learning works and its limitations. The goal of this lesson series is to introduce machine learning basics, including mapping inputs to outputs and exploring real-world applications.
+
+The video transcript provides instructions on how to navigate the content using keyboard shortcuts (CTRL + S for saving notes, CTRL + arrow keys for expanding or contracting selections) and recommends screen reader alternatives for users with compatibility issues.
+
+There are no specific formulas or technical details mentioned in the text.
+

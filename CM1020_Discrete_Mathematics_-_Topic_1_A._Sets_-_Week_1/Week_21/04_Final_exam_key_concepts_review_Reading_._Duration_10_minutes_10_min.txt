@@ -1,0 +1,38 @@
+# Final exam key concepts review
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/2isrl/final-exam-key-concepts-review
+
+This text appears to be a comprehensive overview of various mathematical concepts, including discrete mathematics, graph theory, Boolean algebra, and algorithms. Here's a breakdown of what each section covers:
+
+1. **Discrete Mathematics**: This includes topics such as combinations, permutations, relations, partial orders, total orders, and more.
+2. **Graph Theory**: Graphs are structures composed of vertices connected by edges, and this section covers various aspects, including Euler paths and cycles, Hamiltonian paths, and graph algorithms like Dijkstra's Algorithm.
+3. **Boolean Algebra**: This is a branch of mathematics dealing with operations on logical values, including binary variables, constants, and logical operations. The fundamental operations are conjunction (∧), disjunction (∨), and complement (¬).
+4. **Algorithms**: Algorithms are step-by-step procedures for performing computations. Discrete Mathematics primarily studies algorithms related to graphs, trees, and other data structures.
+
+Some notable topics not explicitly mentioned in this text include:
+
+* **Combinatorial Optimization**: This includes problems like the traveling salesman problem, knapsack problem, and more.
+* **Graph Minimization Problems**: These are problems where the goal is to find an optimal solution among a set of feasible solutions. Examples include minimum spanning tree, shortest path algorithms, and minimum cut problems.
+* **Set Theory**: This includes topics like power sets, cardinality, and relations.
+
+If you're looking for resources on these topics, here are some suggestions:
+
+* For Discrete Mathematics:
+	+ "Discrete Mathematics and Its Applications" by Kenneth H. Rosen
+	+ "Introduction to Combinatorics" by Mark Ross, John E. Taylor, and David J. Wright
+* For Graph Theory:
+	+ "Graph Theory" by Douglas B. West
+	+ "Network Flow Problems: A Survey of Large-Scale Network Optimization"
+* For Boolean Algebra:
+	+ "Boolean Algebra and Its Applications" by R. D. Blackstock
+	+ "Introduction to Boolean Algebras and Their Application in Digital Electronics"
+* For Algorithms:
+	+ "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+	+ "Algorithms: A Practical Introduction" by Robert Sedgewick and Kevin Wayne
+
+Keep in mind that these resources are just a starting point, and there are many more books, online courses, and tutorials available to help you explore each topic further.
+
+Do you have any specific questions about discrete mathematics or graph theory? I'd be happy to try and assist you.

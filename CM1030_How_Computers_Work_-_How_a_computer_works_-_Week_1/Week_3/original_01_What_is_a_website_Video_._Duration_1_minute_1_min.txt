@@ -1,0 +1,8 @@
+# What is a website?
+Video•
+. Duration: 1 minute
+1 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/31ArX/what-is-a-website
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key The Internet and the World Wide Web are among the most important contributions of computing technology to the modern world. They make it possible to access almost any information instantly from almost anywhere in the world. They create new ways of working and new ways of communicating with other people. But they also have other more controversial effects. The Internet makes hacking and cybercrime into huge risks. They also raise concerns about how websites collect and use our data. Computer science can help us better understand how modern websites work, which can help you deal with both the benefits and the risks. You'll now learn more about how websites work. This will make you a wiser user of the web and maybe it'll be the first step towards designing and building your own websites. ## END TRANSCRIPT ## ## ADDITIONAL PAGE CONTENT ## Lesson 3.0 Introduction Practice Assignment: Motivating problem . Duration: 20 minutes 20 min Video: Video What is a website? . Duration: 1 minute 1 min Discussion Prompt: Notional machine for a website . Duration: 30 minutes 30 min Lesson 3.1: Networks Lesson 3.2: Security

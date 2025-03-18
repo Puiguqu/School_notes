@@ -1,0 +1,16 @@
+# What are predicates?
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/lecture/1bZKd/what-are-predicates
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Predicate logic is introduced as a solution to the limitations of propositional logic. Predicates are generalizations of propositions that return true or false values depending on their variables. A predicate can be formalized using a propositional function, which becomes a proposition when its variable(s) are assigned actual values. The statement "x squared is equal to 4" contains two parts: the variable x and the property "squared is equal to four". It can be represented as P of x, where P is the predicate squared is equal to four. When x has specific values, P of x becomes a proposition with a truth value.
+
+Predicates can have multiple parameters, such as the example "x square is greater than y", which is a two-parameter predicate. The statement "2 square is greater than 3" is true, while "2 square is greater than 4" is false. A predicate's truth value depends on its variables and assigned values.
+
+The logical operations from propositional logic can be applied to predicate logic. For instance, "P of x or P of y" is equivalent to "x squared is less than 16 or y squared is less than 16", which is true. However, "P of 1 and P of -5" is not a proposition until y is assigned a value.
+
+Predicate logic provides a solution to the limitations of propositional logic by allowing for generalizations of propositions and functions that return true or false values depending on their variables. This allows for more expressive and flexible logical statements.

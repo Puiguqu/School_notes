@@ -1,0 +1,78 @@
+# Week 7 - CM1020 Discrete Mathematics - Topic 1 A. Sets - Week 1
+
+## Introduction to predicate logic Video• . Duration: 1 minute 1 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/M6DBX/introduction-to-predicate-logic)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Predicate logic is a type of logic that overcomes the limitations of propositional logic. It can express complex reasoning and formalize statements with unknown truth values. The two statements "All men are mortal" and "Socrates is a man" cannot be represented by propositional logic alone. However, they can be expressed using predicate logic to build more complex reasoning. For example, if we consider the statement "X squared is equal to 4," it is not a proposition but rather an equation whose truth value depends on X. This type of statement cannot be expressed using propositional logic alone. Predicate logic is able to handle these types of statements and provide a powerful tool for formalizing complex reasoning.
+
+Predicate logic is defined by its use of predicates, which are functions that assign properties to entities. For example, the predicate "is mortal" can be used to assign a property to Socrates in the statement "Socrates is a man." The key properties of predicate logic include:
+
+*   Quantification: the ability to express statements with unknown truth values
+*   Nested quantifiers: the use of multiple quantifiers to describe complex relationships between entities
+*   Predicates: functions that assign properties to entities
+
+Predicate logic provides a powerful tool for formalizing complex reasoning and expressing statements with unknown truth values. It can be used to build more complex models of reality, including those involving abstract objects and mathematical concepts.
+
+---
+
+## What are predicates? Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/1bZKd/what-are-predicates)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Predicate logic is introduced as a solution to the limitations of propositional logic. Predicates are generalizations of propositions that return true or false values depending on their variables. A predicate can be formalized using a propositional function, which becomes a proposition when its variable(s) are assigned actual values. The statement "x squared is equal to 4" contains two parts: the variable x and the property "squared is equal to four". It can be represented as P of x, where P is the predicate squared is equal to four. When x has specific values, P of x becomes a proposition with a truth value.
+
+Predicates can have multiple parameters, such as the example "x square is greater than y", which is a two-parameter predicate. The statement "2 square is greater than 3" is true, while "2 square is greater than 4" is false. A predicate's truth value depends on its variables and assigned values.
+
+The logical operations from propositional logic can be applied to predicate logic. For instance, "P of x or P of y" is equivalent to "x squared is less than 16 or y squared is less than 16", which is true. However, "P of 1 and P of -5" is not a proposition until y is assigned a value.
+
+Predicate logic provides a solution to the limitations of propositional logic by allowing for generalizations of propositions and functions that return true or false values depending on their variables. This allows for more expressive and flexible logical statements.
+
+---
+
+## Quantification Video• . Duration: 9 minutes 9 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/2wvyG/quantification)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The concept of quantifiers in predicate logic expresses the extent to which a predicate is true over a range of elements. Quantification expresses the meaning of words like "all" and "some." The two most important quantifiers are the universal quantifier and the existential quantifier. Universal quantification states that a predicate P of x is true for all values of x in the universe of discourse, denoted as ∀xP(x). Existential quantification states that there exists a value x in the universe of discourse such that P of x is true, denoted as ∃xP(x). The uniqueness quantifier is a special case of existential quantification, stating that there exists a unique value of x such that P of x is true. To express statements using universal and existential quantifiers, we use predicates and the logical operators ∀ and ∃. For example, "for all x and y, x plus y is greater than 10" can be expressed as ∀x∀y(x + y > 10). The existential quantifier works similarly, but with a disjunction operator (∨) instead of conjunction (∧). The uniqueness quantifier states that there exists a unique value of x such that P of x is true. For instance, "there exists a unique x such that x squared is equal to 4" can be expressed as ∃x∀y(x² = y). Quantifiers are essential in predicate logic to express complex statements and relationships between predicates.
+
+Note: I did not include the additional page content as it was not part of the original text.
+
+---
+
+## Nested quantifiers Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/9EecU/nested-quantifiers)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Nested quantifiers are used to express statements with multiple variables. The meaning of nested quantifiers includes "for all x, for all y, P(x, y)" meaning P(x, y) is true for every pair x, y; "there exists x, there exists y, P(x,y)" meaning there is a pair x,y for which P(x,y) is true; and "for all x there exists y, P(x,y)" meaning that for every x there is a y for which P(x,y) is true. There also exists the statement "there exists x for all y, P(x,y)" meaning that there is an x for which P(x,y) is true for every y. Variables in a predicate can be either bound or free, with a variable being bound if it is within the scope of a quantifier and free if it is not bound by a quantifier or particular value. The Logical operations introduced in propositional logic, including negation, disjunction, conjunction, implication, and equivalence, can also be applied to quantified statements. For example, "there exists x P(x,y)" is equivalent to "P(x) and Q(y)" where P(x) denotes x > 3 and Q(y) denotes y^2 is even. However, the order of nested quantifiers does not matter when they are of the same type (e.g., "for all x, for all y, P(x,y)" is equivalent to "for all y, for all x P(x, y)"). The order of nested quantifiers can change when they are of different types (e.g., "for all x, there exists y, P(x,y)" is not equivalent to "there exists y for all x, P(x,y)"). When simplifying the notation of nested quantifiers, it is essential to maintain consistency in the order of quantifiers. The variables within a predicate can be bound or free, and their relationship affects the meaning of the statement. Nested quantifiers are used to express complex statements with multiple variables, and understanding their properties and relationships is crucial for logical reasoning.
+
+---
+
+## Nested quantifiers Reading• . Duration: 1 hour 30 minutes 1h 30m
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/tyMc8/nested-quantifiers)
+
+Unfortunately, there is no text provided for me to summarize in 15 sentences. The text appears to be a list of reading assignments, exercises, and videos related to predicate logic, but it does not contain any specific information or concepts that can be summarized.
+
+However, I can provide some general information about the topics mentioned:
+
+Predicate logic is a branch of mathematics that deals with reasoning and argumentation using predicates, which are statements that describe properties or relationships between entities. Quantifiers, such as "for all" and "there exists," are used to express these properties or relationships in formal language.
+
+Logical operators, such as conjunction and disjunction, are used to combine predicates and quantifiers to form more complex statements.
+
+Nested quantifiers refer to the use of quantifiers within themselves, which can lead to complex logical structures.
+
+The texts mentioned (Rosen, 2012, and Koshy, 2004) are likely textbooks or study materials that cover these topics in detail. The exercises listed provide opportunities for practice and reinforcement of the concepts learned from reading the material.
+
+If you could provide a specific text or passage that you would like me to summarize, I would be happy to try and assist you.
+
+---
+

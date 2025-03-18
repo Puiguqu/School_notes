@@ -1,0 +1,16 @@
+# Code philosophy: Googling for help
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/FvC4g/code-philosophy-googling-for-help
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The topic of Code Philosophy focuses on effective searching for help online when encountering coding problems. When searching for solutions, it's essential to tailor your question to be searchable. Since coding leads to unique problems, you'll likely ask a question that no one has ever asked before, but the answer may still be found in web resources. Extracting generic information from your problem and asking the search engine for help is key.
+
+In a console output example, removing specific details like variable names can significantly reduce the number of results, making it easier to find relevant answers. Copying and pasting large chunks of code into search engines often yields poor results due to relevance issues. To improve searching, break down the code and identify where the issue lies before searching for specific problems.
+
+When searching for techniques or solutions, including the name of the programming language (e.g., JavaScript) can help narrow down results and avoid irrelevant answers. Be cautious when using user-provided content, such as upvotes on websites like StackOverflow, to ensure accuracy.
+
+Two reliable resources for web development with JavaScript are the Mozilla Developer Network and W3Schools. The core philosophy of Code Philosophy is to get the best results from search engines by using generic terms specific to your problems and selecting high-quality sources. This approach helps overcome unique coding issues and ensures accurate solutions.

@@ -1,0 +1,8 @@
+# Problem sheet solutions
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-discrete-mathematics/supplement/gpBR4/problem-sheet-solutions
+
+Video: Video Introduction to propositional logic . Duration: 2 minutes 2 min Discussion Prompt: What do you understand by a logical statement? . Duration: 20 minutes 20 min Video: Video Propositions . Duration: 5 minutes 5 min Practice Assignment: Propositions . Duration: 30 minutes 30 min Video: Video Truth tables and truth sets . Duration: 5 minutes 5 min Practice Assignment: Truth tables and truth sets . Duration: 30 minutes 30 min Video: Video Compound propositions ....

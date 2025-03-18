@@ -1,0 +1,8 @@
+# Spanning trees of a graph Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/3aWwu/spanning-trees-of-a-graph)
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+A spanning tree of a graph G is a connected cycle-free subgraph that contains all the vertices of G. A more formal definition states that a spanning tree T is a subgraph of G such that every vertex of G is in T, and T has no cycles. To construct a spanning tree, one can start with an empty tree and add edges to connect all the vertices while avoiding cycles. The number of possible spanning trees for a graph with n vertices increases exponentially with n. For example, a graph with 4 vertices can have 8 or 16 possible spanning trees, depending on its structure. Two spanning trees are isomorphic if there exists a bijection between them that preserves adjacency. Isomorphic spanning trees represent the same underlying structure. When drawing all spanning trees of a graph, it's only necessary to draw non-isomorphic ones to avoid duplicates. The concept of spanning trees has applications in real-life problems like Internet multicasting. Identifying the trees within a graph is crucial for understanding its properties and behavior. Graphs with many vertices can have an enormous number of possible spanning trees, making analysis and visualization challenging. The definition of a tree is closely related to spanning trees, as any subgraph that includes all vertices and no cycles can be considered a tree. Understanding spanning trees is essential for solving problems in graph theory and computer science.
+

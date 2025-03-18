@@ -1,0 +1,8 @@
+# Introduction: Collecting your own dataset
+Video•
+. Duration: 1 minute
+1 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/QOke8/introduction-collecting-your-own-dataset
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key Now, you're ready to do your own machine learning project. Machine learning is about using example data to train a computer to do a task. That means to do a machine learning project, you need to collect data and training model. You need to think about what problem you want to solve in machine learning and what data you can collect to help solve that problem. You need to make sure your data accurately reflects the real world and it's enough for the algorithm to learn a working model. Any computing project you do is unlikely to work first time. So, you'll need to test it and improve your model by collecting more data or finding the problem. Collecting data, training, and testing are all important parts of the craft of machine learning, something you can only learn by doing it in practice. So, let's get started. ## END TRANSCRIPT ## ## ADDITIONAL PAGE CONTENT ## Lesson 19.0 Introduction Video: Video Introduction: Collecting your own dataset . Duration: 1 minute 1 min Discussion Prompt: Your machine learning project . Duration: 30 minutes 30 min Lesson 19.1 Testing Lesson 19.2 Societal Impact of Machine Learning

@@ -1,0 +1,10 @@
+# Why does turning it off and on again work?
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/lecture/8j55j/why-does-turning-it-off-and-on-again-work
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+Computers and software can be in different states at various levels of abstraction. The state of a cursor in a word processor affects only one detail of a single application. In contrast, the formatting of a document is an example of a state that encompasses multiple features. When typing, the text will match the formatting of the text around the cursor. However, pressing a key can change massively depending on where you are in the text. For instance, pressing the E key creates bold characters in one location and heading font in another. The real state of a word processor is complex, containing many minor features such as selection status, text color, and font size. This complexity arises from how computer memory is set up, which can store billions of numbers. At the most detailed level, a state depends on these numbers, making it astronomical. Most states won't do anything useful or will cause errors, but programs are written to avoid nonsense states. Modern computer programs are complex and impossible to test every possible state. This means that if a program enters an unusable state, recovery is difficult. Networked or Web-based applications can become stuck in strange states due to internet connectivity issues. When this happens, restarting the computer often resolves the issue. The best fix for a strange state is to turn it off and on again. This method works because most programs return to their default state when restarted, forgetting about previous states.

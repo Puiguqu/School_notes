@@ -1,0 +1,34 @@
+# Laws of sets: Commutative, associative and distributives Video• . Duration: 11 minutes 11 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/QEPbf/laws-of-sets-commutative-associative-and-distributives)
+
+Here is a summary of the text in 15 sentences, preserving all key information, formulae, and technical details:
+
+The lecture covers three set identities: commutativity, associativity, and distributivity.
+
+Commutativity refers to an operation where the order of elements does not affect the result. For example, addition and multiplication are commutative operations, while subtraction is not.
+
+The union of two sets A and B is commutative, as A ∪ B = B ∪ A.
+
+However, the set difference is not commutative, as A \ B ≠ B \ A.
+
+Associativity refers to an operation where the order in which elements are combined does not affect the result. The union and intersection of three sets A, B, and C are associative, as (A ∩ B) ∪ C = A ∪ (B ∩ C).
+
+The distributive law states that A \ (B ∪ C) = (A \ B) ∪ (A \ C), which is used to simplify set expressions.
+
+De Morgan's laws state that the complement of a union is equal to the intersection of complements, and vice versa: ¬(A ∪ B) = ¬A ∩ ¬B, and ¬(A ∩ B) = ¬A ∪ ¬B.
+
+The absorption law states that A ∩ (A ∪ B) = A and A ∪ (A ∩ B) = A.
+
+Another set identity is related to complement: the complement of a union of two sets is equal to the intersection of their complements.
+
+Additionally, the complement of an empty set is the universal set, and vice versa.
+
+The complement of a set A is denoted as ¬A, which represents all elements not in A.
+
+To simplify set expressions using set identities, one can apply De Morgan's laws, commutativity, and distributive law.
+
+Set operations include union, intersection, difference, and complement.
+
+The lecture concludes with an overview of the set identities covered in the lesson.
+

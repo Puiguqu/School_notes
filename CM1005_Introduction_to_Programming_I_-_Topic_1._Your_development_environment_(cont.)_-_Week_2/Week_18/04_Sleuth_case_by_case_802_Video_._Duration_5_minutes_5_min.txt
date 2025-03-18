@@ -1,0 +1,10 @@
+# Sleuth case by case 802
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/9lCLy/sleuth-case-by-case-802
+
+Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+
+The transcript is for Case 802, "Montecarlo," which involves playing games of chance against statisticians at a casino. The goal is to write a function called `cardPicker` that sets the `marked` property of cards in a deck when they meet certain conditions. The deck contains 52 cards with properties for suit (type) and number/picture card. A loop will be used to iterate through the deck, and an `if` statement will check if the current card meets specific criteria, such as being a diamond or an ace. If it does, the `marked` property will be set to `true`. The function also needs to handle different types of cards (e.g., number, picture) with different properties (e.g., `number`, `picture`). To run the code, a for loop will iterate through the deck and call the `cardPicker` function when a card meets the specified conditions. However, the current implementation does not call the function, so the desired effect is not achieved. The next step is to modify the code to include the `cardPicker` function call, which will identify and mark diamonds and aces in the deck. After running the updated code, the diamonds should be raised up slightly due to being marked, while aces will also be marked. To fully complete the puzzle, another if statement needs to check for cards with a value of "ace" regardless of suit. The function will need to handle both cases (diamonds and aces) with different properties. By calling the `cardPicker` function, the deck should now contain marked diamonds and aces. Finally, after completing the code modifications, submitting it through Visual Studio Code will yield 100% accuracy for the case.

@@ -1,0 +1,8 @@
+# Artificial neural networks
+Reading•
+. Duration: 55 minutes
+55 min
+
+URL: https://www.coursera.org/learn/uol-how-computers-work/supplement/tc3YE/artificial-neural-networks
+
+Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 11 Artificial intelligence. Section 11.5. This reading is available in the Online Library via the VLeBooks collection. Lesson 18.1 Data features Discussion Prompt: Data features . Duration: 10 minutes 10 min Video: Video Data features . Duration: 3 minutes 3 min Practice Assignment: Practice quiz – Bag of words . Duration: 30 minutes 30 min Video: Video Neural networks . Duration: 6 minutes 6 min Video: Video Interview: Data features . Duration: 11 minutes 11 min Reading: Reading Artificial neural networks . Duration: 55 minutes 55 min Lesson 18.2 Summary Artificial neural networks Brookshear, J.G. and D. Brylow Computer science: an overview . (Harlow: Pearson Education, 2019) 13th edition (Global Edition). Chapter 11 Artificial intelligence. Section 11.5. This reading is available in the Online Library via the VLeBooks collection. Mark as completed Dislike Report an issue

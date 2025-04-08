@@ -1,0 +1,8 @@
+# Lesson 16.1: self-evaluation checklist Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/nDEx6/lesson-16-1-self-evaluation-checklist)
+
+Here is a summary of the text in 8 sentences, preserving key information:
+
+To assess your understanding of the topics covered in Lesson 16, use this self-evaluation checklist to reflect on your learning journey and identify areas for improvement. You should be able to describe how to use Git to manage files and collaborate with others, including initialising a repository, adding, committing, and pushing changes to a remote repository like GitHub or GitLab. Additionally, you should understand the principles of DevOps, including continuous integration (CI) and continuous delivery (CD), and their roles in automating software development processes. You should be able to connect a local Git repository to a remote service and push or pull changes between the local and remote repositories. Furthermore, you should understand the concept of infrastructure as code and its importance in automating and scaling web infrastructure. To maintain a stable and secure production environment, you should know about monitoring, logging, and security testing, as well as the purpose and process of code reviews. You can access additional resources, including video lessons, practice assignments, and readings, to help you consolidate your knowledge and improve your understanding. Regularly assessing your understanding and capabilities against the learning outcomes is crucial as you progress through the course.
+

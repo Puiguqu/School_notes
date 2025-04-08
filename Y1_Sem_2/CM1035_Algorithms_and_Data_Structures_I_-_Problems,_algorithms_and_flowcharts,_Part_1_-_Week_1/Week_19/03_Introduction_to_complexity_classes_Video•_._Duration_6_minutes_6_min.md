@@ -1,0 +1,8 @@
+# Introduction to complexity classes Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/pc7Lr/introduction-to-complexity-classes)
+
+Here is a summary of the text in 8 sentences, preserving key information, formulae, and technical details:
+
+The study of worst-case time complexity is crucial in computational complexity theory, where an algorithm's efficiency is measured by its time complexity relative to the size of its input. In general, exponential functions grow faster than polynomial functions, making exponential algorithms less efficient. To establish whether a problem is hard or not, researchers focus on determining if there exists an efficient algorithm (i.e., one with polynomial time complexity) that can solve it. The standard way of quantifying input size is by assuming the input is stored in an array where each element represents either a bit or nothing, making the input size equal to the number of elements in the array. The worst-case time complexity is typically computed in terms of the size of the input, and problems are grouped into classes based on the resources required to solve them. A complexity class is a set of sets, where each set represents a problem that can be solved with a particular set of resources (e.g., P for problems solvable in polynomial time). The study of computational complexity theory helps researchers understand what problems are feasible and which ones require significant advancements. By analyzing the time complexity of algorithms, researchers can determine whether a problem is part of a complexity class, such as P or NP, which represents sets of decision problems that can be solved with specific efficiency criteria.
+

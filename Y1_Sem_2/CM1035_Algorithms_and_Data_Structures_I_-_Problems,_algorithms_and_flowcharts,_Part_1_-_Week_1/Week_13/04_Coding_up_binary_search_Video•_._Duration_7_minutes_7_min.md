@@ -1,0 +1,8 @@
+# Coding up binary search Video• . Duration: 7 minutes 7 min
+
+[Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/N896V/coding-up-binary-search)
+
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
+
+The binary search algorithm is a divide-and-conquer approach to finding an item within a sorted vector or array. The algorithm works by repeatedly dividing the search interval in half until the desired element is found. A pseudocode implementation of the binary search algorithm has been provided, which initializes variables such as `n`, `R`, and `L` to represent the length of the vector and the search range. The algorithm then iterates through the vector using a while loop, with each iteration dividing the search interval in half until the desired element is found or it is determined that the element is not present in the array. In JavaScript, a binary search function needs to be implemented on an input array, where the value of interest is compared to the midpoint of the array and the search range is adjusted accordingly. The `binarySearch` function has been skeletonized, with only its logic required to complete it, which involves comparing the desired value to the midpoint of the array and updating the search range as necessary. To test the binary search algorithm, JavaScript code has been provided that generates a random array using the `genRandomArray` function and then attempts to find a specific value within the array using the `binarySearch` function. The output of this code will be either `true` or `false`, depending on whether the desired value is present in the array.
+

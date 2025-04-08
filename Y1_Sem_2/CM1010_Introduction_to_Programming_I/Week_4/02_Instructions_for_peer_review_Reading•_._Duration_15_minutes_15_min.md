@@ -1,0 +1,8 @@
+# Instructions for peer review Reading• . Duration: 15 minutes 15 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/JnLC6/instructions-for-peer-review)
+
+Here is a summary of the text in 8 sentences:
+
+Peer review is a collaborative process where students, scholars, or researchers evaluate each other's work to provide feedback and learn from one another. In an academic setting, peer reviews may be part of required assignments, where students submit their own work for grading by peers, while also grading a minimum number of peers' submissions to receive their own assignment grade. Peer review is not just about critiquing but also offering constructive feedback that can help authors improve their work and develop critical thinking and analytical skills. Participating in peer review fosters a sense of community, improves writing and research skills, and offers new perspectives and ideas, as well as preparing students for future academic and professional endeavors. Peer review enhances learning and retention by reinforcing knowledge and understanding of subject matter, while also developing empathy and communication skills. By engaging in peer review, students can gain insight into the review process, reduce anxiety about submitting work for review, and increase their competence in navigating academic and professional review processes. Additionally, peer review exposes students to diverse research topics and methodologies, sparking interest in interdisciplinary study or collaboration, and boosting confidence in academic abilities through the improvement of peers' work. Overall, peer review is a valuable process that can enhance critical thinking, analytical skills, and academic success.
+

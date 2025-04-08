@@ -1,0 +1,8 @@
+# The Pigeonhole Principle – examples part 1 Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/ULr4l/the-pigeonhole-principle-examples-part-1)
+
+Here is a summary of the text in 8 sentences, preserving key information:
+
+The pigeonhole principle states that if there are n objects placed into m containers with the condition that n > m, then at least one container must contain more than one object. This principle can be applied to various scenarios, such as selecting integers from a set and finding at least two with the same remainder when divided by 3 (Example 1). In this example, we have four integers (n=4) placed into three boxes (m=3), ensuring that at least two integers share the same remainder. The generalized pigeonhole principle states that for n = k*2 + 1 integers, divided by k, there will be at least one box with more than one object (Example 2). For this example, we need to select five balls from a bag containing seven blue and four red balls to guarantee three of the same color are selected. This is equivalent to solving the equation x/2 = 3 for x, which yields x = 5 as the minimum number of balls required. In a third scenario (Example 3), we demonstrate that selecting five integers from 1-8 will ensure at least two of those integers add up to 9 by categorizing pairs into four boxes. Finally, in Example 4, we show that if there are n people in a room where every two individuals are friends or not, then there will be at least two people with the same number of friends (0, 1, 2, 3, or n-2).
+

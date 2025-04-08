@@ -1,0 +1,8 @@
+# Reflection on interview with the student Reading• . Duration: 30 minutes 30 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/Unq5J/reflection-on-interview-with-the-student)
+
+Here is a summary of the text in 8 sentences, preserving key information:
+
+After watching the interview with Evan, students should reflect on their own project's progress and consider how they can incorporate features from Evan's application into their own implementation. This includes redesigning core functionality, such as the color picker and line tool, which Evan built both simple and advanced tools for. Students should plan how to implement more complex p5.js features like 3D graphics by using planning techniques, brainstorming, and iterating different designs. To support this process, students can use various planning methods and assess their current progress regularly to ensure they are on track to meet the deadline and required standard. The midterm assignment will ask students to detail their implementation plan, which they should maximize by keeping a record of brainstorming designs, sketches, sources of inspiration, technical help, and regular logging of progress. Students can upload these materials at the midterm or end-of-term assignments. Evan's interview highlights the importance of self-reflection and documenting one's thinking and progress to improve project outcomes. By following these guidelines, students will be better prepared for their final application submission, where they will reflect on what they would do differently and assess their current progress.
+

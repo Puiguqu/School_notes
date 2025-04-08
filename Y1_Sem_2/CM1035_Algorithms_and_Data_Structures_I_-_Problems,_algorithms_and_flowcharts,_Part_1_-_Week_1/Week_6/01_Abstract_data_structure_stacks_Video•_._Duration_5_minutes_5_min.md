@@ -1,0 +1,8 @@
+# Abstract data structure: stacks Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/1Kpil/abstract-data-structure-stacks)
+
+Here is a summary of the text in 8 sentences, preserving key information:
+
+The video introduces the concept of stacks as an abstract data structure, which differs from queues in that only one element (the top) can be accessed at a time. The stack follows Last-In-First-Out (LIFO) access pattern, where elements are added and removed from the top. A stack is useful for dynamic memory storage and modeling real-world scenarios, such as managing a pile of plates or serving food to multiple customers. The basic operations on a stack include push!, which adds an element to the top, top(), which returns the current top element, pop!, which removes and returns the top element, and empty?, which checks if the stack is empty. A convenient representation for binary logic is using a stack, as it allows for efficient storage and retrieval of binary data. The video suggests converting an integer from decimal to binary using a stack by repeatedly dividing by 2 and appending the remainder to the top of the stack. This process can be represented in pseudocode as follows: `Procedure ConvertToBinary(n): While n > 0: Append (n mod 2) to Stack; Divide n by 2; End While Return Stack;`. The video also touches on the concept of "full stack development" in software development, where it refers to a developer who has expertise in all aspects of software development, from front-end to back-end and database management.
+

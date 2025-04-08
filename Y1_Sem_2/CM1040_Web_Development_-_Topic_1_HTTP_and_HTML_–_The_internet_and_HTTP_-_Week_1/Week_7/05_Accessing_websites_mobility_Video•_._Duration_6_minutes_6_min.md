@@ -1,0 +1,8 @@
+# Accessing websites: mobility Video• . Duration: 6 minutes 6 min
+
+[Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/JojxD/accessing-websites-mobility)
+
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
+
+The video transcript discusses accessibility features for individuals with mobility disabilities, focusing on large navigation controls, highlighting, color customization, and ARIA (Accessible Rich Internet Applications) attributes. Large navigation controls are designed to be easily clickable and visible, using classes to increase size and emphasize important elements. Highlighting is used to draw attention to the current element, making it clear which button or control is being selected when navigating with a keyboard. Color contrast and color customization are also crucial in ensuring accessibility, as certain colors may not be readable for individuals with visual impairments. A special "keyboard mode" can be implemented to make navigation easier for users with mobility disabilities, using CSS to adjust font sizes, colors, and highlighting. ARIA attributes provide additional information about the purpose of different buttons and controls on a webpage, allowing developers to create more accessible interfaces. While HTML5 has incorporated some good practices from the ARIA project, it can be complex and require deep knowledge to use effectively. Developers should be aware of these complexities and consider using ARIA attributes to increase accessibility, even if it means clashing with semantic HTML attributes.
+

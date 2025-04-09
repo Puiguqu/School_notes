@@ -2,7 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/NjDqO/week-4-exercises)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-The exercises for Week 4 aim to test knowledge on mathematical concepts learned so far. One exercise involves proving the statement P(n) = 12 + 22 +···+ n2 = n(n + 1)(2n + 1)/6 for positive integer n. The basis step of this proof requires showing that P(1) is true, which is confirmed by plugging in n = 1 into the formula and verifying its validity. The inductive hypothesis states that if P(k) is true for a positive integer k, then P(k+1) must also be true. To complete the inductive step, one needs to prove that the truth of P(k) implies the truth of P(k+1). This involves using mathematical induction to prove three separate statements: 3n < n! if n is an integer greater than 6, 2n > n2 if n is an integer greater than 4, and 5 divides n5 − n whenever n is a non-negative integer. These exercises are optional but strongly recommended for further practice and to test knowledge.
+To practice concepts learned in Week 4, attempt exercises with hints and tips provided on the next page. The statement P(n) is to be proved: 12 + 22 +···+ n2 = n(n + 1)(2n + 1)/6 for positive integer n. To start, evaluate P(1), which is true, completing the basis step of the proof. The inductive hypothesis states that if P(k) is true for some k, then P(k+1) is also true. In the inductive step, prove that 3k < k! if k > 6, using the inductive hypothesis. Next, prove that 2k > k^2 if k > 4, again using the inductive hypothesis. Finally, use induction to show that 5 divides n^5 - n for all non-negative integers n.
 

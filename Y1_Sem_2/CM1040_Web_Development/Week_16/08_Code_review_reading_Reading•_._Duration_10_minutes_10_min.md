@@ -2,7 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/SNpIn/code-review-reading)
 
-There is no text to summarize. The provided text appears to be a course introduction or reading assignment with references to articles and videos related to version control, DevOps practices, and code review. It does not contain any specific information or key concepts that can be summarized.
+Unfortunately, you didn't provide any text to summarize. The provided text appears to be a table of contents or a lesson plan from an online learning platform, but it does not contain any substantive information about code review.
 
-If you could provide the actual text to summarize, I would be happy to assist you in condensing it into 8 sentences while preserving important details, formulae, links, and technical details.
+However, I can tell you that the article "Code reviewing in the trenches: Challenges and best practices" by MacLeod et al., published in IEEE Software in 2017 (pp. 34-42), discusses the challenges of code review and provides best practices for improving the process.
+
+If you could provide the text of the article, I would be happy to assist you in summarizing it in 8 sentences while preserving key information, formulae, links, and technical details.
 

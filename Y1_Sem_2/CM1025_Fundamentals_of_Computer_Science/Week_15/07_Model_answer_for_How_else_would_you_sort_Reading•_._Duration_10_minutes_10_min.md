@@ -2,7 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/wtY26/model-answer-for-how-else-would-you-sort)
 
-There is no text provided to summarize. The provided text appears to be a lesson plan or course outline for teaching algorithms, specifically sorting algorithms, including insertion sort, bubble sort, and selection sort. It includes video lectures, discussion prompts, reading assignments, practice exercises, and ungraded plugins.
-
-If you could provide the actual text you'd like me to summarize, I'll be happy to assist you in condensing it into 8 sentences while preserving key information, formulae, links, and technical details.
+Lesson 8.0 Introduction Lesson 8.1 Specifying alogrithms Lesson 8.2 Two simple alogrithms Video: Video Simple algorithms – insertion sort . Duration: 5 minutes 5 min Discussion Prompt: How else would you sort? . Duration: 10 minutes 10 min Reading: Reading Model answer for How else would you sort? . Duration: 10 minutes 10 min Video: Video Simple algorithms – bubble sort . Duration: 5 minutes 5 min Video: Video Selection sort . Duration: 4 minutes 4 min Reading: Reading Algorithms ....
 

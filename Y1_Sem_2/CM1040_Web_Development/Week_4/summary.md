@@ -4,9 +4,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/j5Wix/topic-2-week-2-introduction)
 
-There is no text provided to summarize. The given text appears to be a video transcript and additional page content for a lesson on web development, specifically addressing environmental impact and markup parsing algorithms. However, it does not contain any specific information or technical details that could be summarized.
+There is no text to summarize. The provided text appears to be a video transcript and lesson plan for an online course, but it does not contain any substantive content or technical information about markup parsing or environmental impact of computing at scale.
 
-If you provide the actual text, I'd be happy to help you summarize it in 8 sentences while preserving key information, formulae, links, and technical details.
+If you provide the actual text you would like me to summarize, I will be happy to assist you in condensing the key points into 8 sentences while preserving important concepts, formulae, links, and technical details.
 
 ---
 
@@ -14,38 +14,21 @@ If you provide the actual text, I'd be happy to help you summarize it in 8 sente
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/2mNU0/assessing-the-environmental-impact-of-computing-at-scale)
 
-This is a transcript of a video lecture on the environmental impact of website design and usage. The lecturer discusses the topic of computing at scale and how it affects the environment. Here's a breakdown of the main points covered in the lecture:
+This is a transcript of a video lecture on the environmental impact of website usage and design. The lecturer discusses how websites can be designed to minimize their energy consumption, using tools such as Chrome's profiler to analyze CPU usage and identify areas for improvement.
 
-**Introduction to Environmental Impact**
+The lecturer explains that even small changes in website design or behavior can have significant environmental impacts. They use an example where a webpage is parsed using JavaScript for 60 milliseconds on a 4-watt CPU, which results in approximately 0.78 kilowatt-hours of energy consumption. This is equivalent to the energy needed to power about one light bulb.
 
-The lecturer introduces the concept of environmental impact and its relevance to website design and usage.
+The lecturer also notes that if this process were repeated a billion times (e.g., by having one billion people perform this task), the total energy consumption would be around 780 kilowatt-hours, which is still relatively small compared to other sources of energy.
 
-**Chrome Profiler Tool**
+Overall, the lecture aims to raise awareness about the environmental impact of website usage and design, and provide practical suggestions for minimizing energy consumption in web development.
 
-The lecturer explains the Chrome Profiler tool, which is used to examine the amount of CPU usage that different elements of a website use. The tool helps identify areas of the website where energy can be saved by optimizing performance.
+Some key takeaways from this transcript include:
 
-**Environmental Impact of Computing at Scale**
+* The importance of analyzing CPU usage and identifying areas for improvement in website design
+* The relatively small environmental impact of even small changes in website behavior or design
+* The potential for collective action to minimize the environmental impact of computing at scale
 
-The lecturer discusses the environmental impact of computing at scale and how it affects the planet. They explain that computing power is increasing exponentially, but the amount of energy used to power these computers is not keeping pace with this growth.
-
-**Calculating Kilowatt Hours**
-
-The lecturer performs a rough calculation to estimate the kilowatt hours of energy used by a website. They use the example of rendering HTML parsing with JavaScript and calculate that it uses approximately 0.78 kilowatt hours if a billion people were to perform the same action.
-
-**Conclusion**
-
-The lecturer concludes that even if a website is doing something computationally intensive, such as rendering web pages, it still doesn't amount to a huge amount of energy usage. This suggests that small changes in website design and optimization can have a significant impact on reducing energy consumption.
-
-**Practice Assignments and Video Topics**
-
-The lecture includes practice assignments and video topics for students to complete:
-
-* Practice Assignment: Environmental Impact of Computing at Scale
-* Reading Activity – Lab: Timing HTML Parsing with JavaScript
-* Website Render Speeds
-* Video Topic 2 Summary
-
-Overall, the lecturer provides a comprehensive overview of the environmental impact of website design and usage, and offers practical tips and tools for reducing energy consumption in web development.
+This transcript can be used as a resource for learning about the environmental impact of website usage and design, and for discussing ways to minimize energy consumption in web development.
 
 ---
 
@@ -53,9 +36,13 @@ Overall, the lecturer provides a comprehensive overview of the environmental imp
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/Rvie1/topic-2-summary)
 
-There is no text to summarize. The provided text appears to be a transcript of a video lecture or presentation, with links and timestamps, but it does not contain any specific content that needs summarizing. It seems to be an introduction to the next topic in a web development course, outlining the learning objectives and providing information on how to navigate the transcript.
+There is no text to summarize. The provided text appears to be a transcript of a video lecture or course material, and it does not contain any specific information or key concepts that need to be summarized.
 
-If you could provide the actual text you would like me to summarize, I would be happy to assist you.
+However, I can provide a general summary of the context:
+
+The text refers to a web development course and mentions the completion of Topic 2, which covers topics such as pausing an HTML document, understanding the document object model, interacting with the DOM structure, and calculating computational costs. The course also touches on environmental impact related to computing at scale.
+
+If you provide the actual text or content that needs to be summarized, I'll be happy to assist you in condensing it into 8 sentences while preserving key information, formulae, links, and technical details.
 
 ---
 
@@ -65,7 +52,7 @@ If you could provide the actual text you would like me to summarize, I would be 
 
 Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
 
-To complete this task, create a new folder called "HTML Parsing Lab" and open it in Visual Studio Code, then add the provided HTML and JavaScript code to an index.html file. The JavaScript code measures the parsing time of HTML files using the `performance.now()` function and compares the performance with different websites by uploading saved HTML files from various sites. First, start Live Server by clicking the "Go Live" button at the bottom of Visual Studio Code, then test the parsing code with a simple HTML file or create one for testing. Next, open browser developer tools by right-clicking on the page and selecting "Inspect" or pressing F12, and copy the full HTML from the website using the "Copy OuterHTML" option in the Elements tab. Save the copied HTML to a new file with an .html extension, such as "example.html". Then, upload the saved HTML files to Live Server and note the parsing time displayed for each file. Finally, record the parsing times in a table and analyze the results by comparing them and considering factors that might affect performance, such as the size of the HTML file and complexity of the DOM structure.
+The task involves running the provided HTML and JavaScript code to parse HTML files, measure the parsing time, and compare the performance with different websites. To start, create a new folder for the project, add the provided HTML and JavaScript code to an index.html file, and open it in Visual Studio Code. Then, start Live Server and test the parsing code with a sample HTML file using the form on the webpage. Next, obtain full HTML from multiple websites by opening browser developer tools, copying the full HTML, saving it to a text editor, and creating an .html extension. Measure the parsing time for each website's HTML file by uploading the saved files to Live Server and noting the parsing time displayed. Record and analyze the parsing times for different websites by creating a table with the results, such as: Website Parsing Time (ms) example.com 45.23 newswebsite.com 87.34 socialmedia.com 102.56. Analyze the results by considering factors that might affect performance, like file size and DOM structure complexity. Finally, check off the completed tasks on the self-evaluation checklist to ensure all steps have been completed successfully.
 
 ---
 

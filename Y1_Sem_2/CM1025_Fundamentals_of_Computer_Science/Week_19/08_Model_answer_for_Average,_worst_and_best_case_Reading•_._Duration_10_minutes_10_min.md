@@ -2,5 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/jivZP/model-answer-for-average-worst-and-best-case)
 
-Unfortunately, you haven't provided the text to summarize. Please provide the text related to "Lesson 10" about sorting algorithms (insertion sort and others) or time complexity, and I will be happy to help you with a summary in 4 sentences, preserving all key information, formulae, links, and technical details.
+There is no text provided for me to summarize. Please provide the text, and I'll be happy to help you summarize it in 4 sentences, preserving key information, formulae, links, and technical details.
 

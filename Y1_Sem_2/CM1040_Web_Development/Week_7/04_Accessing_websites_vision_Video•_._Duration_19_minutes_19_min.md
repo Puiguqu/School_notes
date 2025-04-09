@@ -2,29 +2,22 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/HT96Z/accessing-websites-vision)
 
-This appears to be a transcript of an online video lesson on web accessibility, specifically covering the topics of color contrast, alternative media, tabindex and keyboard navigation, and user customization.
+This text appears to be a transcript of an educational video about web accessibility, specifically covering the features and techniques mentioned in Lesson 7.1.
 
-The video covers various features that can be implemented in web pages to make them more accessible to people with visual impairments, including:
+The lesson covers various aspects of web accessibility, including:
 
-1. Semantic elements: Using HTML elements that have a meaning (e.g., `<header>`, `<nav>`) instead of generic containers.
-2. Color contrast: Making sure the text and background colors have sufficient contrast to avoid eye strain and improve readability.
-3. Alternative media: Providing alternative content for images, audio, and video to make them accessible to screen readers and other assistive technologies.
-4. Tabindex and keyboard navigation: Using `tabindex` attributes to control how users navigate through a page using only their keyboard.
-5. User customization: Allowing users to customize the appearance of a website, such as changing colors or font sizes.
+1. Introduction to accessibility: The video defines what accessibility is and its importance.
+2. Defining accessibility: The practice assignment asks viewers to define accessibility.
+3. Screen reader demo: The video demonstrates how a screen reader works, followed by the practice assignment asking viewers to use a screen reader.
+4. Reading activity – Screen readers: Viewers are asked to read about screen readers and their capabilities.
+5. Accessing websites: vision - This section covers visual accessibility, including techniques such as semantic elements, color contrast, and alternative media.
+6. Practice Assignment: Vision accessibility - Viewers are asked to complete a practice assignment related to visual accessibility.
+7. Accessing websites: mobility - This section covers mobility accessibility, including techniques such as keyboard navigation and tabindex.
+8. Practice Assignment: Mobility accessibility - Viewers are asked to complete a practice assignment related to mobility accessibility.
+9. Reading activity – Navigating websites using limited tools: Viewers are asked to read about how to navigate websites using limited tools.
+10. The business case for accessibility: The video covers the importance of accessibility from a business perspective, followed by the practice assignment asking viewers to complete a task related to this topic.
 
-The video also covers techniques for implementing these features, including:
+The final lesson covers Lesson 7.1 and 7.2, which are not explicitly described in the provided transcript. However, based on the context, it appears that these lessons cover more advanced topics in web accessibility, such as testing websites for accessibility.
 
-1. CSS variables: Using CSS variables (e.g., `--primary-color`) to make it easier to change colors throughout a website.
-2. JavaScript functions: Writing custom JavaScript functions to automate tasks, such as toggling the display of an image alt text.
-
-The video concludes by emphasizing the importance of accessibility in web development and provides practice assignments for viewers to test their skills.
-
-Some key takeaways from this transcript include:
-
-* The importance of semantic HTML elements for screen reader compatibility.
-* The need for sufficient color contrast between text and background colors.
-* The benefits of providing alternative media for users with visual impairments.
-* The value of user customization in making a website more accessible and usable.
-
-Overall, this video provides a comprehensive overview of web accessibility techniques and encourages viewers to incorporate these practices into their own web development work.
+Overall, the video provides an introduction to web accessibility, its importance, and various techniques and features to make websites accessible to users with disabilities.
 

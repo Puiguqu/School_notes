@@ -2,13 +2,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/8G7hr/algorithms)
 
-There is not enough information provided in the text to summarize it into 8 sentences. The text appears to be a summary of various videos, readings, and practice assignments related to sorting algorithms from an online course or educational platform.
+There is no text provided to summarize. The text appears to be a link list or course materials from an educational platform, listing various video lessons, readings, and practice assignments related to sorting algorithms. It does not contain any specific information that can be summarized into 8 sentences.
 
-However, I can provide a general summary of the key concepts and findings:
+However, I can provide a summary of the key concepts and findings if you provide the actual text:
 
-The essential reading on sorting algorithms covers topics such as specifying algorithms, two simple algorithms (insertion sort and bubble sort), and selection sort. It also provides detailed explanations and examples to help understand different sorting algorithms. The recommended resource is Cormen's book "Introduction to Algorithms" by T.H. et al. (4th edition, pp. 17-34). This reading can be accessed through the Online Library and ProQuest Collection.
+The text appears to cover the topics of sorting algorithms, specifically insertion sort, bubble sort, and selection sort. The recommended reading material is Cormen's "Introduction to Algorithms" (4th edition, pp. 17-34), which provides detailed explanations and examples for understanding different sorting algorithms.
 
-To gain a better understanding of these concepts, it is suggested to first watch the provided videos, followed by studying the essential reading. There are also practice assignments, discussion prompts, and additional resources available, such as video links, reading materials, and ungraded plugins (e.g., Sorting algorithms). These resources can be accessed through the online platform.
-
-If you're looking for a summary of specific topics or algorithms, please provide more context or information about the course material.
+If you provide the actual text, I can help summarize it in 8 sentences while preserving key information, formulae, links, and technical details.
 

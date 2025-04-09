@@ -1,0 +1,8 @@
+# Search problems and abstraction Video• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/Wb47w/search-problems-and-abstraction)
+
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
+
+The number n can be represented in big O log n bits using a stack-based algorithm that divides n by 2 repeatedly until it reaches 1. This process can be abstracted into an array where each index represents an element of the input set G, and the value stored at each index is either 0 or 1 based on whether the corresponding element satisfies a certain condition. The array can be thought of as a vector where elements are indexed by elements of G, and it allows for efficient searching and finding of the smallest or largest value that satisfies the condition. For example, if we have an array representing the memory needed to complete a set of computational tasks within a program, we can use this abstraction to find the minimum amount of memory needed using binary search. This approach enables us to re-imagine problems in terms of searching algorithms, which can lead to efficient solutions and analysis of worst-case time complexity. By abstracting away the details of the problem, we can develop all-purpose solution methods that apply to various types of problems. The algorithm for finding the minimum x such that f(x) = 1 can be analyzed using search algorithms, and it has a linear time complexity. This technique is useful in solving problems that may not seem related to arrays or vectors, as it allows us to re-frame the problem in a more tractable form.
+

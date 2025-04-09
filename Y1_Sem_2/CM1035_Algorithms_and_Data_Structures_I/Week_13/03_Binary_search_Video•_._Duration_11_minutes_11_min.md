@@ -2,48 +2,34 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/Rx8ue/binary-search)
 
-## Step 1: Understand the problem
-The problem asks to convert a flowchart for the binary search algorithm on vectors into a pseudocode description of the algorithm.
+The provided transcript appears to be a lecture or video on the binary search algorithm, specifically for vectors and arrays. The content includes:
 
-## Step 2: Identify the steps in the flowchart
-The flowchart for binary search on vectors has the following steps:
-- Start
-- Get input vector and target value x
-- Initialize variables N (length of vector), L (leftmost element), and R (rightmost element)
-- Ask if R is less than L
-  - If yes, return false (target not found)
-  - Else, set M to be the midpoint of L and R
-  - Look at the element at index M in the vector
-    - If its value is x, return true (target found)
-    - If its value is greater than x, set R to M-1
-      + This means the target must be to the left of the midpoint
-      + Update L to be M+1
-  - Repeat steps 4 and 5 until R is less than or equal to L
+1. An explanation of how the binary search algorithm works.
+2. A flowchart illustrating the steps involved in the algorithm.
+3. A discussion of the advantages of using binary search over linear search.
 
-## Step 3: Convert the flowchart into pseudocode
-Based on the steps in the flowchart, the pseudocode for binary search on vectors can be written as follows:
+The final section mentions converting the flowchart into pseudocode and then turning it into working JavaScript code.
 
-```
-Function binarySearch(vector, x):
-  Initialize N (length of vector), L (leftmost element), and R (rightmost element)
-  
-  While R < L:
-    M = (L + R) / 2
-    If the value at index M is equal to x:
-      Return true (target found)
-    Else if the value at index M is greater than x:
-      R = M - 1
-    Else:
-      L = M + 1
-  
-  If the value at index L is not equal to x:
-    Return false (target not found)
+Here is a simplified version of the pseudocode for the binary search algorithm:
 
-Return "Target not found" or return true
-```
+**Binary Search Algorithm**
 
-## Step 4: Verify the pseudocode
-The pseudocode follows the same logic as the flowchart and should correctly implement the binary search algorithm on vectors.
+**Input:** `arr` (sorted vector or array), `target`
 
-The final answer is: There is no specific number to solve this problem, but the above pseudocode implements the correct binary search algorithm for vectors.
+**Output:** `true` if `target` is found in `arr`, `false` otherwise
+
+1. Set `L` to 1 and `R` to the length of `arr`
+2. While `L` <= `R`
+3. Calculate `M` = `(L + R) / 2`
+4. If `arr[M] == target`
+5. Return `true`
+6. If `arr[M] < target`
+7. Set `L` to `M + 1`
+8. Else
+9. Set `R` to `M - 1`
+10. Repeat steps 3-9 until found or not found
+
+The pseudocode is a concise representation of the algorithm's logic, and it can be used as a starting point for implementing the binary search in JavaScript.
+
+**Note:** This is a simplified version of the pseudocode, and you may want to add additional error handling or input validation depending on your specific use case.
 

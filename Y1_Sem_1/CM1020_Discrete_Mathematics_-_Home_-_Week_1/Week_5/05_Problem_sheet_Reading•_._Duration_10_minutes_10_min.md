@@ -1,0 +1,8 @@
+# Problem sheet Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/rnD1o/problem-sheet)
+
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
+
+The exercises cover various topics in propositional logic, including identifying propositions, writing symbolic representations, constructing truth tables, and analyzing logical statements. Propositions are statements that can be determined to be true or false. The first exercise asks which of the given statements are propositions, with answers such as "2+2=4", "x^2 + 2 = 11". The second exercise involves writing symbolic representations for sentences using propositional variables s and i, with examples including "stocks are increasing but interest rates are steady" and "neither stocks are increasing nor interest rates are steady". The third exercise involves representing conditional statements symbolically using propositions h, s, and r, with examples including "it is not hot but it is sunny" and "it is sunny or it is raining but not both". The fourth exercise uses the listing method to specify truth sets for logical statements involving propositional variables l and p. The fifth exercise involves constructing truth tables to evaluate the truth value of various logical statements, including those involving disjunctions (∨), conjunctions (∧), negations (¬), and implication (∼). The final section provides videos, practice assignments, reading materials, and problem sheets for students to reinforce their understanding of propositional logic.
+

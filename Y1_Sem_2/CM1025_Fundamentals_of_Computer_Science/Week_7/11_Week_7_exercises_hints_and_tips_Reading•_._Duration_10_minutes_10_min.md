@@ -2,5 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/GLo5p/week-7-exercises-hints-and-tips)
 
-There is no text provided for me to summarize. The given content appears to be a list of video links, discussion prompts, reading materials, and duration times for an introduction lesson on finite automata, including deterministic automata. If you provide the actual text, I would be happy to assist you in summarizing it into 8 sentences while preserving key information, formulae, links, and technical details.
+Lesson 4.0 Introduction Lesson 4.1 Finite automata Lesson 4.2 Deterministic automata Video: Video Finite automata – example (part 1) . Duration: 3 minutes 3 min Video: Video Finite automata – example (part 2) . Duration: 8 minutes 8 min Video: Video Working with Automata Simulator . Duration: 6 minutes 6 min Discussion Prompt: Design an automata to accept a simple language using Automata Simulator . Duration: 30 minutes 30 min Video: Video Language of the automata ....
 

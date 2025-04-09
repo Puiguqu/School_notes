@@ -2,27 +2,56 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/7QvQm/template-control-flow-iteration)
 
-This text appears to be the transcript of a video or video series on programming, specifically a tutorial on building a template engine. Here's a breakdown of what it covers:
+This appears to be a transcript of an educational video on building a template engine, specifically focusing on the iteration feature. The video covers topics such as:
 
-**Lesson Overview**
+* Introduction to the topic
+* Creating a simple template engine specification
+* Implementing the variables and rendering feature
+* Handling control flow with iteration
+* Additional topics such as branching and automatic updating
 
-The lesson is titled "Iteration" and introduces the concept of iterating over data in a template engine.
+The transcript also includes practice assignments for each topic, as well as reading activities and a self-evaluation checklist.
 
-**Section 1: Iteration**
+Here is an outline of the content:
 
-This section explains how to iterate over data using a regular expression to extract variable names and their contents from each block. It demonstrates how to use these extracted values to render out the template.
+I. Introduction to Template Engines (Video)
 
-**Section 2: Debugging**
+* Brief overview of template engines
+* Importance of template engines in web development
 
-The instructor walks through a debugging process, where they identify an error in their code and correct it by adding a `return` statement to the `replace variables` function. This highlights the importance of checking each stage of the program for errors.
+II. Simple Template Engine Specification (Video)
 
-**Practice Assignments**
+* Creating a simple specification for the template engine
+* Understanding the importance of variables and rendering
 
-There are practice assignments associated with each section, which allow viewers to apply what they've learned.
+III. Variables and Rendering (Video)
 
-**Additional Resources**
+* Implementing variables and rendering in the template engine
+* Using regular expressions to extract data from templates
 
-The lesson includes additional resources, such as reading activities and a self-evaluation checklist, to help learners reinforce their understanding.
+IV. Control Flow: Iteration (Video)
 
-Overall, this tutorial appears to be part of a larger course on building template engines and covers the concepts of iteration, debugging, and rendering templates.
+* Handling iteration in the template engine
+* Using loops to render repeated content
+
+V. Additional Topics:
+
+* Branching (Video)
+* Automatic Updating (Video)
+
+VI. Practice Assignments and Reading Activities:
+
+* Template Engine Specification (Practice Assignment)
+* Variables and Rendering (Practice Assignment)
+* Control Flow: Iteration (Practice Assignment)
+* Control Flow: Branching (Practice Assignment)
+* Automatic Updating (Practice Assignment)
+* Build a Template Engine Lab (Reading Activity)
+* Model Answer - Build a Template Engine Lab (Reading Activity)
+
+VII. Conclusion
+
+The video concludes with a summary of the topic and provides additional resources for further learning.
+
+Overall, this transcript appears to be an educational resource for building a template engine, focusing on the iteration feature. It covers important topics such as variables and rendering, control flow, and additional features like branching and automatic updating. The practice assignments and reading activities provide opportunities for learners to apply their knowledge and reinforce their understanding of the material.
 

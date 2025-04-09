@@ -2,7 +2,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/FQcjG/topic-10-week-2-introduction)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+This text appears to be a video transcript for an online course, specifically discussing generative AI techniques in web development. The instructor plans to cover various methods for generating different types of content using generative AI, including images, sound, and 3D models. While the topic may seem unrelated to traditional web development, the instructor aims to showcase the capabilities of current generative AI models.
 
-The last week of the course will focus on generating different types of content using generative AI techniques, including images, sound, and 3D models. This may deviate from web development topics, but aims to showcase the capabilities of current models. The instructor encourages viewers to explore generative AI and up their skillset in this domain. Additionally, a university policy on AI will be discussed, which is "very serious" and requires clear understanding of acceptable use cases for generative AI. Throughout the week, videos, practice assignments, and readings will cover text generation and processing, image generation, and other media generation techniques. The course includes a video introduction to the topic (1 min), a 11-minute video on text generation and processing, and a 14-minute video on image generation. Practice assignments are also included for text generation (12 min) and image generation (9 min). The week concludes with an end-of-module revision and assessment, including an end-of-module survey.
+The course will also delve into the university's policy on AI (referred to as "doom and gloom") to emphasize the importance of understanding what is and isn't acceptable when using generative AI. The instructor encourages students to explore these topics further and upskill in the domain.
+
+The lesson plan includes a mix of video lectures, practice assignments, and reading materials, covering topics such as text generation and processing, image generation, and a workshop on generating text and image assets. Additionally, there is an end-of-module survey and revision for assessment purposes.
+
+No specific formulae or technical details are mentioned in the transcript.
 

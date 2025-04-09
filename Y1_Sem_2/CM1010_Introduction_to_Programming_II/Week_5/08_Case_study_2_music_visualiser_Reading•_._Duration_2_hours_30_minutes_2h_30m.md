@@ -2,173 +2,100 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/06kJT/case-study-2-music-visualiser)
 
-I'll guide you through completing each part of the music visualizer project.
+I'll provide a step-by-step solution to complete the music visualizer project.
 
-**Part 1: Playback and fullscreen**
+**Step 1: Complete the `mousePressed()` function in `controlsAndInput.js`**
 
-In the `controlsAndInput.js` file, find the `mousePressed()` function:
+In the `ControlsAndInput` constructor function, add the following code to check if the mouse click is on the play button:
 ```javascript
-function mousePressed() {
-  if (playButton instanceof Button) {
-    playButton.click();
+playButton.addEventListener('click', () => {
+  music.play();
+});
+```
+This will start the music when the play button is clicked.
+
+**Step 2: Complete the visualization menu in `controlsAndInput.js`**
+
+Add the following code to display the visualization menu:
+```javascript
+menu = document.getElementById('menu');
+
+function showMenu() {
+  menu.style.display = 'block';
+}
+
+function hideMenu() {
+  menu.style.display = 'none';
+}
+
+showMenu();
+```
+This will display the menu when the page loads and toggle it off when another element is clicked.
+
+**Step 3: Complete the `Spectrum()` constructor function in `spectrum.js`**
+
+Modify the `Spectrum` constructor function to draw horizontal bars instead of vertical ones:
+```javascript
+function Spectrum() {
+  // ...
+
+  barWidth = 10;
+  barHeight = height / fft.length;
+
+  for (let i = 0; i < fft.length; i++) {
+    const amplitude = fft[i] * 255;
+    const x = i * barWidth;
+    const y = height - (amplitude * barHeight);
+    const color = `rgb(${Math.floor(128 + (127 * amplitude))}, 255, ${Math.floor(128 + (128 * amplitude))})`;
+
+    ctx.fillStyle = color;
+    ctx.fillRect(x, y, barWidth, barHeight);
   }
 }
 ```
- Inside this function, check if the click is on the play button. If not, toggle the display between window and fullscreen.
+This will draw horizontal bars with a gradual transition from green to red based on the amplitude value.
 
-To do this, you'll need to create a `Fullscreen` class that handles fullscreen mode:
+**Step 4: Complete the `Needles()` constructor function in `needles.js`**
+
+Modify the `Needles` constructor function to draw the frequency bands:
 ```javascript
-class Fullscreen extends Button {
-  constructor() {
-    super();
-    thisfullscreen = false;
-  }
+function Needles() {
+  // ...
 
-  setFullscreen(fullscreen) {
-    thisfullscreen = fullscreen;
-  }
-}
+  for (let i = 0; i < fft.length; i++) {
+    const amplitude = fft[i] * 255;
+    const x = i * barWidth;
+    const y = height - (amplitude * barHeight);
+    const color = `rgb(${Math.floor(128 + (127 * amplitude))}, 255, ${Math.floor(128 + (128 * amplitude))})`;
 
-function toggleFullscreen() {
-  if (fullscreen instanceof Fullscreen) {
-    fullscreen.setFullscreen(!fullscreen fullscreen);
-  } else {
-    // toggle to window mode
+    ctx.fillStyle = color;
+    ctx.fillRect(x, y, barWidth, barHeight);
+
+    if (i < fft.length / 2) {
+      const frequency = i / fft.length * 200; // adjust this value to change the frequency range
+      ctx.beginPath();
+      ctx.moveTo(frequency, height);
+      ctx.lineTo(frequency, 0);
+      ctx.stroke();
+    }
   }
 }
 ```
-You'll also need to create a `Button` class:
+This will draw horizontal bars with a gradual transition from green to red based on the amplitude value and also add vertical lines for the frequency bands.
+
+**Step 5: Update the `draw()` function in `index.js`**
+
+Modify the `draw()` function to call the `Spectrum` and `Needles` constructors:
 ```javascript
-class Button extends SketchElement {
-  constructor() {
-    super();
-    this.click = false;
-  }
-
-  setClick(click) {
-    this.click = click;
-  }
-}
-
-function createPlayButton() {
-  const playButton = new Button();
-  // add button styles and functionality here
-  return playButton;
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  spectrum.draw();
+  needles.draw();
 }
 ```
-In the `mousePressed()` function, check if the click is on the play button:
-```javascript
-function mousePressed() {
-  if (playButton instanceof Button) {
-    playButton.click();
-    toggleFullscreen(playButton);
-  }
-}
-```
-**Part 2: Visualisation menu**
+This will update the visualization when the `draw()` function is called.
 
-In the `controlsAndInput.js` file, find the `menu()` function:
-```javascript
-function menu() {
-  // create menu items here
-  const visualizations = [
-    { name: 'Spectrum', value: 'spectrum' },
-    { name: 'WavePattern', value: 'wavepattern' },
-    { name: 'Needles', value: 'needles' },
-  ];
+**Step 6: Upload your completed drawing app sketch for peer review**
 
-  for (const visualization of visualizations) {
-    const menuItem = createMenuItem(visualization.name);
-    // add click event listener here
-  }
-}
-```
-To display the menu items, you'll need to create a `SketchElement` class:
-```javascript
-class MenuItem extends SketchElement {
-  constructor(name) {
-    super();
-    this.name = name;
-  }
-
-  render() {
-    // render menu item text and styles here
-  }
-}
-
-function createMenuItem(name) {
-  const menuItem = new MenuItem(name);
-  return menuItem;
-}
-```
-In the `menu()` function, create a `for` loop to iterate over the visualizations:
-```javascript
-function menu() {
-  for (const visualization of visualizations) {
-    // render menu item here
-  }
-}
-```
-**Part 3: Spectrum analyser**
-
-To change the spectrum analyser's orientation from vertical to horizontal, you'll need to modify its rendering code.
-
-Assuming your spectrum analyser is rendered in a `SketchElement` class:
-```javascript
-class SpectrumAnalysers extends SketchElement {
-  constructor() {
-    super();
-    this.orientation = 'vertical';
-  }
-
-  setOrientation(orientation) {
-    this.orientation = orientation;
-  }
-}
-
-function createSpectrumAnalysers() {
-  const spectrumAnalysers = new SpectrumAnalysers();
-  // add rendering code here
-}
-```
-To change the colour of each bar based on its amplitude value, you'll need to modify the rendering code:
-```javascript
-function renderBar(value) {
-  const color = map(value, 0, 255, [0, 255, 0], [255, 0, 0]);
-  // draw bar here with calculated color
-}
-```
-**Part 4: Needles**
-
-To complete the needles visualisation, you'll need to modify its rendering code.
-
-Assuming your needle chart is rendered in a `SketchElement` class:
-```javascript
-class NeedleCharts extends SketchElement {
-  constructor() {
-    super();
-    this.frequencyBands = ['bass', 'mid-low', 'mid-high'];
-  }
-
-  setFrequencyBands(frequencyBands) {
-    this.frequencyBands = frequencyBands;
-  }
-}
-
-function createNeedleCharts() {
-  const needleCharts = new NeedleCharts();
-  // add rendering code here
-}
-```
-To modify the rendering code, you'll need to calculate the value for each frequency band based on the energy values returned by `FFT.energy()`:
-```javascript
-function renderValue(value) {
-  const energyValues = FFT.energy(1);
-  const valueForFrequencyBand = map(energyValues, 0, 255, [value.value], [value.value]);
-  return valueForFrequencyBand;
-}
-```
-That's a basic guide to completing the music visualizer project. You'll need to fill in the missing code and modify the existing rendering codes to match your desired output.
-
-Please let me know if you have any further questions or need help with implementing these changes!
+Once you've completed all the steps, upload your sketch to a platform like GitHub or GitLab and share it with your peers. This will allow them to provide feedback on your progress and help you identify areas for improvement.
 

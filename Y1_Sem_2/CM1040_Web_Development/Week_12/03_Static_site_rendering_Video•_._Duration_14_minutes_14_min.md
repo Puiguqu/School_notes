@@ -2,29 +2,43 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/PfaA1/static-site-rendering)
 
-This is a transcript of a video lecture on static site rendering tools, specifically Eleventy and Handlebars template engine.
+This is a transcript of a video on using the eleventy static site rendering tool to create a website. Here's a breakdown of the content:
 
-The lecture starts by explaining what static site rendering tools are and how they work. It then walks through the process of setting up an Eleventy project, including creating templates, content, and using the Handlebars template engine to render the content.
+**Introduction**
 
-Throughout the video, the speaker provides examples and demonstrations of how to use the tool, including how to add custom variables to the templates and use hot reloading to quickly test changes.
+* The video explains that it will be working example of a static site rendering tool.
+* It introduces the tool, eleventy, and its use with handlebars template rendering engine.
 
-The lecture concludes by summarizing the advantages and disadvantages of using static site rendering tools, such as Eleventy. The speaker notes that these tools are well-suited for publishing documents, blogs, and research projects, but may not be suitable for interactive websites or applications.
+**Setting up the project**
 
-Some key takeaways from the video include:
+* The video shows how to set up an eleventy project using command-line tools or a web interface (e.g., GitHub Pages).
+* It covers the basic directory structure and file naming conventions used in eleventy projects.
 
-* Static site rendering tools allow you to create a website without relying on a content management system (CMS)
-* Eleventy is a popular static site rendering tool that uses Handlebars template engine
-* Handlesbars is a templating engine that allows you to define templates for your website's layout and structure
-* Custom variables can be added to templates to make them more dynamic
-* Hot reloading allows you to quickly test changes to your website without having to rebuild it from scratch
+**Creating templates and content**
 
-The video also mentions the advantages of using static site rendering tools, such as:
+* The video demonstrates how to create templates using handlebars syntax.
+* It shows how to create content files (e.g., Markdown, HTML) and how to use variables in template rendering.
+* It explains how to add custom variables and modify the template engine's behavior.
 
-* Fast page loads
-* Easy maintenance and updates
-* No reliance on a CMS or database
+**Rendering the site**
 
-However, it also notes that these tools may not be suitable for interactive websites or applications.
+* The video covers how to render the site using the built-in server or an external server like Nginx or Apache.
+* It demonstrates how to enable hot reloading, which allows for quick updates without restarting the server.
 
-Overall, the video provides a clear and concise introduction to Eleventy and Handlebars template engine, and demonstrates how to use them to create and manage a static website.
+**Hot reloading and editing**
+
+* The video shows how to edit content files directly in the editor and see the changes reflected on the live site.
+* It highlights the benefits of using a static site rendering tool with hot reloading, such as rapid development and deployment.
+
+**Advantages and disadvantages**
+
+* The video discusses the advantages of using eleventy for static site rendering, including speed, ease of use, and scalability.
+* It also touches on some potential drawbacks, such as the need to manage dependencies and compatibility issues.
+
+**Conclusion**
+
+* The video summarizes the key points covered in the tutorial.
+* It encourages viewers to try out eleventy and other static site rendering tools for their own projects.
+
+The video is approximately 14 minutes long, with practice assignments and reading materials available for additional learning.
 

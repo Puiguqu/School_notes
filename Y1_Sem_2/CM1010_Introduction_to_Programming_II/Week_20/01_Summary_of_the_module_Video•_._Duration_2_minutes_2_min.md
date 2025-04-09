@@ -2,19 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/aUJlj/summary-of-the-module)
 
-Unfortunately, there is no text to summarize beyond the introductory section of a video transcript. The provided text only contains a video transcript and does not include any relevant content or information that could be summarized.
+Unfortunately, this text is a transcript of an introduction to programming course and does not contain any specific formulae, links, or technical details. The content is focused on the completion of the module and providing encouragement and support to students.
 
-However, I can provide a general summary of what appears to be an introduction to programming course:
+Here is a summary of the main points in 8 sentences:
 
-The course has covered various topics in programming, including drawing commands, nested looping, complex conditionals, object-oriented programming, arrays, and data structures. Students have also been introduced to the JavaScript syntax and the process of programming, co-design, debugging, and the philosophy of code.
-
-The instructor thanks students for their participation in the course and wishes them the best of luck with their future endeavors in programming. They encourage students to continue exploring programming even if it's not a central part of their career path.
-
-Additionally, there are links to further lessons and resources, including:
-
-* Lesson 10.3: Finishing touches
-* Lesson 10.4: Progress log
-* Lesson 10.5: Summary Video
-
-These links provide access to more content and summaries of the course material.
+The Introduction to Programming course has come to an end, and students are encouraged to continue exploring programming outside of this course. Students have learned key concepts such as nested looping, complex conditionals, object-oriented programming, arrays, and other data structures. The course has covered JavaScript syntax and programming practices, including co-design, debugging, and the philosophy of code. The instructors thank students for their active participation in forums and community discussions. The course is designed to provide a solid foundation for future programming topics, regardless of whether code becomes a career focus or not. Students are encouraged to stay focused but relaxed as they approach the deadline and to revisit planning if needed. The instructors wish students the best of luck with the rest of their degree and hope that students will continue to explore programming in the future.
 

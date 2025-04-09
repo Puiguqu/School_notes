@@ -2,15 +2,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/A7vUR/complex-object-properties)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The speaker demonstrates how to store objects with array properties in JavaScript. They create an object for a bus with various properties, including x position, length, height, wheel diameter, and driver position. The speaker explains that they will use a two-dimensional array of objects to represent the passengers on the bus.
+The speaker demonstrates how to store objects within an array in JavaScript, and vice versa. They create an object representing a bus with properties like x position, length, height, wheel diameter, and driver's position. The speaker introduces the concept of nesting objects and arrays, creating a new driver object with attributes like height. To draw the driver, they modify the `drawPerson` function to accept an object with attributes, passing in the `bus.driver` object as an argument.
 
-To start, they initialize an empty passengers array and add five passenger objects to it. Each passenger object has an exponential value (x position) and a random height between 40 and 80. They then draw the driver using the original drawing function, passing in the bus.driver object as an argument.
+The speaker then creates five passengers with different x positions, heights, and random attributes using loops and array methods like `push`. They draw each passenger using a modified version of the `drawPerson` function, accessing their properties from within the array. The resulting bus object has multiple passengers with unique characteristics, demonstrating the power of nested objects and arrays in JavaScript.
 
-Next, they comment out the code for drawing the passengers and modify it to extract the x position from each passenger object. They pass the passenger objects at each index to the adapted function, which draws a school child with varying heights.
-
-The speaker notes that there is room for variation, such as adjusting the width of the passengers or giving them different colors or haircuts. They leave this to the viewer's discretion.
-
-Throughout the presentation, the speaker uses comments and code snippets to explain their thought process and provide examples.
+The speaker provides additional resources and practice assignments related to nesting objects and arrays, such as two-dimensional arrays and patterns, which can be used to further explore these concepts.
 

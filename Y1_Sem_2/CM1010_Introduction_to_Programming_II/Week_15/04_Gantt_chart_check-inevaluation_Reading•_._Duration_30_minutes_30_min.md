@@ -2,11 +2,20 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/3Zudo/gantt-chart-check-in-evaluation)
 
-There is not enough information provided in the text to summarize and preserve all key details. The text appears to be a prompt for a lesson review and does not contain any specific content, formulae, links, or technical details.
+Unfortunately, this text does not provide any key information, formulae, links, or technical details. It appears to be a prompt for reviewing and evaluating a Gantt chart in a project management context.
 
-However, I can provide a summary of the main points:
+However, I can summarize the main points of the prompt:
 
-The text invites students to review their Gantt chart and reflect on its effectiveness in managing their project time. It emphasizes that a Gantt chart should be updated regularly to show progress and identify problems early. The student is encouraged to consider whether they are on track to meet the final deadline, what adjustments need to be made, and how effective the task breakdown was. They are also asked to think about opportunities for additional functionality or testing if they are running ahead of schedule.
+* Reviewing and updating a Gantt chart is essential for effective project management.
+* A Gantt chart should not be a static document, but rather an ongoing tool for tracking progress and identifying problems.
+* Key questions to consider when reviewing a Gantt chart include:
+ + Are you on target to meet the final project deadline?
+ + What adjustments are needed to ensure completion on time?
+ + How effective has your chart been at keeping the project on track?
+ + Was your breakdown of tasks optimal?
+ + Did you pick the correct granularity of tasks?
+* If the project is behind schedule, updating the task list is crucial to meeting the final deadline.
+* If the project is running ahead of schedule, opportunities for additional functionality or testing may arise.
 
-If you could provide more context or content from the text, I would be happy to help with a summary.
+If you could provide more context or information about the Gantt chart and its content, I would be happy to help further.
 

@@ -2,9 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/9EuHK/conclusion)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The video transcript presents techniques for counting and combinatorial principles that are fundamental to computer science. The order of elements makes a difference, and permutation and combination differ from each other. Factorials are also mentioned as a way to calculate large numbers. A riddle is presented: a person plays at least one round of a video game per day for 30 days, playing a total of 40 rounds in the same sequence of consecutive days. The solution involves creating a new sequence (f) by adding 19 to each element of the original sequence (g). When combining these sequences, there are 60 elements, and by the pigeonhole principle, at least two must be equal. Assuming fj = gi, we substitute gj + 19 for gi, resulting in gi - gi = 9. This means that there is a day where the player has played exactly 19 times.
-
-Note: I did not include any formulas or technical details as they are not explicitly mentioned in the provided text.
+The video transcript discusses counting techniques for breaking down complex problems into simpler ones. Permutation and combination differ from each other, and understanding these concepts is fundamental to computer science. The transcript presents a problem involving a person playing at least one round of a video game per day for 30 days, with a total of 40 rounds played over the same consecutive days. Two sequences, gI and fI, are defined: gI represents the number of games played up until and including day I, while fI = gI + 19. By combining the two sequences, we get 60 unique numbers, all less than 59, which implies that at least two of them must be equal by the pigeonhole principle. Assuming fj = gi, we substitute gj + 19 for fi to find gi - gi = 9, indicating that there are 10 consecutive days with the same number of games played (i.e., j+1, j+2, ..., I). This finding reveals a key insight into how order matters when dealing with combinatorial problems.
 

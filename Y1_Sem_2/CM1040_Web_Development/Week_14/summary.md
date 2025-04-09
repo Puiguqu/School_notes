@@ -4,11 +4,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/IVKUl/topic-7-week-2-introduction)
 
-There is no text provided for me to summarize. The given text appears to be a video transcript with information about an upcoming lecture on deploying websites into different server setups, including Unix command line hacking and web server configuration. 
+There is no text provided for me to summarize. The text appears to be a transcript of a video lecture on web development, specifically covering the topic of deploying websites onto servers using Unix command line hacking. 
 
-However, I can provide a summary of the key concepts and findings in 8 sentences:
-
-This week's topic is Week 2 for Topic 7, focusing on web development lifecycle and deploying websites onto servers. The instructor will be using Unix command line skills to share expertise with students. They aim to cover web server configuration techniques and deployable website setups at scale. Students can expect to learn about static and non-static website deployment methods through video lectures and practice assignments. A lab exercise, "Configuring a web server," is also available for hands-on experience. The instructor hopes that students will enjoy the process of learning about deploying websites and gain knowledge on scalable deployment techniques. Key concepts include Unix command line skills and web server configuration. The material covered in this week's lesson should be valuable to those working on websites and looking to improve their web development lifecycle understanding.
+If you provide the actual text, I would be happy to assist with summarizing it in 8 sentences, preserving key information, formulae, links, and technical details.
 
 ---
 
@@ -16,38 +14,25 @@ This week's topic is Week 2 for Topic 7, focusing on web development lifecycle a
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/zLpIq/basic-static-website-deployment)
 
-This is a video transcript of a tutorial on basic web deployment techniques, specifically deploying a static website on a web server.
+This appears to be a transcript of a video lecture on deploying a static website on a web server. The lecturer walks through the process of setting up a web server, installing necessary software, configuring domain names, testing the site, and deploying it.
 
-The tutorial covers the following topics:
+Here's a summary of the key points covered in the lecture:
 
-1. Deploying a static website on a web server
-2. Configuring domain names for the website
-3. Testing the website with ping and curl commands
-4. Using HTTPs certificates to secure the website
+1. **Configuring a web server**: The lecturer shows how to set up a basic web server using a Unix-based system such as Ubuntu.
+2. **Installing necessary software**: They install Apache, Nginx, or another web server software, and PHP.
+3. **Configuring domain names**: The lecturer explains that you need to buy a domain name and then configure it to point to the IP address of your web server.
+4. **Transferring files**: They show how to use Filezilla (SFTP) to transfer files from the local machine to the web server.
+5. **Testing the site**: The lecturer demonstrates how to test the website using ping, curl, and viewing the access logs on the server side.
+6. **HTTPS**: They discuss how to configure HTTPS using a service like Let's Encrypt to generate secure certificates for the website.
 
-The tutorial includes live demonstrations of each step, using a virtual machine as an example.
+The lecture is divided into several sections:
 
-Here is a summary of the key points covered in the tutorial:
+1. **Introduction** (1 minute)
+2. **Basic static website deployment** (30 minutes)
+3. **Practice Assignment: Basic website deployment** (9 minutes)
+4. **Lab: Configuring a web server** (1 hour)
 
-* To deploy a static website on a web server, you need to:
-	+ Install a web server software (e.g. Nginx)
-	+ Create a virtual host configuration file
-	+ Upload your website files to the web server using Filezilla or SFTP
-	+ Configure the domain name for the website
-* To configure a domain name for the website, you need to:
-	+ Buy a domain name from a registrar (e.g. GoDaddy)
-	+ Point the domain name at an IP address (in this case, the virtual machine's IP address)
-	+ Set up DNS records for the domain name
-* To test the website with ping and curl commands, you need to:
-	+ Use the `ping` command to check if the website is reachable from a remote location
-	+ Use the `curl` command to send an HTTP request to the website and verify that it responds correctly
-* To use HTTPs certificates to secure the website, you need to:
-	+ Generate a self-signed certificate (or obtain one from a trusted certificate authority)
-	+ Configure the web server to use the HTTPs certificate
-
-The tutorial concludes by emphasizing the importance of testing and verifying that the website is working correctly after deployment.
-
-Overall, this tutorial provides a comprehensive introduction to deploying a static website on a web server, including configuration, testing, and security considerations.
+Overall, the lecture provides a comprehensive introduction to deploying a static website on a web server, covering the basics of configuration, testing, and security.
 
 ---
 
@@ -55,37 +40,29 @@ Overall, this tutorial provides a comprehensive introduction to deploying a stat
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/orpHZ/non-static-and-scalable-website-deployment)
 
-This is a transcript of a video on deploying dynamic websites, specifically focusing on non-static and scalable deployment techniques.
+This transcript appears to be a video lecture on web deployment techniques, specifically on how to deploy dynamic websites in a scalable and secure manner.
 
-The video covers the following topics:
+The lecturer covers various topics such as:
 
 1. Basic web deployment techniques
 2. Non-static and scalable website deployment
-3. Continuous integration and continuous deployment
-4. Containerization and orchestration
-5. Monitoring and security
+3. Database considerations for dynamic websites
+4. Reverse proxies and load balances for high traffic
+5. Containerization for deploying applications
+6. Continuous integration and continuous deployment (CI/CD) pipelines
+7. Monitoring and security for large-scale systems
 
-The video discusses various tools and technologies used in deploying dynamic websites, including:
+The lecturer uses a visual diagram to illustrate the concepts and explains each topic in detail, providing examples and best practices where applicable.
 
-* Reverse proxies
-* Load balancers
-* Docker containers
-* Kubernetes (not explicitly mentioned, but implied by the container orchestration discussion)
-* Prometheus for monitoring
-* GitHub for continuous integration and deployment
+Some key takeaways from this video lecture include:
 
-The video also touches on the importance of security, monitoring, and maintenance when deploying complex systems.
+* The importance of using non-static content for dynamic websites
+* How to set up reverse proxies and load balances for high traffic
+* The benefits of containerization for deploying applications
+* The role of continuous integration and deployment in maintaining a scalable system
+* The need for monitoring and security measures when dealing with large-scale systems
 
-Throughout the video, the author provides examples and explanations to help viewers understand the concepts and technologies involved in deploying dynamic websites.
-
-Some key takeaways from the video include:
-
-* The importance of using non-static and scalable deployment techniques for dynamic websites
-* The benefits of containerization and orchestration for managing and updating containers
-* The role of continuous integration and continuous deployment in ensuring code quality and efficiency
-* The need for monitoring and security measures to ensure the stability and integrity of the deployed system
-
-Overall, this video provides a comprehensive overview of deploying dynamic websites, covering both technical details and best practices.
+Overall, this video lecture provides a comprehensive overview of the techniques and considerations involved in deploying dynamic websites in a scalable and secure manner.
 
 ---
 
@@ -93,17 +70,13 @@ Overall, this video provides a comprehensive overview of deploying dynamic websi
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/WUdN3/topic-7-summary)
 
-There is no text to summarize. The provided text appears to be a video transcript and additional page content for an online course or tutorial, but it does not contain any specific information or data that can be summarized into 8 sentences.
+There is no text to summarize. The provided content appears to be a video transcript and additional page content related to web development lifecycle, specifically covering lessons on deployment techniques for non-static and scalable websites.
 
-However, I can provide a summary of the topics mentioned in the text:
+However, I can provide a general summary of the topics covered:
 
-The text discusses two main stages of the web development lifecycle: early stages (user requirement gathering, participatory design workshops) and late stages (deploying websites onto web servers, reverse proxies, and Dockerizations).
+Web development lifecycle encompasses various stages, including user requirement gathering, participatory design workshops, and late-stage deployments. The course covers techniques for deploying websites onto web servers, reverse proxies, Dockerizations, and other aspects of deployment. Two specific lessons are mentioned: Lesson 14.1, which covers basic web deployment techniques, and Lesson 14.2, which focuses on non-static and scalable website deployment. Additional resources include videos, practice assignments, reading activities, and a self-evaluation checklist.
 
-The course covers lesson 14.1 on basic web deployment techniques, 14.2 on non-static and scalable website deployment, which includes a video, practice assignment, reading activity, and self-evaluation checklist.
-
-Additionally, the text mentions other topics related to website deployment and maintenance, including a practice assignment for website maintenance planning and a reading lesson for non-static and scalable website deployment practical work.
-
-If you provide the actual text or content you'd like me to summarize, I'll be happy to assist you.
+Key concepts and findings from the text are not explicitly stated, as it appears to be a video transcript rather than a written article or technical document.
 
 ---
 
@@ -111,22 +84,9 @@ If you provide the actual text or content you'd like me to summarize, I'll be ha
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/mZ8TF/activity-non-static-and-scalable-website-deployment-practical)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-To run the Bookserver Node.js application, download the bookserver.zip file, unzip it, navigate to the bookserver directory, and run node server.js. This should start the server on http://localhost:3000. Next, configure Nginx as a reverse proxy server by installing it with sudo apt install nginx, starting the service with sudo service nginx start, and editing the default config file to include the following code snippet:
-
-```javascript
-location /api/ {
-  proxy_pass http://localhost:3000/;
-  proxy_http_version 1.1;
-  proxy_set_header Upgrade $http_upgrade;
-  proxy_set_header Connection 'upgrade';
-  proxy_set_header Host $host;
-  proxy_cache_bypass $http_upgrade;
-}
-```
-
-After saving the changes, try accessing http://localhost/api/books in Chrome to verify that the raw JSON data is displayed correctly. If you encounter a "502 Bad Gateway" error, it means that the node server is not running and needs to be restarted. With the bookserver up and running, you can now upload your book client website to the website folder and serve it on http://localhost. The client website should communicate with the API on http://localhost/api/books. To complete this lesson, verify that the book client website works correctly and mark it as completed in the provided completion checklist.
+To get the Book Server running, extract the `bookserver.zip` file and run `node server.js` in the extracted directory. The server should be accessible at `http://localhost:3000`. Verify that the API data can be accessed directly from the Node Server by visiting `http://localhost:3000/api/books` in Chrome. To configure Nginx to reverse proxy to the Node API Server, install and start Nginx using `sudo apt install nginx` and `sudo service nginx start`. Add a configuration block to the `default` file in `/etc/nginx/sites-enabled/` to proxy requests from `/api/` to `http://localhost:3000/`. With this setup, three services can be accessed: `http://localhost` (static files), `http://localhost:3000/api/books` (raw books directly from the Node Server), and `http://localhost/api/books` (raw books via Nginx). The challenge now is to upload and operationalize a Book Client website that talks to the API on `http://localhost/api/books`.
 
 ---
 
@@ -136,11 +96,7 @@ After saving the changes, try accessing http://localhost/api/books in Chrome to 
 
 Here is a summary of the text in 8 sentences, preserving key information:
 
-To maintain a website, tasks should be performed at various frequencies. Content management tasks, such as updating static content and fixing broken links, should be done regularly (e.g., daily, weekly). Code optimisation, accessibility, and security measures should also be reviewed and updated frequently, including checking for outdated content, plugins, and browser compatibility. For scalability, load balancing, and caching strategies can be implemented with regular monitoring and backups to ensure database performance and uptime.
-
-Automated testing and deployment using CI/CD pipelines can help streamline website updates, while blue-green and canary deployment strategies can minimize downtime. Regular security audits and vulnerability assessments should be performed to ensure strong access control and secure authentication. User feedback and analytics can help improve CTAs and user pathways, leading to better website performance.
-
-It is essential to set up monitoring and logging systems to automate regular backups and test recovery plans. A comprehensive approach to website maintenance involves implementing these strategies to ensure a smooth and efficient online experience.
+To determine the frequency for each task in website maintenance, consider using your understanding of web development processes. Tasks should be performed regularly to ensure website updates are current and secure. Content management tasks include updating static content (daily/weekly), removing outdated content (monthly/quarterly), and repairing and updating broken links (weekly). Browser compatibility testing should be done daily on all major browsers and devices, with a focus on less-popular and latest browser versions. Code optimisation involves streamlining HTML, CSS, and JavaScript for efficiency (monthly/quarterly) and removing redundant code and comments. Website performance should be regularly checked and optimized as needed to ensure accessibility and security measures are in place. Deployment practices include using CI/CD pipelines for automated testing and deployment (weekly), implementing blue-green and canary deployment strategies (monthly/quarterly), and monitoring uptime and receiving alerts for any downtime (daily). User feedback and analytics should be collected and reviewed regularly to improve website traffic, CTAs, and user pathways.
 
 ---
 
@@ -150,7 +106,7 @@ It is essential to set up monitoring and logging systems to automate regular bac
 
 Here is a summary of the text in 8 sentences:
 
-The provided text appears to be a self-evaluation checklist for a course on web deployment techniques. The exercise aims to help students reflect on their learning journey, identify areas for improvement, and develop a plan for growth. Students are expected to regularly assess their understanding against the learning outcomes. The checklist covers key concepts such as deploying a website, configuring a server, maintaining a website, and testing website compatibility. Students who feel uncertain about these concepts should revisit relevant lecture videos, readings, and activities to consolidate their knowledge. The text mentions specific topics covered in lessons 14.1 and 14.2, including basic web deployment techniques, non-static and scalable website deployment, and website maintenance. Students are also expected to complete practice assignments, reading activities, and a self-evaluation checklist as part of their progress through the course. Overall, the exercise aims to help students develop a plan for improvement and deepen their knowledge and skills in web deployment techniques.
+To regularly assess understanding, reflect on learning journey, identify areas for improvement, and develop a plan. Use this checklist to evaluate knowledge against learning outcomes and revisit relevant materials if needed. The process of deploying a website involves setting up a server and configuring it to serve content. Availability and scalability are crucial in website deployment. Configuring a server to handle requests using reverse proxies is also important. Key tasks involved in maintaining a website include content updates, security checks, and performance optimisation. Testing website compatibility across different browsers and devices is significant. The provided self-evaluation checklist can be used to assess understanding of topics covered in this lesson.
 
 ---
 

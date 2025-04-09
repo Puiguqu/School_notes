@@ -2,11 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/J0xQh/proof-by-contrapositive)
 
-The text describes a mathematical technique called proof by contrapositive, which is used to prove conditional statements. This technique exploits the equivalent classes of logical statements, specifically the equivalence between "if A then B" and "if not B then not A". 
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-For example, to prove that for all integers n, if n^3 + 1 is odd, then n is even, we can show its contrapositive: if n is odd, then n^3 + 1 is even. By assuming n is odd and showing that this implies n^3 + 1 is even, we effectively prove the original statement.
+The technique of proof by contrapositive exploits equivalent classes of logical statements. To prove a conditional statement "if A then B", it's often easier to show that its contrapositive "if not B, then not A" is true. The contrapositive can be used when the premise is difficult to work with directly. For example, proving "for all integers n, if n^3 + 1 is odd, then n is even", one can start by assuming "n is odd" and show that "n^3 + 1 is even". The contrapositive can be used as a shortcut in proof by contradiction, where one assumes the negation of the statement to be proved and shows it leads to a contradiction. This technique can simplify proofs and make them more efficient. In general, if A then B can be proven either directly or by assuming not-B and proving not-A. The method of contrapositive proof is an alternative approach to traditional proof methods in logic and mathematics.
 
-In another example, to prove that for any two real numbers x and y, if y^3 + yx^2 < x^3 + xy^2, then y ≤ x, we can use proof by contrapositive. We need to show that if y > x, then y^3 + 1/x^2 < x^3 + 1/y^2.
-
-The key idea is that in a proof by contrapositive, we assume the negation of the conclusion and aim to derive the negation of the premise, thereby proving the original statement.
+I left out the detailed explanations of the steps for these two examples because they were too long for this summary format.
 

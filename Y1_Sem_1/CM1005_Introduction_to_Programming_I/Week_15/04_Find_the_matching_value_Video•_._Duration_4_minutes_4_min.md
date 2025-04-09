@@ -2,23 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/GAcbs/find-the-matching-value)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-The video transcript discusses basic algorithms for searching arrays in JavaScript. A large array with 1,000 numbers is used as an example, and a variable named "meaningOfLife" is created to store the index of the first instance of the number 42. The array is accessed using the property numArray.length, which returns the length of the array. A for loop is written to iterate over the array, starting from index 0 and stopping when it reaches the last element of the array (i.e., when i < numArray.length). Inside the loop, the condition is checked if the value at index i in the array equals 42 using the syntax numArray[i] == 42. If true, the meaningOfLife variable is assigned the current index i.
-
-The transcript highlights an important point: if the loop finishes without finding 42, the last value returned will be the index of the last element in the array. To fix this issue, the for loop is modified to use a break statement when the value equals 42 is found, which causes the loop to exit prematurely.
-
-The corrected code uses a break statement to stop iterating over the array once 42 is found, ensuring that the first instance of 42 is returned as its index. The meaningOfLife variable is then printed in the console output using the syntax console.log("the meaning of life is at index" + i).
-
-Overall, the video emphasizes the importance of using a break statement to exit a loop prematurely when a specific condition is met, ensuring that the correct index is returned.
-
-Key concepts and findings include:
-
-* Using a for loop to iterate over an array
-* Accessing array elements using the property numArray[i]
-* Checking conditions within the loop using if statements
-* Using a break statement to exit a loop prematurely
-* Returning the first instance of a specific value in an array
-
-Formulae and technical details are not explicitly mentioned, but they can be inferred from the code examples provided.
+The video discusses searching for a particular value in an array using a for loop. An example array with 1,000 numbers is used to find the first instance of the number 42. A variable `meaningOfLife` is created to store the index of the found value and initialized to zero. The for loop iterates through the array until it finds the value 42, but the current implementation prints the last found index instead of the first one. To fix this, a break statement is added after finding the value 42, which stops the loop from iterating further. With the break statement in place, the program successfully finds the first instance of the number 42 and prints its index, which is 265. This demonstrates how to use a for loop with a break statement to achieve a specific search outcome.
 

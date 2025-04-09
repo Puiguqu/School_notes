@@ -2,19 +2,22 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/k9xdz/text-generation-and-processing)
 
-This text appears to be a transcript of a lecture or tutorial on using large language models (LLMs) in web development, specifically focusing on text processing techniques. The speaker discusses various topics related to LLMs, including:
+This is a transcript of a lesson on text processing techniques using large language models, specifically GPT (Generative Pre-trained Transformer). The lecture covers various topics, including:
 
-1. Planning: The speaker mentions planning as an important step in using LLMs and provides some examples of how to plan for text generation tasks.
-2. Generating a test sheet: The speaker demonstrates how to generate a test sheet by reading the API documentation and turning it into a description of all the API endpoints that developers might use.
-3. Tagline generation: The speaker interacts with the LLM to generate a good tagline, illustrating its ability to refine and improve text based on feedback.
-4. Summarizing and categorizing: The speaker mentions summarizing and categorizing as other capabilities of LLMs, which can be useful in analyzing qualitative user data or extracting information from documents.
-5. RAG (Recorded Audio Generation): The speaker briefly touches on RAG, a feature that allows users to augment the model with actual databases of fragments of documents, such as equipment manuals. This enables more accurate and informative text generation.
+1. Generating test sheets for API endpoints
+2. Creating a manual test with different browsers
+3. Interactive tagline generation
+4. Summarizing and categorizing text
+5. RAG (Reusable Active Genomics) technology
 
-Throughout the lecture, the speaker emphasizes the potential applications of LLMs in web development, including:
+The lecturer explains each topic in detail, providing examples and demonstrations of how to use GPT for these tasks. They also discuss the limitations and potential applications of these techniques in web development contexts.
 
-* Generating image assets
-* Image generation
-* Text and image asset generating workshops
+Some key points from the lecture include:
 
-The lecture concludes with a mention of an end-of-module revision and assessment, as well as an end-of-module survey.
+* GPT can be used to generate test sheets by reading API documentation and summarizing the endpoint details.
+* Interactive tagline generation can help improve the quality of generated text.
+* Summarizing and categorizing text can be useful for analyzing qualitative user data.
+* RAG technology allows for the creation of reusable, active knowledge bases that can be integrated into GPT models.
+
+Overall, this lecture provides a comprehensive overview of text processing techniques using large language models, with practical examples and demonstrations of how to apply these techniques in web development contexts.
 

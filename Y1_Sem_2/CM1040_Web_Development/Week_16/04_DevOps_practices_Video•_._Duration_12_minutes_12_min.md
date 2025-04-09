@@ -2,16 +2,17 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/F9SML/devops-practices)
 
-This text appears to be a transcript of a video lecture on DevOps, specifically covering the topics of Continuous Integration, Continuous Delivery, Infrastructure as Code, and DevSecOps. The speaker discusses the importance of automation in software development and deployment, and provides examples and best practices for implementing these concepts.
+This appears to be a transcript of a video lecture on DevOps, specifically covering the topics of continuous integration, continuous delivery, infrastructure as code, monitoring and logging, and DevSecOps. The lecture is likely part of an online course or training program aimed at introducing students to DevOps practices.
 
-The lecture covers the following topics:
+The transcript covers the following topics:
 
-1. Continuous Integration: The automated testing and building of code to ensure it meets quality standards.
-2. Continuous Delivery: The process of packaging up code into a deployable format that can be delivered by the IT team.
-3. Infrastructure as Code: The automation of IT infrastructure provisioning, configuration, and management through code.
-4. DevSecOps: Integrating security testing and reporting into the DevOps workflow.
+1. Continuous Integration (CI): automation of tasks around improving code quality through testing and automated building.
+2. Continuous Delivery: packaging up code into a deployable form for IT teams.
+3. Infrastructure as Code (IaC): automating IT teams by turning them into scripts that spin up instances of an app depending on the load.
+4. Monitoring and Logging: key to understanding what's going on with automated systems, requiring a good dashboard.
+5. DevSecOps: integrating security testing and reporting into the DevOps workflow.
 
-The speaker also touches on the importance of monitoring and logging in DevOps, and mentions the need for a good dashboard to track system performance and detect potential issues.
+The lecture also mentions additional topics, such as version control (Git), code review, and self-evaluation checklists, but does not delve deeply into these topics.
 
-The lecture concludes with a summary of the key concepts covered and provides practice assignments for the viewer to reinforce their understanding.
+Overall, this transcript provides a high-level overview of the key concepts and practices in DevOps, with a focus on automation, testing, and security.
 

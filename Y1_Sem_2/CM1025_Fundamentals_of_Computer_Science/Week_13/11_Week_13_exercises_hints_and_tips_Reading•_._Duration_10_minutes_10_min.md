@@ -2,5 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/6EYIJ/week-13-exercises-hints-and-tips)
 
-Lesson 7.0 Introduction Lesson 7.1 Non-context free languages Lesson 7.2 Turing machines Video: Video Turing machines . Duration: 8 minutes 8 min Video: Video Turing machines – examples . Duration: 5 minutes 5 min Video: Video Designing Turing machines . Duration: 7 minutes 7 min Video: Video Designing Turing machines example . Duration: 5 minutes 5 min Practice Assignment: Turing machines . Duration: 25 minutes 25 min Reading: Reading Introduction to Turing machines ....
+This text outlines a lesson on Turing machines, covering key concepts in computer science. The introduction to the course covers various video lessons on designing and using Turing machines (Duration: 8+5+7+5+25+1h 55m+30+10+10+37sec). A practice assignment is also included (Duration: 25 minutes) with a discussion prompt to design a Turing machine. The reading material includes "Introduction to Turing machines" and "Week 13 exercises", along with additional hints and tips. No specific formulae or technical details are mentioned in this text.
 

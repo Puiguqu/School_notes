@@ -2,11 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/wYBEO/topic-3-evaluation-and-summary)
 
-There is no text to summarize in this prompt. The provided text appears to be a section from a course or tutorial, outlining topics and assignments related to programming and music visualizers using p5.js. It does not contain any specific information that can be summarized into 8 sentences.
+There is no text to summarize. The provided text appears to be a module summary or checklist, listing topics and assignments without any specific content or technical details. It does not contain formulae, links, or technical information about sound production or manipulation.
 
-However, I can provide a summary of the main concepts and topics discussed:
-
-The third topic of the module introduces the music visualizer application, which is explored in detail through case studies and video content. Students learn about the basics of storing and playing sound using p5.js's sound library. They also review the structure of the music visualizer application and complete a peer-graded assignment to demonstrate their understanding. Additionally, students participate in a discussion on reflection and planning for their applications, which is discussed in the second "interview with the student" video. The module includes various assessment components, including a 1-hour case study, review of peers' work, and a 20-minute discussion on case study 2.
-
-If you provide the actual text to summarize, I will be happy to assist you further.
+If you could provide the actual text, I would be happy to assist you in summarizing it in 8 sentences, focusing on key concepts and findings.
 

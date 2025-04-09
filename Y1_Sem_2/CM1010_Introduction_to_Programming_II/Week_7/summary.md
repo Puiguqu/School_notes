@@ -4,9 +4,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/H7gHr/introduction-to-case-study-3-data-visualisation)
 
-There is no text provided for me to summarize. The provided text appears to be a video transcript and additional page content related to an educational platform, but it does not contain any specific information about data visualization or programming concepts that can be summarized in 8 sentences.
+There is no text provided for me to summarize. The given text appears to be a transcription of a video presentation, likely from an educational platform or tutorial series, and does not contain any specific data, formulae, links, or technical details to summarize. 
 
-If you could provide the actual text about p5's data tools and the structure of the data visualization app, I would be happy to assist you with summarizing the key information, formulae, links, and technical details.
+However, I can provide some general information about the context:
+
+This text is likely from an introductory course or tutorial on programming, specifically focusing on p5.js, a JavaScript library for creative coding. The transcript appears to be from a video presentation that provides an overview of data visualization using p5's tools. The content suggests that the video will guide viewers through the code and structure of a data visualization app, with some features intentionally left incomplete for completion in future lessons.
 
 ---
 
@@ -14,9 +16,9 @@ If you could provide the actual text about p5's data tools and the structure of 
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/meXhl/introducing-p5-data)
 
-Here is a summary of the text in 8 sentences, preserving key information and concepts:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The toolkit of data visualizations uses the p5.js library to access and manipulate tabulated data. Data can be either quantitative (e.g., numbers, scales) or qualitative (e.g., text, images). The table object provides methods for accessing and manipulating data, including loading external data from a CSV file. The loadTable command is used with the preload argument to ensure data is ready for use when needed. Methods for accessing rows and columns include getting specific rows by index, searching for values in particular columns, setting and removing rows, and accessing data by column. The getColumn method retrieves an array of values for a particular variable, which may require conversion from strings to numbers. The table object provides many methods for manipulating tabulated data, and users are encouraged to review the documentation to learn more. In the next video, a real code example with a data table will be presented, along with further information on the CSV format used in p5.js.
+The Toolkit of Data Visualizations case study requires importing the table object from the pm library to construct an application. The table object can be used to store and manipulate quantitative data, including numbers, strings, and categorizable data, which are organized into rows and columns. Qualitative data, such as text and images, is not a focus of this case study. To load external data, a CSV file (Comma Separated Values) can be used, which stores the data without formatting. The `loadTable()` command is used to load the CSV file, and the `preload` function ensures that the data is ready for use when needed. The table object provides methods for accessing rows and columns, including searching for specific values, setting and removing rows, and accessing data by column. For example, `getColumn()` can be used to retrieve all values in a particular column as an array of strings, which may need to be converted to numbers. The documentation provides additional information on the methods available for manipulating tabulated data using the table object.
 
 ---
 
@@ -24,22 +26,19 @@ The toolkit of data visualizations uses the p5.js library to access and manipula
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/5WdJy/accessing-external-data)
 
-This is a transcript of a video lesson on using P5.js, a JavaScript library for creating interactive graphics and data visualization. The lesson covers several topics:
+This transcript appears to be from a video lecture on using the P5.js library for data visualization. The speaker is walking through the process of loading and manipulating a dataset, creating a scatterplot, and adding additional visual elements such as a line of best fit.
 
-1. Introduction to P5.js and its capabilities
-2. Loading and manipulating external data using the `table` object
-3. Creating a scatterplot using the `scatterplot` constructor
-4. Adding a line of best fit to the scatterplot
+Here are some key points that can be inferred from the transcript:
 
-The transcript includes code examples and explanations, as well as suggestions for practice assignments.
+1. The speaker starts by introducing the P5.js library and its table object, which allows for easy access to data.
+2. They demonstrate how to load external data into the table object and manipulate it using various functions such as `parsefloat` and `sin`.
+3. The speaker creates a scatterplot using the `scatterplot()` function and adds data points to it by calling `myScatter.plot()`.
+4. They add additional visual elements, such as lines of best fit, by creating new functions that access the underlying data.
+5. Throughout the video, the speaker emphasizes the importance of parsing data types and ensuring that numerical values are used correctly in mathematical operations.
 
-Some key takeaways from the lesson include:
+The final section of the transcript mentions a case study 3, which suggests that this video is part of a larger course or tutorial series on using P5.js for data visualization. The accompanying practice assignments and additional page content suggest that the speaker provides hands-on exercises and resources to support learning.
 
-* The importance of parsing data to ensure it is used correctly in calculations
-* The flexibility of P5.js in allowing developers to create custom visualizations
-* The benefits of using a library like P5.js to simplify data visualization tasks
-
-Overall, this transcript provides a comprehensive overview of how to use P5.js for data visualization, including loading and manipulating data, creating scatterplots, and adding lines of best fit.
+Overall, this transcript appears to be a comprehensive introduction to using P5.js for data visualization, covering key concepts such as loading data, creating scatterplots, and adding visual elements like lines of best fit.
 
 ---
 
@@ -47,23 +46,24 @@ Overall, this transcript provides a comprehensive overview of how to use P5.js f
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Ta3uA/data-visualisation-application-under-the-hood)
 
-This text appears to be a transcript of a lesson or tutorial on a programming topic, specifically on the P5.js library for data visualization. The content seems to follow a structured format, starting with an introduction and then diving into detailed explanations and examples.
+This is a transcript of a video lecture on P5.js, a JavaScript library for creating interactive graphics and animations. The lecture is part of an introductory course on P5.js.
 
-The lesson begins by introducing the concept of a data visualization app and the importance of understanding how it works under the hood. It explains that the app uses various visualizations, including pie charts, bar charts, and more, to display data in a meaningful way.
+The lecturer introduces the concept of data visualization and explains how P5.js can be used to create interactive visualizations. They demonstrate how to access external data using APIs and show examples of different types of visualizations, including bar charts, pie charts, and scatter plots.
 
-The lesson then guides the reader through a case study of one of these visualizations, "Pay Gap By Job." The author walks the reader through the code step by step, explaining each part of the visualization's implementation. This process is repeated for other visualizations, such as "Tech Diversity Race" and "Climate Change."
+The lecturer then focuses on a specific case study, "TechDiversityRace", which is an object that displays a pie chart. They walk the audience through the code, explaining each part and how it works together to create the visualization.
 
-The lesson concludes with an introduction to a data visualization application built using P5.js, providing an overview of how it works and encouraging the reader to further explore its code.
+They highlight key concepts such as constructors, methods, and layouts, and demonstrate how these are used in P5.js to create interactive visualizations.
 
-Some key concepts covered in this transcript include:
+The lecture also covers other topics, including accessing external data, preparing for a case study, and practice assignments. The lecturer encourages the audience to explore the code and learn more about the underlying mechanics of the visualization app.
 
-1.  **P5.js library**: A popular JavaScript library for creating interactive, web-based graphics.
-2.  **Data visualization**: The process of representing data in a graphical format to aid understanding and interpretation.
-3.  **Case study**: An in-depth examination of a particular topic or problem, often used to learn from real-world examples.
+Key takeaways from this transcript include:
 
-Overall, this transcript aims to provide a comprehensive introduction to the P5.js library's capabilities for data visualization, encouraging readers to explore its applications and code structure.
+* Understanding how to access external data using APIs
+* Familiarity with P5.js constructors, methods, and layouts
+* Ability to create interactive visualizations using P5.js
+* Understanding of how to break down complex code into smaller parts
 
-Please let me know if I can assist you with anything else.
+Overall, this lecture aims to provide a foundational understanding of P5.js and its capabilities for creating interactive visualizations.
 
 ---
 
@@ -71,15 +71,9 @@ Please let me know if I can assist you with anything else.
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/nW6GE/case-study-3-data-visualisation)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The goal of this case study is to complete various visualizations using the provided data-vis template. The first task is to complete the visualization defined in tech-diversity-gender.js to create a stacked bar chart representing the proportion of men employed at each company. To do this, one needs to extract relevant data from the raw CSV file, parse it correctly, and use the correct methods to ensure accurate data representation on the plot. The ratio of female:male staff at Indiegogo is 0.5, which should be correctly visualized on the plot.
-
-The next task is to complete the visualization defined in pay-gap-1997-2017.js to create a line graph representing the pay gap between female and male employees over time. This requires extracting relevant data from the raw CSV file, completing the mapPayGapToHeight() method, and using both mapYearToWidth() and mapPayGapToHeight() methods to plot the pay gap over time.
-
-The third task is to complete the visualization defined in climate-change.js to create a line graph with gradient fill background representing the change in Earth's surface temperature. This requires completing the rect() function below the fill() method, using the mapYearToWidth() method, and accessing values within the visualization object.
-
-Finally, tasks are completed for tech-diversity-race.js (pie chart representing racial diversity of prominent tech companies), pay-gap-by-job-2017.js (scatter plot representing difference in pay for men and women across different jobs).
+The task involves completing visualizations in a data visualization project template, starting with stekch.js. The goal is to create stacked bar charts for tech diversity by gender, line graphs for pay gap between female and male employees over time, and pie charts for racial diversity of prominent tech companies. The raw data for the first visualization is stored in ./data/tech-diversity/gender-2018.csv, while the raw data for the second and third visualizations are stored in ./data/pay-gap/all-employees-hourly-pay-by-gender-1997-2017.csv and ./data/tech-diversity/race-2018.csv, respectively. The project uses the p5.js library and assumes knowledge of JavaScript programming. To complete the first visualization, the code needs to be modified to extract relevant data from each table row and store it in a company object using methods such as getString() and getNum(). Similarly, the second and third visualizations require completing the mapPayGapToHeight(), rect(), and line() functions, respectively, by utilizing the mapYearToWidth() method and accessing values within the visualization object. The project also includes instructions for creating a select DOM element to populate options programmatically using company names from the data.
 
 ---
 

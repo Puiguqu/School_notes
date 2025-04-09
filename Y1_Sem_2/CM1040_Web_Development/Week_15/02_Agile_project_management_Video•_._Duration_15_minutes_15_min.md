@@ -2,48 +2,35 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/77YRA/agile-project-management)
 
-This is a transcript of a video lesson on agile software development, specifically the introduction to agile project management strategies.
+This is a transcript of a video lesson on agile software development, covering the basics and differences between various methodologies such as Scrum, Kanban, Crystal, DSDM, FDD, Lean, and XP.
 
-The speaker briefly introduces agile project management, explaining that it's an iterative and incremental approach to managing projects, focusing on flexibility, adaptability, and continuous improvement. They mention that traditional waterfall methods are often contrasted with agile approaches.
+The speaker briefly introduces the concept of agile software development, explaining that it focuses on flexibility, collaboration, and continuous improvement. They compare agile to traditional waterfall methods, highlighting the key differences in approach, structure, and focus.
 
-The speaker then explains the Agile Manifesto, which emphasizes four core values:
+The lesson then delves into the Agile Manifesto, discussing its core values (individuals and interactions over processes and tools; working software over comprehensive documentation; customer satisfaction over perfection; and responding to change over following a plan).
 
-1. Individuals and interactions over processes and tools
-2. Working software over comprehensive documentation
-3. Customer collaboration over contract negotiation
-4. Responding to change over following a plan
+Next, the speaker explains the concept of iterated sprints in agile development, highlighting the importance of feedback loops, continuous improvement, and adaptability. They provide a mind map illustrating the cycle of agile development, showing how different methodologies approach these concepts differently.
 
-They also explain how the cycle works in an agile project, with repeated iterated sprints (also known as iterations or cycles). The speaker highlights the importance of continuous feedback, adaptation, and improvement.
+The lesson also covers various agile methodologies, including Scrum, Kanban, Crystal, DSDM, FDD, Lean, and XP. The speaker provides one-sentence summaries for each methodology, highlighting their unique features and focus areas.
 
-Next, they discuss different agile methodologies, such as Crystal, Scrum, and Kanban. Each methodology is briefly described, highlighting its unique features and focus areas.
+To summarize the key points:
 
-The speaker also emphasizes the importance of understanding and adapting to changing project requirements and customer needs.
+1. Agile software development emphasizes flexibility, collaboration, and continuous improvement.
+2. Agile differs from traditional waterfall methods in its approach, structure, and focus.
+3. The Agile Manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer satisfaction over perfection, and responding to change over following a plan.
+4. Iterated sprints involve feedback loops, continuous improvement, and adaptability.
+5. Different agile methodologies have unique features and focus areas, such as Scrum's emphasis on structure, Kanban's focus on visualization, Crystal's emphasis on positive environment, and XP's emphasis on technical practices.
 
-Finally, they provide a comparison table of different agile approaches, showing their similarities and differences in terms of people involvement, communication, adaptability, iterated development, and other aspects.
+The lesson concludes with a practice assignment and some additional resources for further learning.
 
-Throughout the video, the speaker provides examples, anecdotes, and personal commentary to illustrate key concepts. They encourage viewers to explore each methodology further and practice using agile principles in their own projects.
+Key takeaways:
 
-The video concludes with a summary of the key takeaways from the lesson.
+* Agile software development is a flexible and iterative approach that emphasizes collaboration, continuous improvement, and adaptability.
+* Different agile methodologies have unique features and focus areas, but share common values and principles.
+* Understanding the basics of agile software development is essential for effective project management in today's fast-paced technology industry.
 
-**Key Takeaways:**
+Recommended next steps:
 
-* Agile project management is an iterative and incremental approach focusing on flexibility, adaptability, and continuous improvement.
-* The Agile Manifesto emphasizes four core values: individuals and interactions, working software, customer collaboration, and responding to change.
-* Repeated iterated sprints (iterations or cycles) are a key component of agile projects, with continuous feedback and adaptation crucial for success.
-
-**Additional Resources:**
-
-* Practice Assignment: Agile
-* Video: The Scrum framework
-* Reading Activity – Project management
-
-**Self-Evaluation Checklist:**
-
-(To be completed after watching the video)
-
-1. What do you understand by agile project management?
-2. How does the Agile Manifesto influence your approach to project management?
-3. Can you describe a scenario where adaptability and continuous improvement are crucial in project management?
-
-Note: This is not an actual self-evaluation checklist, but rather a placeholder for the speaker's intention to provide one at a later point.
+* Learn more about Scrum and Kanban frameworks
+* Explore other agile methodologies and their applications
+* Practice applying agile principles to real-world projects or scenarios
 

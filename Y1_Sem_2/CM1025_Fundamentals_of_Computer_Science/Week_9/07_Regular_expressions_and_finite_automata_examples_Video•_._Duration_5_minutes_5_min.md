@@ -2,11 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/gWIkV/regular-expressions-and-finite-automata-examples)
 
-The text provides two examples of converting finite automata to regular expressions. 
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-In the first example, a new initial state D is created and transitions are made from D to old initial state A labeled epsilon, then a final state E is created and transitions are made from old final states to E also labeled epsilon. Transitions from B to C are removed by writing as one sigma star. Similarly, removing B results in 00 star 1 followed by a transition from B to E, after which state A is removed resulting in the regular expression 1 star 0 plus 1 sigma star.
+The video transcript discusses two examples of converting finite automata to regular expressions. In the first example, an initial state D is created, transitions from D to A labeled epsilon are made, a final state E is created, and transitions from old final states to new final states labeled epsilon are added. The states connected to C are B and E, so only transitions from B to C and from E to itself can be removed, resulting in 1*0+1*(epsilon|0). In the second example, a new initial state D is created, transitions from D to A labeled epsilon are made, a final state E is created with two separate transitions labeled epsilon, and transitions from old final states to new final state E labeled epsilon are added. The states connected to C are B and A, so a new transition from B to A with label 00*1 must be added, resulting in A to E = 0 ∪ ε. After removing B, paths between A and E must be established, leading to the expression 01 ∪ 00*1*(epsilon|0). Finally, after removing A, a new transition from D to E with label 0+ε ∪ 0 is added, resulting in the regular expression 01 ∪ 00*1*(epsilon|0).
 
-In the second example, multiple final states are handled by creating a new initial state D, transitioning labeled epsilon from D to old initial state A. Two final states E and F are created with transitions from them both labeled epsilon. Removing C results in creating a transition from B to A using 00 star 1. After removing B, a path between A and E is established as well as a path from A to itself using two new transitions. This leads to the regular expression 01 union 000 star 1 star epsilon union 0.
-
-There are no additional pages or links provided in the text, so there's no formulae or technical details to summarize.
+Note: The provided text does not include any links or technical details that require preservation. If you would like me to extract specific information or formulas from the text, please let me know and I'll be happy to assist you.
 

@@ -2,5 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/VAKgm/model-answer-for-how-does-this-magic-work)
 
-Unfortunately, you didn't provide the text to be summarized. Please share the original text, and I'll do my best to preserve all key information, formulae, links, and technical details in a concise summary of 6 sentences.
+There is no text provided to summarize. The text appears to be a list of lesson titles and durations, without any specific content or information about what the lessons cover. Can you provide more context or the actual text you would like me to summarize? I'll do my best to assist you.
 

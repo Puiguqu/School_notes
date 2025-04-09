@@ -4,9 +4,12 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/G4gLH/topic-6-week-2-introduction)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+There is no text to summarize. The provided "text" appears to be a video transcript and additional page content related to an online course, specifically a Web Development Course. It outlines the topics to be covered in two lessons: 
 
-The second week of Topic 6 in the Web Development Course focuses on ready-made template engines and static website rendering tools. The course aims to provide an understanding of how these templates work, what features to expect, and their applications. After building a custom template engine, the course will delve into existing ones, including examples such as [link to specific template engine]. Students will also practice using a ready-made template engine through a practice assignment. The week's content includes a reading activity, discussion prompt, and video tutorials with accompanying videos (e.g., "Video Topic 6 Week 2 introduction", Duration: 43 seconds). Additionally, students can access offline site rendering tools to learn about their usefulness and applications. Offline site rendering tools are another twist on the template site management angle, offering an alternative approach to traditional templates. Throughout the week, students will have hands-on experience with these tools and engage in discussions through a prompt ("Which template engine is the most intuitive?").
+1. Using ready-made template engines
+2. Offline site rendering tools.
+
+No key information, formulae, links, or technical details are present in the text.
 
 ---
 
@@ -14,27 +17,28 @@ The second week of Topic 6 in the Web Development Course focuses on ready-made t
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/7Zfc7/examples-of-current-template-engines)
 
-Here is the text with the extra pages removed:
+This transcript appears to be a video or audio recording of a lesson on template engines, specifically reviewing existing template engines and comparing them to a custom-made one.
 
-## END TRANSCRIPT ##
+The speaker reviews several template engines, including:
 
-**Lesson 12.1 Using a ready-made template engine**
+1. Handlebars
+2. Mustache
+3. EJS (Embedded JavaScript)
+4. Pug
+5. React
 
-Video: Video
-Topic 6 Week 2 introduction 
-Duration: 43 seconds 
+They discuss the syntax, features, and capabilities of each engine, highlighting differences between server-side and client-side templates, as well as varying levels of complexity.
 
-Video: Video Examples of current template engines 
-Duration: 10 minutes 
+The speaker also creates a table comparing the different template engines, including:
 
-Practice Assignment: Template engine examples 
-Duration: 9 minutes 
+* Logic handling
+* Extending with extra functions
+* Partial templates
+* Inheritance of templates
 
-Reading: Reading Activity – Working with a ready-made template engine 
-Duration: 2 hours 
+They conclude by discussing which template engine is the most intuitive, but unfortunately don't provide an answer to this question in the transcript.
 
-Discussion Prompt: Which template engine is the most intuitive? 
-Duration: 30 minutes
+Throughout the video, the speaker mentions that their custom-made template engine has some unique features not found in existing engines.
 
 ---
 
@@ -42,31 +46,45 @@ Duration: 30 minutes
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/PfaA1/static-site-rendering)
 
-This is a transcript of a video lecture on static site rendering tools, specifically Eleventy and Handlebars template engine.
+This is a transcript of a video on using the eleventy static site rendering tool to create a website. Here's a breakdown of the content:
 
-The lecture starts by explaining what static site rendering tools are and how they work. It then walks through the process of setting up an Eleventy project, including creating templates, content, and using the Handlebars template engine to render the content.
+**Introduction**
 
-Throughout the video, the speaker provides examples and demonstrations of how to use the tool, including how to add custom variables to the templates and use hot reloading to quickly test changes.
+* The video explains that it will be working example of a static site rendering tool.
+* It introduces the tool, eleventy, and its use with handlebars template rendering engine.
 
-The lecture concludes by summarizing the advantages and disadvantages of using static site rendering tools, such as Eleventy. The speaker notes that these tools are well-suited for publishing documents, blogs, and research projects, but may not be suitable for interactive websites or applications.
+**Setting up the project**
 
-Some key takeaways from the video include:
+* The video shows how to set up an eleventy project using command-line tools or a web interface (e.g., GitHub Pages).
+* It covers the basic directory structure and file naming conventions used in eleventy projects.
 
-* Static site rendering tools allow you to create a website without relying on a content management system (CMS)
-* Eleventy is a popular static site rendering tool that uses Handlebars template engine
-* Handlesbars is a templating engine that allows you to define templates for your website's layout and structure
-* Custom variables can be added to templates to make them more dynamic
-* Hot reloading allows you to quickly test changes to your website without having to rebuild it from scratch
+**Creating templates and content**
 
-The video also mentions the advantages of using static site rendering tools, such as:
+* The video demonstrates how to create templates using handlebars syntax.
+* It shows how to create content files (e.g., Markdown, HTML) and how to use variables in template rendering.
+* It explains how to add custom variables and modify the template engine's behavior.
 
-* Fast page loads
-* Easy maintenance and updates
-* No reliance on a CMS or database
+**Rendering the site**
 
-However, it also notes that these tools may not be suitable for interactive websites or applications.
+* The video covers how to render the site using the built-in server or an external server like Nginx or Apache.
+* It demonstrates how to enable hot reloading, which allows for quick updates without restarting the server.
 
-Overall, the video provides a clear and concise introduction to Eleventy and Handlebars template engine, and demonstrates how to use them to create and manage a static website.
+**Hot reloading and editing**
+
+* The video shows how to edit content files directly in the editor and see the changes reflected on the live site.
+* It highlights the benefits of using a static site rendering tool with hot reloading, such as rapid development and deployment.
+
+**Advantages and disadvantages**
+
+* The video discusses the advantages of using eleventy for static site rendering, including speed, ease of use, and scalability.
+* It also touches on some potential drawbacks, such as the need to manage dependencies and compatibility issues.
+
+**Conclusion**
+
+* The video summarizes the key points covered in the tutorial.
+* It encourages viewers to try out eleventy and other static site rendering tools for their own projects.
+
+The video is approximately 14 minutes long, with practice assignments and reading materials available for additional learning.
 
 ---
 
@@ -74,7 +92,19 @@ Overall, the video provides a clear and concise introduction to Eleventy and Han
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/lo2ys/topic-6-summary)
 
-There is no text provided for me to summarize. The text appears to be a video transcript and additional page content related to online courses or tutorials, but it does not contain any specific information that can be summarized in 8 sentences. If you could provide the actual text, I would be happy to assist you in summarizing it.
+There is no text to summarize. The provided content appears to be a transcript of a video lecture or tutorial, outlining the topics and resources for Lesson 12 of a course on building template engines and static website rendering tools. It does not contain any specific text or information that can be summarized.
+
+However, I can provide an overview of the main concepts and topics covered in the lesson plan:
+
+* Topic 6 covers the use of ready-made template engines and offline site rendering tools for efficient website development.
+* The lesson plan consists of:
+	+ Video tutorials (14 minutes)
+	+ Practice assignments (9 minutes)
+	+ Reading activities (2 hours)
+	+ Discussion prompts (30 minutes)
+	+ A self-evaluation checklist (10 minutes)
+
+If you provide the actual text, I'd be happy to summarize it for you.
 
 ---
 
@@ -82,63 +112,22 @@ There is no text provided for me to summarize. The text appears to be a video tr
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/U5q7a/activity-working-with-a-ready-made-template-engine)
 
-Based on the provided code examples, I'll summarize the differences between Handlebars, Mustache, and EJS:
+Based on the provided code examples and explanations, here's a comparison table summarizing the differences between the three template engines:
 
-**Logic Handling**
-
-* Handlebars: Uses a JSON-like object as input to render templates.
-* Mustache: Similar to Handlebars, uses a syntax that allows for conditional statements, loops, and expressions.
-* EJS: Does not have built-in logic handling like Handlebars or Mustache. Instead, it relies on external JavaScript code to handle complex logic.
-
-**Extensibility**
-
-* Handlebars: Supports plugins and custom functions to extend its functionality.
-* Mustache: Has a similar plugin architecture to Handlebars, allowing for easy extension.
-* EJS: Does not have a built-in way to extend its functionality like Handlebars or Mustache. However, it can be extended by using external JavaScript code.
-
-**Partial Templates**
-
-* Handlebars: Supports partial templates through the use of `{{>}}` and `{{!}}` syntax.
-* Mustache: Also supports partial templates using the `{{>}}` syntax.
-* EJS: Does not have built-in support for partial templates. However, it can be achieved by including a separate template file.
-
-**Syntax Simplicity**
-
-* Handlebars: Has a relatively simple and intuitive syntax.
-* Mustache: Also has a simple syntax, although some users may find it less readable than Handlebars.
-* EJS: Has a more complex syntax due to the use of ERB (Embedded Ruby) tags, which can be confusing for those unfamiliar with Ruby.
-
-**Ease of Use**
-
-* Handlebars: Generally considered easy to learn and use, especially for developers familiar with other templating engines.
-* Mustache: Also relatively easy to learn and use, although some users may find the syntax less readable than Handlebars.
-* EJS: May require more time and effort to learn due to its complex syntax and Ruby-like tags.
-
-**Client-side Support**
-
-* Handlebars: Can be used on both client-side and server-side with the `Handlebars.compile()` method.
-* Mustache: Also can be used on both client-side and server-side, although it's often used in conjunction with other libraries like jQuery.
-* EJS: Designed primarily for use on the server-side, but can be adapted for client-side use with some modifications.
-
-**Server-side Support**
-
-* Handlebars: Can be used on both client-side and server-side.
-* Mustache: Also can be used on both client-side and server-side.
-* EJS: Primarily designed for use on the server-side, making it a good choice for Node.js applications.
-
-Here's a summary comparison table:
-
-| Feature | Handlebars | Mustache | EJS |
+| **Feature** | **Handlebars** | **Mustache** | **EJS** |
 | --- | --- | --- | --- |
-| Logic Handling | Strong | Strong | Weak |
-| Extensibility | Strong | Strong | Weak |
-| Partial Templates | Strong | Strong | Weak |
-| Syntax Simplicity | Easy | Simple | Complex |
-| Ease of Use | Easy | Easy | Moderate |
-| Client-side Support | Good | Good | Limited |
-| Server-side Support | Good | Good | Primary |
+| **Logic Handling** | Uses JavaScript functions to handle logic (e.g., `if`, `for`) within templates | Uses a more limited set of tags for logic handling (e.g., `{{#if}}`, `{{^if}}`) | Uses inline JavaScript-like syntax with `${}` for logic handling |
+| **Extensibility** | Highly extensible with plugins and a large ecosystem of tools | More limited extensibility compared to Handlebars, but still supports custom templates | Limited extensibility, but can be extended through the use of external libraries |
+| **Partial Templates** | Supports partials (template fragments) using `{{>}}` syntax | Supports partials with a more complex syntax (`{{!}}`) | Does not support partial templates out-of-the-box, but can be achieved through external libraries or custom implementation |
+| **Syntax Simplicity** | Has a relatively simple and consistent syntax | Has a simpler syntax compared to EJS, but may require more learning for beginners | Can be less intuitive due to its inline JavaScript-like syntax |
+| **Ease of Use** | Generally considered easy to use, especially with its built-in plugins and tools | May require more learning for beginners due to its unique syntax | Can be less straightforward to use due to its inline JavaScript-like syntax and limited support for partials |
+| **Client-Side Support** | Primarily designed for client-side use, with good support for browser-based rendering | Also suitable for client-side use, but may require additional setup for some features | More commonly used on the server-side, although can be adapted for client-side use |
+| **Server-Side Support** | Good support for server-side rendering and Node.js integration (via Handlebars-Express) | Limited server-side support compared to Handlebars, but still suitable for some server-side applications | Primarily designed for server-side use, with good support for Node.js integration (via EJS-Express) |
+| **Performance** | Optimized for performance and caching capabilities | Has a more lightweight approach to rendering and may be faster in certain scenarios | May have slower performance compared to Handlebars due to its inline JavaScript-like syntax |
 
-Please note that this summary is based on the provided code examples and may not be comprehensive. The actual differences between these template engines can vary depending on individual use cases and requirements.
+This comparison table provides an overview of the key differences between these three template engines. Ultimately, the choice between them will depend on specific project requirements, personal preferences, and familiarity with each engine's ecosystem.
+
+Keep in mind that this is not an exhaustive list, and there may be additional features or nuances to consider when evaluating these template engines for your project needs.
 
 ---
 
@@ -146,9 +135,9 @@ Please note that this summary is based on the provided code examples and may not
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/yaY6L/activity-use-a-static-site-rendering-tool-to-render-a-site)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
 
-To build a simple static website using 11ty (Eleventy) and Handlebars, start by creating a project folder and initializing a new Node.js project with `npm init -y`. Install 11ty and Handlebars as dependencies with `npm install @11ty/eleventy handlebars`. Create a project structure with the following folders: `src/includes` for templates, `src` for content files (e.g. `index.md`, `about.md`), and an empty `dist` folder to store generated output. Create a template file (`layout.hbs`) in `src/includes` that uses Handlebars syntax to render dynamic content. Add content files (`index.md` and `about.md`) to the `src` folder, each using the `layout` template. Configure 11ty by creating a `.eleventy.js` file with the following content: `module.exports = function(eleventyConfig) { return { dir: { input: "src", output: "dist", includes: "includes" } }; };`. Build and serve the site using `npm run build` and `npm run serve`, respectively, to view your static website locally.
+To build a simple static website using 11ty (Eleventy) and Handlebars, start by creating a new project folder named `static_site_project` and initializing a new Node.js project using `npm init -y`. Install dependencies such as 11ty and Handlebars using `npm install @11ty/eleventy handlebars`. Create the basic structure of the website, including templates for the layout and content, using HTML and Handlebars syntax. The template for the layout includes a navigation menu with links to home and about pages. Add content to the website by creating Markdown files in the `src` folder, such as an index page and an about page, each using the same layout template. Configure 11ty using the `.eleventy.js` file, specifying the input and output directories, including the includes folder with the layout template. To serve the website locally, use the `npm run build` command to generate a static site in the `dist` directory, and then use `npm run serve` to enable live reloading. Finally, customize the website by adding more content, updating the navigation menu, and applying styles using CSS files.
 
 ---
 
@@ -158,7 +147,7 @@ To build a simple static website using 11ty (Eleventy) and Handlebars, start by 
 
 Here is a summary of the text in 8 sentences, preserving key information:
 
-Regularly assessing your understanding of learning outcomes is crucial as you progress through your course. This exercise helps you reflect on your learning journey and identify areas for improvement. The lesson covers understanding templating engines, including their importance, basic features, syntax, and practical application. You can create and render templates to display dynamic data in a web page, and implement logic handling within a template. Static site rendering is also covered, with an emphasis on its benefits and how to set it up and configure using a template engine. You can add and customize content within a static site project, and identify the best approach for different types of web projects. The lesson includes practical assignments, readings, and discussions to help you consolidate your knowledge. By completing this exercise, you can develop a plan for improvement and demonstrate your understanding of templating engines and static site rendering.
+As you progress through your course, it's essential to regularly assess your understanding and capabilities against the learning outcomes. This exercise will help you reflect on your learning journey, identify areas for improvement, and develop a plan for growth. To evaluate your understanding, use the provided self-evaluation checklist to assess your knowledge of templating engines, their basic features and syntax, practical applications, static site rendering, and reflection. If you're unsure about any concepts, revisit relevant lecture videos, readings, and activities to consolidate your knowledge. The course covers two key topics: using a ready-made template engine (Lesson 12.1) and offline site rendering tools (Lesson 12.2). Understanding templating engines is crucial in web development, and you should be able to explain their importance, basic features, and syntax. Additionally, you should be able to create and render templates with dynamic data, implement logic handling within templates, and set up and configure static sites using a template engine. By completing the course and reflecting on your learning journey, you can identify the benefits and drawbacks of using templating engines versus static site rendering and determine which approach is best suited for different web projects.
 
 ---
 

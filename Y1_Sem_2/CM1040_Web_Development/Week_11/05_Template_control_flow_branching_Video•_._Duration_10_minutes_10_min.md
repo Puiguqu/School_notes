@@ -2,16 +2,25 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/P8pEg/template-control-flow-branching)
 
-It appears that the provided text is a transcript of a video lecture on building a template engine, specifically covering the topics of variables and rendering, control flow (iteration and branching), automatic updating, and practice assignments.
+This appears to be a transcript of a video lesson on building a template engine, specifically covering the implementation of if-else branching in the template engine.
 
-The main takeaways from this video lecture are:
+The lesson covers the following topics:
 
-1. Building a template engine involves creating a system to render templates with dynamic data.
-2. Variables can be extracted from the template using regular expressions or by splitting the template into separate blocks based on variable names.
-3. Control flow statements (if/else) can be used to branch logic in the template, allowing for conditional rendering of different parts of the template.
-4. The template engine should handle cases where only an if block is present, requiring additional code to deal with this scenario.
+* If and else blocks
+* Extracting the conditional using regular expressions
+* Logic with if and else checks
+* Handling cases where only an if block is present
 
-The video lecture also mentions practice assignments and reading activities to reinforce understanding of these concepts.
+The instructor provides examples and demonstrations to illustrate each concept, including:
 
-Overall, this transcript provides a comprehensive overview of building a basic template engine, covering essential topics such as variable extraction, control flow, and automatic updating.
+* Using the if-else tags to test a condition
+* Creating a template engine specification
+* Implementing variables and rendering in the template engine
+* Iteration control flow
+* Branching control flow (if-else)
+* Automatic updating
+
+The lesson concludes with practice assignments and a reading activity for further learning.
+
+Overall, this transcript provides an in-depth tutorial on building a template engine, covering essential concepts such as if-else branching and logic.
 

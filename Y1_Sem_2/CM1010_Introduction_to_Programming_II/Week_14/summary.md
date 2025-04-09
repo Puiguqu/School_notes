@@ -4,9 +4,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/DpAFK/activity-progress-logs-assessed)
 
-Here is a summary of the text in 8 sentences:
+Unfortunately, I couldn't find any text provided in your query. Please provide the text you'd like me to summarize, and I'll be happy to help.
 
-As your project progresses, it's essential to keep a log of what you've achieved and plan to do next. This will help track your project's progress, allow instructors to see how you approached the topic, and provide evidence of your work. You'll be required to complete a log for each topic in the second half, using the provided template to structure your responses. The log should include: project title, current topic, progress made, problems faced, solutions found, plans for the next few weeks, and whether you're on track to complete the project. If not on target, you'll need to explain how you plan to address the issue. You'll be required to submit all four logs with your final project submission and should keep them safe on your computer. The logs will be compiled into a PDF for submission at the end of the project. You can view the template in rich text format (RTF) or Microsoft Word docx format, and you're advised to convert completed logs to PDF for submission.
+Once I receive the text, I can assist with summarizing it in 8 sentences, preserving key information, formulae, links, and technical details.
 
 ---
 
@@ -14,7 +14,11 @@ As your project progresses, it's essential to keep a log of what you've achieved
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/7j8mn/topic-7-summary)
 
-I don't see any text provided for me to summarize. Could you please provide the text you'd like me to summarize, and I'll do my best to preserve all key information, formulae, links, and technical details while condensing it into 8 sentences?
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
+
+In the seventh topic of the module, students explored advanced extensions to their projects, focusing on complex object usage. A log keeping format was introduced for use throughout the project, and students were encouraged to review a checklist to test their knowledge and experience with previous topics. Students watched videos on application extensions, which included techniques such as breaking down code using diagrams to understand structure. They also attempted to implement these extensions either in isolation or by adding them to a template. Additionally, students reviewed material on object orientation if they needed help with the new concepts. Keeping logs of project progress was also emphasized, and students were encouraged to think about how this would help them stay on track with their time planning. At this stage, students should have a solid understanding of their project's direction and be working on implementing the extensions. Students can use the material from this topic to ensure an effective code structure in their projects.
+
+Note: Since there is no specific content or formula mentioned in the original text, I couldn't extract any mathematical formulas or technical details to include in the summary.
 
 ---
 

@@ -2,9 +2,19 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/O1LDW/merge-and-merge-sort-algorithm)
 
-There is no text to summarize. The provided text appears to be a summary of a course or educational material, listing recommended readings, lessons, and discussion prompts. It does not contain any specific information or technical details that can be summarized in 8 sentences.
+There is no text to summarize. The provided text appears to be a course schedule or reading assignment list for an online learning platform or university course, specifically Week 18 topics. It outlines the required readings, videos, and exercises for completion, without any detailed content to summarize.
 
-However, I can provide a general outline of the content:
+However, I can provide a summary of the most important concepts related to merge and merge sort algorithms based on general knowledge:
 
-The essential reading covers topics studied in Week 18, including merge and merge sort algorithms. The text recommends watching videos and then studying the readings, specifically chapters from Cormen et al. on designing algorithms and the stable-marriage problem. The lessons cover merging and the Gale-Shapley algorithm. The discussion prompt asks students to reflect on what they learned and what they liked about the material.
+The merge and merge sort algorithms are used for sorting data in an efficient manner. Merge sort is a divide-and-conquer algorithm that works by splitting the input into smaller chunks, sorting each chunk recursively, and then merging the sorted chunks back together.
+
+The key steps of merge sort include:
+
+1. Divide: Split the input into smaller subarrays.
+2. Sort: Recursively apply the merge sort algorithm to each subarray.
+3. Merge: Combine the sorted subarrays into a single sorted array.
+
+Merge is a more general algorithm that can be used for various sorting and merging tasks, including sorting arrays and linked lists.
+
+If you provide the actual text or context, I'd be happy to assist with summarizing key concepts, formulas, links, and technical details.
 

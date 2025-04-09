@@ -2,16 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/YRxvT/ambiguity-in-grammars-and-language)
 
-There is no text to summarize in this case, as the provided text appears to be a course description or syllabus rather than a cohesive piece of writing with content to summarize. However, I can provide information on the key concepts and resources mentioned:
+Here is a summary of the text in 8 sentences:
 
-The essential reading covers context-free languages and grammars, ambiguous grammars, and parsing. It is based on the book "Introduction to automata theory, languages, and computation" by Hopcroft, Motwani, and Ullman (2013). The recommended materials include Chapter 5 (pp.207-216) and Chapter 7 (pp.272-275), as well as a video on Chomsky normal form.
-
-Key concepts covered in the essential reading include:
-
-* Context-free languages and grammars
-* Ambiguous grammars and parsing
-
-Technical details and formulas are not explicitly mentioned in the provided text. However, it is likely that they will be discussed in the course materials and videos.
-
-The recommended approach is to watch the video on Chomsky normal form first, followed by studying the essential reading. The reading includes examples and detailed explanations to help better understand these concepts.
+This essential reading covers topics from Week 12, including context-free languages and grammars, ambiguous grammars, and parsing. It provides detailed explanations and examples to help understand key concepts such as context-free grammar and Chomsky normal form. The recommended resources include Hopcroft's Introduction to automata theory, languages, and computation (2013), Chapters 5 and 7. Watching the provided video on Chomsky normal form is also essential before studying the reading. The reading itself includes a PDF file with accessible versions of pp.207-216 and pp.272-275 from Hopcroft's book. The lesson covers topics such as ambiguity in grammars and language, and provides practice assignments to help reinforce understanding. To fully benefit from this reading, it is recommended to watch the videos first and then study the essential reading.
 

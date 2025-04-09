@@ -2,11 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/supplement/OMvb7/information-about-your-assessments)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The module will contain various summative and formative assessments. Summative assessments directly contribute to the final grade, while formative assessments provide low-stakes practice opportunities with feedback on progress. The course has two major assessments, each worth 50% of the grade: Coursework 1 and Coursework 2. Each coursework consists of a project, with Coursework 1 assessed halfway through the course (around Week 12) and Coursework 2 assessed at the end of the course (around Week 22). There are also several graded activities that have zero weighting, meaning they do not contribute to the final grade but are essential for learning.
-
-These activities include Lesson 1.2 Introduction to Sleuth, Lesson 1.3 Code Philosophy, and Lesson 1.4 About your assessments, as well as Reading: Reading Information about your assessments and Reading: Reflect on your learning. The duration of these activities is approximately 10 minutes each. Additionally, there are two other reading activities: Reading: Reading Information about your assessments and Reading: Reflect on your learning.
-
-The estimated time per week for each activity is not specified, but they are considered essential components of the module. The course aims to provide a detailed breakdown of all marks and assessment details. Students should mark as completed, dislike, or report an issue with any activities or assignments.
+The module will feature both summative and formative assessments. Summative assessments contribute to the final grade, while formative assessments provide low-stakes practice and feedback on progress. The course has two major assessments: Coursework 1 (Week 12) worth 50% of the grade, and Coursework 2 (Week 22) also worth 50%. There are several graded activities with zero weighting, which are essential for learning but do not affect the final grade. A detailed breakdown of marks is provided, including estimated time per week and deadline weeks. The module will consist of approximately 2 hours of coursework each, divided between Coursework 1 and Coursework 2. Formative assessments include practice quizzes that provide feedback on progress and may explain why a particular answer was incorrect. The module's assessment schedule can be marked as completed or reported as an issue for support staff.
 

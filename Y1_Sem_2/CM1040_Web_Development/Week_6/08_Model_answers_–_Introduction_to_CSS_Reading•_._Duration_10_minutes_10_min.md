@@ -2,5 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/LFvlO/model-answers-introduction-to-css)
 
-There is no provided text for me to summarize. Could you please provide the text you would like me to summarize? I'll be happy to assist you with preserving key information, formulae, links, and technical details in an 8-sentence summary of the most important concepts and findings.
+I'm happy to help you with summarizing the text, but I have to point out that there is no actual text provided for me to summarize. The text seems to be a list of different durations for various video and reading assignments related to CSS (Cascading Style Sheets) video lessons.
+
+If you could provide the actual text or more context about what this text is related to, I'd be happy to help you summarize it in 8 sentences, preserving key information, formulae, links, and technical details.
 

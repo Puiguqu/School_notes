@@ -2,13 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/LNoIn/exclude-a-set-of-values)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The speaker introduces manipulating arrays using for loops as another technique. They use an array called "circles" with 1,000 random integer values between 0 and 100. In their draw function, they instruct the drawing of circles at a random location, ignoring any circle under 10 pixels in size. Circles are drawn in red if bigger than 50 pixels, otherwise blue.
-
-The speaker uses a for loop to iterate over the array, with `var i = 0` and `i < circles.length`. Inside the loop, they use an if statement to check if a circle's size is less than 10. If true, they skip using the `continue` keyword to move on to the next iteration.
-
-They also use another if statement to determine whether to draw in red or blue based on the circle's size. The `continue` keyword allows them to bypass drawing smaller circles.
-
-The speaker draws ellipses at a random location, using the value from the array as the ellipse's size. They only draw ellipses with a width greater than 10 pixels.
+The speaker explains how to use for loops with arrays to manipulate data. They demonstrate this by creating an array called "circles" with 1,000 random integers between 0 and 100, and then using a for loop to draw circles on the canvas based on their size and color. The loop uses if statements to skip over circles that are too small (less than 10 pixels) and draws them in red if they are bigger than 50 or blue otherwise. To avoid deeply nested if statements, the speaker uses the continue keyword to skip certain iterations of the loop. They also use this technique to conditionally draw ellipses with random locations and sizes based on their values from the array. The speaker notes that the loop must be closed with parentheses to ensure proper function. Additionally, they mention a trick for stopping the drawing process from repeating frame by frame: using the "noLoop" function within the draw loop. This allows the user to see a single frame of the application and then refresh to get a different pattern due to the random variables involved.
 

@@ -2,55 +2,25 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/eeRf6/automatic-accessibility-testing)
 
-This is a transcript of a video tutorial on using automated accessibility testing tools for web development. Here's a breakdown of the content:
+This is a transcript of a video about automated web accessibility testing tools. The video provides an overview of the importance of accessibility, how to use automated testing tools, and best practices for incorporating accessibility into the development process.
 
-**Introduction**
+The video explains that automated web accessibility testing tools can help identify issues with website accessibility, such as inaccessible images, broken links, and missing alt text. It also discusses the benefits of using these tools, including improved user experience, increased compliance with accessibility regulations, and enhanced reputation.
 
-The video starts with an introduction to automated accessibility testing tools, explaining that these tools can help developers ensure their websites are accessible to people with disabilities.
+The video then demonstrates how to use an example of an automated accessibility testing tool, showing how to upload a website's HTML code, run tests, and view the results. The author explains that the tool can help identify issues such as:
 
-**Why use automated accessibility testing tools?**
+* Inaccessible images (e.g., missing alt text)
+* Broken links
+* Missing title attributes
+* Missing header tags
 
-The video explains why using automated accessibility testing tools is important, including:
+The video also discusses best practices for using automated accessibility testing tools, including:
 
-* Ensuring website compliance with accessibility standards (e.g. WCAG 2.1)
-* Meeting legal requirements for accessibility
-* Improving user experience for people with disabilities
-
-**Features of automated accessibility testing tools**
-
-The video showcases the features of a specific tool, AChecker, including:
-
-* Automatic testing of web pages
-* Identification of accessibility issues and suggestions for improvement
-* Ability to adjust test settings to meet different compliance levels (e.g. WCAG 2.0 vs. WCAG 2.1)
-
-**Using automated accessibility testing tools**
-
-The video demonstrates how to use AChecker, including:
-
-* Uploading a website's HTML code
-* Running tests and analyzing results
-* Adjusting test settings to meet different compliance levels
-
-**Best practices for using automated accessibility testing tools**
-
-The video discusses best practices for incorporating automated accessibility testing into the development workflow, including:
-
-* Testing early and often during development
+* Incorporating testing early and often in the development process
 * Establishing checkpoints for accessibility compliance
 * Fostering a culture of accessibility within the team
+* Understanding the importance of accessibility and why it matters
 
-**Conclusion**
+The video concludes by providing tips on how to rectify accessibility issues and improve website accessibility. The author emphasizes that accessibility is a serious concept that requires attention and care, but also notes that there are many resources available to help developers improve their websites.
 
-The video concludes by summarizing the key points about using automated accessibility testing tools, including their importance, features, and best practices for use.
-
-**Additional content**
-
-The transcript also includes additional resources, such as:
-
-* Practice assignments to reinforce learning
-* Reading materials, including a self-evaluation checklist and a reading lesson on website accessibility
-* A video summary of the week's topics
-
-Overall, this video tutorial aims to educate developers about the importance of accessibility in web development and provide practical guidance on using automated accessibility testing tools.
+Overall, this transcript provides a comprehensive overview of automated web accessibility testing tools, including how to use them, best practices for incorporating accessibility into the development process, and tips on how to improve website accessibility.
 

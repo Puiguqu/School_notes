@@ -1,0 +1,8 @@
+# Introduction to discrete mathematics Video• . Duration: 4 minutes 4 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/WGa1T/introduction-to-discrete-mathematics)
+
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+
+Discrete mathematics is a branch of mathematics that deals with discrete or distinct objects rather than continuous objects, focusing on structures and algorithms used to represent and manipulate these objects. Discrete objects are separated or distinct from each other, such as integers or rational numbers. This field has numerous applications in computer science and other fields, including programming languages, software development, cryptography, and algorithms. Graph theory is a key area of study, used to model and analyze networks like social networks, transportation networks, and communication networks. Boolean algebra studies logical operations and their application in computer circuits, while data structures are used to store and manipulate data efficiently. This module will introduce fundamental concepts such as sets, functions, relations, graphs, trees, logics, combinatorics, mathematical proofs, and recursive relations over 10 topics spanning 20 weeks. The assessment for this module consists of three elements: 10 summative quizzes (20% of final grade), a midterm assignment (30% of final grade), and a final exam (50% of final grade). By studying this module, students will gain a mathematical understanding of these topics, improving their skills in thinking abstractly and supporting their studies in computer science.
+

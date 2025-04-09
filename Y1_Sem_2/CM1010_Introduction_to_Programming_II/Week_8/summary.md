@@ -4,9 +4,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/TqnUn/interview-with-a-student-simas-cesnauskas)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-Simas, a Goldsmiths computer science student, has expanded on a data visualization app to include multiple interactive sketches. He added features such as a pie chart, donut chart, Internet usage sketch, and immunization map, which allow users to explore data by hovering over colors or clicking on specific groups. Simas is particularly proud of the Internet usage sketch, which uses a constructor template to create circles representing different age and sex groups in the UK. He had not programmed before starting the course but was determined to learn and implement complex concepts like constructors. To work on this project, Simas chose data from male and female percentage of Internet usage in 2012 and 2017. One challenge he faced was getting the map functionality working with Leaflet, but he successfully created a new feature despite some technical issues. In retrospect, Simas thinks he could improve the map's performance or try using an alternative library like DS.js to create a 2D density plot. Overall, Simas is pleased with his project and proud of overcoming technical challenges to bring it to life.
+Simas, a computer science student at Goldsmiths, presented an extension to a data visualization app he had developed. He added features such as a donut chart showing the percentage of Internet usage by age and sex within UK groups, an immunization sketch showing vaccinations in UK boroughs, and expanded maps using the Leaflet library. The most notable feature is the "Internet usage" sketch, which uses a constructor to create circles representing different age and sex groups. Simas had not programmed before enrolling at Goldsmiths but was able to learn JavaScript, HTML, and CSS quickly. He chose data on male and female Internet usage for 2012 and 2017 as inspiration for his project. The constructor allows the user to see the percentage of each group by scrolling over the colors, making it more engaging. However, Simas encountered challenges with map functionality and 2D density plots using the DS.js library. In hindsight, he would focus more on improving the map functionality and exploring additional libraries like DS.js in future projects.
 
 ---
 
@@ -14,9 +14,9 @@ Simas, a Goldsmiths computer science student, has expanded on a data visualizati
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/mLic6/reflection-on-interview-with-the-student)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information and details:
 
-Simas' interview highlights the importance of considering design improvements for your own project, such as incorporating animation and redesigning core functionality. To incorporate animation into your designs, you'll need to understand its effective use in data visualization. Simas' use of constructor functions can be a good starting point for implementing more complex object-oriented structures in your application. When planning your implementation, consider using techniques like brainstorming and iterating different designs to achieve better outcomes. You should also keep track of your thinking and progress through regular logging, including sources of inspiration and technical help. For the midterm assignment, you'll need to detail your implementation plan and assess your current progress. To maximize the benefit of this process, consider what planning techniques can support advanced feature implementation and how to iterate different designs. As part of the assessment, you'll be asked to reflect on what you've achieved with your project, so start keeping track of your thinking and progress now.
+You are asked to reflect on your project's progress after watching an interview with Simas, who shared his experience building a drawing application. Consider how Simas' features, such as animation in data visualization, might inspire you to add new functionality to your own project. Think about redesigning core application functionality, like changes to initial visualizations and added interactivity. You will be asked to detail your implementation plan in the midterm assignment, so consider using planning techniques to maximize its benefit. Brainstorming and iterating different designs can lead to better outcomes for your project. To assess current progress, keep track of brainstorming designs, sketches, sources of inspiration, technical help, and regular logging of progress. You will need to upload these records as part of the midterm or end-of-term assignments. Additionally, you will be asked to reflect on what you would do differently in a final application, so start keeping track of your thinking and progress now.
 
 ---
 
@@ -24,9 +24,11 @@ Simas' interview highlights the importance of considering design improvements fo
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/woKdp/topic-4-evaluation-and-summary)
 
-There is no text to summarize in this request. The provided text appears to be a module introduction, checklist, and assignment instructions for a course or tutorial on p5.js data visualisation. It does not contain specific information, formulae, links, or technical details to summarize.
+There is not enough text provided to summarize in 8 sentences. The text appears to be a module overview, checklist, and evaluation prompt for a course or tutorial on programming with p5.js. 
 
-If you could provide the actual text you'd like me to summarize, I would be happy to assist you in condensing it into 8 sentences while preserving key information and details.
+However, I can attempt to provide a summary based on the structure and content of the text:
+
+The fourth topic of the module introduces the final case study application, the data visualiser. Students have learned about loading and accessing data in p5.js and have explored its implementation. To ensure understanding, students are advised to review a checklist and test their knowledge. The data visualiser application follows a specific structure, which can be followed from "under the hood" videos. Students have completed the case study and can describe the changes they made. Critical review of an interview with Simas Cesnauskas highlights the importance of planning and brainstorming in application development. To complete the topic, students are asked to reflect on their experience with the case study and evaluate the module's progress. A peer-graded assignment, discussion prompt, video reflection, and reading assignments are also included for completion.
 
 ---
 

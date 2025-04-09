@@ -2,5 +2,14 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/t9WgG/propositions-and-logical-equivalences)
 
-Unfortunately, there is no text provided for me to summarize. The text appears to be a course outline or instructional materials for a learning platform, but it does not contain any specific information or data that can be summarized. If you could provide the actual text you would like me to summarize, I would be happy to assist you.
+Unfortunately, this text does not provide any concrete information or key findings about propositions and logical equivalencies. It appears to be a course outline or learning module on discrete mathematics with applications, specifically on the topic of propositions and logical equivalencies.
+
+However, I can summarize the main points as follows:
+
+* Propositions are basic building blocks of logical reasoning and can be either true or false.
+* Understanding propositions is essential for constructing and analyzing more complex logical expressions.
+* Logical equivalencies allow for simplification of logical expressions by transforming complex expressions into simpler forms.
+* The topic can be studied in more detail through a reading, specifically Chapter 1.1 and 1.2 of Koshy's book "Discrete mathematics with applications" (Academic Press, 2004).
+
+There are no formulas, links, or technical details mentioned in the text, as it appears to be a general introduction to the topic rather than a specific mathematical concept or proof.
 

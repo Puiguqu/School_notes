@@ -2,7 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/Z4ZgB/topic-8-summary)
 
-Unfortunately, there is no text provided to summarize. The given text appears to be a transcript from a video or presentation about web development life cycle, project management techniques, and DevOps practices. It includes links to additional resources such as videos, practice assignments, readings, and a self-evaluation checklist.
-
-If you could provide the actual text to be summarized, I would be happy to assist you in condensing it into 8 sentences while preserving key information, formulae, links, and technical details.
+There is no text provided for me to summarize. The provided text appears to be a video transcript and additional page content for a lesson on web development, including version control with Git, DevOps practices, and code review. If you provide the actual text, I would be happy to assist you in summarizing it into 8 sentences while preserving key information, formulae, links, and technical details.
 

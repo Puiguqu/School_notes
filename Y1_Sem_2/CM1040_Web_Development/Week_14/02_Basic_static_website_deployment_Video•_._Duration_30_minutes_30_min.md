@@ -2,36 +2,23 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/zLpIq/basic-static-website-deployment)
 
-This is a video transcript of a tutorial on basic web deployment techniques, specifically deploying a static website on a web server.
+This appears to be a transcript of a video lecture on deploying a static website on a web server. The lecturer walks through the process of setting up a web server, installing necessary software, configuring domain names, testing the site, and deploying it.
 
-The tutorial covers the following topics:
+Here's a summary of the key points covered in the lecture:
 
-1. Deploying a static website on a web server
-2. Configuring domain names for the website
-3. Testing the website with ping and curl commands
-4. Using HTTPs certificates to secure the website
+1. **Configuring a web server**: The lecturer shows how to set up a basic web server using a Unix-based system such as Ubuntu.
+2. **Installing necessary software**: They install Apache, Nginx, or another web server software, and PHP.
+3. **Configuring domain names**: The lecturer explains that you need to buy a domain name and then configure it to point to the IP address of your web server.
+4. **Transferring files**: They show how to use Filezilla (SFTP) to transfer files from the local machine to the web server.
+5. **Testing the site**: The lecturer demonstrates how to test the website using ping, curl, and viewing the access logs on the server side.
+6. **HTTPS**: They discuss how to configure HTTPS using a service like Let's Encrypt to generate secure certificates for the website.
 
-The tutorial includes live demonstrations of each step, using a virtual machine as an example.
+The lecture is divided into several sections:
 
-Here is a summary of the key points covered in the tutorial:
+1. **Introduction** (1 minute)
+2. **Basic static website deployment** (30 minutes)
+3. **Practice Assignment: Basic website deployment** (9 minutes)
+4. **Lab: Configuring a web server** (1 hour)
 
-* To deploy a static website on a web server, you need to:
-	+ Install a web server software (e.g. Nginx)
-	+ Create a virtual host configuration file
-	+ Upload your website files to the web server using Filezilla or SFTP
-	+ Configure the domain name for the website
-* To configure a domain name for the website, you need to:
-	+ Buy a domain name from a registrar (e.g. GoDaddy)
-	+ Point the domain name at an IP address (in this case, the virtual machine's IP address)
-	+ Set up DNS records for the domain name
-* To test the website with ping and curl commands, you need to:
-	+ Use the `ping` command to check if the website is reachable from a remote location
-	+ Use the `curl` command to send an HTTP request to the website and verify that it responds correctly
-* To use HTTPs certificates to secure the website, you need to:
-	+ Generate a self-signed certificate (or obtain one from a trusted certificate authority)
-	+ Configure the web server to use the HTTPs certificate
-
-The tutorial concludes by emphasizing the importance of testing and verifying that the website is working correctly after deployment.
-
-Overall, this tutorial provides a comprehensive introduction to deploying a static website on a web server, including configuration, testing, and security considerations.
+Overall, the lecture provides a comprehensive introduction to deploying a static website on a web server, covering the basics of configuration, testing, and security.
 

@@ -4,7 +4,22 @@
 
 Here is a summary of the text in 8 sentences, preserving key information:
 
-Selection sort is a sorting algorithm that works by iterating through an unsorted list one element at a time, selecting the smallest value from the unsorted portion of the list, and swapping it with the first element. This process continues until all elements are sorted. The algorithm starts by examining the first element of the list, which is assumed to be in its correct position, then moves on to the second element, and so on. In each iteration, the smallest value is found from the unsorted portion of the list and swapped with the first element. The process continues until only one element remains, at which point no further swaps are needed. The algorithm can be represented using pseudocode, where a while loop iterates through the list, selecting the minimum value from the remaining elements and swapping it with the start element. In each iteration, the start variable is incremented to move on to the next unsorted portion of the list. By repeatedly finding the smallest value in the unsorted portion of the list and swapping it with the first element, selection sort achieves a sorted list.
+Selection sort is a sorting algorithm that works by repeatedly selecting the smallest element from an unsorted list and swapping it with the first element. The process continues until all elements are sorted. In each iteration, the algorithm starts from the beginning of the list, selects the smallest value, and swaps it with the first element. This process continues until only one element is left in the list, which is already sorted. The algorithm uses a variable "start" to keep track of the starting index of the list, incrementing it by 1 at each step. The algorithm then finds the minimum value between remaining elements and swaps it with the first element, repeating this process until all elements are sorted. The selection sort algorithm can be represented in pseudocode as follows:
 
-Note: I did not include any technical details or formulae that were present in the original text, as they are not crucial to understanding the main concepts of the algorithm.
+```
+start = 1
+while start < length of list:
+    min = List[start]
+    index = start
+    i = Start + 1
+    while i <= length of list:
+        if List[i] is smaller than min:
+            min = List[i]
+            index = i
+        i = i + 1
+    swap List[index] with List[start]
+    start = start + 1
+```
+
+This algorithm has a time complexity of O(n^2), making it less efficient than other sorting algorithms like quicksort or mergesort.
 

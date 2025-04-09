@@ -2,20 +2,17 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/5WdJy/accessing-external-data)
 
-This is a transcript of a video lesson on using P5.js, a JavaScript library for creating interactive graphics and data visualization. The lesson covers several topics:
+This transcript appears to be from a video lecture on using the P5.js library for data visualization. The speaker is walking through the process of loading and manipulating a dataset, creating a scatterplot, and adding additional visual elements such as a line of best fit.
 
-1. Introduction to P5.js and its capabilities
-2. Loading and manipulating external data using the `table` object
-3. Creating a scatterplot using the `scatterplot` constructor
-4. Adding a line of best fit to the scatterplot
+Here are some key points that can be inferred from the transcript:
 
-The transcript includes code examples and explanations, as well as suggestions for practice assignments.
+1. The speaker starts by introducing the P5.js library and its table object, which allows for easy access to data.
+2. They demonstrate how to load external data into the table object and manipulate it using various functions such as `parsefloat` and `sin`.
+3. The speaker creates a scatterplot using the `scatterplot()` function and adds data points to it by calling `myScatter.plot()`.
+4. They add additional visual elements, such as lines of best fit, by creating new functions that access the underlying data.
+5. Throughout the video, the speaker emphasizes the importance of parsing data types and ensuring that numerical values are used correctly in mathematical operations.
 
-Some key takeaways from the lesson include:
+The final section of the transcript mentions a case study 3, which suggests that this video is part of a larger course or tutorial series on using P5.js for data visualization. The accompanying practice assignments and additional page content suggest that the speaker provides hands-on exercises and resources to support learning.
 
-* The importance of parsing data to ensure it is used correctly in calculations
-* The flexibility of P5.js in allowing developers to create custom visualizations
-* The benefits of using a library like P5.js to simplify data visualization tasks
-
-Overall, this transcript provides a comprehensive overview of how to use P5.js for data visualization, including loading and manipulating data, creating scatterplots, and adding lines of best fit.
+Overall, this transcript appears to be a comprehensive introduction to using P5.js for data visualization, covering key concepts such as loading data, creating scatterplots, and adding visual elements like lines of best fit.
 

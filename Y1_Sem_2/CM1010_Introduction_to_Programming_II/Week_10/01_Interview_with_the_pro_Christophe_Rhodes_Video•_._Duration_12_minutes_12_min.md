@@ -2,38 +2,40 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/g6eSq/interview-with-the-pro-christophe-rhodes)
 
-The transcript provides an interview with Christophe Rhodes, a professional software engineer. The conversation covers various aspects of his job, including:
-
-1. **Coding**: Christophe mentions that coding is not the most time-consuming part of his job, but it's essential. He prioritizes accuracy over speed when writing code.
-2. **Reviewing code**: Reviewing other people's code is a substantial part of his work. He emphasizes the importance of reviewing code to ensure its quality and to waste his colleagues' time less.
-3. **Debugging**: Debugging is another critical aspect of his job, where he spends a significant amount of time trying to identify problems in the code.
-4. **Design documents**: Christophe also works on writing design documents for new features, which requires designing and reviewing them with other specialists.
-5. **Flexibility**: He advises students to become proficient in multiple programming languages and tools, as well as having flexibility to learn about other tools and technologies.
+The transcript is an interview with Christophe Rhodes, a software engineer at Google. The conversation covers various aspects of his job, including coding, reviewing code, debugging, and the importance of accuracy in coding.
 
 **Key Takeaways**
 
-* Accuracy is more important than speed when coding.
-* Reviewing code is a crucial part of the job, but it's not about nitpicking; rather, it's about ensuring quality.
-* Debugging can be time-consuming, but it's essential to identify problems in the code.
-* Writing design documents and reviewing them with specialists is an important aspect of his job.
-* Having flexibility and learning about other tools and technologies is essential for a career in software engineering.
+* Coding is not the only part of the job; it's essential to focus on other areas like design documents, user interface, and user experience.
+* Accuracy is crucial in coding, as it affects the quality of the final product and the reviewer's time.
+* The most important aspect when coding is accuracy, followed by speed.
+* Flexibility is key; students should aim to become proficient with various programming languages and tools while also being familiar with other languages and tools.
 
-**Discussion Questions**
+**Discussion Prompts**
 
-1. What are some common mistakes people make when writing code that can lead to debugging issues?
-2. How does Christophe approach reviewing code? What are the key factors he considers when reviewing someone else's work?
-3. Can you think of any scenarios where speed might be more important than accuracy when coding? Provide an example.
-4. How do you think Christophe's emphasis on accuracy and quality would impact a team's overall performance and productivity?
-5. What advice would you give to students who are just starting their journey in computer science, focusing on software engineering?
+1. What are some common mistakes that beginners make when coding?
+2. How does one balance the importance of speed and accuracy in coding?
+3. Can you describe a situation where debugging was particularly challenging? How did you approach it?
+4. How do you stay up-to-date with new programming languages, tools, and technologies?
 
-**Extension Activity**
+**Evaluation**
 
-Create a design document for a new feature that you would like to implement in a project. Write it in a format similar to Christophe's design documents. Consider the following:
+To evaluate this transcript, consider the following questions:
 
-* Clearly describe the problem you're trying to solve.
-* Explain your design and any relevant trade-offs.
-* Outline how the implementation will be done, including any necessary tools or technologies.
-* Provide examples and test cases to validate your design.
+1. What insights can we gain from Christophe's experience as a software engineer at Google?
+2. How can students improve their coding skills and become more flexible in their approach to problem-solving?
+3. What are some common challenges that new programmers face, and how can they be overcome?
 
-Share your design document with a partner or in a group discussion to get feedback on clarity, coherence, and overall effectiveness.
+**Summary**
+
+The transcript provides valuable insights into the day-to-day life of a software engineer at Google. Christophe emphasizes the importance of accuracy, flexibility, and design in coding. He also highlights the need for programmers to stay adaptable and familiar with various programming languages, tools, and technologies.
+
+By analyzing this transcript, students can gain a better understanding of the skills required to succeed as a software engineer, including:
+
+* Strong problem-solving skills
+* Ability to adapt to new technologies and languages
+* Focus on accuracy and attention to detail
+* Understanding of design principles and user experience best practices
+
+This knowledge can help students make informed decisions about their education and career path, ultimately improving their chances of success in the field.
 

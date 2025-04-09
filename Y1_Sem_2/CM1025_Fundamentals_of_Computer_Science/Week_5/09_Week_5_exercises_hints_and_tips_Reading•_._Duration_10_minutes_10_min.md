@@ -2,7 +2,5 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/vl0qo/week-5-exercises-hints-and-tips)
 
-Unfortunately, the provided text does not contain any actual information or key concepts about a specific topic. It appears to be a list of lesson titles, video durations, practice assignments, discussion prompts, and reading materials for an educational course.
-
-If you could provide more context or clarify what topic this text is related to (e.g., mathematics, computer science), I would be happy to assist you in summarizing the key information and findings.
+Lesson 3.0 Introduction Lesson 3.1 Counting Lesson 3.2 The Pigeonhole Principle Video: Video The Pigeonhole Principle . Duration: 3 minutes 3 min Video: Video The Pigeonhole Principle – examples part 1 . Duration: 4 minutes 4 min Video: Video The Pigeonhole Principle – examples part 2 . Duration: 3 minutes 3 min Practice Assignment: Use the Pigeonhole Principle . Duration: 25 minutes 25 min Discussion Prompt: Think of an example ....
 

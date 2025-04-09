@@ -2,28 +2,37 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/Pw67i/introduction-to-css)
 
-This text appears to be a transcript of an educational video or lecture about CSS (Cascading Style Sheets), a styling language used for web development.
+This appears to be a transcript of a video or lecture on CSS (Cascading Style Sheets) for web development. Here's a summary of the content:
 
-The transcript provides an introduction to CSS, covering topics such as:
+**Introduction to CSS**
 
-1. What is CSS?
-2. Default styles and how to adjust them
-3. Identifiers and how to apply styles to specific parts of the document
-4. Linking external stylesheets to share styles across a website
+* The instructor introduces the topic of CSS and asks the question, "What is CSS?"
+* They explain that CSS is a language and a system for specifying fonts, layouts, and other features that define how a document should be displayed and rendered on different devices.
 
-The transcript also mentions practice assignments, reading activities, and video lessons on advanced topics such as:
+**Default Styles**
 
-* CSS grids
-* Responsive CSS
+* The instructor explains how browsers apply default styles to HTML elements based on their type.
+* They discuss how these default styles can be adjusted using custom styles.
 
-Overall, this text seems to be an educational resource for learning about CSS and its applications in web development.
+**Colors and Fonts**
 
-Here are some possible ways to use this transcript or the original video:
+* The instructor covers the basics of colors and fonts in CSS, including color models (RGB, HEX) and font families.
+* They also explain how to apply colors and fonts to specific HTML elements.
 
-1. **Learning**: Use the transcript or video to learn about CSS and its applications.
-2. **Review**: Review the material covered in the video or transcript to reinforce understanding of CSS concepts.
-3. **Reference**: Use the transcript or video as a reference for future web development projects or research.
-4. **Tutorials**: Create tutorials or guides using the material from the transcript or video.
+**Identifiers**
 
-Please note that this text does not provide any specific questions or exercises, but it can serve as a starting point for learning about CSS and its applications.
+* The instructor introduces the concept of identifiers in CSS, which allow you to specify which parts of a document or DOM (Document Object Model) you want to apply styles to.
+* They discuss different types of identifiers, including class selectors, ID selectors, and pseudo-class selectors.
+
+**External Stylesheets**
+
+* The instructor explains how to link an external stylesheet to a web page using the `link` tag.
+* They demonstrate how to create an external stylesheet (CSS file) and link it to a HTML document.
+
+**Practice Assignments and Reading Activities**
+
+* The instructor assigns practice exercises for CSS review, grids, and responsive design.
+* They provide reading activities that cover the basics of CSS, CSS frameworks, and more advanced topics like CSS grids and responsive design.
+
+Overall, this transcript appears to be an introduction to CSS for web development, covering the basics of colors, fonts, layouts, and identifiers. It also touches on external stylesheets and practice assignments to help learners apply their knowledge in a practical way.
 

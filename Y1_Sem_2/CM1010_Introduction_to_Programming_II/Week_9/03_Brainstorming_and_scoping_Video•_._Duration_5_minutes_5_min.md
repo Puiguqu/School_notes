@@ -1,0 +1,8 @@
+# Brainstorming and scoping Video• . Duration: 5 minutes 5 min
+
+[Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/2idwa/brainstorming-and-scoping)
+
+Here is a summary of the text in 8 sentences, preserving key information and details:
+
+The instructor introduces the concept of scoping and brainstorming for software projects, highlighting time as a major limiting factor that can make or break a project's success. To mitigate this risk, students are asked to produce a short report on their project plan for the midterm, which includes identifying extensions and refinement ideas, researching real-world applications, and ranking ideas by difficulty. The instructor suggests using examples from vintage drawing applications or scanning newspaper websites for inspiring visualizations. Students will be allowed to include variations of two of the proposed extensions in their projects. To determine difficulty, students can use the existing extensions as a yardstick and consider implementing algorithms or other standard solutions, such as bucket fill. Extensions may require thinking about user interaction and code structure, making it essential to create diagrams and understand the complexity of the problem. The midterm report should include evidence of planning processes, such as descriptions, diagrams, and design evolution, as well as a Gantt chart outlining time planning and task allocation. Finally, students are encouraged to include scrappy diagrams, sketches, or scans of handwritten notes to showcase their process and demonstrate a lower level of fidelity at the beginning of the project.
+

@@ -2,24 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/nNemd/finite-automata)
 
-There is not enough information in the provided text to summarize and preserve all key details. However, I can provide a summary of the main concepts and findings related to finite state automata (FSAs) and deterministic finite automata (DFAs):
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-Finite State Automata (FSAs) are computational models used to recognize patterns in strings. A FSA consists of a set of states, an alphabet of input symbols, and a transition function that determines the next state based on the current state and input symbol.
-
-The text recommends studying Sipser's "Introduction to the Theory of Computation" (2013), specifically Chapter 1.1, which covers Finite Automata (pp. 31-46). This chapter likely discusses concepts such as:
-
-* Definition of a FSA
-* Properties of FSAs (e.g., deterministic, non-deterministic)
-* Types of automata (e.g., finite state, pushdown)
-* Regular languages and their recognition using FSAs
-
-Additionally, the text provides video resources for learning about Finite Automata, including:
-
-* Video: "Finite automata – example (part 1)" (3 minutes)
-* Video: "Finite automata – example (part 2)" (8 minutes)
-* Video: "Working with Automata Simulator" (6 minutes)
-
-The text also suggests using the Automata Simulator to design and test FSAs, as well as recognizing languages using Finite Automata.
-
-Please note that this summary is based on the provided text only and may not include all key information or technical details.
+The essential reading material covers topics studied in Week 7, including languages, finite state automata (FSAs), and deterministic finite automata (DFAs). The recommended study approach involves first watching videos related to the topic before studying the accompanying material. Sipser's book "Introduction to the theory of computation" provides a detailed explanation of FSAs on pages 31-46. The reading includes video lessons, such as "Finite automata – example (part 1)" and "Recognise a language", which cover key concepts and provide interactive simulations with the Automata Simulator. Students are also encouraged to design an automaton using the simulator to accept a simple language. The material is accompanied by a discussion prompt for students to think of a binary language, as well as additional exercises and hints. The recommended study resource is Sipser's book, available in PDF format or online. Overall, the essential reading aims to provide a comprehensive understanding of FSAs and DFA concepts, building on previously studied material from Week 7.
 

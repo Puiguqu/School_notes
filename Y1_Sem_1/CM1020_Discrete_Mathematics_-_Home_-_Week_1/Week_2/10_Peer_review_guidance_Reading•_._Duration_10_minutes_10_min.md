@@ -1,0 +1,8 @@
+# Peer review guidance Reading• . Duration: 10 minutes 10 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/supplement/H3d7B/peer-review-guidance)
+
+Here is a summary of the text in 8 sentences, preserving key information, formulas, links, and technical details:
+
+In the Computer Science programme, peer reviews may be part of required assignments, where students evaluate each other's work to provide feedback and learn from one another. There are two parts to peer-graded assignments: submitting your own assignment and grading a minimum number of peers' submissions, which must be completed to receive a grade for your own assignment. When grading a peer's work, you will be provided with a rubric that describes the assignment components and possible grades. The purpose of peer review is not just to critique but to offer constructive feedback that can help authors improve their work. Peer review is valuable in developing critical thinking, fostering collaborative learning, and academic integrity. It also enhances analytical skills, improves writing and research skills, offers new perspectives and ideas, and fosters a sense of community and collaboration. Participating in peer review prepares you for future academic and professional experiences, including scholarly review processes, and provides insight into the review process, which can reduce anxiety and increase competence. By engaging in peer review, you can develop empathy and communication skills, gain confidence in your own academic abilities, and learn from diverse research topics and methodologies.
+

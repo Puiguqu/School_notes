@@ -6,7 +6,7 @@
 
 Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The topic 4 focuses on accessibility and usability, crucial considerations when building websites to cater to diverse users. The main sections cover legal frameworks that ensure content availability to people with disabilities, such as the Americans with Disabilities Act (ADA) in the United States. To evaluate website usability, developers use tools like the Web Content Accessibility Guidelines (WCAG), which provide standards for accessibility. Another crucial tool is screen readers, which allow users with visual impairments to navigate websites. The importance of accessibility is also demonstrated through various case studies and examples. Developers can assess their own work using practice assignments, such as testing for vision and mobility accessibility, and reading activities on navigating websites using limited tools. Furthermore, businesses can benefit from implementing accessibility features, as highlighted in the business case for accessibility. To test websites for accessibility, developers can use a range of methods, including screen reader demos, vision and mobility assessments, and practice assignments.
+The topic of Topic 4 focuses on accessibility and usability when building websites to cater to diverse user needs. The main sections cover legal frameworks that ensure content information is accessible to all, as well as tools for evaluating website usability and accessibility. Accessible design involves providing information to a wide range of people with disabilities, including visual and mobility impairments. This can be achieved through the use of screen readers, which allow users to navigate websites using voice commands or limited functionality. The business case for accessibility highlights its importance in ensuring equal access to information and resources for all users. Usability evaluation involves assessing how easy it is to use a website, including factors such as navigation and content organization. Tools like screen readers can be used to measure accessibility and usability, allowing web developers to identify areas for improvement. By incorporating accessibility and usability principles into web development, developers can create more inclusive and user-friendly websites that cater to diverse needs.
 
 ---
 
@@ -14,50 +14,44 @@ The topic 4 focuses on accessibility and usability, crucial considerations when 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/CCdX5/definition-of-accessibility)
 
-This is a transcript of a video lesson on accessibility, specifically on the topic of making websites accessible to people with disabilities.
+Here's a summary of the key points from the video:
 
-The instructor begins by defining accessibility and citing sources from the World Health Organization and the United Nations conventions. They explain that accessibility is not just about making websites usable for everyone, but also about ensuring equal access to information and opportunities for people with disabilities.
+**What is Accessibility?**
 
-The instructor then discusses the importance of global commitment to accessibility, highlighting the ISO standard for ergonomics (ISO 9241) which provides guidance on designing accessible software for people with a wide range of abilities. They extract key points from this standard and explain how they can be implemented in code.
+* Definition from World Health Organization (WHO) and United Nations Convention on the Rights of Persons with Disabilities
+* Importance of making digital products accessible to people with disabilities, elderly, and those with temporary disabilities
 
-The lesson plan includes several video segments, practice assignments, and reading activities to help learners understand the concepts of accessibility. The instructor emphasizes that making websites accessible is not just a moral obligation, but also a business case, as it can improve user experience, increase accessibility, and reduce costs.
+**Global Commitment to Accessibility**
 
-Some of the topics covered in this lesson include:
+* ISO standard for ergonomics of human-system interaction provides guidelines for designing accessible software
+* States have committed to implementing accessibility standards through laws and regulations
+
+**Practical Implementation**
+
+* The video will guide you through the process of making websites accessible, starting from the basics of CSS and HTML.
+
+Key objectives from the ISO standard:
+
+1. Perceivable: Design interfaces that are perceivable by users with disabilities
+2. Operable: Design interfaces that can be operated using assistive technologies
+3. Understandable: Design interfaces that are understandable by users with disabilities
+4. Robust: Design interfaces that are robust and stable
+
+The video will cover the following topics:
+
+* How to design accessible CSS and HTML for different types of disabilities (e.g. limited vision, mobility issues)
+* Using screen readers and other assistive technologies to test websites for accessibility
+* The business case for making digital products accessible
+
+**Practice Assignments**
 
 * Defining accessibility
-* Accessing websites for people with vision impairments
-* Accessing websites for people with mobility impairments
-* Navigating websites using limited tools (e.g., screen readers)
+* Accessing websites: vision
+* Accessing websites: mobility
+* Navigating websites using limited tools
 * The business case for accessibility
 
-The instructor provides practical examples and assignments to help learners put theory into practice. Overall, this lesson aims to educate learners on the importance of accessibility in website design and development.
-
-**Key takeaways:**
-
-* Accessibility is a fundamental human right and essential for equal access to information and opportunities.
-* Global commitment to accessibility is crucial, with international standards like ISO 9241 providing guidance on designing accessible software.
-* Making websites accessible is not just a moral obligation, but also a business case that can improve user experience, increase accessibility, and reduce costs.
-
-**Recommended learning path:**
-
-* Complete the video lesson on accessibility
-* Practice assignments:
-	+ Defining accessibility
-	+ Accessing websites for people with vision impairments
-	+ Accessing websites for people with mobility impairments
-	+ Navigating websites using limited tools (e.g., screen readers)
-	+ The business case for accessibility
-* Reading activities:
-	+ Definition of accessibility
-	+ The business case for accessibility
-	+ Accessing websites: vision
-	+ Accessing websites: mobility
-
-**Additional resources:**
-
-* ISO 9241 standard for ergonomics
-* World Health Organization definition of accessibility
-* United Nations Convention on the Rights of Persons with Disabilities
+Overall, the video aims to educate viewers on the importance of accessibility and provide practical guidance on how to make digital products accessible to people with disabilities.
 
 ---
 
@@ -65,56 +59,60 @@ The instructor provides practical examples and assignments to help learners put 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/Jgti8/screen-reader-demo)
 
-This is a transcript of a video on screen readers and accessibility. Here's a breakdown of the content:
+This is a transcription of an online lesson on accessibility, specifically screen readers and accessing websites with visual or motor impairments.
 
-**Introduction**
+**Lesson Topic:** Accessing Websites with Screen Readers
 
-The video introduces the concept of screen readers and accessibility, explaining that it's essential to make digital products usable by people with disabilities.
+**Introduction (1 minute)**
 
-**Screen Reader Demo (Windows)**
+The instructor introduces the topic of accessibility and explains that screen readers are software tools that convert web content into spoken language, allowing people with visual or motor impairments to access websites.
 
-The first demo shows how to use a screen reader on Windows using the Narrator feature. The narrator guides the user through browsing a website, including searching for specific content and navigating menus.
+**Windows Screen Reader Demo (9 minutes)**
 
-**Reflection**
+The instructor uses the Narrator feature on a Windows computer to demonstrate how to use a screen reader. The demo shows how to:
 
-The video reflects on the experience of using a screen reader on Windows, highlighting its clarity and ease of use. However, it also mentions that some users may find the automated voice guidance helpful or annoying.
+* Open Firefox and navigate to a website
+* Type in the address bar using the keyboard
+* Press Enter to load the page
+* Use the keyboard to navigate through the page, including tabs and links
 
-**Screen Reader Demo (Linux)**
+The instructor explains that the Narrator feature is a built-in accessibility tool on Windows computers.
 
-The second demo shows how to use a screen reader on Linux using the built-in screen reader feature. This time, the screen reader has a quirky old-school computer voice, which is quite different from the Windows Narrator.
+**Linux Screen Reader Demo (9 minutes)**
 
-**Reflection**
+The instructor uses the screen reader feature on an Ubuntu desktop computer to demonstrate how to use a screen reader. The demo shows how to:
 
-Similar to the first demo, this one reflects on the experience of using a screen reader on Linux, highlighting its quirks and limitations compared to the Windows Narrator.
+* Open Firefox and navigate to a website
+* Type in the address bar using the keyboard
+* Press Enter to load the page
+* Use the keyboard to navigate through the page, including tabs and links
 
-**Key Takeaways**
+The instructor explains that the screen reader feature on Linux computers is built into the operating system.
 
-The video summarizes key takeaways from both demos:
+**Practice Assignment: Screen Reader**
 
-1. **Screen readers are essential for accessibility**: They allow users with disabilities to interact with digital products independently.
-2. **Testing is crucial**: Both automated testing tools and manual user testing can help ensure that digital products meet accessibility standards.
-3. **Different screen readers have different strengths and weaknesses**: The Windows Narrator is more realistic, while the Linux screen reader has a unique voice.
+The instructor provides a practice assignment for viewers to try using a screen reader on their own computer. The assignment includes:
 
-**Practice Assignments**
+* Using a screen reader to access a website
+* Navigating through the page using the keyboard
+* Finding and clicking on links
 
-The video provides practice assignments for viewers to try:
+**Video: Accessing Websites with Limited Tools (19 minutes)**
 
-1. Defining accessibility
-2. Using a screen reader (Windows or Linux)
-3. Practicing navigation using limited tools
-4. Understanding the business case for accessibility
+The instructor provides a video that shows how to access websites using limited tools, such as only using the keyboard or having limited vision.
 
-These assignments aim to help viewers develop practical skills and understanding of accessibility concepts.
+**Reading Assignments: Vision and Mobility Accessibility**
 
-**Additional Resources**
+The instructor provides reading assignments for viewers to learn more about accessibility:
 
-The video recommends additional resources for further learning, including:
+* Reading Activity: Navigating Websites Using Limited Tools
+* Reading Assignment: The Business Case for Accessibility
 
-1. Video: Definition of accessibility
-2. Video: Accessing websites: vision
-3. Video: Accessing websites: mobility
-4. Reading Activity: Navigating websites using limited tools
-5. Reading Activity: The business case for accessibility
+**Practice Assignment: The Business Case for Accessibility**
+
+The instructor provides a practice assignment for viewers to learn more about the business case for accessibility.
+
+Overall, this lesson aims to educate viewers on how to use screen readers to access websites and provide them with practical experience in doing so.
 
 ---
 
@@ -122,31 +120,24 @@ The video recommends additional resources for further learning, including:
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/HT96Z/accessing-websites-vision)
 
-This appears to be a transcript of an online video lesson on web accessibility, specifically covering the topics of color contrast, alternative media, tabindex and keyboard navigation, and user customization.
+This text appears to be a transcript of an educational video about web accessibility, specifically covering the features and techniques mentioned in Lesson 7.1.
 
-The video covers various features that can be implemented in web pages to make them more accessible to people with visual impairments, including:
+The lesson covers various aspects of web accessibility, including:
 
-1. Semantic elements: Using HTML elements that have a meaning (e.g., `<header>`, `<nav>`) instead of generic containers.
-2. Color contrast: Making sure the text and background colors have sufficient contrast to avoid eye strain and improve readability.
-3. Alternative media: Providing alternative content for images, audio, and video to make them accessible to screen readers and other assistive technologies.
-4. Tabindex and keyboard navigation: Using `tabindex` attributes to control how users navigate through a page using only their keyboard.
-5. User customization: Allowing users to customize the appearance of a website, such as changing colors or font sizes.
+1. Introduction to accessibility: The video defines what accessibility is and its importance.
+2. Defining accessibility: The practice assignment asks viewers to define accessibility.
+3. Screen reader demo: The video demonstrates how a screen reader works, followed by the practice assignment asking viewers to use a screen reader.
+4. Reading activity – Screen readers: Viewers are asked to read about screen readers and their capabilities.
+5. Accessing websites: vision - This section covers visual accessibility, including techniques such as semantic elements, color contrast, and alternative media.
+6. Practice Assignment: Vision accessibility - Viewers are asked to complete a practice assignment related to visual accessibility.
+7. Accessing websites: mobility - This section covers mobility accessibility, including techniques such as keyboard navigation and tabindex.
+8. Practice Assignment: Mobility accessibility - Viewers are asked to complete a practice assignment related to mobility accessibility.
+9. Reading activity – Navigating websites using limited tools: Viewers are asked to read about how to navigate websites using limited tools.
+10. The business case for accessibility: The video covers the importance of accessibility from a business perspective, followed by the practice assignment asking viewers to complete a task related to this topic.
 
-The video also covers techniques for implementing these features, including:
+The final lesson covers Lesson 7.1 and 7.2, which are not explicitly described in the provided transcript. However, based on the context, it appears that these lessons cover more advanced topics in web accessibility, such as testing websites for accessibility.
 
-1. CSS variables: Using CSS variables (e.g., `--primary-color`) to make it easier to change colors throughout a website.
-2. JavaScript functions: Writing custom JavaScript functions to automate tasks, such as toggling the display of an image alt text.
-
-The video concludes by emphasizing the importance of accessibility in web development and provides practice assignments for viewers to test their skills.
-
-Some key takeaways from this transcript include:
-
-* The importance of semantic HTML elements for screen reader compatibility.
-* The need for sufficient color contrast between text and background colors.
-* The benefits of providing alternative media for users with visual impairments.
-* The value of user customization in making a website more accessible and usable.
-
-Overall, this video provides a comprehensive overview of web accessibility techniques and encourages viewers to incorporate these practices into their own web development work.
+Overall, the video provides an introduction to web accessibility, its importance, and various techniques and features to make websites accessible to users with disabilities.
 
 ---
 
@@ -156,7 +147,7 @@ Overall, this video provides a comprehensive overview of web accessibility techn
 
 Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The video transcript discusses accessibility features for individuals with mobility disabilities, focusing on large navigation controls, highlighting, color customization, and ARIA (Accessible Rich Internet Applications) attributes. Large navigation controls are designed to be easily clickable and visible, using classes to increase size and emphasize important elements. Highlighting is used to draw attention to the current element, making it clear which button or control is being selected when navigating with a keyboard. Color contrast and color customization are also crucial in ensuring accessibility, as certain colors may not be readable for individuals with visual impairments. A special "keyboard mode" can be implemented to make navigation easier for users with mobility disabilities, using CSS to adjust font sizes, colors, and highlighting. ARIA attributes provide additional information about the purpose of different buttons and controls on a webpage, allowing developers to create more accessible interfaces. While HTML5 has incorporated some good practices from the ARIA project, it can be complex and require deep knowledge to use effectively. Developers should be aware of these complexities and consider using ARIA attributes to increase accessibility, even if it means clashing with semantic HTML attributes.
+The video discusses accessibility features for individuals with mobility disabilities, focusing on large navigation controls, highlighting, color customization, and ARIA (Accessible Rich Internet Applications) attributes. Large buttons are important for users with mobility impairments, as they need to know where to click on a page using a mouse or keyboard. To address this, developers can use CSS classes to increase the size of buttons and apply padding, font sizes, and colors to make them more visible. Highlighting is also crucial when tabbing through a page, allowing users to identify which button they are about to activate. The tabindex attribute can be used to specify the order in which navigation items should be visited when using a keyboard, making it easier for users to navigate. Customizing fonts and colors can also enhance accessibility, with some developers opting for keyboard control modes that change CSS rules based on keyboard usage. ARIA attributes provide additional information about the purpose of different buttons on a screen, but their use can be complex due to conflicting standards between HTML and ARIA specifications. Despite these complexities, incorporating good practices from the web accessibility initiative into standard HTML can significantly improve accessibility, making it an essential consideration for developers.
 
 ---
 
@@ -164,57 +155,27 @@ The video transcript discusses accessibility features for individuals with mobil
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/eeRf6/automatic-accessibility-testing)
 
-This is a transcript of a video tutorial on using automated accessibility testing tools for web development. Here's a breakdown of the content:
+This is a transcript of a video about automated web accessibility testing tools. The video provides an overview of the importance of accessibility, how to use automated testing tools, and best practices for incorporating accessibility into the development process.
 
-**Introduction**
+The video explains that automated web accessibility testing tools can help identify issues with website accessibility, such as inaccessible images, broken links, and missing alt text. It also discusses the benefits of using these tools, including improved user experience, increased compliance with accessibility regulations, and enhanced reputation.
 
-The video starts with an introduction to automated accessibility testing tools, explaining that these tools can help developers ensure their websites are accessible to people with disabilities.
+The video then demonstrates how to use an example of an automated accessibility testing tool, showing how to upload a website's HTML code, run tests, and view the results. The author explains that the tool can help identify issues such as:
 
-**Why use automated accessibility testing tools?**
+* Inaccessible images (e.g., missing alt text)
+* Broken links
+* Missing title attributes
+* Missing header tags
 
-The video explains why using automated accessibility testing tools is important, including:
+The video also discusses best practices for using automated accessibility testing tools, including:
 
-* Ensuring website compliance with accessibility standards (e.g. WCAG 2.1)
-* Meeting legal requirements for accessibility
-* Improving user experience for people with disabilities
-
-**Features of automated accessibility testing tools**
-
-The video showcases the features of a specific tool, AChecker, including:
-
-* Automatic testing of web pages
-* Identification of accessibility issues and suggestions for improvement
-* Ability to adjust test settings to meet different compliance levels (e.g. WCAG 2.0 vs. WCAG 2.1)
-
-**Using automated accessibility testing tools**
-
-The video demonstrates how to use AChecker, including:
-
-* Uploading a website's HTML code
-* Running tests and analyzing results
-* Adjusting test settings to meet different compliance levels
-
-**Best practices for using automated accessibility testing tools**
-
-The video discusses best practices for incorporating automated accessibility testing into the development workflow, including:
-
-* Testing early and often during development
+* Incorporating testing early and often in the development process
 * Establishing checkpoints for accessibility compliance
 * Fostering a culture of accessibility within the team
+* Understanding the importance of accessibility and why it matters
 
-**Conclusion**
+The video concludes by providing tips on how to rectify accessibility issues and improve website accessibility. The author emphasizes that accessibility is a serious concept that requires attention and care, but also notes that there are many resources available to help developers improve their websites.
 
-The video concludes by summarizing the key points about using automated accessibility testing tools, including their importance, features, and best practices for use.
-
-**Additional content**
-
-The transcript also includes additional resources, such as:
-
-* Practice assignments to reinforce learning
-* Reading materials, including a self-evaluation checklist and a reading lesson on website accessibility
-* A video summary of the week's topics
-
-Overall, this video tutorial aims to educate developers about the importance of accessibility in web development and provide practical guidance on using automated accessibility testing tools.
+Overall, this transcript provides a comprehensive overview of automated web accessibility testing tools, including how to use them, best practices for incorporating accessibility into the development process, and tips on how to improve website accessibility.
 
 ---
 
@@ -222,11 +183,13 @@ Overall, this video tutorial aims to educate developers about the importance of 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/NhmA5/how-to-rectify-accessibility-issues)
 
-The text discusses the process of identifying and rectifying accessibility issues on a website using an accessibility checker tool. The author, who is also the website owner, runs the checker on their own website and finds 10 known problems that can be easily fixed. The first problem identified is the lack of contrast between the foreground and background colors, which makes it difficult for users to distinguish between navigation and content. To fix this issue, the author reformats the navigation bar code, removes unnecessary attributes, and changes the background color to a more contrasting value.
+The video transcript discusses the process of identifying and rectifying accessibility issues on a website using an accessibility checker tool. The creator runs the checker on their own website, which they acknowledge has not been updated in 20 years, and identifies 10 known problems that can be easily fixed. 
 
-The author then pastes the revised code back into the website and re-runs the checker, finding that two of the original problems have been fixed. The remaining eight problems are identified, including issues with document language not being identified for XHTML documents. To fix this issue, the author adds the necessary attributes to the HTML tag.
+They begin by pasting the raw HTML code from the "view page source" option into the accessibility checker tool, ignoring external stylesheets to focus on basic layout issues such as contrasting foreground and background colors. The tool highlights a navigation bar with low contrast between link text and background color, which is then improved by removing unnecessary table attributes and adjusting background colors.
 
-After making these changes, the author re-runs the checker again and finds that all 10 of the original known problems have been fixed, leaving only two unknown problems that need further attention. The video transcript concludes by highlighting the importance of regularly testing websites for accessibility using tools like this one.
+Next, the creator addresses another issue: adding language tags to HTML documents. Their website uses XHTML, which they decide to switch to, using a standard doctype like HTML5. They also address a third issue: identifying potential problems that require deeper analysis but can be fixed in future steps.
+
+The video concludes by summarizing the process of rectifying accessibility issues identified by an accessibility checker tool, emphasizing the importance of careful reading and application of the provided recommendations to achieve success.
 
 ---
 
@@ -234,9 +197,18 @@ After making these changes, the author re-runs the checker again and finds that 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/sjuaR/topic-4-week-1-summary)
 
-There is no text provided for me to summarize. The provided text appears to be a transcript of a video lecture or presentation, and it does not contain any specific information that needs to be summarized. 
+Unfortunately, the provided text does not contain any key information, formulae, links, or technical details. It appears to be a transcript of a video or audio lecture on accessibility in web design, covering topics such as defining accessibility, measuring website accessibility, and testing for accessibility issues.
 
-If you could provide the actual text you would like me to summarize, I would be happy to assist you in condensing the key points into 8 sentences while preserving all relevant details.
+However, I can provide a summary of the concepts and findings from the provided text:
+
+* The lecturer discusses the importance of accessibility in web design, highlighting its impact on users with disabilities.
+* The course covers two main topics: defining accessibility and testing websites for accessibility.
+* Accessibility is defined as the ability to access and use digital products, including websites, regardless of physical, cognitive, or other limitations.
+* The lecturer uses tools to test website accessibility, demonstrating how limitations can affect access to information.
+* Automatic accessibility testing tools are available to help identify and rectify accessibility issues on websites.
+* Rectifying accessibility issues involves using the identified problems as an opportunity to improve overall website usability.
+
+There is no specific formulae or technical details mentioned in the text.
 
 ---
 
@@ -244,9 +216,9 @@ If you could provide the actual text you would like me to summarize, I would be 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/rtpO9/activity-screen-readers)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
 
-The objective of this activity is for participants to experience and reflect on using screen reader technology to navigate websites. Participants can choose their operating system and screen reader to use for this exercise. The instructions are as follows: Option 1 - Using a screen reader on Windows involves enabling the Narrator feature (Windows + Ctrl + Enter) and navigating the University of London website (https://london.ac.uk). Option 2 - Using a screen reader on Linux involves enabling the built-in Orca screen reader (Alt + Super + S) and navigating the same website. Option 3 - Using a screen reader on macOS involves enabling the VoiceOver feature (Command + F5) and navigating the University of London website using Safari. Participants are asked to note down any challenges they encounter while navigating the site using the screen reader and reflect on their experience. The activity also includes a reflection section where participants are asked to consider how web developers can address challenges and how they might change their approach to web design to ensure better accessibility.
+The objective of this activity is to experience and reflect on the use of screen reader technology to navigate websites using different operating systems (Windows, Linux, and macOS). The instructions encourage users to choose their preferred screen reader and operating system and follow specific steps to navigate a website. On Windows, users can enable the Narrator feature by pressing Windows + Ctrl + Enter or searching for 'Narrator' in the Start menu. For Linux, users can start the built-in screen reader (Orca) by pressing Alt + Super + S or searching for 'Screen Reader' in system settings. macOS users can enable VoiceOver by pressing Command + F5 or going to System Preferences > Accessibility > VoiceOver and enabling it. Users are then required to navigate a website, typically the University of London website (https://london.ac.uk), using their chosen screen reader and note down any challenges encountered while navigating the site. After completing the exercise, users are asked to reflect on their experience, consider how web developers can address accessibility challenges, and identify one accessibility improvement for a frequently used website. This activity aims to provide hands-on experience with screen readers and promote better accessibility in web design.
 
 ---
 
@@ -256,9 +228,11 @@ The objective of this activity is for participants to experience and reflect on 
 
 Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The objective of this activity is to learn how to navigate websites using only the keyboard and reflect on the impact of movement limitations on web accessibility. To achieve this, follow these steps: open your preferred web browser (e.g., Chrome, Firefox, Edge), navigate through interactive elements using Tab and Shift + Tab, and use Enter to select or click on links and buttons. Additionally, when encountering forms, use the Tab key to move between fields and input areas, and Space or Enter to check boxes or submit the form. After navigating a website without a mouse, reflect on any challenges encountered and consider improvements for keyboard navigation. Think about users with limited mobility in their hands or arms, such as those who may face additional challenges when navigating websites. Consider how websites could be made more accessible for users with limited mobility or dexterity, such as providing voice navigation or larger, easier-to-target clickable areas. Reflect on your experience and identify key improvements that could enhance keyboard navigation for people with movement impairments. By completing this activity, you will gain a better understanding of web accessibility challenges faced by users with movement limitations.
+The objective of this activity is to learn how to navigate websites using only the keyboard to understand accessibility challenges faced by users with movement impairments. To do this, participants will open their preferred web browser (e.g., Chrome, Firefox, Edge) and navigate a website of their choice (e.g., https://bbc.co.uk) using the Tab key to move forward through interactive elements and Shift + Tab to move backwards. Participants must use Enter to select or click on links and buttons. If there is a form on the page, participants can use the Tab key to move between fields and input areas, and Space or Enter to check boxes or submit the form.
 
-Note: I removed the links and references to specific websites and videos as they are not essential to the summary and may be subject to change.
+After navigating the website using only the keyboard, participants will reflect on their experience, identifying challenges and areas of clarity. They must consider how movement limitations may impact web accessibility for users with limited mobility in their hands or arms, such as providing voice navigation or larger clickable areas. Participants should also think about improvements that could be made to enhance keyboard navigation for people with movement impairments. By completing this activity, participants will gain a better understanding of the importance of accessibility and how to improve website usability for users with movement limitations.
+
+The activity is part of Lesson 7.1 on accessibility, which includes videos, practice assignments, reading activities, and a video on screen readers (https://www.youtube.com/watch?v=your_video_id). The lesson aims to educate participants on the importance of accessibility and how to improve website usability for users with movement impairments.
 
 ---
 
@@ -266,16 +240,7 @@ Note: I removed the links and references to specific websites and videos as they
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/S1trx/the-business-case-for-accessibility)
 
-Unfortunately, the provided text does not contain any information or content that can be summarized. The text appears to be a collection of links and references to various learning resources related to web accessibility, but it does not present any new information or findings.
-
-However, I can suggest some key concepts and resources related to web accessibility:
-
-* The Web Accessibility Initiative (WAI) is a standard for making digital content accessible to people with disabilities.
-* The W3C provides guidelines and resources for creating accessible websites and web applications.
-* Accessibility is defined as the practice of making digital content usable by everyone, regardless of their abilities or disabilities.
-* Screen readers are software tools that can read aloud the text on a website, allowing users with visual impairments to navigate and access the content.
-
-If you provide more context or information about what you would like me to summarize, I'll be happy to help.
+This article will provide you with more information about this topic. W3C Web Accessibility Initiative (WAI) ‘The business case for digital accessibility’ (2024). If this link is broken, please let us know via the Student Portal. Lesson 7.1 What is accessibility? Video: Video Topic 4 introduction . Duration: 1 minute 1 min Video: Video Definition of accessibility . Duration: 11 minutes 11 min Practice Assignment: Defining accessibility ....
 
 ---
 
@@ -283,9 +248,9 @@ If you provide more context or information about what you would like me to summa
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/vZgKb/activity-evaluating-and-improving-website-accessibility)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-Accessibility refers to the ability of people with disabilities to use websites and web applications. To evaluate the accessibility of a website, one can use accessibility testing tools such as ACHECKER or other alternatives. The process involves choosing a web page, running an accessibility checker, reviewing the results, making necessary changes, testing the changes, and reflecting on the process. Improving colour contrast between text and background, adding or adjusting attributes like lang for language or alt for images, and removing deprecated tags or attributes are common steps to address accessibility issues. For example, improving colour contrast can be achieved by using a style tag with specific code, such as `<style>.nav-bar { background-colour: #333; /* Darker background for better contrast */ colour: #fff; /* White text for contrast */ }</style>`. Addressing accessibility issues can improve the overall usability of a web page. Potential future improvements include adding ARIA attributes, restructuring content for better screen reader compatibility, or simplifying navigation to further enhance accessibility.
+The objective of this activity is to define accessibility and its importance in web design, using accessibility testing tools to evaluate and improve the accessibility of a website. The process involves choosing a previously created web page, running an accessibility checker, reviewing the results, addressing known problems, and re-running the checker to confirm resolution. The first step is to run the accessibility checker on a chosen web page, such as ACHECKER or another tool, by copying and pasting the HTML code into the checker's text area. The results will show a list of known problems identified by the checker, along with specific lines of code that need to be addressed. To address these issues, changes can be made to improve color contrast between text and background, add or adjust attributes like lang for language or alt for images, and remove deprecated tags or attributes with modern HTML5 equivalents. For example, improving color contrast can involve adding a style tag to set the background color to #333 and the text color to #fff. The process involves making necessary changes, testing them again, and iterating until there are no known problems identified by the checker. After addressing accessibility issues, it's essential to reflect on the process, identify potential issues, and plan for future improvements to enhance website accessibility further.
 
 ---
 
@@ -293,9 +258,9 @@ Accessibility refers to the ability of people with disabilities to use websites 
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/supplement/ScjRC/lesson-7-2-self-evaluation-checklist)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-Regularly assessing understanding against learning outcomes is crucial throughout your course, helping you reflect on your progress, identify areas for improvement, and develop a plan to enhance your knowledge. The exercise provides a checklist to evaluate understanding of the topics covered in this lesson, and those who feel uncertain should revisit relevant lecture videos, readings, and activities to consolidate their knowledge. The importance of accessibility in web design cannot be overstated, and it is possible to define its significance and understand its role. Furthermore, it is possible to use accessibility testing tools to evaluate a website's accessibility and identify common issues with website code that need rectification. Individuals have successfully made improvements to websites to enhance their accessibility for users with disabilities. The ability to reflect on one's work and plan further improvements is also essential for ensuring ongoing accessibility. To facilitate learning, this lesson provides various resources, including video lessons, practice assignments, readings, and a self-evaluation checklist (available at [link]). It is recommended that learners complete the exercise regularly throughout their course to track their progress and identify areas where they need to focus further development. By doing so, individuals can develop their skills in web accessibility and contribute to creating more inclusive digital environments.
+Regularly assessing understanding against learning outcomes is crucial in a course. This exercise helps students reflect on their learning journey, identify areas for improvement, and develop a plan for growth. The self-evaluation checklist provided can be used to assess understanding of topics covered in Lesson 7.2. To confirm competence in accessibility, the student can use accessibility testing tools, identify common issues, and rectify them. Additionally, students have experience making improvements to enhance website accessibility for users with disabilities. Reflecting on work and planning further improvements are also essential skills in ensuring ongoing accessibility. The provided links and resources include video tutorials (10 minutes), practice assignments (9 minutes), reading materials (10 minutes), and a lesson summary (53 seconds). By regularly evaluating their understanding and applying these skills, students can develop a deeper understanding of accessibility in web design.
 
 ---
 

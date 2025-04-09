@@ -2,5 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/FAZNq/week-9-exercises-hints-and-tips)
 
-There is no text to summarize. The provided text appears to be a course outline or lesson plan for teaching regular languages and finite automata, including video lessons, discussion prompts, readings, and exercise instructions. It does not contain any specific information that needs summarizing. If you provide the actual text, I would be happy to help you summarize it in 6 sentences while preserving key information, formulae, links, and technical details.
+There is no text to summarize. The provided text appears to be a course outline or lesson schedule for a computer science or programming class, specifically focusing on regular languages and finite automata. It outlines the topics and duration of each video, discussion prompt, reading assignment, and exercise for Lesson 5.0.
+
+If you provide the actual text to summarize, I'll be happy to help.
 

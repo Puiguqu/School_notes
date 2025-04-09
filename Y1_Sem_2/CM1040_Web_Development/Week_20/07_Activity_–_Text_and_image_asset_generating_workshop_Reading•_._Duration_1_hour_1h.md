@@ -4,31 +4,35 @@
 
 Here's a summary of the text:
 
-**Topic:** Generative AI for Web Development
+**Introduction**
 
-**Objective:** Explore various generative AI techniques for text and image processing in web development.
+The text introduces a worksheet that explores various generative AI techniques for text and image processing. The worksheet is optional and intended for students who have access to necessary AI models or tools.
 
-**Tasks:**
+**Part 1: Text Processing with Generative AI**
 
-1. **Text Processing:**
-	* Generate a test sheet for website functionality using ChatGPT.
-	* Refine a website tagline to improve its quality and impact.
-2. **Image Processing:**
-	* Create an icon sheet with vintage recording equipment icons using stability.ai.
-	* Convert an image to a different artistic style (e.g., manga, sketch) using ChatGPT or another AI tool.
-3. **Alt-Text Generation:** Create detailed alt-text descriptions for images using ChatGPT or another AI tool.
-4. **Logo Generation:** Design a logo with specific design elements (e.g., flat style with Bauhaus elements) using ChatGPT or another AI tool.
+* Task 1: Generating a test sheet for website functionality
+	+ Prompt: "I am developing a website with the following features: a homepage, a product listing page, a contact form, and a search function. Can you generate a test sheet for human testers to evaluate these functions?"
+	+ Process: Enter the prompt into an AI tool or model (e.g., ChatGPT) and review the generated test sheet.
+* Task 2: Refining a website tagline
+	+ Prompt: "This website is all about retro gear. If you like recording things the old way, you are in the right place."
+	+ Process: Enter the prompt into an AI tool or model and consider how each version enhances clarity, engagement, and appeal.
 
-**Resources:**
+**Part 2: Image Processing with Generative AI**
 
-* ChatGPT: text and image generation
-* stability.ai: image generation
-* https://github.com/brycedrennan/imaginAIry: local image generation
+* Task 1: Creating a sprite sheet
+	+ Prompt: "Can you generate an icon sheet image containing icons relating to vintage recording equipment?"
+	+ Process: Enter the prompt into an AI tool or image generation model and review the generated sprite sheet.
+* Task 2: Converting an image to a different style (e.g., manga, sketch)
+	+ Prompt: "Please create a manga-style avatar from this image."
+	+ Process: Upload the image to an AI tool or image generation model, enter the prompt, and review the generated image.
+* Task 3: Generating detailed alt-text descriptions
+	+ Prompt: "Please describe this image in detail for use as alt-text in an HTML img tag."
+	+ Process: Upload the image to an AI tool or image generation model, enter the prompt, and review the generated description.
+* Task 4: Creating a logo with specific design elements (e.g., flat style, Bauhaus elements)
+	+ Prompt: "Can you generate a logo for my retro recording equipment website?"
+	+ Process: Enter the prompt into an AI tool or image generation model, review the generated logo, and assess its quality.
 
-**Notes:**
+**Conclusion**
 
-* This activity is optional but can provide valuable hands-on experience with generative AI tools.
-* The tasks and examples outlined here can be applied to real-world web development projects.
-
-To complete this activity, follow the steps for each task and explore the resources provided. Have fun experimenting with generative AI!
+This worksheet provides a starting point for experimenting with generative AI in text and image processing tasks relevant to web development. While the tasks and examples are optional, they can offer valuable hands-on experience with AI tools and deepen understanding of how these technologies can be applied to real-world projects.
 

@@ -2,7 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/wZAKa/finite-automata-example-part-1)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-The video transcript discusses finite automata, specifically a deterministic automaton with five states (A, B, C, D, E) and two final states (E, D). The automaton reads binary inputs using a graph representation. The input 10011 is processed, starting from state A, reading each letter, and transitioning to the next state based on a table of transitions. Since the input ends in an accepting state B but not as an accepting state itself, the input is rejected. In contrast, the input 11001 passes through an accepting state D at the end, which is acceptable. This highlights the importance of ending an input in an accepting state to accept it. The video also includes additional resources and prompts for further exploration, including using Automata Simulator, designing a language, and practicing with exercises.
+The video transcript describes the operation of an automaton with five states (A, B, C, D, and E) and a binary alphabet. The automaton starts at state A and reads one letter from the input "10011". Based on the transition labels (0 or 1), it moves to states B, C, and D, respectively, before rejecting the input because it does not end in an accepting state (E). Another input, "11001", is accepted because it ends in an accepting state. The automaton uses loops (transitions that return to a previous state) to move between states. When the input ends in an accepting state, the automaton accepts; otherwise, it rejects. The video transcript provides examples and links to additional resources for learning about finite automata, including videos, discussions, readings, and exercises.
 

@@ -2,25 +2,32 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/bcTnj/template-engine-specification)
 
-This text is a transcript of a video lecture on building a simple template engine for HTML templates using JavaScript and JSON data from a REST API.
+Based on the provided transcript, it appears that the conversation is about designing a simple template engine for building web applications using a REST API, JSON data, and JavaScript.
 
-The lecturer introduces the concept of separating layout from code and data, and proposes a solution using a template engine. They then outline the requirements for the template engine:
+The main topics discussed in this video are:
 
-1. Display variables
-2. Iterate over data using an "each" command
-3. Branch with if-else statements
+1. Introduction to the topic of template engines
+2. Separating layout from code and data
+3. Specifying the capabilities of the template engine:
+	* Displaying variables
+	* Iteration (using an "each" command)
+	* Branching (using "if" and "else" commands)
+4. Automatic updates to check for new data
 
-Finally, they introduce the concept of automatic updates by checking the server for new data.
+The video concludes by reviewing the list of requirements for the simple template engine.
 
-The transcript also includes some additional page content, including a practice assignment and reading activities.
+There is no direct answer to a specific question in the transcript, but rather a series of explanations and discussions about the design and implementation of a template engine.
 
-Some key takeaways from this lecture include:
+However, if you're looking for a summary of the key points discussed in this video, here's a possible response:
 
-* The importance of separating layout from code and data in HTML templates
-* The role of JavaScript and JSON data in powering template rendering
-* The use of a simple template engine to automate the process of rendering dynamic HTML
+* A template engine can help separate layout from code and data, making it easier to design and maintain web applications.
+* The simple template engine should have capabilities such as displaying variables, iteration, branching, and automatic updates.
+* The template engine should be designed with the following requirements in mind:
+	+ Separating layout from code and data
+	+ Displaying variables using a special tag
+	+ Iteration using an "each" command
+	+ Branching using "if" and "else" commands
+	+ Automatic updates to check for new data
 
-The lecture concludes with some additional resources, including practice assignments and reading materials.
-
-Overall, this lecture seems to be part of a larger series on building web applications using REST APIs, JavaScript, and HTML. It provides a solid foundation for understanding how to build dynamic templates using a simple template engine.
+Please note that this is not a direct answer, but rather a summary of the key points discussed in the video.
 

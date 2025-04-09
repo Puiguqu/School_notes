@@ -2,19 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/Hvda7/initialising-and-accessing-2d-arrays)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-Arrays can store elements of any type, including Booleans, strings, numbers, and objects. They can also store other arrays, making them useful for representing grids or matrices of information. To create a 2D array, we nest sets of square brackets to indicate that each element is an array of values.
-
-For example, `my2DArray = [[1, 2, 3], [4, 5, 6]]` creates a 2D array with one element that contains three numbers. We can access elements of the inner arrays using square brackets, just like we would for 1D arrays.
-
-To iterate through all the elements of a 2D array, we need to use a nested loop structure. The outer loop iterates over each row in the array, and the inner loop iterates over each element within that row.
-
-For example, `for (i = 0; i < groups.length; i++) { console.log(groups[i]); }` prints out each row of the `groups` array. To access individual elements within a row, we can use another nested loop: `for (j = 0; j < groups[i].length; j++) { console.log(groups[i][j]); }`
-
-It's essential to keep track of which variable is controlling the outer loop (`i`) and which one controls the inner loop (`j`). Using a consistent naming convention, such as using `i` for the outer loop and `j` for the inner loop, can help avoid confusion.
-
-Two-dimensional arrays are powerful tools for representing complex data structures. With practice, you'll become more comfortable working with them and be able to apply your knowledge to real-world problems.
-
-The text also mentions the importance of discussing patterns and nesting objects and arrays as part of the lesson progression.
+In programming, an array can store elements of any type, including Booleans, strings, numbers, or objects. A two-dimensional array (2D array) is an array that stores arrays as its elements. To declare a 2D array, one uses nested square brackets, e.g., `my2DArray = [[1, 2], [3, 4]]`. Each element of the outer array can be accessed using the same syntax used for one-dimensional arrays. For example, to access the first element of the inner array, one would use `console.log(my2DArray[0][0])`. Two-dimensional arrays are useful for representing tables or grids, and they can be iterated over using nested loops. In JavaScript, a 2D array is created by declaring an outer array with square brackets and assigning elements to each index of the inner arrays using bracket notation. Understanding two-dimensional arrays is essential for working with programming concepts such as nested objects and arrays.
 

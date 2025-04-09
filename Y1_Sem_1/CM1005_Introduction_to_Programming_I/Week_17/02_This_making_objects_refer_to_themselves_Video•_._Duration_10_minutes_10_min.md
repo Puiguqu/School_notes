@@ -2,13 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/z6HHH/this-making-objects-refer-to-themselves)
 
-Here is a summary of the text in 15 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-In JavaScript, objects can have functions called "methods" that allow them to perform actions on themselves. The `this` keyword refers to the current object being executed within a method. When creating an object with properties and functions, the `this` keyword points to the object when its code is running. This allows the object to access its own properties.
-
-In the example provided, an object named "rocket" was created with methods for drawing and moving it on the canvas. The original draw function contained multiple references to "rocket", which were replaced with "this" using Find and Replace in the editor. This ensured that the correct object reference was used within the method.
-
-The moveRocket function was also modified to use "this" instead of referencing the rocket object directly. This allowed the code to work as intended, reducing complexity in the draw function.
-
-By using methods, objects can encapsulate their own behavior and maintain a clean and organized codebase. The example demonstrated how methods can be used to reduce repetition and improve readability.
+In JavaScript, objects can access their own properties using the `this` keyword. This allows developers to encapsulate code within objects, making it easier to manage complex data structures. The example demonstrates how to create an object with methods (functions) that operate on its own properties. In the first example, a `MyRect` object is created with properties for position and size, and a method `draw()` that uses `this` to access these properties. The second example creates a `RocketShip` object with methods `draw()` and `moveRockets()`, where `moveRockets()` uses `this` to access the rocket's properties. To make `moveRockets()` work, the developer must use `find and replace` to update all instances of `rocket` with `this`. This approach allows developers to create modular, organized code by encapsulating related functionality within objects. By using methods to operate on an object's properties, developers can write more efficient and maintainable code.
 

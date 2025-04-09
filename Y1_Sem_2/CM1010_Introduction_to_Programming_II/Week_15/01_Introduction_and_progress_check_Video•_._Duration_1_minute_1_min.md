@@ -2,7 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Lns1G/introduction-and-progress-check)
 
-There is no text provided for me to summarize. The text appears to be a transcript of a video introduction to Lesson 8, which includes information about upcoming topics and providing assistance with project completion. However, the actual content of Lesson 8 is not provided.
+Unfortunately, there is no text to summarize as the provided text appears to be a video transcript with links and technical details. However, I can provide a summary of the context and key information from the transcript:
 
-If you provide the text for Lesson 8, I can help you summarize it in 8 sentences, preserving key information, formulae, links, and technical details.
+The instructor is providing guidance on completing the midterm assignment for topic 8, which is likely related to software development or programming. The instructor advises students to focus on one extension at a time, as it can be easy to become overwhelmed and lose direction. They recommend keeping notes about the project's progress, including diagrams and sketches, to help with the final report. Additionally, the instructor will assist students with their final report, but encourages them to save any notes or diagrams made during the lesson.
+
+If you could provide more text from a specific source related to "callback" in topic 8, I would be happy to help summarize that information.
 

@@ -4,11 +4,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/jsafW/7-0-1-solution-to-the-pizza-problem)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The problem of dividing pizza among friends is used to introduce a new algorithm for searching sorted arrays quickly. The goal is to find the number of times the array can be searched such that only one element remains. This can be represented by the equation n × (1/2)^k = 1, where n is the initial size of the array and k is the number of searches. By rearranging the equation, we get n = 2^k. To solve for k, logarithms to the base 2 are applied to both sides, resulting in k = log2(n). Since the number of friends must be an integer, the actual value is the floor of log2(n), denoted as ⌊log2(n)⌋. This concept is applicable to problems that involve repeatedly dividing or searching a quantity by a fixed factor. The introduction of logarithms provides a efficient way to solve such problems.
+The problem of dividing pizza among friends can be solved using logarithms to determine the number of times the pizzas need to be divided to leave only one slice. The expression for this is n * (1/2)^k = 1, where n is the initial number of slices and k is the number of times the pizzas are divided. By moving 2^k to the other side, we get n = 2^k. To find k, we take logarithms base 2 of both sides, resulting in k = log2(n). Since the number of friends must be an integer, we take the floor of log2(n) to ensure it's an integer value.
 
-Note: I did not include any links, formulae, or technical details in the summary as they were not specified in the original text.
+The problem is relevant to algorithms and data structures as it introduces a fundamental concept: when considering something a certain number of times, the number of times can be calculated using logarithms. This idea will be explored further in this new topic, but for now, the key takeaway is that logarithms can help solve problems like the pizza division problem.
 
 ---
 
@@ -16,7 +16,9 @@ Note: I did not include any links, formulae, or technical details in the summary
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/6NZWn/introduction-to-topic-7)
 
-Unfortunately, there is no text provided for me to summarize. The text appears to be a transcript of a video or lecture discussing the binary search algorithm and its applications, as well as a brief overview of the topics that will be covered in the lesson. If you provide the actual text, I would be happy to help summarize it into 8 sentences while preserving key information, formulae, links, and technical details.
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
+
+The main focus of this topic will be on the binary search algorithm, which searches vectors and arrays for values by dividing them into two halves until the target value is found. This algorithm has an advantage over linear search because it can search sorted vectors and arrays much faster. The main goal of this topic is to compare binary search with other search algorithms using a comparison tool. To do so, we will use our acquired tools for algorithm comparison to show why binary search is more efficient. Additionally, this topic will explore the concept of divide-and-conquer and its application in solving problems that seem unrelated to searching arrays and vectors. The reasoning behind search algorithms can be applied to other problems by dividing them into smaller sub-problems and finding solutions recursively. The worst-case time complexity of an algorithm determines whether it is suitable for solving certain types of problems, and binary search has a guaranteed best-case time complexity of O(log n). By analyzing the problem of searching in sorted arrays and vectors, we can gain insights into how to approach similar problems in other contexts.
 
 ---
 
@@ -24,50 +26,36 @@ Unfortunately, there is no text provided for me to summarize. The text appears t
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/Rx8ue/binary-search)
 
-## Step 1: Understand the problem
-The problem asks to convert a flowchart for the binary search algorithm on vectors into a pseudocode description of the algorithm.
+The provided transcript appears to be a lecture or video on the binary search algorithm, specifically for vectors and arrays. The content includes:
 
-## Step 2: Identify the steps in the flowchart
-The flowchart for binary search on vectors has the following steps:
-- Start
-- Get input vector and target value x
-- Initialize variables N (length of vector), L (leftmost element), and R (rightmost element)
-- Ask if R is less than L
-  - If yes, return false (target not found)
-  - Else, set M to be the midpoint of L and R
-  - Look at the element at index M in the vector
-    - If its value is x, return true (target found)
-    - If its value is greater than x, set R to M-1
-      + This means the target must be to the left of the midpoint
-      + Update L to be M+1
-  - Repeat steps 4 and 5 until R is less than or equal to L
+1. An explanation of how the binary search algorithm works.
+2. A flowchart illustrating the steps involved in the algorithm.
+3. A discussion of the advantages of using binary search over linear search.
 
-## Step 3: Convert the flowchart into pseudocode
-Based on the steps in the flowchart, the pseudocode for binary search on vectors can be written as follows:
+The final section mentions converting the flowchart into pseudocode and then turning it into working JavaScript code.
 
-```
-Function binarySearch(vector, x):
-  Initialize N (length of vector), L (leftmost element), and R (rightmost element)
-  
-  While R < L:
-    M = (L + R) / 2
-    If the value at index M is equal to x:
-      Return true (target found)
-    Else if the value at index M is greater than x:
-      R = M - 1
-    Else:
-      L = M + 1
-  
-  If the value at index L is not equal to x:
-    Return false (target not found)
+Here is a simplified version of the pseudocode for the binary search algorithm:
 
-Return "Target not found" or return true
-```
+**Binary Search Algorithm**
 
-## Step 4: Verify the pseudocode
-The pseudocode follows the same logic as the flowchart and should correctly implement the binary search algorithm on vectors.
+**Input:** `arr` (sorted vector or array), `target`
 
-The final answer is: There is no specific number to solve this problem, but the above pseudocode implements the correct binary search algorithm for vectors.
+**Output:** `true` if `target` is found in `arr`, `false` otherwise
+
+1. Set `L` to 1 and `R` to the length of `arr`
+2. While `L` <= `R`
+3. Calculate `M` = `(L + R) / 2`
+4. If `arr[M] == target`
+5. Return `true`
+6. If `arr[M] < target`
+7. Set `L` to `M + 1`
+8. Else
+9. Set `R` to `M - 1`
+10. Repeat steps 3-9 until found or not found
+
+The pseudocode is a concise representation of the algorithm's logic, and it can be used as a starting point for implementing the binary search in JavaScript.
+
+**Note:** This is a simplified version of the pseudocode, and you may want to add additional error handling or input validation depending on your specific use case.
 
 ---
 
@@ -75,9 +63,9 @@ The final answer is: There is no specific number to solve this problem, but the 
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/N896V/coding-up-binary-search)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information:
 
-The binary search algorithm is a divide-and-conquer approach to finding an item within a sorted vector or array. The algorithm works by repeatedly dividing the search interval in half until the desired element is found. A pseudocode implementation of the binary search algorithm has been provided, which initializes variables such as `n`, `R`, and `L` to represent the length of the vector and the search range. The algorithm then iterates through the vector using a while loop, with each iteration dividing the search interval in half until the desired element is found or it is determined that the element is not present in the array. In JavaScript, a binary search function needs to be implemented on an input array, where the value of interest is compared to the midpoint of the array and the search range is adjusted accordingly. The `binarySearch` function has been skeletonized, with only its logic required to complete it, which involves comparing the desired value to the midpoint of the array and updating the search range as necessary. To test the binary search algorithm, JavaScript code has been provided that generates a random array using the `genRandomArray` function and then attempts to find a specific value within the array using the `binarySearch` function. The output of this code will be either `true` or `false`, depending on whether the desired value is present in the array.
+The binary search algorithm is implemented in pseudocode as a function that takes a vector V and an item to find, returning true if the item is in the vector and false otherwise. The pseudocode initializes variables n (vector length), R (upper bound), L (lower bound), and m (midpoint) for the while loop, which continues until R >= L. In this video transcript, a JavaScript function binarySearch is developed to implement binary search on an array, requiring a sorted array for proper functionality. The file includes the genRandomArray function to create a random array with n elements, swap function for bubbleSort, and bubbleSort itself. An empty binarySearch function is defined, taking an array and item as inputs and returning true if the item is in the array and false otherwise. The file logs the output of bubbleSort and binarySearch with different input arrays and values to find, resulting in undefined output due to the incomplete implementation. To fix this, the student will complete the binarySearch function by implementing the correct logic for finding an element in a sorted array. By completing the practice assignment, students will gain hands-on experience with implementing binary search in JavaScript.
 
 ---
 
@@ -85,9 +73,9 @@ The binary search algorithm is a divide-and-conquer approach to finding an item 
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/qerOE/worst-case-complexity-of-binary-search)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The worst-case time complexity of binary search can be determined by analyzing its operations. The best-case input for binary search is when the target value is at the midpoint of the array, resulting in a time complexity of O(1) or constant time. In contrast, if the target value is at the first element of the array, it requires multiple divisions to reach the midpoint, leading to a worst-case time complexity of O(log n). The same principle applies when the target value is next to the midpoint, requiring multiple divisions to find it. Translating this to pizza slices, we can see that binary search can accommodate log n divisions before reaching the final element. This leads to a worst-case time complexity of O(log n) for binary search on sorted arrays. However, if the array is unsorted, sorting it first using algorithms like bubble or insertion sort would increase the overall time complexity due to their O(n^2) performance. In certain cases, such as searching a dictionary multiple times, it may be more efficient to sort the data initially and use binary search for subsequent searches.
+The worst-case time complexity of linear search was found to be O(n), while binary search has been computed to have a worst-case time complexity of O(log n). The best-case input for binary search occurs when the value being searched for is at the midpoint of the vector, resulting in a time complexity of O(1) or constant. In contrast, the first element of the vector in linear search results in the best case scenario due to early inspection. Worst-case inputs for binary search include scenarios where the value is stored in the first element of the vector or next to the midpoint, requiring multiple divisions by two until reaching a single-element vector. The key observation here is that each step of inspecting the midpoint and not finding the value results in halving the vector, which translates to O(log n) inspections in total. This principle also applies when considering scenarios with n slices of pizza being divided among friends, illustrating the exponential reduction in operations. Binary search has a significant advantage over linear search for sorted arrays, with a worst-case time complexity that is exponentially smaller (O(log n) vs O(n)). However, using binary search on unsorted arrays may not be effective without sorting first, as the sorting algorithm's time complexity can dominate the overall process, making linear search more suitable in such cases.
 
 ---
 
@@ -95,9 +83,9 @@ The worst-case time complexity of binary search can be determined by analyzing i
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/u8Our/binary-search-is-optimal)
 
-Here is a summary of the text in 8 sentences, preserving all key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-Binary search is an algorithm that performs well on average, but its optimality relies on the assumption that the data is uniformly distributed. The random-access machine model assumes that instructions are executed by the control unit, which implements the algorithm as a program. Basic actions have one outcome, while decisions can have two outcomes (zero and one), encoded in bit values. Any possible algorithm has a basic tree-like structure, where each level represents a decision with possible outputs (bits tracing the path through the tree). The number of time-steps (T) is at least equal to the length of the bit string describing the steps in the computation. According to the pigeonhole principle, 2^T must be greater than or equal to n+1, which implies that T must be at least log2(n+1), making binary search optimal with a worst-case complexity of O(log n). This argument highlights the interplay between abstraction and mathematical modeling in computer science. The optimality of binary search is demonstrated using the random-access machine model and the pigeonhole principle.
+The binary search algorithm is considered optimal for searching in an array or vector, assuming no prior knowledge of the stored data. This is proved using the random-access machine model, where the focus is on the control unit's implementation of the algorithm. The basic operations (addition) are ignored, while decisions with two possible outcomes (0 and 1) are considered. The algorithm can be represented as a tree-like structure, where each decision node corresponds to a bit string tracing the path through the computation. There are n+1 possible outputs, and the number of time-steps (T) must be at least the length of the bit string describing the steps in the computation. Using the pigeonhole principle, it can be shown that 2^T ≥ n+1, which implies T = O(log n). This result proves that binary search is optimal, as it achieves a worst-case complexity of O(log n), which is already achievable by the algorithm. The use of abstraction and mathematical modeling in this proof highlights the interplay between computer science and mathematics.
 
 ---
 

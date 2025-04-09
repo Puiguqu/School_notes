@@ -2,9 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/dPobr/designing-turing-machines-example)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-A Turing machine with transitions that change the characters on the tape head was used to analyze a specific example. The machine starts at state q_1 and reads an "a", which takes it back to q_1 but writes "b" over the existing character. It then moves right, reads "b", changes it to "a", and moves left, repeating this process until it reaches an empty cell (q_2). From q_2, the machine can only move to the accept state if the input ends with "ab". This means that any input with a non-empty suffix must be rejected. The machine's behavior is determined by its transitions, which specify what action to take based on the current state and character read from the tape. In this example, the Turing machine accepts inputs that end with "abaab" but rejects those that end with "baabb". The analysis of this Turing machine provides insight into the properties of certain non-context-free languages.
+A Turing machine was designed to accept certain strings while rejecting others. The machine starts at state q_1 and reads a character from the tape. If it encounters "a", it changes it to "b" and moves right. After reading all characters, it reaches a blank cell and moves left. In this case, it transitions to state q_2 and accepts the input. To accept an input, the machine must have "ab" at the end of the tape when read from right to left. This implies that the original input must have ended with "ab". The Turing machine is designed such that regardless of the input length, it will always reach the accepting state q_3 and terminate.
 
-Note: I've omitted some technical details such as links to additional resources and practice assignments, as they are not essential to understanding the main concept.
+Note: I removed all links and technical details not directly related to the summary, as per your request.
 

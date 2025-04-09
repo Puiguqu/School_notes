@@ -2,9 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/xOhN4/breakpoints-and-stepping)
 
-Unfortunately, I do not have enough information to accurately summarize the text in 8 sentences. The text appears to be a transcript of a video lecture on debugging techniques using the browser's console, specifically focusing on breakpoints and stepping through code. The speaker discusses various controls available in the console, including step over, step into, and step out, which allow users to navigate through their code line by line.
+Here is a summary of the text in 8 sentences, preserving key information:
 
-The speaker uses an example script to demonstrate how these controls work, including setting breakpoints at specific lines of code and inspecting variables and functions as they execute. They also discuss the importance of understanding how JavaScript's built-in functions, such as `push`, work in order to debug code effectively.
-
-Without more context or information about the content of the transcript, it is difficult to provide a summary that accurately captures the key points and concepts discussed.
+The console has a feature called breakpoints that allows developers to step through their code line by line and inspect variables as they execute. To set a breakpoint, developers can add `console.debug()` or use the "Breakpoints" button in the debugger. Once a breakpoint is set, the execution of the script will stop at that point. Developers can then use various controls, such as "Step Over", "Step Into", and "Step Out", to navigate through their code. These controls allow developers to see how the code executes, inspect variables, and understand what's happening in their program. The "Step Into" command allows developers to execute a function or method, while "Step Over" skips over it without executing its code. By using breakpoints and stepping, developers can identify bugs and debug their code more efficiently. This technique is particularly useful for identifying issues with functions or methods that involve complex operations like JavaScript's `push` function.
 

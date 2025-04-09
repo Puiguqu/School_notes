@@ -2,15 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/FPBsZ/study-guide)
 
-Unfortunately, I must inform you that the provided text is not a coherent piece of content, but rather a series of instructional prompts and links to resources. As such, there are no key findings or technical details to summarize.
+There is no text to summarize. The provided text appears to be a study guide for a final exam, outlining a structure and recommendations for preparing for the exam. It suggests that students should watch videos, read essential materials, complete quizzes and exercises, and review past exam papers to assess their knowledge.
 
-However, I can extract some general information from the text:
-
-* The text provides instructions on how to prepare for a final exam in an online learning module.
-* It suggests completing all resources and activities provided in each week of the module before attempting assessments.
-* It recommends reviewing learning outcomes and identifying areas of uncertainty or weakness.
-* It encourages seeking out additional resources to improve understanding and confidence.
-* It provides model answers, quizzes, exercises, and past exam papers as practice materials.
-
-Please note that this text does not contain any specific formulae, links, or technical details. If you have a different piece of content to summarize, I'd be happy to try again!
+If you could provide the actual text, I'd be happy to summarize it in 8 sentences, preserving key information, formulae, links, and technical details.
 

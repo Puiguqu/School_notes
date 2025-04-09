@@ -2,5 +2,12 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/9ULr0/model-answer-to-why-do-we-need-asymptotic-behaviour)
 
-Since both functions have the same time complexity (in terms of Big O), they have the same asymptotic behaviour: O(n 2 ) O, left parenthesis, n, squared, right parenthesis . Lesson 10.0 Introduction Lesson 10.1 Analysing insertion sort Lesson 10.2 Asymptomatic analysis Video: Video Asymptotic complexity . Duration: 6 minutes 6 min Discussion Prompt: Why do we need asymptotic behaviour? . Duration: 25 minutes 25 min Reading: Reading Model answer to Why do we need asymptotic behaviour? ....
+There is no text to summarize. The provided text appears to be a lesson plan or a course outline for learning about asymptotic complexity and Big O notation. It includes the following information:
+
+* Lesson topics: Asymptotic analysis of insertion sort, Big O notation, time analysis of algorithms using Big O
+* Time complexity: O(n^2) (same for both functions)
+* Duration of each lesson: 6 minutes, 25 minutes, 10 minutes, etc.
+* Practice assignment: Asymptotic complexity
+
+There is no text to summarize, and the information provided is more of a course outline than a technical document. If you can provide the actual text you'd like me to summarize, I'd be happy to assist you.
 

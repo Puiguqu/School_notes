@@ -2,9 +2,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/NhmA5/how-to-rectify-accessibility-issues)
 
-The text discusses the process of identifying and rectifying accessibility issues on a website using an accessibility checker tool. The author, who is also the website owner, runs the checker on their own website and finds 10 known problems that can be easily fixed. The first problem identified is the lack of contrast between the foreground and background colors, which makes it difficult for users to distinguish between navigation and content. To fix this issue, the author reformats the navigation bar code, removes unnecessary attributes, and changes the background color to a more contrasting value.
+The video transcript discusses the process of identifying and rectifying accessibility issues on a website using an accessibility checker tool. The creator runs the checker on their own website, which they acknowledge has not been updated in 20 years, and identifies 10 known problems that can be easily fixed. 
 
-The author then pastes the revised code back into the website and re-runs the checker, finding that two of the original problems have been fixed. The remaining eight problems are identified, including issues with document language not being identified for XHTML documents. To fix this issue, the author adds the necessary attributes to the HTML tag.
+They begin by pasting the raw HTML code from the "view page source" option into the accessibility checker tool, ignoring external stylesheets to focus on basic layout issues such as contrasting foreground and background colors. The tool highlights a navigation bar with low contrast between link text and background color, which is then improved by removing unnecessary table attributes and adjusting background colors.
 
-After making these changes, the author re-runs the checker again and finds that all 10 of the original known problems have been fixed, leaving only two unknown problems that need further attention. The video transcript concludes by highlighting the importance of regularly testing websites for accessibility using tools like this one.
+Next, the creator addresses another issue: adding language tags to HTML documents. Their website uses XHTML, which they decide to switch to, using a standard doctype like HTML5. They also address a third issue: identifying potential problems that require deeper analysis but can be fixed in future steps.
+
+The video concludes by summarizing the process of rectifying accessibility issues identified by an accessibility checker tool, emphasizing the importance of careful reading and application of the provided recommendations to achieve success.
 

@@ -2,14 +2,18 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/83Qw9/introduction)
 
-There is no text to summarize. The provided text appears to be a transcript of a video introduction to a lesson on counting principles in computer science, specifically CM1025 Fundamentals of Computer Science. It does not contain any key information, formulae, links, or technical details that can be summarized.
+There is no text to summarize. The provided text appears to be a transcript of a video or lecture on a topic related to counting and computer science, but it does not contain any specific information, formulae, links, or technical details.
 
-However, I can suggest some possible topics and concepts that could be covered in this lesson:
+However, based on the context and the mention of the pigeonhole principle, counting rules (sum and product), inclusion-exclusion principle, and permutations/combinations, I can provide a general outline of what the text might cover:
 
-1. Counting rules: The lesson may cover the rules of sum and product, which are fundamental principles in combinatorics.
-2. Inclusion-Exclusion Principle: This principle is used to count the number of elements in the union of multiple sets while avoiding double counting.
-3. Pigeonhole Principle: This principle states that if n items are put into m containers, with n > m, then at least one container must contain more than one item.
-4. Permutations and Combinations: The lesson may also cover formulas for permutations and combinations, which can help break down complex problems into simpler ones.
+The lecture is likely to introduce students to key principles in counting, including:
 
-If you could provide the actual text to summarize, I would be happy to assist you further.
+1. Counting rules: sum and product
+2. Inclusion-exclusion principle
+3. Pigeonhole principle
+4. Permutations and combinations
+
+These concepts will be used to solve problems, such as the given riddle about a person playing video games.
+
+If you provide more text or context from the lecture, I would be happy to summarize it for you.
 

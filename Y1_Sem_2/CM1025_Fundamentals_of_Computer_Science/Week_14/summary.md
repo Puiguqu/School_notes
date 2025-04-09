@@ -4,21 +4,17 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/kO7V1/the-power-of-turing-machines)
 
-Unfortunately, I couldn't summarize the text as requested since it is a video transcript with no accompanying written content or formulae, links, technical details, or key information that could be summarized in 8 sentences.
+Unfortunately, the text you provided is a transcript and does not contain any mathematical formulae or technical details that can be extracted and preserved in a summary. The transcript appears to be a video explanation of how Turing machines can be used to sort binary inputs (zeros and ones) into a specific format.
 
-However, I can provide a summary of the concepts presented in the video transcript:
+However, I can summarize the key concepts and findings presented in the transcript:
 
-A Turing machine is used to sort binary input by manipulating it. The process involves passing the already sorted part of the input and then finding the first 1 after a string of 0s, flipping it to 0, and repeating until there are no more 1s after 0s.
+The video discusses how Turing machines can be used to sort binary inputs by reading the input from left to right and using transitions between states to manipulate the tape. The machine first reads the sorted part of the input and then finds the first one and flips it to 0. It then goes back to the left most 0 and flips it to 1, repeating this process until there is no 1 after 0s.
 
-To build this Turing machine, one must:
+The Turing machine uses several states (Q1, Q2, Q3, and Q4) to perform this sorting operation. The transition from state Q3 to state Q4 flips the first one after 0s to 0. If the input starts with runoff zeros, a new transition is added to handle this case.
 
-* Parse the sorted part of the input
-* Find the first 1 after a string of 0s and flip it to 0
-* Move right and repeat the process
+The video also discusses how to build such a Turing machine, which involves creating a set of transitions between states that implement the sorting algorithm. The machine terminates when it reads a blank symbol (representing the start of the input) and enters an accepting state.
 
-The Turing machine can be built using states Q1, Q2, Q3, and Q4, which are connected by transitions labeled "read 0", "flip 1 to 0", "move right", "do not touch input move left", and "terminate". The machine starts at state Q1 and reads the input, making transitions based on what it reads.
-
-The video transcript also discusses Turing machines in general, including their power and different types of Turing machines.
+Overall, the transcript provides a step-by-step explanation of how Turing machines can be used to sort binary inputs into a specific format using transitions between states.
 
 ---
 
@@ -26,9 +22,9 @@ The video transcript also discusses Turing machines in general, including their 
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/gdf4N/variants-of-turing-machines)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-The video transcript discusses variations of Turing machines, which are equivalent in terms of computational power. These variations include the "stay option" machine, where the head can stay in place instead of moving to read or write symbols. The tape for this type of machine is bounded from one side, similar to finite state machines. Another variation is the multi-tape Turing machine, which has multiple tapes with independently controlled heads, allowing for complex operations like reading and replacing symbols on different tapes simultaneously. A non-deterministic Turing machine differs from standard Turing machines in that it allows for multiple actions to be selected in a state, enabling non-deterministic computation. In this type of machine, the head's movement is determined by the current state, symbol, and tape position. The power of these variations lies in their ability to solve problems that were previously unsolvable or require significant computational resources. By exploring these variations, researchers can gain insights into the fundamental limits of computation and develop more efficient algorithms for solving complex problems.
+The video discusses various variations of Turing machines, which are equivalent in terms of computational power. The first variation, called the "stay option machine", allows the head to stay in place while reading and replacing symbols. This means that instead of executing a transition for each movement (R or L), there is an additional option (S) to stay in place. In a standard Turing machine, the tape is unbounded from both sides, but in semi-infinite tape Turing machines, the tape is bounded from one side, preventing left moves at the boundary. Multi-tape Turing machines have multiple tapes with independently controlled heads, allowing for complex transitions like reading and replacing symbols on different tapes simultaneously. Nondeterministic Turing machines allow for non-deterministic choice of actions in certain states, enabling exploration of multiple possibilities. The concept of equivalence between Turing machines is discussed, where two machines are considered equivalent if they have the same computational power. These variations demonstrate the versatility and complexity of Turing machines, which can be used to model various computational models and language recognition problems.
 
 ---
 
@@ -36,47 +32,27 @@ The video transcript discusses variations of Turing machines, which are equivale
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/JzBo8/the-language-of-turing-machines)
 
-This is a transcript of a lecture on the theory of computation, specifically on Turing machines and their relationship to different classes of languages. Here's a breakdown of the main points:
+It appears that the text is a transcript of a lecture on computational complexity theory, specifically on the relationship between different classes of languages and their corresponding grammars.
 
-**Introduction**
+The main topics covered in this transcript are:
 
-* The lecturer introduces the topic of Turing machines and their importance in computer science.
-* They explain that Turing machines are a fundamental model for computation and that understanding them is crucial for studying the complexity of algorithms.
+1. Introduction to Turing machines and their languages
+2. The language of Turing machines (video)
+3. Context-sensitive grammars (video)
+4. Unrestricted grammars (video)
+5. Practice assignment: context-sensitive and unrestricted grammars
+6. Discussion prompt: which types of languages have an unlimited grammar?
 
-**Turing Machines**
+The transcript includes a video for each topic, as well as reading assignments and practice exercises. The discussion prompt suggests that the students consider whether there are any types of languages that can be generated by unrestricted grammars.
 
-* The lecturer defines what a Turing machine is and explains its basic components, including the tape, the read/write head, and the transition function.
-* They illustrate how a Turing machine can simulate a computer program by reading and writing symbols on an infinite tape.
+Some key concepts covered in this lecture include:
 
-**Types of Languages**
+* Turing machines and their languages
+* Regular, context-free, decidable, recognizable classes of languages
+* Chomsky hierarchy (type-0 to type-3)
+* Context-sensitive and unrestricted grammars
 
-* The lecturer introduces the concept of languages that can be recognized by different types of Turing machines.
-* They explain the following types of languages:
-	+ Regular languages: Recognized by finite state automata (FSA) or regular expressions.
-	+ Context-free languages: Recognized by push-down automata (PDA) or context-free grammars.
-	+ Decidable languages: Recognized by deciders, which are Turing machines with a limited number of possible computations.
-
-**Relationship between Languages**
-
-* The lecturer explains the relationship between different types of languages and their corresponding Turing machine models:
-	+ All regular languages are context-free languages.
-	+ All context-free languages are decidable languages.
-	+ Every decidable language is recognizable by a Turing machine.
-
-**Chomsky Hierarchy**
-
-* The lecturer introduces the Chomsky hierarchy, which describes the relationship between different types of grammars and their corresponding languages:
-	+ Type-0 grammar generates recursively enumerable languages (recognized by Turing machines).
-	+ Type-1 grammar generates context-sensitive languages (recognized by linear bounded nondeterministic Turing machines).
-	+ Type-2 grammar generates context-free languages (recognized by push-down automata).
-	+ Type-3 grammar generates regular languages (recognized by finite state automata).
-
-**Conclusion**
-
-* The lecturer summarizes the main points of the lecture, including the definition of Turing machines and their relationship to different types of languages.
-* They conclude that understanding the theory of computation is crucial for studying the complexity of algorithms and developing efficient solutions to computational problems.
-
-This transcript provides a comprehensive overview of the theory of computation, specifically on Turing machines and their relationship to different classes of languages. It is suitable for students in computer science or mathematics who want to learn about the fundamental models of computation and their applications.
+Overall, this transcript appears to be a comprehensive introduction to the relationship between language theory and computational complexity theory.
 
 ---
 
@@ -84,9 +60,9 @@ This transcript provides a comprehensive overview of the theory of computation, 
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/BpuAC/context-sensitive-grammars)
 
-Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulas, links, and technical details:
 
-Context-sensitive grammars are a type of grammar that can be used to describe context-sensitive languages, which are languages that can be described by a context-sensitive grammar. A context-sensitive grammar is defined as a set of production rules where the length of the left-hand side of each rule is smaller than or equal to the length of the right-hand side. The language generated by a context-sensitive grammar must satisfy certain conditions, such as the presence of terminals and non-terminals on both sides of the rules. Context-sensitive grammars are used to describe languages that require a specific order or arrangement of symbols, such as CAB (C followed by A, then B) and AaBbCc. In the first example, the grammar generates strings with equal numbers of small As, small Bs, and small Cs, while in the second example, it generates strings where all small Bs come after a small A. The grammar for the language L consists of 9 rules that shuffle the symbols and replace them with terminals, ultimately producing the desired string. Context-sensitive languages are a subset of unrestricted languages, which have an unlimited grammar. Understanding context-sensitive grammars is important in computer science, as they are used to describe and analyze the behavior of Turing machines and other formal systems.
+A context-sensitive language is one that can be described by a context-sensitive grammar, where each rule satisfies the condition that the length of the left-hand side is smaller than or equal to the length of the right-hand side. Context-sensitive grammars are used to generate strings with specific structures, such as alternating sequences of terminals and non-terminals. The given example shows how to define a context-sensitive grammar for the language L, which consists of strings with an equal number of small As, small Bs, and small Cs. The grammar involves shuffling the symbols using additional rules and replacing non-terminals with terminals. Another example is provided for the language of strings with all small As appearing before small Bs and all small Bs appearing before small Cs. This language can be generated using a context-sensitive grammar that includes specific rules to ensure the correct ordering of the symbols. Context-sensitive languages are an important type of language in formal language theory, and understanding how they can be generated is crucial for studying computability and complexity. The Chomsky hierarchy categorizes languages into four types based on their grammatical structure, with context-sensitive languages being one of the most restrictive but also powerful classes.
 
 ---
 
@@ -94,9 +70,11 @@ Context-sensitive grammars are a type of grammar that can be used to describe co
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/1AZN4/unrestricted-grammars)
 
-Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
+Here is a summary of the text in 8 sentences, preserving key information:
 
-A language is recursively enumerable if it can be described by an unrestricted grammar, which has no limitations on defining rules. In this type of grammar, both sides of a rule can have any combination of terminals and non-terminals, with the right-hand side allowing epsilon as well. Recursively enumerable languages are a subset of context-sensitive languages, which in turn are a subset of recursively enumerable languages. The example language L consists of strings of the form "a^n b^n c^n" where n can be 0, making epsilon also part of the string. This grammar generates the language by applying rules to replace non-terminal symbols with terminal symbols, ultimately producing the desired string. For instance, the rule "S -> a A B C" is used to generate strings like "aA bB cC". The process involves repeated application of these rules until all non-terminals have been replaced with terminals. This approach can be complex and requires experience to write grammars for both context-sensitive and recursively enumerable languages.
+The Chomsky hierarchy classifies languages into four types based on the structure of their rules: regular languages, context-free languages, context-sensitive languages, and unrestricted languages. Recursively enumerable languages can be described by an unrestricted grammar, which has no limitations on defining rules. An unrestricted grammar consists of any combination of terminals and non-terminals with lengths of at least one on both sides of a rule. This means that each rule has the form "alpha goes to beta", where alpha is any combination of terminals and non-terminals with lengths of at least one, and beta is any combination of terminals and non-terminals with lengths of at least zero. The language L, which consists of strings "a^n b^n c^n" where n can be 0, can be generated by an unrestricted grammar. The grammar for L has rules that allow it to generate strings of varying length, including the empty string. When generating a string using this grammar, repeated application of the rule allows for the creation of strings with increasing lengths. This type of language is recursively enumerable and can be described by an unrestricted grammar.
+
+Note: I did not include links or technical details as they were not present in the original text.
 
 ---
 
@@ -104,16 +82,9 @@ A language is recursively enumerable if it can be described by an unrestricted g
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/aZ0Tw/conclusion)
 
-Unfortunately, the provided text does not contain any specific information about Turing machines or their applications. It appears to be a transcript for an online learning platform, outlining the course structure and providing instructions for navigating through the material.
+There is no text provided to summarize. The given text appears to be a transcript of a video lecture or presentation, likely from an online course or educational platform. It does not contain specific information about formulas, links, technical details, or key findings that can be summarized in a concise manner.
 
-However, I can summarize the general concepts related to Turing machines based on my knowledge:
-
-1. Turing machines are a type of finite automaton that uses random access memory (RAM) to process information.
-2. The languages accepted by Turing machines can be classified into decidable languages, which means they can only be recognized by a specific class of Turing machines called deciders.
-
-There are no formulas, links, or technical details mentioned in the provided text. If you'd like to know more about Turing machines or their applications, I'd be happy to provide information on the topic.
-
-Please note that without additional context or content, it's challenging to provide a summary with key information, formulae, and technical details.
+If you could provide the actual text or context, I'd be happy to help summarize it for you.
 
 ---
 
@@ -121,11 +92,9 @@ Please note that without additional context or content, it's challenging to prov
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/vCCS3/turing-machines)
 
-Unfortunately, the provided text does not contain any specific information or key findings that can be summarized in 8 sentences. The text appears to be a course outline or assignment instructions for a week's worth of material on automata theory, languages, and computation.
+Here is a summary of the text in 8 sentences, preserving key information:
 
-However, I can provide a summary of the course materials mentioned in the text:
-
-The essential reading covers topics such as Turing machines, context-sensitive grammars, and unrestricted grammars. There are three videos available: "The language of Turing machines", "Context-sensitive grammars", and "Unrestricted grammars". Each video has a specific duration: 13 minutes, 9 minutes, and 5 minutes, respectively. The course materials also include a practice assignment and a discussion prompt related to context-sensitive and unrestricted grammars. A recommended textbook is Hopcroft, J.E., R. Motwani, and J. Ullman's "Introduction to automata theory, languages, and computation" (2013), Chapter 8, pp.343-352. The course materials are available in PDF format. It is recommended that students first watch the videos and then study the essential reading.
+The essential reading for Week 14 covers topics such as Turing machines, context-sensitive grammars, and unrestricted grammars. It includes detailed explanations, examples, and videos to help understand these concepts. The recommended course materials include Hopcroft's "Introduction to Automata Theory, Languages, and Computation" (2013), Chapter 8, pp.343-352, which can be accessed as a PDF file. The reading also covers different types of Turing machines, with accompanying videos that last 13 minutes. Additionally, it explores context-sensitive grammars (9-minute video) and unrestricted grammars (5-minute video). Practice assignments are available for both topics, lasting 25 minutes. The discussion prompt encourages students to consider which languages have an unlimited grammar. Overall, the reading is designed to build upon previously studied material in Week 14.
 
 ---
 
@@ -133,9 +102,9 @@ The essential reading covers topics such as Turing machines, context-sensitive g
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/UO5C3/week-14-exercises)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information:
 
-The exercises for Week 14 aim to test knowledge of Turing machines. The goal is to determine what types of language can be accepted by a Turing machine with a limited tape length from both sides. Using the given grammar, it can be shown that the string 'aab' can be derived: S→aAb, Ab→aAb, Ab→bA, and A→ε. Another challenge involves finding a string that cannot be generated from the same grammar, such as 'bbacac'. To solve this, we use the given formula: {w∣wϵ(a+b+c) + ,N a (w)=N b (w)=N c (w)}. The grammar also includes rules for ABCS and ABBA productions. The language accepted by this Turing machine is defined as: {w |w ϵ (a+b+c)^+, N_a(w)=N_b(w)=N_c(w)}.
+The exercises provided in Week 14 aim to test knowledge on Turing machines and grammars. The first exercise assumes a bounded tape from both sides and asks about the types of language that can be accepted by such a machine. Using a given grammar, it is possible to derive the string "aab" through the following transitions: S → aAb, Ab → aAb, Ab → bA, and A → ε. The second exercise asks for a string that cannot be generated from the same grammar. By analyzing the grammar, we can see that strings such as "bbacac" are not derivable because they do not meet the condition {w∣wϵ(a+b+c) + ,N a (w)=N b (w)=N c (w)}. The third exercise provides a new grammar for generating strings over the alphabet {(a, b, c)}, which is defined as: S → ABCS|ABC, AB → BA, BA → AB, AC → CA, CA → AC, BC → CB, CB → BC, A → a, B → b, C → a. This grammar generates strings of the form (a+b+c)^+ with equal counts of each letter.
 
 ---
 

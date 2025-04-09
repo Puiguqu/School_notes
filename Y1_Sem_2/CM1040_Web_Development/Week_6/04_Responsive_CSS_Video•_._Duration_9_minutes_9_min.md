@@ -2,22 +2,25 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/466jm/responsive-css)
 
-This text appears to be a transcript of an online course or video lecture on web development, specifically focusing on HTML, CSS, and responsive design.
+This text appears to be a transcript of a video lecture or tutorial on web development, specifically on CSS (Cascading Style Sheets). The content is divided into several sections:
 
-The transcript covers the following topics:
+1. Introduction to Responsive CSS
+	* Definition and purpose of responsive CSS
+	* Using media queries to control which CSS is active based on screen width and other factors
+	* Controlling the number of grid columns using CSS
+2. Mobile-First Design
+	* Designing for mobile devices first, then enabling features for wider screens
+3. Testing and Debugging with Firefox Developer Tools
+	* Using the responsive design mode in Firefox to test different screen sizes and resolutions
+	* Enabling touch and rotating the screen for testing purposes
 
-1. Introduction to CSS
-2. Media queries and responsive design
-3. Mobile-first design
-4. Testing and debugging with Firefox developer tools
+The transcript includes a mix of text explanations, video clips, and practice assignments to reinforce learning.
 
-The transcript also includes a practice assignment for each topic, which suggests that the course is designed to be interactive and hands-on.
+Some key takeaways from this content include:
 
-Some key concepts and terminology discussed in the transcript include:
+* Responsive CSS is essential for creating websites that adapt to different screen sizes and devices.
+* Media queries are used to control which CSS rules apply based on specific conditions, such as screen width or device orientation.
+* Mobile-first design is a useful approach for designing responsive interfaces, where the focus is on creating a user-friendly experience for mobile devices before adapting for wider screens.
 
-* Responsive design: The ability of a website or application to adapt its layout and content to different screen sizes and devices.
-* Media queries: A way to apply different CSS styles based on specific conditions, such as screen size or device type.
-* Mobile-first design: A approach to designing for mobile devices first, and then enabling additional features or layouts for larger screens.
-
-Overall, the transcript appears to be providing an introduction to CSS and responsive design, with a focus on practical skills and hands-on practice.
+The lesson covers practical skills and tools for web developers to create responsive and adaptive websites.
 

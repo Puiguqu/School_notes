@@ -2,39 +2,24 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/M747L/exploring-a-p5-object-vector)
 
-Here is a summary of the content:
+Here is a written summary of the transcript:
 
-**Lesson Summary**
+The video explores the p5 vector object, which is used to represent points in space. The author introduces several key concepts and methods related to vectors.
 
-This lesson introduces the `p5` object, specifically the `vector` class. The instructor explains various methods that can be used with this class, including:
+First, the author discusses how to manipulate vectors using basic arithmetic operations such as addition, subtraction, multiplication, and division. They also explain how to use the dot product method to calculate the angle between two vectors.
 
-1. Creating and manipulating vectors
-2. Using static and non-static methods for vector manipulation
-3. Randomly generating points to create a pattern
+Next, the author delves into the details of the p5 vector object's methods, including:
 
-**Key Concepts**
+* `mult`: multiplies a vector by a scalar value
+* `mult()`: returns a new vector with the original vector multiplied by the specified scalar value
+* `div`: divides a vector by a scalar value
+* `mag`: calculates the magnitude (length) of a vector
+* `angle()`: calculates the angle between two vectors using the dot product method
+* `normalize()`: normalizes a vector to have a length of 1
 
-* Understanding the difference between static and non-static methods in `p5`
-* Learning how to use various methods to manipulate vectors, such as:
-	+ `x`, `y` properties to access individual components of a vector
-	+ `length()` method to calculate the magnitude of a vector
-	+ `normalize()` method to normalize a vector to length 1
-	+ Multiplying and dividing vectors by numbers to scale them
+The author provides examples and explanations for each of these methods, including code snippets in JavaScript.
 
-**Example Code**
+Finally, the video touches on how to use these methods to create something interesting, such as creating a Tamagotchi game. However, this section is not fully explored in the transcript, leaving it for further explanation in another video.
 
-The instructor provides example code snippets that demonstrate how to use these methods, including:
-
-* Creating and manipulating vectors using static methods
-* Randomly generating points to create a pattern
-* Using the `normalize()` method to normalize vectors
-* Scaling vectors using multiplication and division
-
-**Graded Assignment**
-
-A graded assignment is mentioned, which requires students to practice using the `p5` vector class with various methods.
-
-**Next Steps**
-
-The instructor mentions that in the next lesson, they will explore how to use these methods to create a more complex project, such as creating a Tamagotchi.
+Throughout the video, the author emphasizes the importance of understanding and mastering vector operations and methods in p5.js development.
 

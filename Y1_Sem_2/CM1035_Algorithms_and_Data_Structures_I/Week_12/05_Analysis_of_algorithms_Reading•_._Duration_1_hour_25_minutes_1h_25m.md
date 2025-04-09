@@ -2,7 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/supplement/z0vGY/analysis-of-algorithms)
 
-Here is a summary of the text in 8 sentences:
+Unfortunately, there is no text provided for me to summarize. The text appears to be a list of resources and instructions for accessing material related to algorithms, specifically from Cormen's book "Introduction to Algorithms" by T.H. Cormen et al.
 
-The provided text references Section 2.2 of Cormen's "Introduction to Algorithms" textbook, which discusses the RAM model and time complexity. The section reviews insertion sort, with a detailed analysis that covers various notions of complexity beyond the scope of this module. This information is considered essential reading for future study. Access to the ebook is available through E-Book Central (ProQuest) via the provided links. The video "Worst-case time complexity" and practice assignment are also mentioned as part of Lesson 6.3. However, no further details or summaries of these resources are provided in the text snippet.
+If you could provide the actual text you would like summarized, I would be happy to assist you in condensing it into 8 sentences while preserving key information, formulae, links, and technical details.
 

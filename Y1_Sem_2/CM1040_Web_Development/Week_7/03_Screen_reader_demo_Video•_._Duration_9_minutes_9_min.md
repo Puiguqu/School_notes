@@ -2,54 +2,58 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/Jgti8/screen-reader-demo)
 
-This is a transcript of a video on screen readers and accessibility. Here's a breakdown of the content:
+This is a transcription of an online lesson on accessibility, specifically screen readers and accessing websites with visual or motor impairments.
 
-**Introduction**
+**Lesson Topic:** Accessing Websites with Screen Readers
 
-The video introduces the concept of screen readers and accessibility, explaining that it's essential to make digital products usable by people with disabilities.
+**Introduction (1 minute)**
 
-**Screen Reader Demo (Windows)**
+The instructor introduces the topic of accessibility and explains that screen readers are software tools that convert web content into spoken language, allowing people with visual or motor impairments to access websites.
 
-The first demo shows how to use a screen reader on Windows using the Narrator feature. The narrator guides the user through browsing a website, including searching for specific content and navigating menus.
+**Windows Screen Reader Demo (9 minutes)**
 
-**Reflection**
+The instructor uses the Narrator feature on a Windows computer to demonstrate how to use a screen reader. The demo shows how to:
 
-The video reflects on the experience of using a screen reader on Windows, highlighting its clarity and ease of use. However, it also mentions that some users may find the automated voice guidance helpful or annoying.
+* Open Firefox and navigate to a website
+* Type in the address bar using the keyboard
+* Press Enter to load the page
+* Use the keyboard to navigate through the page, including tabs and links
 
-**Screen Reader Demo (Linux)**
+The instructor explains that the Narrator feature is a built-in accessibility tool on Windows computers.
 
-The second demo shows how to use a screen reader on Linux using the built-in screen reader feature. This time, the screen reader has a quirky old-school computer voice, which is quite different from the Windows Narrator.
+**Linux Screen Reader Demo (9 minutes)**
 
-**Reflection**
+The instructor uses the screen reader feature on an Ubuntu desktop computer to demonstrate how to use a screen reader. The demo shows how to:
 
-Similar to the first demo, this one reflects on the experience of using a screen reader on Linux, highlighting its quirks and limitations compared to the Windows Narrator.
+* Open Firefox and navigate to a website
+* Type in the address bar using the keyboard
+* Press Enter to load the page
+* Use the keyboard to navigate through the page, including tabs and links
 
-**Key Takeaways**
+The instructor explains that the screen reader feature on Linux computers is built into the operating system.
 
-The video summarizes key takeaways from both demos:
+**Practice Assignment: Screen Reader**
 
-1. **Screen readers are essential for accessibility**: They allow users with disabilities to interact with digital products independently.
-2. **Testing is crucial**: Both automated testing tools and manual user testing can help ensure that digital products meet accessibility standards.
-3. **Different screen readers have different strengths and weaknesses**: The Windows Narrator is more realistic, while the Linux screen reader has a unique voice.
+The instructor provides a practice assignment for viewers to try using a screen reader on their own computer. The assignment includes:
 
-**Practice Assignments**
+* Using a screen reader to access a website
+* Navigating through the page using the keyboard
+* Finding and clicking on links
 
-The video provides practice assignments for viewers to try:
+**Video: Accessing Websites with Limited Tools (19 minutes)**
 
-1. Defining accessibility
-2. Using a screen reader (Windows or Linux)
-3. Practicing navigation using limited tools
-4. Understanding the business case for accessibility
+The instructor provides a video that shows how to access websites using limited tools, such as only using the keyboard or having limited vision.
 
-These assignments aim to help viewers develop practical skills and understanding of accessibility concepts.
+**Reading Assignments: Vision and Mobility Accessibility**
 
-**Additional Resources**
+The instructor provides reading assignments for viewers to learn more about accessibility:
 
-The video recommends additional resources for further learning, including:
+* Reading Activity: Navigating Websites Using Limited Tools
+* Reading Assignment: The Business Case for Accessibility
 
-1. Video: Definition of accessibility
-2. Video: Accessing websites: vision
-3. Video: Accessing websites: mobility
-4. Reading Activity: Navigating websites using limited tools
-5. Reading Activity: The business case for accessibility
+**Practice Assignment: The Business Case for Accessibility**
+
+The instructor provides a practice assignment for viewers to learn more about the business case for accessibility.
+
+Overall, this lesson aims to educate viewers on how to use screen readers to access websites and provide them with practical experience in doing so.
 

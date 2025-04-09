@@ -2,16 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/0d8oi/solving-recurrences-and-master-theorem)
 
-Unfortunately, the text you provided does not contain any specific information or key concepts that can be summarized in 8 sentences. The text appears to be a course syllabus or assignment instructions for a computer science class, listing various readings, videos, and assignments related to time complexity and recurrence solving.
+Here is a summary of the text in 8 sentences:
 
-However, I can provide a summary of the topics mentioned:
-
-The essential reading covers topics from Week 20, including asymptotic analysis of merge and quick sorts. The material includes explanations and examples on master theorem and recursion tree method for solving recurrences. It is recommended that students first watch the videos before studying the readings. The course materials include assignments and graded assignments related to time complexity.
-
-To provide more specific information, here are some key concepts and formulas related to the topics mentioned:
-
-* Master theorem: T(n) = aT(n/b) + f(n), where a is the growth rate of the input size, b is the growth rate of the output size, and f(n) is the function representing the recurrence relation.
-* Recursion tree method: A graphical representation of the recursion tree to solve recurrences.
-
-If you could provide more context or information about the course material, I may be able to provide a more specific summary.
+This essential reading covers topics studied in Week 20, including master theorem and asymptotic analysis of merge and quick sorts. The recommended approach is to watch videos first, followed by studying the essential reading. The material includes detailed explanations and examples for better understanding of key concepts. Key resources include: Cormen et al., Chapter 4 (pp.95-114), recursion-tree method, master theorem video series (11 minutes total), practice assignment, discussion prompt, reading materials, graded assignment, and video lectures on efficiency (quick sort and merge sort). The goal is to develop a deeper understanding of solving recurrences and master theorem. Watching videos first will help prepare students for the essential reading. Key concepts include master theorem, asymptotic analysis, and recursion complexity. By mastering these topics, students can improve their understanding of algorithms like merge and quick sorts.
 

@@ -1,0 +1,8 @@
+# Careers video Video• . Duration: 3 minutes 3 min
+
+[Original lesson](https://www.coursera.org/learn/uol-discrete-mathematics/lecture/5rWad/careers-video)
+
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
+
+The speaker, Liz Wilkinson, a Careers Consultant at the University of London, will be discussing career development and its various phases. She notes that career development can mean different things to different people, such as climbing the ladder or specializing within a sector. The speaker highlights her own 35-year career journey, which included multiple career development phases, and emphasizes the importance of understanding one's current phase and qualities. Liz Wilkinson references Edwin's point about feeling uncertain about learning new skills and suggests starting with self-reflection exercises to address these concerns. She draws on research by Liedtka, who identified three key elements of strategic thinking: taking a system's perspective, focusing on intent, and keeping the vision in front of oneself. These principles can be applied to career development by looking at the big picture, analyzing job advertisements, and considering factors such as market trends, personal goals, and desired lifestyle. The speaker encourages individuals to think about what they want to achieve in their careers and how they can respond intelligently to changes in the labor market or other external circumstances. By adopting a strategic thinking approach to career development, individuals can make informed decisions and create a fulfilling career path that aligns with their values and goals.
+

@@ -2,35 +2,46 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/mZXVI/what-is-usability-and-how-do-we-evaluate-it)
 
-It appears that you provided a transcript of a video lesson on the topic of usability and its related principles. The lesson covers the following topics:
+The transcript appears to be a lecture or tutorial on the principles of usability, specifically discussing various sets of principles that have been developed over time to think about and reason about design for user interfaces. Here's a summary of the main points:
 
-1. Introduction to usability
-2. Usability vs. accessibility
-3. Development of usability principles over time (Norman's, Nielsen's, and Schneiderman's lists)
-4. Core themes in usability principles
+**Overview of Usability**
 
-The transcript includes a list of core themes that can be used as a starting point for designing usable user interfaces.
+* The ISO definition of usability
+* Overview of the course material
 
-Here is a summary of the main points:
+**Set 1: Nielsen's Principles (1990s)**
 
-* Usability refers to the extent to which a system or product is easy to use and provides an effective interaction between the user and the system.
-* The definition of usability has evolved over time, with various principles and guidelines being developed to help designers create more user-friendly products.
-* Norman's list (1988) focused on 10 heuristics for user interface design.
-* Nielsen's list (1995) built upon Norman's work and added new principles, including the importance of feedback and error prevention.
-* Schneiderman's list (2000) introduced additional principles, such as designing dialogues to yield closure and offering informative feedback.
+* Express system state
+* Provide meaningful error messages
+* Design dialogues to yield closure
+* Offer informative feedback
+* Enable frequent users to use shortcuts
 
-The core themes that emerged from these lists include:
+**Set 2: Schneiderman and Pleasant's Principles (2000s)**
 
-1. Strive for consistency
-2. Enable frequent users to use shortcuts
-3. Offer informative feedback
-4. Design dialogues to yield closure
-5. Offer error prevention and simple error handling
-6. Permit easy reversal of actions
-7. Support internal locus of control
-8. Reduce short-term memory load (related to recognition instead of recall)
+* Strive for consistency
+* Enable frequent users to use shortcuts
+* Offer informative feedback
+* Design dialogues to yield closure
+* Offer error prevention and simple error handling
+* Permit easy reversal of actions
+* Support internal locus of control
+* Reduce short-term memory load
 
-These principles provide a foundation for designers to create user-friendly products that meet the needs of users.
+**Set 3: General Principles**
 
-The practice assignments and reading materials provided in the transcript can help learners apply these principles to real-world scenarios, such as testing the usability of a website or designing an interface that supports internal locus of control.
+* Consistency across different sets of principles
+* Relating the principles to each other
+* Core themes that emerge across the different sets of principles
+
+The lecture appears to be a comprehensive introduction to the principles of usability, covering various aspects of design for user interfaces. It provides an overview of the ISO definition of usability and discusses three sets of principles developed over time. The final section highlights the general principles that emerge from the different sets of principles.
+
+Key takeaways include:
+
+* Usability is different from accessibility
+* Consistency is a crucial principle across various sets of principles
+* Providing informative feedback, designing dialogues to yield closure, and offering error prevention are all important principles
+* Supporting internal locus of control and reducing short-term memory load can also improve user experience
+
+The lecture includes practice assignments, reading materials, and video resources for further learning.
 

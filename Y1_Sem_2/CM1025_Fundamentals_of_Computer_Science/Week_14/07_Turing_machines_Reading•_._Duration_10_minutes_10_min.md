@@ -2,9 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/vCCS3/turing-machines)
 
-Unfortunately, the provided text does not contain any specific information or key findings that can be summarized in 8 sentences. The text appears to be a course outline or assignment instructions for a week's worth of material on automata theory, languages, and computation.
+Here is a summary of the text in 8 sentences, preserving key information:
 
-However, I can provide a summary of the course materials mentioned in the text:
-
-The essential reading covers topics such as Turing machines, context-sensitive grammars, and unrestricted grammars. There are three videos available: "The language of Turing machines", "Context-sensitive grammars", and "Unrestricted grammars". Each video has a specific duration: 13 minutes, 9 minutes, and 5 minutes, respectively. The course materials also include a practice assignment and a discussion prompt related to context-sensitive and unrestricted grammars. A recommended textbook is Hopcroft, J.E., R. Motwani, and J. Ullman's "Introduction to automata theory, languages, and computation" (2013), Chapter 8, pp.343-352. The course materials are available in PDF format. It is recommended that students first watch the videos and then study the essential reading.
+The essential reading for Week 14 covers topics such as Turing machines, context-sensitive grammars, and unrestricted grammars. It includes detailed explanations, examples, and videos to help understand these concepts. The recommended course materials include Hopcroft's "Introduction to Automata Theory, Languages, and Computation" (2013), Chapter 8, pp.343-352, which can be accessed as a PDF file. The reading also covers different types of Turing machines, with accompanying videos that last 13 minutes. Additionally, it explores context-sensitive grammars (9-minute video) and unrestricted grammars (5-minute video). Practice assignments are available for both topics, lasting 25 minutes. The discussion prompt encourages students to consider which languages have an unlimited grammar. Overall, the reading is designed to build upon previously studied material in Week 14.
 

@@ -2,21 +2,22 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Ta3uA/data-visualisation-application-under-the-hood)
 
-This text appears to be a transcript of a lesson or tutorial on a programming topic, specifically on the P5.js library for data visualization. The content seems to follow a structured format, starting with an introduction and then diving into detailed explanations and examples.
+This is a transcript of a video lecture on P5.js, a JavaScript library for creating interactive graphics and animations. The lecture is part of an introductory course on P5.js.
 
-The lesson begins by introducing the concept of a data visualization app and the importance of understanding how it works under the hood. It explains that the app uses various visualizations, including pie charts, bar charts, and more, to display data in a meaningful way.
+The lecturer introduces the concept of data visualization and explains how P5.js can be used to create interactive visualizations. They demonstrate how to access external data using APIs and show examples of different types of visualizations, including bar charts, pie charts, and scatter plots.
 
-The lesson then guides the reader through a case study of one of these visualizations, "Pay Gap By Job." The author walks the reader through the code step by step, explaining each part of the visualization's implementation. This process is repeated for other visualizations, such as "Tech Diversity Race" and "Climate Change."
+The lecturer then focuses on a specific case study, "TechDiversityRace", which is an object that displays a pie chart. They walk the audience through the code, explaining each part and how it works together to create the visualization.
 
-The lesson concludes with an introduction to a data visualization application built using P5.js, providing an overview of how it works and encouraging the reader to further explore its code.
+They highlight key concepts such as constructors, methods, and layouts, and demonstrate how these are used in P5.js to create interactive visualizations.
 
-Some key concepts covered in this transcript include:
+The lecture also covers other topics, including accessing external data, preparing for a case study, and practice assignments. The lecturer encourages the audience to explore the code and learn more about the underlying mechanics of the visualization app.
 
-1.  **P5.js library**: A popular JavaScript library for creating interactive, web-based graphics.
-2.  **Data visualization**: The process of representing data in a graphical format to aid understanding and interpretation.
-3.  **Case study**: An in-depth examination of a particular topic or problem, often used to learn from real-world examples.
+Key takeaways from this transcript include:
 
-Overall, this transcript aims to provide a comprehensive introduction to the P5.js library's capabilities for data visualization, encouraging readers to explore its applications and code structure.
+* Understanding how to access external data using APIs
+* Familiarity with P5.js constructors, methods, and layouts
+* Ability to create interactive visualizations using P5.js
+* Understanding of how to break down complex code into smaller parts
 
-Please let me know if I can assist you with anything else.
+Overall, this lecture aims to provide a foundational understanding of P5.js and its capabilities for creating interactive visualizations.
 

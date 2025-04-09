@@ -2,9 +2,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/Nr4MH/introduction)
 
-There is no text to summarize. The provided text appears to be a video transcript or an introduction page for a computer science lesson, specifically Lesson 8.0 of CM1025 Fundamentals of Computer Science. It provides information on how to navigate through the transcript and introduces the topic of algorithms, including designing them and simple sorting and searching algorithms.
+There is no text to summarize. The provided text appears to be a video transcript and additional page content for a computer science lesson, specifically Lesson 8 of the CM1025 Fundamentals of Computer Science course. It introduces the topic of algorithms and provides information about how to represent them, as well as techniques to design simple sorting and searching algorithms.
 
-However, the main content of the text is missing, and it does not contain any formulas, links, or technical details. The provided text only includes brief instructions for navigating through the transcript and a puzzle that requires blindfolded guessing to sort numbers with the help of a wise woman.
+The transcript includes a puzzle where an individual is blindfolded and cannot see 10 unordered numbers, but has access to a wise woman who can answer yes or no questions about the relative sizes of these numbers. The goal is to sort these numbers using this process.
 
-If you could provide the rest of the text, I would be happy to summarize it in 8 sentences, preserving all key information, formulae, links, and technical details.
+Unfortunately, there are no formulae, links, or technical details presented in the provided text. If you could provide the actual content you would like me to summarize, I would be happy to assist further.
 

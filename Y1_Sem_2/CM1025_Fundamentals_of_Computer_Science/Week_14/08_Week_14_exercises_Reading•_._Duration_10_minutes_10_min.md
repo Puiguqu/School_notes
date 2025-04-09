@@ -2,7 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/UO5C3/week-14-exercises)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information:
 
-The exercises for Week 14 aim to test knowledge of Turing machines. The goal is to determine what types of language can be accepted by a Turing machine with a limited tape length from both sides. Using the given grammar, it can be shown that the string 'aab' can be derived: S→aAb, Ab→aAb, Ab→bA, and A→ε. Another challenge involves finding a string that cannot be generated from the same grammar, such as 'bbacac'. To solve this, we use the given formula: {w∣wϵ(a+b+c) + ,N a (w)=N b (w)=N c (w)}. The grammar also includes rules for ABCS and ABBA productions. The language accepted by this Turing machine is defined as: {w |w ϵ (a+b+c)^+, N_a(w)=N_b(w)=N_c(w)}.
+The exercises provided in Week 14 aim to test knowledge on Turing machines and grammars. The first exercise assumes a bounded tape from both sides and asks about the types of language that can be accepted by such a machine. Using a given grammar, it is possible to derive the string "aab" through the following transitions: S → aAb, Ab → aAb, Ab → bA, and A → ε. The second exercise asks for a string that cannot be generated from the same grammar. By analyzing the grammar, we can see that strings such as "bbacac" are not derivable because they do not meet the condition {w∣wϵ(a+b+c) + ,N a (w)=N b (w)=N c (w)}. The third exercise provides a new grammar for generating strings over the alphabet {(a, b, c)}, which is defined as: S → ABCS|ABC, AB → BA, BA → AB, AC → CA, CA → AC, BC → CB, CB → BC, A → a, B → b, C → a. This grammar generates strings of the form (a+b+c)^+ with equal counts of each letter.
 

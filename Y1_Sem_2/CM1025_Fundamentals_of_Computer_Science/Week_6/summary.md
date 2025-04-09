@@ -4,9 +4,9 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/M1Qlb/permutations)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulas, and technical details:
 
-A permutation refers to an ordered arrangement of objects. For example, queuing five people can be arranged in 120 unique ways (5! = 5 x 4 x 3 x 2 x 1). When arranging only r elements from a set of n distinct objects, the number of permutations is denoted by P(n, r) and calculated as the product of n times n-1, times n-2, ..., down to n-r+1. The formula for r-permutation is P(n, r) = n! / (n-r)!. This concept was applied to various examples, including taking side-by-side photos of two pets from a set of four (yielding 12 unique arrangements), allocating three roles to 20 actors (resulting in 6,840 ways), and counting permutations of letters containing the word "bad" without gaps. When considering all words containing "bad", not necessarily length seven, using each letter at most once, the number of permutations can be calculated for different lengths by applying the r-permutation formula. For example, for a set of five elements (c, e, f, g, and bad), the number of permutations is 5!. Additionally, the concept of permutations was connected to the idea of combinations, which will be explored in another video.
+Permutation refers to an ordered arrangement of distinct objects. The number of permutations of n objects is denoted by n! (n factorial), which is the product of all numbers from 1 to n. For r-permutations of a set of size n, the formula P(n,r) = n × (n-1) × ... × (n-r+1) is used. In the context of photo arrangements, if we have four pets and want to take a side-by-side photo with two pets, there are 12 possible arrangements using the r-permutation formula with n=4 and r=2. When allocating three roles to 20 actors, the number of ways can be calculated using P(20,3) = 20! / (17!), resulting in 6840 possibilities. To count permutations containing a specific word "bad", we consider the reduced set {c, e, f, g, bad} and calculate permutations as 5!, then extend to all possible lengths by inserting "bad" into gaps, yielding 120 possibilities for length seven. The r-permutation formula is useful in calculating the number of ways for different scenarios involving distinct objects and slots.
 
 ---
 
@@ -14,11 +14,9 @@ A permutation refers to an ordered arrangement of objects. For example, queuing 
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/K7G9i/combinations)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
 
-The concept of combinations refers to unordered arrangements of distinct objects. The formula for combinations is C(n, r) = n! / (r!(n-r)!), where n is the total number of elements and r is the number of elements being chosen. This formula can be simplified by canceling out identical terms in the numerator and denominator. Combinations are denoted by C(n, r) and are equivalent to choosing r items from a set of n distinct items without regard to order. In the context of photo taking, this means counting unique arrangements of pets (e.g., cat-mouse vs. mouse-cat). The problem of calculating combinations can be approached using factorials and simplifying fractions. For example, C(52, 7) = 52! / (7!(52-7)!) and C(16, 11) = 16! / (11!(16-11)!), which simplify to specific numerical values.
-
-Note that I have preserved the original text's technical details, formulas, and examples, while condensing the summary into 8 sentences.
+The problem of taking a photo of two pets from a group of four (mouse, cat, dog, and rabbit) illustrates the concept of combinations. A combination is an unordered arrangement of objects, and there are n!/(r!(n-r)!) ways to choose r elements from a set of n distinct elements. The formula for combinations, C(n, r), can be simplified by canceling out identical terms in the numerator and denominator. For example, to calculate the number of hands of 7 cards that can be dealt from a standard deck of 52 cards, we use the combination formula: C(52, 7) = 52!/(7!(52-7)!). The same calculation applies when choosing 45 cards per hand, as shown by the identity C(n, r) = C(n, n-r), which allows us to simplify the calculation. In a team of 11 players chosen from 16 footballers, the number of combinations is C(16, 11), which evaluates to 4368. The concept of combinations also applies to binary words with equal numbers of zeros and ones, as seen in the example of finding strings of length 8 with exactly four ones.
 
 ---
 
@@ -26,11 +24,9 @@ Note that I have preserved the original text's technical details, formulas, and 
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/9EuHK/conclusion)
 
-Here is a summary of the text in 8 sentences, preserving key information:
+Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The video transcript presents techniques for counting and combinatorial principles that are fundamental to computer science. The order of elements makes a difference, and permutation and combination differ from each other. Factorials are also mentioned as a way to calculate large numbers. A riddle is presented: a person plays at least one round of a video game per day for 30 days, playing a total of 40 rounds in the same sequence of consecutive days. The solution involves creating a new sequence (f) by adding 19 to each element of the original sequence (g). When combining these sequences, there are 60 elements, and by the pigeonhole principle, at least two must be equal. Assuming fj = gi, we substitute gj + 19 for gi, resulting in gi - gi = 9. This means that there is a day where the player has played exactly 19 times.
-
-Note: I did not include any formulas or technical details as they are not explicitly mentioned in the provided text.
+The video transcript discusses counting techniques for breaking down complex problems into simpler ones. Permutation and combination differ from each other, and understanding these concepts is fundamental to computer science. The transcript presents a problem involving a person playing at least one round of a video game per day for 30 days, with a total of 40 rounds played over the same consecutive days. Two sequences, gI and fI, are defined: gI represents the number of games played up until and including day I, while fI = gI + 19. By combining the two sequences, we get 60 unique numbers, all less than 59, which implies that at least two of them must be equal by the pigeonhole principle. Assuming fj = gi, we substitute gj + 19 for fi to find gi - gi = 9, indicating that there are 10 consecutive days with the same number of games played (i.e., j+1, j+2, ..., I). This finding reveals a key insight into how order matters when dealing with combinatorial problems.
 
 ---
 
@@ -38,7 +34,7 @@ Note: I did not include any formulas or technical details as they are not explic
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/rl5pO/model-answer-for-permutations)
 
-I don't see any text provided. Could you please provide the text you'd like me to summarize, and I'll be happy to assist you in condensing it into six sentences while preserving key information, formulae, links, and technical details?
+Lesson 3.3 Order matters Video: Video Permutations . Duration: 6 minutes 6 min Practice Assignment: Permutations . Duration: 20 minutes 20 min Discussion Prompt: Permutations . Duration: 20 minutes 20 min Reading: Reading Model answer for permutations . Duration: 10 minutes 10 min Video: Video Combinations . Duration: 10 minutes 10 min Reading: Reading Combinatorics . Duration: 1 hour 1h Practice Assignment: No order/combinations ....
 
 ---
 
@@ -46,7 +42,9 @@ I don't see any text provided. Could you please provide the text you'd like me t
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/PHAYM/combinatorics)
 
-There is no text provided for me to summarize. The given text appears to be a course material announcement or instructional guide from an online learning platform, outlining the essential reading and resources for Topic 3 (Weeks 5-6) on combinations and permutations. It includes video lessons, practice assignments, discussion prompts, and model answers, recommending that students watch videos first and then study the essential reading before reading Koshy's Chapter 6.
+There is no text provided for me to summarize. The text appears to be a course syllabus or instructional guide that provides recommendations for studying topics related to combinations and permutations in mathematics. It includes links to specific videos, readings, and practice assignments, but does not contain any original content or findings.
+
+If you provide the actual text, I would be happy to assist you with summarizing it into 8 sentences, preserving key information, formulae, links, and technical details.
 
 ---
 
@@ -54,7 +52,9 @@ There is no text provided for me to summarize. The given text appears to be a co
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/3kCId/week-6-exercises)
 
-There is no text to summarize. The provided text appears to be a course schedule or assignment outline, listing various exercises and tasks for students to complete in Week 6 of a course. It does not contain specific information, formulae, links, or technical details that can be summarized. If you provide the actual text, I would be happy to help summarize it in 8 sentences.
+Here is a summary of the text in 8 sentences, preserving key information:
+
+In Week 6, students are encouraged to attempt exercises to practice concepts learned earlier. A zip code in Canada consists of three letters and three digits that alternate between letters and digits (e.g., A1B2C3). The number of possible zip codes can be calculated using combinatorial formulas. For instance, the number of zip codes that end with 6 and begin with A is 26^2 * 10 = 6760. Similarly, the number of bytes that begin with 101 and end with 110 is 8^4 * 2 * (1/8) = 128. Passwords for a computer system consist of eight distinct alphabetic characters, and various combinations can be calculated using combinatorial formulas. The number of possible passwords that end in MATH or contain the word COMPUTER as a substring is 26^7 * 6 = 2085064. Finally, three-digit numerals can be formed using the digits 2, 3, 5, 6, and 9 without repetition, resulting in 120 possible combinations.
 
 ---
 
@@ -62,7 +62,9 @@ There is no text to summarize. The provided text appears to be a course schedule
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/supplement/78oRF/week-6-exercises-hints-and-tips)
 
-I don't see any text to summarize. The provided text appears to be a lesson schedule or outline for an online course, with no accompanying content. Can you please provide the text you'd like me to summarize? I'll be happy to help once I have that information.
+There is no text provided for me to summarize. The given text appears to be a list of lesson plans and durations, but it does not contain any specific information or content that needs summarization.
+
+If you provide the actual text, I would be happy to assist you in condensing it into 6 sentences while preserving key concepts, formulae, links, and technical details.
 
 ---
 

@@ -2,9 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-fundamentals-of-computer-science/lecture/K7G9i/combinations)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving all key information, formulae, links, and technical details:
 
-The concept of combinations refers to unordered arrangements of distinct objects. The formula for combinations is C(n, r) = n! / (r!(n-r)!), where n is the total number of elements and r is the number of elements being chosen. This formula can be simplified by canceling out identical terms in the numerator and denominator. Combinations are denoted by C(n, r) and are equivalent to choosing r items from a set of n distinct items without regard to order. In the context of photo taking, this means counting unique arrangements of pets (e.g., cat-mouse vs. mouse-cat). The problem of calculating combinations can be approached using factorials and simplifying fractions. For example, C(52, 7) = 52! / (7!(52-7)!) and C(16, 11) = 16! / (11!(16-11)!), which simplify to specific numerical values.
-
-Note that I have preserved the original text's technical details, formulas, and examples, while condensing the summary into 8 sentences.
+The problem of taking a photo of two pets from a group of four (mouse, cat, dog, and rabbit) illustrates the concept of combinations. A combination is an unordered arrangement of objects, and there are n!/(r!(n-r)!) ways to choose r elements from a set of n distinct elements. The formula for combinations, C(n, r), can be simplified by canceling out identical terms in the numerator and denominator. For example, to calculate the number of hands of 7 cards that can be dealt from a standard deck of 52 cards, we use the combination formula: C(52, 7) = 52!/(7!(52-7)!). The same calculation applies when choosing 45 cards per hand, as shown by the identity C(n, r) = C(n, n-r), which allows us to simplify the calculation. In a team of 11 players chosen from 16 footballers, the number of combinations is C(16, 11), which evaluates to 4368. The concept of combinations also applies to binary words with equal numbers of zeros and ones, as seen in the example of finding strings of length 8 with exactly four ones.
 

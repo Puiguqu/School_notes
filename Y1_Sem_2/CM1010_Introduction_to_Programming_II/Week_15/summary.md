@@ -4,9 +4,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Lns1G/introduction-and-progress-check)
 
-There is no text provided for me to summarize. The text appears to be a transcript of a video introduction to Lesson 8, which includes information about upcoming topics and providing assistance with project completion. However, the actual content of Lesson 8 is not provided.
+Unfortunately, there is no text to summarize as the provided text appears to be a video transcript with links and technical details. However, I can provide a summary of the context and key information from the transcript:
 
-If you provide the text for Lesson 8, I can help you summarize it in 8 sentences, preserving key information, formulae, links, and technical details.
+The instructor is providing guidance on completing the midterm assignment for topic 8, which is likely related to software development or programming. The instructor advises students to focus on one extension at a time, as it can be easy to become overwhelmed and lose direction. They recommend keeping notes about the project's progress, including diagrams and sketches, to help with the final report. Additionally, the instructor will assist students with their final report, but encourages them to save any notes or diagrams made during the lesson.
+
+If you could provide more text from a specific source related to "callback" in topic 8, I would be happy to help summarize that information.
 
 ---
 
@@ -16,7 +18,7 @@ If you provide the text for Lesson 8, I can help you summarize it in 8 sentences
 
 Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-In JavaScript, function calls can be divided into two categories: synchronous and asynchronous. Synchronous functions execute one after another, causing the code to pause while waiting for the previous function to complete. In contrast, asynchronous functions allow other activities to continue running concurrently with the execution of the function. The `billowed sound` function is an example of an asynchronous function call. When calling an asynchronous function in a preload or callback context, the main function continues executing without waiting for the asynchronous operation to complete. This can lead to issues when trying to access the result of the asynchronous function, such as setting a global variable equal to `sample.duration`. To resolve this issue, developers can use callbacks or other techniques to ensure that the asynchronous operation has completed before accessing its result. Asynchronous programming is useful for efficiently utilizing a computer's processing power and reducing "spinning wheels" in software.
+Asynchronous function calls in JavaScript allow for non-blocking execution, where the program continues running while waiting for an operation to complete. In synchronous functions, each line of code runs sequentially, pausing until the internal code is executed. Asynchronous functions, on the other hand, allow concurrent execution, enabling other tasks to be performed during the wait period. The `billowed sound` function is an example of an asynchronous function call in P5.js. When loading a sound in the `preload` function, the program continues executing while waiting for the load operation to complete. This can lead to issues, such as undefined values for properties accessed before the load operation is finished, as seen in the provided code example. To resolve this issue, developers can use callbacks or other synchronization mechanisms, as demonstrated by setting a variable equal to `sample.duration` when pressing a key to play the sound. Asynchronous programming allows for more efficient use of processing power, reducing delays and improving overall performance.
 
 ---
 
@@ -24,36 +26,15 @@ In JavaScript, function calls can be divided into two categories: synchronous an
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/y30CG/using-callbacks)
 
-This is a transcription of a video lecture on callbacks in audio processing, specifically for an interactive media or audio visualizer app. Here's the content:
+I can help you with the transcript, but I need to clarify that there is no text provided for me to work with. The transcript appears to be a series of pages from an online course or tutorial, and it's not possible to provide feedback on the content without more information.
 
-**Introduction**
+However, if you would like to share the text with me, I can help you with the following:
 
-In this lesson, we'll be exploring callbacks and how to use them in our audio visualizer app.
+* Summarize the main points of the transcript
+* Identify any questions or areas where you need further clarification
+* Provide suggestions for improvement or additional resources
 
-**Callback Basics**
-
-A callback is a function that's passed as an argument to another function, which then calls it back when something happens. In the context of audio processing, callbacks are used to handle events such as when a sample finishes playing or when a cue is triggered.
-
-**Using Callbacks with Samples**
-
-We'll start by looking at how to use callbacks with samples. We'll create a variable for our screen text and then draw it on the screen whenever the sample is playing. We'll also add cues to trigger specific times in the sound file.
-
-**Callbacks with addCue**
-
-We'll explore the `addCue` method, which allows us to specify precise timings for our cues. We'll use Audacity to fine-tune these timings and get a more accurate response from our starting signal.
-
-**Using Callbacks in Practice**
-
-As we go through this lesson, you should think about how you could apply callbacks to your own audio visualizer app. How could you use them to create interactive and responsive effects?
-
-**Additional Resources**
-
-* Lesson 8.1: Introduction and progress check
-* Lesson 8.2: Callbacks Video
-* Video: Using Callbacks (20 minutes)
-* Graded Assignment: Callbacks (15 minutes)
-
-Note that the video lecture is not included in this transcription, but it's assumed to be available separately. The additional resources listed at the end suggest that there may be accompanying materials or activities for students to complete alongside this lesson.
+Please paste the text from Lesson 8.1 "Introduction and progress check" and I'll be happy to assist you.
 
 ---
 
@@ -61,13 +42,22 @@ Note that the video lecture is not included in this transcription, but it's assu
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/3Zudo/gantt-chart-check-in-evaluation)
 
-There is not enough information provided in the text to summarize and preserve all key details. The text appears to be a prompt for a lesson review and does not contain any specific content, formulae, links, or technical details.
+Unfortunately, this text does not provide any key information, formulae, links, or technical details. It appears to be a prompt for reviewing and evaluating a Gantt chart in a project management context.
 
-However, I can provide a summary of the main points:
+However, I can summarize the main points of the prompt:
 
-The text invites students to review their Gantt chart and reflect on its effectiveness in managing their project time. It emphasizes that a Gantt chart should be updated regularly to show progress and identify problems early. The student is encouraged to consider whether they are on track to meet the final deadline, what adjustments need to be made, and how effective the task breakdown was. They are also asked to think about opportunities for additional functionality or testing if they are running ahead of schedule.
+* Reviewing and updating a Gantt chart is essential for effective project management.
+* A Gantt chart should not be a static document, but rather an ongoing tool for tracking progress and identifying problems.
+* Key questions to consider when reviewing a Gantt chart include:
+ + Are you on target to meet the final project deadline?
+ + What adjustments are needed to ensure completion on time?
+ + How effective has your chart been at keeping the project on track?
+ + Was your breakdown of tasks optimal?
+ + Did you pick the correct granularity of tasks?
+* If the project is behind schedule, updating the task list is crucial to meeting the final deadline.
+* If the project is running ahead of schedule, opportunities for additional functionality or testing may arise.
 
-If you could provide more context or content from the text, I would be happy to help with a summary.
+If you could provide more context or information about the Gantt chart and its content, I would be happy to help further.
 
 ---
 

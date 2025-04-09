@@ -2,36 +2,19 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/2mNU0/assessing-the-environmental-impact-of-computing-at-scale)
 
-This is a transcript of a video lecture on the environmental impact of website design and usage. The lecturer discusses the topic of computing at scale and how it affects the environment. Here's a breakdown of the main points covered in the lecture:
+This is a transcript of a video lecture on the environmental impact of website usage and design. The lecturer discusses how websites can be designed to minimize their energy consumption, using tools such as Chrome's profiler to analyze CPU usage and identify areas for improvement.
 
-**Introduction to Environmental Impact**
+The lecturer explains that even small changes in website design or behavior can have significant environmental impacts. They use an example where a webpage is parsed using JavaScript for 60 milliseconds on a 4-watt CPU, which results in approximately 0.78 kilowatt-hours of energy consumption. This is equivalent to the energy needed to power about one light bulb.
 
-The lecturer introduces the concept of environmental impact and its relevance to website design and usage.
+The lecturer also notes that if this process were repeated a billion times (e.g., by having one billion people perform this task), the total energy consumption would be around 780 kilowatt-hours, which is still relatively small compared to other sources of energy.
 
-**Chrome Profiler Tool**
+Overall, the lecture aims to raise awareness about the environmental impact of website usage and design, and provide practical suggestions for minimizing energy consumption in web development.
 
-The lecturer explains the Chrome Profiler tool, which is used to examine the amount of CPU usage that different elements of a website use. The tool helps identify areas of the website where energy can be saved by optimizing performance.
+Some key takeaways from this transcript include:
 
-**Environmental Impact of Computing at Scale**
+* The importance of analyzing CPU usage and identifying areas for improvement in website design
+* The relatively small environmental impact of even small changes in website behavior or design
+* The potential for collective action to minimize the environmental impact of computing at scale
 
-The lecturer discusses the environmental impact of computing at scale and how it affects the planet. They explain that computing power is increasing exponentially, but the amount of energy used to power these computers is not keeping pace with this growth.
-
-**Calculating Kilowatt Hours**
-
-The lecturer performs a rough calculation to estimate the kilowatt hours of energy used by a website. They use the example of rendering HTML parsing with JavaScript and calculate that it uses approximately 0.78 kilowatt hours if a billion people were to perform the same action.
-
-**Conclusion**
-
-The lecturer concludes that even if a website is doing something computationally intensive, such as rendering web pages, it still doesn't amount to a huge amount of energy usage. This suggests that small changes in website design and optimization can have a significant impact on reducing energy consumption.
-
-**Practice Assignments and Video Topics**
-
-The lecture includes practice assignments and video topics for students to complete:
-
-* Practice Assignment: Environmental Impact of Computing at Scale
-* Reading Activity – Lab: Timing HTML Parsing with JavaScript
-* Website Render Speeds
-* Video Topic 2 Summary
-
-Overall, the lecturer provides a comprehensive overview of the environmental impact of website design and usage, and offers practical tips and tools for reducing energy consumption in web development.
+This transcript can be used as a resource for learning about the environmental impact of website usage and design, and for discussing ways to minimize energy consumption in web development.
 

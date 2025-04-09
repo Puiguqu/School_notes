@@ -2,25 +2,26 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/7Zfc7/examples-of-current-template-engines)
 
-Here is the text with the extra pages removed:
+This transcript appears to be a video or audio recording of a lesson on template engines, specifically reviewing existing template engines and comparing them to a custom-made one.
 
-## END TRANSCRIPT ##
+The speaker reviews several template engines, including:
 
-**Lesson 12.1 Using a ready-made template engine**
+1. Handlebars
+2. Mustache
+3. EJS (Embedded JavaScript)
+4. Pug
+5. React
 
-Video: Video
-Topic 6 Week 2 introduction 
-Duration: 43 seconds 
+They discuss the syntax, features, and capabilities of each engine, highlighting differences between server-side and client-side templates, as well as varying levels of complexity.
 
-Video: Video Examples of current template engines 
-Duration: 10 minutes 
+The speaker also creates a table comparing the different template engines, including:
 
-Practice Assignment: Template engine examples 
-Duration: 9 minutes 
+* Logic handling
+* Extending with extra functions
+* Partial templates
+* Inheritance of templates
 
-Reading: Reading Activity – Working with a ready-made template engine 
-Duration: 2 hours 
+They conclude by discussing which template engine is the most intuitive, but unfortunately don't provide an answer to this question in the transcript.
 
-Discussion Prompt: Which template engine is the most intuitive? 
-Duration: 30 minutes
+Throughout the video, the speaker mentions that their custom-made template engine has some unique features not found in existing engines.
 

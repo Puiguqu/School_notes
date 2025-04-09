@@ -2,36 +2,24 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/JahS6/css-grids)
 
-Based on the provided transcript, here is a summary of the lesson:
+The video on Introduction to CSS covers the basics of Cascading Style Sheets, including selectors, properties, values, units, inheritance, and box models.
 
-**Lesson Topic:** Introduction to CSS Grids
+Here is a summary of the key points covered in the video:
 
-**Summary:**
+1. **Selectors**: A selector is used to target an element in an HTML document. Examples include class selectors, ID selectors, tag selectors, attribute selectors.
+2. **Properties**: A property is used to specify a value for a style rule. Examples include color, font-size, background-color.
+3. **Values**: A value is the actual content of a property. For example, in the color property, "red" is the value.
+4. **Units**: Units are used to measure the size and length of elements. Examples include px (pixels), em, rem.
+5. **Inheritance**: Inheritance allows properties to be inherited from parent elements. This means that if a child element has the same style as its parent, the child element will inherit those styles.
+6. **Box model**: The box model is a fundamental concept in CSS. It describes an element as a rectangular box with four sides (top, right, bottom, left), and three dimensions (width, height, margin).
 
-The lesson introduces the concept of CSS Grids, which allows for more complex and flexible layouts compared to traditional CSS methods.
+The video also covers some common pitfalls to avoid when working with CSS, such as:
 
-**Key Concepts:**
+* Using the wrong unit of measurement
+* Not specifying a value for a property
+* Not considering inheritance when writing styles
 
-1. **CSS Grid**: A new layout mode in CSS that allows for more efficient and flexible grid-based design.
-2. **Grid Display Property**: The display property is used to activate grids in browsers.
-3. **Grid Inspector**: A tool in Firefox's DevTools that allows developers to inspect and manipulate grid layouts.
+Overall, the video provides a solid introduction to the basics of CSS and sets the stage for more advanced topics in later lessons.
 
-**Key Skills:**
-
-1. **Defining Grid Columns**: Using the `grid-column` property to define the number of columns in a grid.
-2. **Controlling Row Height**: Using the `grid-row` property to control the height of rows in a grid.
-3. **Positioning Elements**: Using the `grid-column` and `grid-row` properties to position elements within a grid.
-
-**Practical Exercises:**
-
-1. **Creating a Simple Grid Layout**
-2. **Experimenting with Row Heights**
-3. **Moving Elements around the Grid**
-
-The lesson concludes by highlighting the benefits of CSS Grids, including their flexibility and ease of use compared to traditional CSS methods.
-
-**Additional Content:**
-
-* The lesson includes additional content, such as practice assignments, reading activities, and videos that provide further guidance and support for learners.
-* The transcript also mentions other topics, such as responsive CSS and CSS frameworks, which are covered in subsequent lessons.
+The practice assignment requires students to review the concepts covered in the video and apply them to a simple HTML document. The reading assignment provides additional resources for students to learn more about CSS, including model answers and resources for further study.
 

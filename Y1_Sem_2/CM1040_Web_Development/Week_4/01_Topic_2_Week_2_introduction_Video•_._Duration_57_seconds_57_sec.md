@@ -2,7 +2,7 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/j5Wix/topic-2-week-2-introduction)
 
-There is no text provided to summarize. The given text appears to be a video transcript and additional page content for a lesson on web development, specifically addressing environmental impact and markup parsing algorithms. However, it does not contain any specific information or technical details that could be summarized.
+There is no text to summarize. The provided text appears to be a video transcript and lesson plan for an online course, but it does not contain any substantive content or technical information about markup parsing or environmental impact of computing at scale.
 
-If you provide the actual text, I'd be happy to help you summarize it in 8 sentences while preserving key information, formulae, links, and technical details.
+If you provide the actual text you would like me to summarize, I will be happy to assist you in condensing the key points into 8 sentences while preserving important concepts, formulae, links, and technical details.
 

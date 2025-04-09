@@ -2,23 +2,25 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-web-development/lecture/1izIF/the-user-data-lifecycle)
 
-This text appears to be a transcript of a video lesson on the topic of user data lifecycle, specifically focusing on the ethical issues surrounding data collection, storage, processing, monitoring, and deletion. The video covers various aspects of the data lifecycle, including:
+This appears to be a transcript of a video lecture on the lifecycle of user data on the web, covering topics such as data collection, storage, processing, monitoring, usage, archival, and deletion. The lecture covers various stages of the user data lifecycle, including:
 
-1. Data flow: Gathering, storing, processing, monitoring, using, and archiving/deleting user data.
-2. Regulatory frameworks: Interacting with data models to ensure compliance with laws and regulations.
-3. Security: Ensuring secure data storage, processing, and monitoring.
-4. User consent: Obtaining consent from users for data collection, use, and deletion.
-5. Data protection: Protecting user data from unauthorized access, breaches, and manipulation.
+1. Data collection
+2. Secure data storage
+3. Data processing
+4. Monitoring and security
+5. Regulatory frameworks
+6. Archival and deletion
 
-The video lesson includes a diagram illustrating the different stages of the data lifecycle, as well as various best practices for managing user data, such as:
+The lecturer provides an overview of each stage and explains how they interact with one another.
 
-* Regularly reviewing and updating data storage procedures
-* Implementing robust security measures to protect user data
-* Ensuring transparency about data collection and use practices
-* Providing users with control over their own data
-* Adhering to regulatory frameworks and standards
+Key points covered in the lecture include:
 
-The lesson concludes by emphasizing the importance of ethical considerations in managing user data, including respecting user privacy, obtaining informed consent, and ensuring accountability for data handling practices.
+* The importance of secure data storage to protect user data from unauthorized access.
+* The need for regulatory frameworks to ensure compliance with data protection laws.
+* The role of monitoring and security in detecting and preventing data breaches.
+* The concept of "right to be forgotten" and how it relates to user data deletion.
 
-Overall, this video lesson aims to educate viewers on the complexities of user data lifecycle management, highlighting both technical and ethical aspects of collecting, storing, processing, monitoring, and deleting user data.
+The lecture also touches on the technical aspects of web technology, highlighting the challenges of complying with multiple regulations across different platforms.
+
+Overall, this video lecture provides a comprehensive overview of the lifecycle of user data on the web, covering both technical and non-technical aspects of data management.
 

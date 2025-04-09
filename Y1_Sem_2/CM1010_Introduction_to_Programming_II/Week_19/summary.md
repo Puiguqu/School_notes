@@ -4,15 +4,11 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/g30Sm/introduction-and-progress-check)
 
-There is no text to summarize beyond this point. The provided text appears to be a video transcript and additional page content for a lesson on "Testing with Users" as part of a programming course, specifically CM1010 Introduction to Programming II. It provides instructions on how to navigate through the transcript using keyboard shortcuts and mentions the importance of testing techniques and usability testing in software development.
+Unfortunately, the provided text is not a coherent article or passage that contains information about a specific topic or concept. The text appears to be a transcript of an introductory message for a video tutorial or online course.
 
-However, I can provide some key concepts and findings related to user testing and usability:
+The text does mention the completion of a module and the final topics, which suggests that it may be related to an educational program or course on programming or software development. However, there is no concrete information about specific concepts, formulae, links, or technical details.
 
-* User testing involves evaluating an application or software with real users to identify usability issues and gather feedback.
-* Usability testing aims to ensure that an application meets the needs and expectations of its target audience.
-* Testing techniques for complex elements of a project include identifying pain points, gathering feedback from users, and refining the design based on user input.
-
-If you provide more context or specify which aspects of the text you would like me to focus on, I can attempt to provide further assistance.
+If you could provide more context or clarify what specifically you would like me to summarize, I'd be happy to try and assist you further.
 
 ---
 
@@ -20,9 +16,9 @@ If you provide more context or specify which aspects of the text you would like 
 
 [Original lesson](https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/BhG4p/usability-testing)
 
-Here is a summary of the text in 8 sentences, preserving key information and technical details:
+Here is a summary of the text in 8 sentences, preserving key information, formulae, links, and technical details:
 
-Usability testing is crucial to ensure an application's effectiveness in achieving human goals, such as facilitating creative or logical thought processes. The goal of user testing is to collect data on users' behavior with the application, gathering both qualitative and quantitative data. A common technique for generating nuanced qualitative data is the think-aloud protocol, where users are asked to verbalize their thoughts while interacting with the application. Another approach is to conduct interviews with participants after they complete tasks to gather feedback about their experiences. When planning a user test, it's essential to consider the target audience and design a structured process to ensure consistency between different users of the application. The structure should include clear steps for users to follow, introducing them to the application and utilizing as much of its functionality as possible. To analyze data, look for convergence between users who have had similar problems, and compare task completion times to identify bottlenecks in the application's design. By conducting usability testing and analyzing the collected data, it's possible to determine areas for improvement and evaluate the success of an application in achieving human goals.
+Usability testing is crucial to ensure an application's functionality is accessible and user-friendly. It involves employing various test processes to uncover usability issues, such as visibility of controls, task order, and cognitive processing interference. The object of a successful user test is to collect data on users' behavior with the application, including quantitative metrics like completion time, errors made, and satisfaction levels. Qualitative techniques like the think-aloud protocol and interview sessions can provide more nuanced insights into users' experiences and frustrations. When designing a user test, it's essential to determine the number of users needed and their demographics, as a small group of representative users can uncover most usability issues. The test should have a structured format with clear steps for users to follow, taking into account factors like device usage and layout preferences. Analysis of collected data involves identifying convergence among users, comparing task completion times, and making evaluative judgments on the application's effectiveness. Finally, it's essential to write about user testing findings in the report, including any improvements suggested, user responses, and appended data for further analysis.
 
 ---
 
@@ -32,7 +28,7 @@ Usability testing is crucial to ensure an application's effectiveness in achievi
 
 Here is a summary of the text in 8 sentences, preserving key information and technical details:
 
-The report section of your final project submission should provide a technical summary of what you've achieved, how effectively your plan was implemented, and a critical evaluation of the process. The report will consist of four questions: (1) modifications and extensions to templates, (2) an assessment of the effectiveness of your plan, (3) an evaluation of your project's final product, and (4) external sources used in your project. For each extension, you should include its functionality, how it was implemented, and how object-oriented programming techniques were used. When evaluating your project's effectiveness, consider whether you stuck to the schedule, divided time effectively, and performed user or system testing. The report should be well-structured, readable, and use correct English spelling and grammar. It should also include figures or images that help make your argument and upload project logs produced over the last few weeks. When referencing external sources, provide specific details and links to the projects or questions used. Using third-party libraries can have a negative effect on your work; instead, demonstrate your coding skills by creating an end result from scratch.
+The report section of your final project submission should provide a technical summary of what you've achieved, how effectively your plan was implemented, and a critical evaluation of the process. The report consists of four questions that can be input on the Coursera platform, with a word limit of around 400 words for the first question. For this section, students are asked to list any modifications and extensions they made to templates, including their functionality, design, and code structure. The second question assesses how effective your plan was in completing the project, considering whether you stuck to the schedule, managed time effectively, and identified challenges. The third question asks for an evaluation of the final product, requiring students to reflect on what they might do differently next time, consider user or system testing results, and identify potential improvements. The fourth question is an opportunity for students to list any external sources used in their project, including code from other languages or online resources like Stack Overflow or library documentation. It's essential to provide specific details and avoid using third-party libraries that might affect the quality of work. A well-structured report with correct English spelling, grammar, and tone is crucial, as is the inclusion of figures and images to support arguments.
 
 ---
 

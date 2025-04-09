@@ -2,46 +2,13 @@
 
 [Original lesson](https://www.coursera.org/learn/uol-algorithms-and-data-structures-1/lecture/IBVE3/introduction-to-loops-in-pseudocode)
 
-This is a transcript of an educational video on pseudocode and iteration, specifically on using for loops and while loops to solve problems. Here's a summary of the key points:
+This text is a transcript of a video lecture on the topic of iteration in pseudocode. The lecturer discusses the importance of understanding loops in programming and provides examples of how to use for loops and while loops to solve problems.
 
-**Introduction to Loops in Pseudocode**
+The lecture begins by explaining that there are different types of iterations, including for loops and while loops. It then proceeds to discuss the benefits of using each type of loop, such as the simplicity of while loops versus the readability of for loops.
 
-The instructor introduces the concept of loops in pseudocode, explaining that there are two main types of loops: for loops and while loops.
+The lecturer also provides examples of how to use iteration in pseudocode, including calculating the square root of a number and determining whether a number is an integer. The lecture uses pseudocode examples to illustrate how to use iteration to solve problems, rather than providing actual code.
 
-**For Loops**
+One of the key takeaways from this lesson is that knowing which type of loop to use can make a big difference in terms of writing simple and elegant pseudocode. The lecturer emphasizes that completely on their own, students should practice using iteration in pseudocode, including revisiting the Euclidean algorithm for finding the greatest common divisor.
 
-The instructor uses a problem example, finding out if x-squared is equal to 2 has an integer solution. They provide a pseudocode solution using a for loop:
-
-* Function x_integer(n)
-	+ Initialize y to false
-	+ For i from 1 to n
-		- If i squared equals n
-			- Assign true to y
-		- Otherwise, increment i
-	+ Return y
-
-**While Loops**
-
-The instructor also provides an alternative solution using a while loop:
-
-* Function x_integer(n)
-	+ Initialize y to false
-	+ Initialize i to 1
-	+ While i squared is less than or equal to n
-		- If i squared equals n
-			- Assign true to y
-		- Otherwise, increment i
-	+ Return y
-
-The instructor emphasizes that the choice between for loops and while loops depends on the specific problem and personal preference.
-
-**Additional Materials**
-
-The instructor provides additional materials:
-
-* Reading: "Reading Pseudocode"
-* Practice Assignment: "Iteration in pseudocode"
-* Discussion Prompt: "Translate pseudocode into another language"
-
-Note: The video transcript includes a timestamp for each section, which is not included here.
+Overall, this lecture provides an introduction to loops in pseudocode, highlighting the importance of understanding iteration in programming and providing examples of how to use different types of loops to solve problems.
 

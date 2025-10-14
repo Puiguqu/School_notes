@@ -1,0 +1,17 @@
+# Topic 4 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/ojRjN/topic-4-summary
+
+There seems to be a formatting error in the text provided, which does not contain any information that can be summarized into 25 sentences.
+
+The text appears to be a self-evaluation worksheet with instructions on how to use it to reflect on learning and create an action plan. It mentions two topics related to HTML forms:
+
+1. Creating forms using HTML
+2. Collecting form data when the request method is GET (req.query) or POST (req.body)
+
+However, there is no specific information or formulas provided in the text to summarize.
+
+If you could provide more context or information about the topic, I would be happy to help you create a summary of key concepts and findings.

@@ -1,0 +1,37 @@
+# C++ is strongly typed
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/OfZh5/c-is-strongly-typed
+
+The provided text is an outline of a course on C++ programming, focusing on modeling data and writing algorithms. It includes topics such as:
+
+1. Introduction to classes
+2. Defining constructors and object initialization
+3. File I/O, exception handling, and algorithms
+4. Writing an algorithm: taking orders and the order matching engine
+5. Object interactions: wallet class
+6. Introducing the DJ application and the JUCE toolkit
+7. Event-driven programming and inheritance
+8. Refactoring and class design
+9. Initialiser lists, constructors, and threads
+
+Some specific topics within these areas include:
+
+* Representing numerical data with variables
+* Using an enum to represent bid/ask values
+* Modelling multiple order book entries using a vector
+* Creating classes for file I/O, exception handling, and algorithms (CSVReader)
+* Writing an algorithm: taking orders and creating an order matching engine
+* Defining a wallet class for object interactions
+* Introducing the DJ application and JUCE toolkit
+* Implementing event-driven programming and inheritance with buttons, sliders, and audio
+
+The course also covers advanced topics such as:
+
+* Initialiser lists and constructors
+* Advanced class design using TableListBox and TableListBoxModel
+* Refactoring code to improve class design and performance
+
+Throughout the course, students will work on assignments and projects, including creating a vector of objects, implementing an order matching engine, and writing algorithms for file I/O and exception handling.

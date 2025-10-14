@@ -1,0 +1,36 @@
+# Accessing the database from Node
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/bpdbd/accessing-the-database-from-node
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The goal of this tutorial is to understand how to connect a Node.js application to a database and display data on a web page.
+2. To achieve this, the first step is to install the mysql2 library using npm install mysql2.
+3. This library provides functions that allow performing database operations directly from within the Node.js application.
+4. The next step is to import the library in index.js using the require command.
+5. The createConnection function of MySQL is used to connect the Node.js application to the database.
+6. The first thing to specify when connecting to the database is the host computer, which is typically the IP address or network name of a computer running MySQL.
+7. In this case, MySQL is running on the same computer as the Node.js program, so the special name "localhost" is used to connect back to the same computer.
+8. Each MySQL installation can have multiple users set up, so it's necessary to authenticate a valid user to access the database.
+9. The root user has access to all databases and is often used for authentication.
+10. To avoid potential security issues with using the root user, a different user account should be created for the Node.js application.
+11. The next step is to specify which database to connect to within the MySQL instance.
+12. This can typically be done by providing the name of the database as an argument to the createConnection function.
+13. Once connected to the database, the next step is to perform a query to retrieve data from the database.
+14. In this tutorial, we're using a simple "SELECT" query to retrieve all rows from the "books" table.
+15. The result of the query is an array representing the data stored in the books table.
+16. This array is then passed to the EJS template engine to render the web page.
+17. The EJS template engine loops through the list of results and extracts the name and price from each item in the array.
+18. These values are then used to populate the HTML elements on the web page.
+19. The EGS (Expression with Groups and Statements) loop is used to iterate over the data and render it in a structured format.
+20. The next step is to insert new data into the database from within the Node.js application.
+21. This can typically be done using the insert function provided by the mysql2 library.
+22. Once inserted, the new data should be verified to ensure that it was successfully written to the database.
+23. The final step in this tutorial is to search for existing data within the database using a query.
+24. In this case, we're searching for books with a specific price range.
+25. The result of the search is then used to populate the HTML elements on the web page.
+
+Note: I've omitted some details and technicalities to keep the summary concise and focused on the main points of the text.

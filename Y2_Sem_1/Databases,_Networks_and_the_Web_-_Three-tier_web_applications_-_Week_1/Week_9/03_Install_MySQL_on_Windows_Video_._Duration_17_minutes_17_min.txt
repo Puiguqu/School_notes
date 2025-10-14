@@ -1,0 +1,58 @@
+# Install MySQL on Windows
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/npYRI/install-mysql-on-windows
+
+This is an interactive transcript of a video on installing and configuring MySQL on a Windows machine. The transcript outlines the steps to install and set up MySQL on a Windows machine, including downloading the installer and configuring the server.
+
+**Step 1: Downloading the Installer**
+
+* Press Escape to enable basic transcript mode.
+* Navigate to the MySQL download page using tab.
+* Click on the "Download" button to start the download process.
+
+**Step 2: Running the Installer**
+
+* Run the downloaded installer file using double-click.
+* Select the language and accept the license agreement.
+* Choose the installation type (e.g., "Install only") or select the components to install.
+
+**Step 3: Configuring the Server**
+
+* Follow the prompts to configure the MySQL server settings, including:
+	+ Host IP address
+	+ Port number
+	+ User account
+	+ Password
+
+**Step 4: Connecting to the Database**
+
+* Use one of three methods to connect to the database:
+	1. Workbench (visual interface)
+	2. Shell (command-line interface)
+	3. Classic client (text-based interface)
+
+Each method is demonstrated in a separate section of the transcript.
+
+**Method 1: Using the Workbench**
+
+* Run the Workbench application.
+* Connect to the MySQL server using the host IP address, port number, and user account.
+* Use the GUI interface to manage the database.
+
+**Method 2: Using the Shell**
+
+* Open a command prompt or terminal window.
+* Run the `mysql` command with the `-u` option to specify the user account and `-p` option to enter the password.
+* Execute SQL commands to interact with the database.
+
+**Method 3: Using the Classic Client**
+
+* Open a text editor (e.g., Notepad).
+* Copy the MySQL connection string into the editor.
+* Run the `mysql` command with the `-u` option and `-p` option, followed by the connection string.
+* Execute SQL commands to interact with the database.
+
+The transcript concludes by summarizing the key takeaways from the video and providing additional resources for further learning.

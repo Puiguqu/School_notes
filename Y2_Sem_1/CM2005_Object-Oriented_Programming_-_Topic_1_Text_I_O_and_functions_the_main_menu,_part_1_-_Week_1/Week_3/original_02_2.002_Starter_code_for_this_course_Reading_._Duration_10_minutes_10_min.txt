@@ -1,0 +1,8 @@
+# 2.002 Starter code for this course
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/TDC7j/2-002-starter-code-for-this-course
+
+Below you will find a link to the starter code for this course. If you completed the previous course of this specialisation, you will find all of your work inside the Visual Studio Code virtual lab environment in this course. Otherwise, you can download the starter code and use it in the upcoming Visual Studio Code virtual lab environment activity. Simply drag the downloaded files from your computer to the Coursera lab virtual environment to upload any work. This code might also provide a reference if you want to check your implementation. merklerex_start_topic_2-20220427 ZIP File 2.002 Starter code for this course Below you will find a link to the starter code for this course. If you completed the previous course of this specialisation, you will find all of your work inside the Visual Studio Code virtual lab environment in this course. Otherwise, you can download the starter code and use it in the upcoming Visual Studio Code virtual lab environment activity. Simply drag the downloaded files from your computer to the Coursera lab virtual environment to upload any work. This code might also provide a reference if you want to check your implementation. merklerex_start_topic_2-20220427 ZIP File Mark as completed Dislike Report an issue

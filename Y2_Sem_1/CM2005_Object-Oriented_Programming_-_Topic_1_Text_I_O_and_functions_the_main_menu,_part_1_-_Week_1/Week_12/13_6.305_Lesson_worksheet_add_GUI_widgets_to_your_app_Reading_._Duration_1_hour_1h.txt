@@ -1,0 +1,8 @@
+# 6.305 Lesson worksheet: add GUI widgets to your app
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/l6UDz/6-305-lesson-worksheet-add-gui-widgets-to-your-app
+
+Please find below the worksheet for this lesson. 6305_add_gui_widgets_to_JUCE_app.md-20200416.pdf PDF File 6.305 Lesson worksheet: add GUI widgets to your app Please find below the worksheet for this lesson. 6305_add_gui_widgets_to_JUCE_app.md-20200416.pdf PDF File Mark as completed Dislike Report an issue

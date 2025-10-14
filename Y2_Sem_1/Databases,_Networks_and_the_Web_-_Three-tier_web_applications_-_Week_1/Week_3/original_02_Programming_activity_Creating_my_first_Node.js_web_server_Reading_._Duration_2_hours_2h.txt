@@ -1,0 +1,8 @@
+# Programming activity: Creating my first Node.js web server
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/F2uOm/programming-activity-creating-my-first-node-js-web-server
+
+Please download the following PDF and follow the instructions for this lab activity: 02_Creating-my-first-Node.js-web-server.pdf PDF File Programming activity: Creating my first Node.js web server Please download the following PDF and follow the instructions for this lab activity: 02_Creating-my-first-Node.js-web-server.pdf PDF File Mark as completed Dislike Report an issue

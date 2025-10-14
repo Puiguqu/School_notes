@@ -1,0 +1,8 @@
+# Programming activity: Adding forms to your Express server
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/bW9Y8/programming-activity-adding-forms-to-your-express-server
+
+In this lab activity you will explore how to add forms to your Express web application. Please download the following PDF and follow the instructions for this lab activity: 08_Adding-forms-to-your-express-server.pdf PDF File Programming activity: Adding forms to your Express server In this lab activity you will explore how to add forms to your Express web application. Please download the following PDF and follow the instructions for this lab activity: 08_Adding-forms-to-your-express-server.pdf PDF File Mark as completed Dislike Report an issue

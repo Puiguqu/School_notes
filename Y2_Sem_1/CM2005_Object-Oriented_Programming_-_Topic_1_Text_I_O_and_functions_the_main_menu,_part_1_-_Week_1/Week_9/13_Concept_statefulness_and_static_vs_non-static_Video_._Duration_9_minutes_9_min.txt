@@ -1,0 +1,104 @@
+# Concept: statefulness and static vs non-static
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/G8XiO/concept-statefulness-and-static-vs-non-static
+
+The topic of statefulness and static vs non-static is introduced. 
+
+**Statefulness**
+
+In object-oriented programming, an object's state refers to its internal variables or attributes that define its behavior and properties. The state of an object can be thought of as a snapshot of its current values at a particular point in time.
+
+For example, consider a `Wallet` class with a variable `cash`. When you create a new `Wallet`, it has an initial value for `cash`. As you add or remove money from the wallet, the `cash` variable changes. This means that the state of the wallet object is changing over time.
+
+**Static vs Non-Static**
+
+In programming, there are two main types of variables: static and non-static.
+
+*   **Non-Static Variables**: These are variables that are defined inside a class but are not tied to any specific instance of the class. Each instance of the class has its own copy of the variable.
+*   **Static Variables**: These are variables that are shared by all instances of a class. When you create multiple instances of a class, they all share the same static variable.
+
+In the context of statefulness and object-oriented programming, non-static variables are typically used to store an object's internal state, while static variables can be used to store class-wide data or constants.
+
+**Static vs Non-Static in the Context of the Wallet Class**
+
+Consider the `Wallet` class again. The `cash` variable is a non-static variable because each instance of the class has its own copy of it. This means that when you create multiple wallets, they will all have their own separate values for `cash`.
+
+On the other hand, static variables can be used to store data that is common to all instances of the class. For example, you might use a static variable to store the total amount of money in all wallets.
+
+**Conclusion**
+
+In object-oriented programming, an object's state refers to its internal variables or attributes that define its behavior and properties. Non-static variables are typically used to store an object's internal state, while static variables can be used to store class-wide data or constants. Understanding the difference between static and non-static variables is essential for designing and implementing effective object-oriented programs.
+
+The following is a sample code snippet in C++ that demonstrates how to use static and non-static variables:
+
+```cpp
+class Wallet {
+public:
+    int cash;
+
+    Wallet(int amount) : cash(amount) {}
+
+    void deposit(int amount) {
+        cash += amount;
+    }
+
+    int getBalance() const {
+        return cash;
+    }
+};
+
+int main() {
+    // Create multiple wallets with the same initial balance
+    Wallet wallet1(100);
+    Wallet wallet2(200);
+
+    // Deposit money into each wallet
+    wallet1.deposit(50);
+    wallet2.deposit(75);
+
+    // Print the balances of each wallet
+    std::cout << "Wallet 1 balance: " << wallet1.getBalance() << std::endl;
+    std::cout << "Wallet 2 balance: " << wallet2.getBalance() << std::endl;
+
+    return 0;
+}
+```
+
+In this example, the `cash` variable is a non-static variable that each instance of the `Wallet` class has its own copy of. The `main` function creates multiple wallets with the same initial balance and deposits money into each wallet, demonstrating how the state of an object changes over time.
+
+However, if you want to store data that is common to all instances of the class, you can use a static variable:
+
+```cpp
+class Wallet {
+public:
+    int cash;
+    static int totalBalance;
+
+    Wallet(int amount) : cash(amount), totalBalance(totalBalance + amount) {}
+
+private:
+    static int totalBalance;
+};
+
+int Wallet::totalBalance = 0;
+
+int main() {
+    // Create multiple wallets with the same initial balance
+    Wallet wallet1(100);
+    Wallet wallet2(200);
+
+    // Print the balances of each wallet and the total balance
+    std::cout << "Wallet 1 balance: " << wallet1.cash << std::endl;
+    std::cout << "Wallet 2 balance: " << wallet2.cash << std::endl;
+    std::cout << "Total balance: " << Wallet::totalBalance << std::endl;
+
+    return 0;
+}
+```
+
+In this example, the `totalBalance` variable is a static variable that stores the total amount of money in all wallets. When you create multiple wallets and deposit money into each one, the `totalBalance` variable gets updated accordingly.
+
+I hope this helps clarify things! Let me know if you have any questions or need further clarification.

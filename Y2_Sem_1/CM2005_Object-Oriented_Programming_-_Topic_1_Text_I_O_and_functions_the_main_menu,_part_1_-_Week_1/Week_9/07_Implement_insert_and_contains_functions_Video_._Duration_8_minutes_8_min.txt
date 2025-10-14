@@ -1,0 +1,45 @@
+# Implement insert and contains functions
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/PIFgn/implement-insert-and-contains-functions
+
+Here is a written explanation of the code snippet:
+```
+class Wallet {
+public:
+    // Constructor
+    Wallet() : cash(0) {}
+
+    // Insert function
+    void insert(double amount) {
+        cash += amount;
+    }
+
+    // Contains function
+    bool contains(double amount) {
+        return cash >= amount;
+    }
+
+    // GetCash function
+    double getCash() const {
+        return cash;
+    }
+
+private:
+    double cash; // Total amount of money in the wallet
+};
+```
+Explanation:
+
+This is a C++ class definition for a `Wallet` that represents a person's wallet. The class has three member functions: `insert`, `contains`, and `getCash`.
+
+*   The constructor initializes the `cash` variable to 0.
+*   The `insert` function adds a specified amount of money (`amount`) to the total cash in the wallet.
+*   The `contains` function checks if the wallet contains at least a certain amount of money. It returns true if the wallet has enough cash, and false otherwise.
+*   The `getCash` function returns the current total amount of money in the wallet.
+
+The `cash` variable is a private member variable that stores the total amount of money in the wallet. This means it can only be accessed within the class itself, not from outside the class.
+
+Note: I corrected the comment " How much cash do we need for bids and asks? " as per 5.110 Print and remove functions section

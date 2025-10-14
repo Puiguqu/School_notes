@@ -1,0 +1,8 @@
+# Install MySQL locally
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/HlWSv/install-mysql-locally
+
+In the next module activities, you will learn how to use MySQL to store your application data. There are different ways to install MySQL. The following link covers the easiest methods for installing and starting MySQL on different platforms: MySQL ‘ Chapter 2: Installing MySQL ’ (2025). Please follow the official instructions and report any issues you encounter during the installation process in the discussion prompt at the end of the lesson. If this link is broken, please let us know via the Student Portal . Install MySQL locally In the next module activities, you will learn how to use MySQL to store your application data. There are different ways to install MySQL. The following link covers the easiest methods for installing and starting MySQL on different platforms: MySQL ‘ Chapter 2: Installing MySQL ’ (2025). Please follow the official instructions and report any issues you encounter during the installation process in the discussion prompt at the end of the lesson. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

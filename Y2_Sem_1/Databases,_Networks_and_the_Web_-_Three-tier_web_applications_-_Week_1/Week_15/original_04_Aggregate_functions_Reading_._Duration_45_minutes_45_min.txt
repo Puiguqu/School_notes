@@ -1,0 +1,8 @@
+# Aggregate functions
+Reading•
+. Duration: 45 minutes
+45 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/oxPIH/aggregate-functions
+
+Read more about the techniques available for aggregate functions in SQL, including the important GROUP BY clause: Elmasri and Navathe, Chapter 7, Section 7.1.7, Aggregate functions in SQL . Aggregate functions Read more about the techniques available for aggregate functions in SQL, including the important GROUP BY clause: Elmasri and Navathe, Chapter 7, Section 7.1.7, Aggregate functions in SQL . Mark as completed Dislike Report an issue

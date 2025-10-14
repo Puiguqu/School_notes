@@ -1,0 +1,8 @@
+# Programming activity: JOIN in SQL
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/ukBJl/programming-activity-join-in-sql
+
+In this lab activity you will explore how to use the ‘JOIN’ statement in your database. Please download the following PDF and follow the instructions for this lab activity: 20_Join-in-SQL.pdf PDF File Programming activity: JOIN in SQL In this lab activity you will explore how to use the ‘JOIN’ statement in your database. Please download the following PDF and follow the instructions for this lab activity: 20_Join-in-SQL.pdf PDF File Mark as completed Dislike Report an issue

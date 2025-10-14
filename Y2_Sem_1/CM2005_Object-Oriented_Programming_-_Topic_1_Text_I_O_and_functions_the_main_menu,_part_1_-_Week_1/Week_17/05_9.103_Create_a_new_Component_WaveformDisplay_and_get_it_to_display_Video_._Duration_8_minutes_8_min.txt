@@ -1,0 +1,126 @@
+# 9.103 Create a new Component: WaveformDisplay and get it to display
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/XPuFw/9-103-create-a-new-component-waveformdisplay-and-get-it-to-display
+
+Here's a transcript of the video:
+
+**Topic 9: Initialiser lists, constructors and threads: the WaveformDisplay class**
+
+**Intro (0:00 - 0:01)**
+
+Hi everyone, welcome back to my channel. Today we're going to be discussing initialiser lists, constructors, and threads in C++.
+
+**Reading for Topic 9 (0:02 - 10:00)**
+
+Before we start coding, let's take a look at the reading material. We have a few topics to cover, including initialiser lists, constructors, and threads. Initialiser lists are used to initialize member variables when an object is created. Constructors are special functions that are called when an object is created. Threads are used to execute code concurrently.
+
+**Plan for the WaveformDisplayComponent (10:01 - 3:00)**
+
+Our goal for today's lesson is to create a new component, the WaveformDisplayComponent. This component will display a waveform of audio data.
+
+Here's our plan:
+
+1. Create a new Component class called WaveformDisplayComponent.
+2. Use a TableListBox to display the waveform data.
+3. Implement a ChangeListener to make sure the waveform updates automatically.
+4. Draw the thumbnail.
+
+**Create a new Component: WaveformDisplay and get it to display (10:01 - 18:00)**
+
+Let's start by creating our new component class, WaveformDisplayComponent.
+
+```cpp
+#include "WaveformDisplayComponent.h"
+
+// Constructor
+WaveformDisplayComponent()
+{
+    // Initialize member variables here
+}
+
+// Destructor
+~WaveformDisplayComponent()
+{
+    // Clean up resources here
+}
+```
+
+Next, we'll implement the Draw method to draw our waveform:
+
+```cpp
+void WaveformDisplayComponent::draw(Graphics& g)
+{
+    // Get the audio data from the DJAudioPlayer
+    AudioData data = djaudioplayer.getAudioData();
+
+    // Create a TableListBox to display the waveform data
+    TableListBox tableListBox;
+
+    // Populate the TableListBox with the waveform data
+    for (int i = 0; i < data.size(); i++)
+    {
+        tableListBox.appendRow(i, data[i]);
+    }
+
+    // Draw the TableListBox on the screen
+    g.draw(tableListBox);
+}
+```
+
+**Implement a ChangeListener to make sure it draws automatically (18:01 - 30:00)**
+
+To make sure our waveform updates automatically, we'll implement a ChangeListener:
+
+```cpp
+void WaveformDisplayComponent::ChangeListener()
+{
+    // Get the audio data from the DJAudioPlayer
+    AudioData data = djaudioplayer.getAudioData();
+
+    // Update the TableListBox with the new audio data
+    tableListBox.clearRows();
+    for (int i = 0; i < data.size(); i++)
+    {
+        tableListBox.appendRow(i, data[i]);
+    }
+}
+```
+
+**Draw the thumbnail (30:01 - 36:00)**
+
+To draw the thumbnail, we'll use a function called `drawThumbnail`:
+
+```cpp
+void WaveformDisplayComponent::drawThumbnail(Graphics& g)
+{
+    // Get the audio data from the DJAudioPlayer
+    AudioData data = djaudioplayer.getAudioData();
+
+    // Create a new Rectangle to hold our waveform thumbnail
+    Rectangle rectangle;
+
+    // Draw the waveform on the screen
+    for (int i = 0; i < data.size(); i++)
+    {
+        if (data[i] > 0)
+        {
+            g.drawRectangle(rectangle, Color::black);
+        }
+        else
+        {
+            g.drawRectangle(rectangle, Color::white);
+        }
+        rectangle.move(1, 0);
+    }
+
+    // Draw the thumbnail on the screen
+    g.drawThumbnail(rectangle);
+}
+```
+
+**Conclusion (36:01 - 37:00)**
+
+And that's it for today's lesson. We've created a new component class called WaveformDisplayComponent and implemented a ChangeListener to make sure our waveform updates automatically. We've also drawn the thumbnail using a function called `drawThumbnail`. Thanks for watching!

@@ -1,0 +1,22 @@
+# 6.101 What are a library, a framework, a toolkit and an API?
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/fssKB/6-101-what-are-a-library-a-framework-a-toolkit-and-an-api
+
+The lecture is discussing the definition and explanation of four key terms: libraries, frameworks, toolkits, and APIs.
+
+**Libraries**: a set of ready-made components that provide a specific functionality or service.
+
+**Frameworks**: a more comprehensive structure than a library, providing a complete architecture for building applications, including pre-built components, interfaces, and conventions.
+
+**Toolkits**: a collection of reusable components that can be used to build applications, often with a focus on specific tasks or domains. Toolkits may include libraries, but not all toolkits are libraries.
+
+**APIs**: an interface between two pieces of software, providing a standardized way for one application to communicate with another. APIs can be thought of as libraries plus a toolkit.
+
+The lecturer emphasizes that these terms are often used interchangeably, but technically, APIs represent an interface between applications, while the other three terms represent different types of collections of pre-built components or structures.
+
+Additionally, the lecture mentions the importance of understanding the differences between these terms and how they can be applied in real-world development scenarios. It also provides examples and definitions to help students better understand each concept.
+
+The interactive transcript includes options for navigating through the text using keyboard shortcuts (e.g., tab, CTRL + S, CTRL + arrow key) or screen reader compatibility keys (e.g., H J K L).

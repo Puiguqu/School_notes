@@ -1,0 +1,31 @@
+# 7.107 Lesson worksheet: anatomy of a JUCE application
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/y0AjP/7-107-lesson-worksheet-anatomy-of-a-juce-application
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The course lesson worksheet on "Anatomy of a JUCE Application" provides an overview of the JUCE (Jules' Utility Class Extensions) framework.
+
+JUCE is a C++ class library for building audio software. The lesson covers various topics, including text I/O and functions, using classes and variables to model data, file I/O and exception handling, writing and testing algorithms, object interactions, event-driven programming and inheritance, and refactoring and class design.
+
+The course consists of 20 weeks, with each week covering a specific topic. The topics include:
+
+* Text I/O and functions (2 weeks)
+* Using classes and variables to model data (2 weeks)
+* File I/O, exception handling, and algorithms (2 weeks)
+* Writing and testing an algorithm (2 weeks)
+* Object interactions (1 week)
+* Introducing the DJ application and JUCE toolkit (2 weeks)
+* Event-driven programming and inheritance (3 weeks)
+* Refactoring and class design (3 weeks)
+
+The course includes various video lessons, practice assignments, quizzes, and a lesson worksheet. The videos provide an overview of the topics, while the practice assignments and quizzes help learners apply their knowledge.
+
+One of the key concepts in JUCE is event-driven programming, which allows for efficient communication between different components of the application. Inheritance is another important concept, as it enables code reuse and modularity.
+
+The lesson worksheet provides a comprehensive overview of the JUCE framework, including its architecture, classes, and APIs. It also covers advanced topics, such as pure virtual functions and initialiser lists.
+
+Overall, the course is designed to help learners understand the anatomy of a JUCE application and how to build audio software using the framework.

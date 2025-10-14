@@ -1,0 +1,38 @@
+# Three ways to iterate over a vector
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/VyOPG/three-ways-to-iterate-over-a-vector
+
+The instructor is explaining how to iterate over a vector in C++ using three different methods.
+
+1. **For Loop**: The first method is to use a traditional for loop.
+```
+vector<string> myVector;
+for (int i = 0; i < myVector.size(); i++) {
+    string element = myVector[i];
+    // do something with the element
+}
+```
+This method is straightforward and easy to understand, but it can be less efficient than the other methods.
+
+2. **Range-Based For Loop**: The second method is to use a range-based for loop.
+```
+vector<string> myVector;
+for (const string& element : myVector) {
+    // do something with the element
+}
+```
+This method is more concise and expressive, but it requires C++11 or later.
+
+3. **Auto Iterators**: The third method is to use auto iterators.
+```
+vector<string> myVector;
+for (auto&& element : myVector) {
+    // do something with the element
+}
+```
+This method is similar to the range-based for loop, but it provides more flexibility and can be used in older C++ versions.
+
+The instructor notes that these three methods can be used interchangeably depending on personal preference and the specific use case.

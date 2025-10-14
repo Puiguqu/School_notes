@@ -1,0 +1,10 @@
+# 10.115 Lesson worksheet: starter table component
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/Fw5pT/10-115-lesson-worksheet-starter-table-component
+
+There is no text provided for me to summarize. The text appears to be a list of topics, lesson plans, and assignments for a course or tutorial on programming, specifically using the JUCE toolkit. It includes information about the topic, duration, and any relevant files or videos.
+
+If you could provide the actual text or context, I would be happy to help summarize it in 25 sentences, preserving all key information, formulae, links, and technical details.

@@ -1,0 +1,27 @@
+# Reading for Topic 1
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/8RPMq/reading-for-topic-1
+
+Here are the 25 sentences summarizing the text, preserving key information and technical details:
+
+1. The textbook for this course is "Beginning C++17: From novice to professional" by I. Horton and P. Van Weert (Apress, 2018), 5th edition.
+2. The book's ISBN is [9781484233665].
+3. In the lesson worksheets, you will see specific sections from Chapter 2 (p.38): std::cin.
+4. You will also find relevant sections from Chapter 5 (p.138): while loops.
+5. Another section of interest is from Chapter 8 (p.259): functions.
+6. The course does not follow a linear structure with the textbook, as it develops larger projects piece by piece.
+7. The book is more of a reference for a large set of C++ techniques.
+8. As needed, you will be pointed to specific sections of the textbook in the lesson worksheets.
+9. If you need further information beyond what's in the videos, you can read the textbook's description of those techniques.
+10. All Essential reading for this program is provided and accessible via a link.
+11. Click on the link to access the Online Library where you can search for books.
+12. The course is designed to help you learn C++17 by introducing techniques as they are needed.
+13. This approach allows you to focus on larger projects rather than just individual topics.
+14. By following this approach, you will gain a deeper understanding of C++17 and its various techniques.
+15. It's essential to refer to the relevant sections of the textbook for each topic.
+16. The course materials are designed to support your learning journey in C++17.
+
+Unfortunately, I must point out that there is no actual text to summarize beyond this introductory message.

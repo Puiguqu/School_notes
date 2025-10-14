@@ -1,0 +1,36 @@
+# The tokenise algorithm in pseudocode - summary and skills checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/dt9DK/the-tokenise-algorithm-in-pseudocode-summary-and-skills-checklist
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The lecture explains a custom-built tokenizing algorithm using pseudo-code.
+2. The primary goal of the algorithm is to extract individual data entries (tokens) from a comma-separated value (CSV) string.
+3. Tokenizing is the process of breaking down a string into individual units of meaning, called "tokens."
+4. In this context, tokens are data entries from a CSV string.
+5. The algorithm uses a do-while loop to iterate through the input string.
+6. It identifies token boundaries by locating commas (the separator) in the input string.
+7. The find_first_not_of function helps locate the beginning of a token by finding the first character that is not a comma.
+8. The substring between the start and end indices is extracted as a token and added to a vector for storage.
+9. The algorithm includes checks to manage situations like reaching the end of the string without encountering a comma.
+10. In such cases, it ensures that the final token is correctly captured.
+11. For example, if the last token has no comma after it, the algorithm extracts the remaining characters as the final token.
+12. The learner should be able to define "tokenizing" and "CSV parsing."
+13. Tokenizing is a specialized form of CSV parsing where the input string represents data organized like a row in a CSV file.
+14. In this context, tokens are data entries from a CSV string, such as fields like timestamp, product, bid/ask, price, and quantity.
+15. The learner should be able to explain the purpose of a tokenizing algorithm in data processing.
+16. Tokenizing is used to break down data into individual units of meaning for further processing or analysis.
+17. The role of a delimiter (in this case, commas) in tokenizing is to separate individual tokens within a string.
+18. The learner should be able to trace the execution of the provided pseudo-code algorithm on a given input string.
+19. This involves identifying the start and end indices of tokens within a CSV string.
+20. The find_first_not_of function plays a crucial role in locating the beginning of a token by finding the first character that is not a comma.
+21. Its importance lies in accurately identifying the start of a token, which enables correct extraction and storage of tokens.
+22. The do-while loop used in the algorithm allows it to iterate through the input string efficiently.
+23. The learner should be able to understand the purpose and functionality of a do-while loop.
+24. Common use cases for tokenizing include data cleaning, data processing, and natural language processing.
+25. The presented algorithm addresses potential edge cases by ensuring that the final token is correctly captured in situations where no comma is encountered at the end of the string.
+
+Let me know if you need any further assistance!

@@ -1,0 +1,36 @@
+# Careers video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/X9fcg/careers-video
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+The module consists of three micro-modules: Career Planning, Professional Impact, Profile, and Success; Global Employability Skills; and an additional module on web applications.
+
+The Career Planning micro-module will help students construct and develop a personal career plan aligned with their preferred professional sector. The Professional Impact, Profile, and Success micro-module aims to enhance professional skills and impact. Improved skill awareness is crucial for maximizing career success.
+
+The Global Employability Skills micro-module focuses on developing skills and describing them to future employers.
+
+The module introduces web applications, including the three-tier architecture, databases, and HTTP protocols.
+
+Week 1 covers basic concepts of web applications, including reading, assignments, and videos (6 minutes).
+
+Week 2-5 focuses on building web apps with Node and Express, generating web pages from data using templates, handling forms to input data, and representing data in relational databases.
+
+Weeks 8-11 cover basic database operations, providing access to databases from middleware. Weeks 12-13 discuss database design.
+
+The mid-term assessment (Week 14) will test students' understanding of the material.
+
+Advanced database operations are covered in weeks 15-16, followed by security and networking concepts in weeks 17-20.
+
+Preparation for the exam begins in Week 21, with Exam week scheduled for Week 22.
+
+The Careers video provides additional resources and information on web applications, databases, and career development.
+
+References to additional reading and practice assignments are provided throughout the module.
+
+Screen readers can use keyboard shortcuts (H J K L keys) or CTRL + ALT keys to navigate.
+
+Students can save notes using CTRL + S.

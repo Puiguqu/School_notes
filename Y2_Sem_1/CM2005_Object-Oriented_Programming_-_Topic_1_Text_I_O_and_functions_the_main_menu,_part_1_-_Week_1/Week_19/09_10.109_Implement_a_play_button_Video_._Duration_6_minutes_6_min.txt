@@ -1,0 +1,26 @@
+# 10.109 Implement a play button
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/TuwEX/10-109-implement-a-play-button
+
+It appears that this is a transcript of an interactive coding tutorial on the JUCE (Jules' Audio Coders United) framework, specifically covering the topic of creating a TableListBox component and implementing its functionality.
+
+The tutorial seems to be designed for beginners or those new to the JUCE framework. It covers various aspects of creating a GUI component, including:
+
+1. Creating a TableListBox component
+2. Implementing paintCell and paintRowBackground methods
+3. Adding a play button and handling button clicks
+4. Converting between integers and strings using component IDs
+
+Throughout the tutorial, the author provides explanations, examples, and code snippets to help learners understand the concepts and implement them in their own projects.
+
+Some key takeaways from this transcript include:
+
+* Understanding how to create a TableListBox component using JUCE's TableListBox class
+* Implementing paintCell and paintRowBackground methods to customize the appearance of individual cells and rows
+* Handling button clicks and implementing event-driven programming using the Button class
+* Converting between integers and strings using component IDs
+
+The tutorial is designed to be interactive, allowing learners to follow along with the author's explanations and code snippets. The use of JUCE's framework makes it an excellent choice for building cross-platform GUI applications.

@@ -1,0 +1,48 @@
+# The code to insert the order into the order book
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/9MzVg/the-code-to-insert-the-order-into-the-order-book
+
+Here is the code to insert an order into the order book:
+```cpp
+#include "OrderBookEntry.h"
+
+void takeOrders() {
+    OrderBookEntry entry;
+    
+    // Take user input for the trade type and price
+    std::cout << "Enter the trade type (buy/sell): ";
+    std::string tradeType;
+    std::cin >> tradeType;
+
+    std::cout << "Enter the price: ";
+    double price = 0.0;
+    std::cin >> price;
+
+    // Create a new OrderBookEntry object
+    entry.setTradeType(tradeType);
+    entry.setPrice(price);
+
+    // Add the order to the order book
+    addOrderToBook(entry);
+}
+
+// Function to read a line from the user for an OrderBookEntry
+std::string readLine() {
+    std::string line;
+    std::cout << "Enter the trade type (buy/sell): ";
+    std::cin >> line;
+    return line;
+}
+
+// Function to read a line from the user for an OrderBookEntry price
+double readPrice() {
+    double price = 0.0;
+    std::cout << "Enter the price: ";
+    std::cin >> price;
+    return price;
+}
+```
+Note that this code assumes you have already defined the `OrderBookEntry` class with methods such as `setTradeType()` and `setPrice()`, as well as a method called `addOrderToBook()` to add an order to the order book.

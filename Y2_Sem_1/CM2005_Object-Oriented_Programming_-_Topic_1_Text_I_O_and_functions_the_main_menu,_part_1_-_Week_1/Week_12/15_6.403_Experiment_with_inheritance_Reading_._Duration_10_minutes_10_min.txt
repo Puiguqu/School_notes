@@ -1,0 +1,8 @@
+# 6.403 Experiment with inheritance
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/vf8sS/6-403-experiment-with-inheritance
+
+the lead of the instructor in the concept video and experiment with inheritance. Think of a simple thing you'd like to model (e.g. use the vehicles example if you like). Investigate constructors – these have quite interesting behaviour. Which constructor gets called when you instantiate the child class, for example? The child one? The parent one? 6.403 Experiment with inheritance the lead of the instructor in the concept video and experiment with inheritance. Think of a simple thing you'd like t...

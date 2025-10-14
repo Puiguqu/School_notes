@@ -1,0 +1,36 @@
+# Three-tier web application architecture
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/KULfR/three-tier-web-application-architecture
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. Three-tier web application architecture is a client-server architecture where the user interface, application logic, and data storage are developed as independent modules.
+2. In this architecture, each tier is a layer that provides a specific function: presentation, application logic, and data storage.
+3. The presentation tier receives input from users and displays output, while the application tier processes logic and calculations.
+4. The database tier stores and manages data, providing an intermediate layer between the client and the data to centralize middleware services and business logic.
+5. Three-tier architectures were proposed as an alternative to two-tier architectures, which have a direct interaction with database management systems.
+6. Three-tier architectures offer higher scalability due to better network utilization and load distribution capabilities of the middle tier.
+7. The presentation tier is sometimes called the front end, application tier as middleware, and database tier as the back end.
+8. Client-side languages include HTML, CSS, and JavaScript, while server-side languages like PHP, Python, Ruby, and SQL are used in the middle web part.
+9. A three-tier architecture provides an intermediate layer between the client and data, centralizing middleware services and business logic.
+10. This architecture is useful for large-scale web applications that require high performance and scalability.
+11. The presentation tier receives input from users through a user interface, such as a web browser.
+12. The application tier processes logic and calculations using server-side languages like JavaScript, PHP, or Python.
+13. The database tier stores and manages data using relational databases, providing an efficient way to store and retrieve data.
+14. Relational databases use SQL to manage data and provide queries for retrieval of specific data.
+15. Three-tier architectures are widely used in web development due to their scalability and performance benefits.
+16. One example of a three-tier architecture is a typical e-commerce web application, which separates the user interface, application logic, and data storage into separate tiers.
+17. The presentation tier displays output to users, while the application tier processes logic and calculations for the application.
+18. The database tier stores and manages data, providing an intermediate layer between the client and the data.
+19. Three-tier architectures are useful for large-scale web applications that require high performance and scalability.
+20. The presentation tier can be built using client-side languages like HTML, CSS, and JavaScript.
+21. The application tier is typically built using server-side languages like PHP, Python, Ruby, or SQL.
+22. The database tier uses relational databases to store and manage data.
+23. Relational databases provide efficient queries for retrieval of specific data using SQL.
+24. Three-tier architectures are widely used in web development due to their scalability and performance benefits.
+25. Understanding three-tier web application architecture is essential for building scalable and performant web applications.
+
+Note: There are no links or technical details provided in the original text, so I have not included any of those in this summary.

@@ -1,0 +1,34 @@
+# 7.405 Lesson worksheet basic synthesis
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/6nuqh/7-405-lesson-worksheet-basic-synthesis
+
+Here is a summary of the provided text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The provided text appears to be a lesson plan or a course outline for a programming class.
+2. The lessons cover various topics such as text input/output, file I/O, exception handling, algorithms, object interactions, event-driven programming, inheritance, and audio synthesis.
+3. Each topic is assigned a specific week number (1-20).
+4. The lessons include video lectures, practice assignments, quizzes, and a lesson worksheet for basic synthesis.
+5. The first few weeks focus on text input/output and functions, using classes and variables to model data.
+6. Later topics cover file I/O, exception handling, algorithms, object interactions, and event-driven programming.
+7. The JUCE toolkit is introduced in week 11 as part of the DJ application development.
+8. Audio synthesis is covered in several lessons, starting with sending audio samples to the audio subsystem in blocks (week 13).
+9. The lessons also cover implementing audio file playback in JUCE using a hard-coded audio file (week 14).
+10. Additional topics include adding a file chooser and load any file (week 15), and using ResamplingAudioPlayer for variable speed playback (week 16).
+11. Later lessons focus on refactoring and class design, initialiser lists, constructors, threads, and advanced user interfaces.
+12. The course culminates with the submission of coursework 2 graded assignment (#7.405).
+13. No specific formulae or technical details are mentioned in the text.
+14. There are no links provided in the text.
+15. However, it can be inferred that JUCE is a software framework for building audio applications.
+16. The lessons cover various programming concepts and techniques, including classes, variables, file I/O, exception handling, algorithms, and event-driven programming.
+17. Audio synthesis is an important topic in this course, as indicated by the multiple lessons dedicated to it.
+18. The use of JUCE toolkit suggests that the course is focused on building audio applications using a specific software framework.
+19. No explicit requirements or assignments are mentioned in the text, but there are practice assignments and quizzes throughout the course.
+20. The lessons appear to be structured around a mix of theoretical explanations and practical exercises.
+21. The use of video lectures and interactive content suggests that the course is designed for hands-on learning.
+22. There is no indication of any prior knowledge or prerequisites required for this course.
+23. However, it can be assumed that students have some basic programming skills and familiarity with audio synthesis concepts.
+24. No specific software or hardware requirements are mentioned in the text.
+25. Overall, this course appears to focus on teaching programming concepts and techniques through interactive lessons and practical exercises, specifically tailored to audio synthesis using JUCE toolkit.

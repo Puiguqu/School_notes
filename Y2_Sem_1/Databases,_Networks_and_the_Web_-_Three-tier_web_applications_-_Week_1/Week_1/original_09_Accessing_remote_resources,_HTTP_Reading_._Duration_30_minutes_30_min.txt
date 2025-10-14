@@ -1,0 +1,8 @@
+# Accessing remote resources, HTTP
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/o1Hzt/accessing-remote-resources-http
+
+Read how HTTP is essentially a protocol for accessing resources on a web server and how the mechanism of an HTTP request and response works: Ceri, S. et al. Designing data-intensive web applications. (San Francisco, CA: Morgan Kauffman Publishers, 2003). Chapter 1, Technologies for web applications, Section 1.2.1, pages 5-8 Accessing remote resources: the hypertext transfer protocol. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book . Accessing remote resources, HTTP Read how HTTP is essentially a protocol for accessing resources on a web server and how the mechanism of an HTTP request and response works: Ceri, S. et al. Designing data-intensive web applications. (San Francisco, CA: Morgan Kauffman Publishers, 2003). Chapter 1, Technologies for web applications, Section 1.2.1, pages 5-8 Accessing remote resources: the hypertext transfer protocol. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book . Mark as completed Dislike Report an issue

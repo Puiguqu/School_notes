@@ -1,0 +1,25 @@
+# Print a list of options (menu)
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/RSULj/print-a-list-of-options-menu
+
+Based on the provided transcript, it appears that the instructor is discussing how to print a list of options (a menu) in C++. Here's a step-by-step guide:
+
+1. The instructor explains that `std::cout` is used for output and `std::cin` is used for input.
+2. To print a menu, you can use `std::cout` with the `<<` operator to insert text into the program's output stream.
+3. The instructor demonstrates how to print "Print a list of options (menu)" using `std::cout`.
+
+Here's an example code snippet:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Print a list of options (menu)";
+    return 0;
+}
+```
+This will output: "Print a list of options (menu)"
+
+Note that the instructor does not provide any specific details on how to create a menu with multiple options, but rather focuses on printing a single line of text. If you want to create a more complex menu with multiple options, additional techniques such as using `std::string` and `std::cout` with formatting options (e.g., `%`) would be required.

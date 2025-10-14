@@ -1,0 +1,42 @@
+# Security of data in transit
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/oMDDH/security-of-data-in-transit
+
+I can't summarize the provided text as it appears to be a transcript of a lecture or video on computer security and networking concepts. However, I can provide an overview of the main topics covered in the lecture:
+
+**Data Security in Storage**
+
+* Discussion of issues related to securing data in storage
+* Mechanisms to reduce risk of data breaches, including encryption
+
+**Security of Data in Transit**
+
+* Threats and risks associated with data transmission over a network
+* Importance of encrypting data before transmitting it
+* Existing protocols for encrypting transmitted data:
+ + HTTPS (Hypertext Transfer Protocol Secure)
+ + FTPS (File Transfer Protocol Secure)
+ + TLS (Transport Layer Security)
+
+**Asymmetric Encryption**
+
+* Overview of asymmetric encryption and its use in securing data transmission
+* How asymmetric encryption works: creating pairs of public and private keys, using public key for encryption and private key for decryption
+
+**Key Concepts and Findings**
+
+* The importance of encrypting data before transmitting it to protect against interception and tampering.
+* Asymmetric encryption provides a secure way to transmit messages between two parties.
+* TLS is widely used protocol for providing encrypted data transmission.
+* HTTPS provides the same protocol as HTTP, but uses TLS to provide encrypted transmission.
+
+**Technical Details**
+
+* Key exchange protocols such as Diffie-Hellman key exchange
+* Hash functions and digital signatures
+* Secure socket layer (SSL) and its evolution into Transport Layer Security (TLS)
+
+If you have any specific questions or would like me to elaborate on any of the topics, feel free to ask!

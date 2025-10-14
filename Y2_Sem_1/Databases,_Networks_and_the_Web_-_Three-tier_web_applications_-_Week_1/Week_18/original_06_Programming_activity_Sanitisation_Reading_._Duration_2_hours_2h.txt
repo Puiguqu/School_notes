@@ -1,0 +1,8 @@
+# Programming activity: Sanitisation
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/LaHlw/programming-activity-sanitisation
+
+In this lab activity you will implement sanitisation in your Node.js application. Please download the following PDF and follow the instructions for this lab activity: 27_Sanitisation.pdf PDF File Programming activity: Sanitisation In this lab activity you will implement sanitisation in your Node.js application. Please download the following PDF and follow the instructions for this lab activity: 27_Sanitisation.pdf PDF File Mark as completed Dislike Report an issue

@@ -1,0 +1,36 @@
+# Studiosity Walkthrough Video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/3nrma/studiosity-walkthrough-video
+
+Here is a summary of the text in 25 sentences:
+
+1. The Studiosity service is a tool to help students feel more confident and achieve their best.
+2. To access the Studiosity account, log into the institution's student portal and find the Studiosity link.
+3. The Studiosity link may be on the Portal Homepage course page or in a study support services menu.
+4. If you get stuck finding the link, contact your support services for assistance.
+5. Once inside the Studiosity account, bookmark the page for easier access next time.
+6. Students can either upload their written draft for same-day feedback or chat with a specialist immediately.
+7. To upload a document, click "Submit Your Document" and follow the prompts.
+8. Most students upload their drafts before bed to receive feedback the next morning.
+9. After submitting your document, you'll receive an email and mobile notification when it's reviewed by a specialist.
+10. You can view your feedback and make changes before handing in your work.
+11. The Studiosity service connects students with friendly specialists who provide personalized writing feedback.
+12. Students can also get instant feedback on their writing or ask questions via the "Connect Now" option.
+13. The Studiosity service is used by thousands of students worldwide each year, helping them feel more confident about their writing and studies.
+14. There are various topics covered throughout the course material, including text I/O and functions, using classes and variables to model data, and more.
+15. Each week has a specific topic with readings, assignments, and practice quizzes to reinforce learning.
+16. The course material is designed to take about 5 hours and 40 minutes to complete.
+17. There are also ungraded app items, end-of-topic quizzes, and coursework assignments throughout the course.
+18. To better understand what Studiosity provides in terms of feedback, read the provided reading materials.
+19. The Studiosity service offers a walkthrough video for a more visual introduction.
+20. Finally, view the topic summary video to get an overview of the material covered in each week's topics.
+21. There are also practice assignments and graded assignments to reinforce learning throughout the course.
+22. Coursework 1 is graded, with a submission time limit of 2 hours.
+23. The course covers various programming concepts, including object interactions, event-driven programming, and more.
+24. Throughout the course, there are interactive elements such as videos and practice quizzes to help students learn.
+25. Studiosity aims to provide personalized writing feedback and support to help students achieve their academic goals.
+
+Note that this summary has preserved key information from the original text, but some technical details and specific links have been omitted due to their non-essential nature.

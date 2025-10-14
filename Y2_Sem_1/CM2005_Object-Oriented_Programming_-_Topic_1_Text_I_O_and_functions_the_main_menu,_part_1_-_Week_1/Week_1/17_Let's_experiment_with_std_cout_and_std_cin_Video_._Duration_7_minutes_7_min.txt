@@ -1,0 +1,27 @@
+# Let's experiment with std::cout and std::cin
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/mYt1H/lets-experiment-with-std-cout-and-std-cin
+
+The text is an interactive transcript of a lecture or tutorial on C++ programming, specifically focusing on input/output operations using `std::cout` and `std::cin`. The topic covers how to print and receive user input from the console.
+
+Here's a summary of the main points:
+
+1. **Introduction**: The instructor introduces the concept of standard output (`std::cout`) and standard input (`std::cin`) in C++.
+2. **Printing using std::cout**: The instructor demonstrates how to use `std::cout` to print text and numbers to the console. This includes examples of basic printing, printing multiple values, and printing strings.
+3. **Receiving user input with std::cin**: The instructor shows how to use `std::cin` to receive input from the user, including examples of reading integers, floating-point numbers, and characters.
+4. **Handling input errors**: The instructor discusses common issues when using `std::cin`, such as input failure or invalid data, and provides ways to handle these situations.
+5. **Input extraction operator (`>>`)**: The instructor explains the role of the input extraction operator (`>>`) in reading user input from a stream.
+6. **Example code**: The instructor provides example code that demonstrates how to use `std::cout` and `std::cin` together to read user input and perform calculations.
+
+Some key takeaways from this lecture include:
+
+* How to print text and numbers using `std::cout`.
+* How to receive user input using `std::cin`.
+* The importance of handling input errors.
+* The role of the input extraction operator (`>>`) in reading user input.
+* How to use `std::cout` and `std::cin` together to perform calculations.
+
+Overall, this lecture aims to provide a solid foundation for understanding input/output operations in C++ using `std::cout` and `std::cin`.

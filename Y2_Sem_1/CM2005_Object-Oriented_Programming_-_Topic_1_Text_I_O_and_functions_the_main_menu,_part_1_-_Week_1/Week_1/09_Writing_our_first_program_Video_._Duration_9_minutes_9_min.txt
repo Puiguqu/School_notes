@@ -1,0 +1,16 @@
+# Writing our first program
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/ePEeQ/writing-our-first-program
+
+It appears that this is a transcript of an educational video or lecture on C++ programming, specifically on the topics of text input/output and file I/O.
+
+The speaker begins by explaining what makes C++ a low-level language, including its ability to directly manipulate memory and hardware resources. They then discuss how this affects the way C++ programs are written and executed.
+
+Next, the speaker introduces the concept of functions and demonstrates how to create and use simple functions in C++. They also explain the difference between variables, constants, and pointers, as well as how to declare and use these data types.
+
+The speaker then discusses the importance of input/output operations in programming, including reading user input using `std::cin` and writing output to the console using `std::cout`. They demonstrate how to perform basic input/output operations using these functions.
+
+Finally, the speaker explains how to compile a program in Visual Studio Code and provides tips for debugging and testing code.

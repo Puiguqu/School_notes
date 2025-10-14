@@ -1,0 +1,20 @@
+# Concept workshop: basic data types – numbers and strings
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/1RWpU/concept-workshop-basic-data-types-numbers-and-strings
+
+This appears to be a transcript of an interactive computer programming class, specifically a workshop on basic data types - numbers and strings. The topic is introduced as "Concept workshop: basic data types – numbers and strings".
+
+The instructor starts by explaining the importance of understanding basic data types in programming, such as numbers and strings, before moving on to more complex topics.
+
+Here are some key points from the transcript:
+
+1. **Introduction to basic data types**: The instructor explains that basic data types include numbers (integer, float) and strings.
+2. **Numbers**: The instructor discusses the different types of numbers in programming, including integers and floats. They provide examples of how to represent these numbers in code.
+3. **Strings**: The instructor explains that strings are sequences of characters and provides examples of how to work with strings in code.
+4. **Examples**: The instructor uses code examples to demonstrate how to use basic data types in a program.
+5. **Practice exercise**: The instructor suggests practicing using basic data types in code, either on their own or in pairs.
+
+Overall, this transcript appears to be an introductory workshop designed to help students understand the basics of programming data types and how to apply them in simple code examples.

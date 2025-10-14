@@ -1,0 +1,8 @@
+# Foreign keys and SQL JOIN
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/wVVrl/foreign-keys-and-sql-join
+
+To learn more about ‘Foreign keys’ in relational databases refer to the following reading: Hoffer, Venkataraman and Topi, Chapter 4, from The relational data model up to Transforming EER diagrams into relations . More specifically, read about: foreign keys integrity constraints referential integrity creating relational tables . Foreign keys and SQL JOIN To learn more about ‘Foreign keys’ in relational databases refer to the following reading: Hoffer, Venkataraman and Topi, Chapter 4, from The relational data model up to Transforming EER diagrams into relations . More specifically, read about: foreign keys integrity constraints referential integrity creating relational tables . Mark as completed Dislike Report an issue

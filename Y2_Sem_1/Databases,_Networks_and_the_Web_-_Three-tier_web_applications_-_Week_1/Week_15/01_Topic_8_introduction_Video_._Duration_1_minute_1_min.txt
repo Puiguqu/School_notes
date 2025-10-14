@@ -1,0 +1,50 @@
+# Topic 8 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/CHoCN/topic-8-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. This topic covers advanced querying in SQL.
+2. Aggregate functions like Min, Max, Sum, and Count are used to perform simple calculations on sets of records.
+3. These functions can be useful for creating reports or performing simple calculations.
+
+4. In the previous topic, join statements in SQL were covered.
+5. This topic builds upon that by introducing two other forms of join statements: Left and Right joins.
+
+6. Nested selects (also known as select-in-select) are another advanced querying technique learned in this topic.
+7. Students will learn how to incorporate a SELECT statement within another SELECT statement.
+
+8. There are lab instructions and programming assignments designed for students to practice these advanced querying techniques.
+
+9. The course concludes with this topic, marking the end of database and web subjects.
+
+10. In the next topic, networks are introduced as the third important aspect of the course.
+
+11. Three-tier web applications were covered in Week 1.
+12. Building web apps with Node and Express is a series of topics from Weeks 2-4.
+13. Generating web pages from data using templates was discussed in Week 5.
+14. Handling forms to input data is covered in Weeks 6-7.
+
+15. Representing data in databases – relational databases, part 1 and part 2 were explored in Weeks 8-9.
+
+16. Basic database operations – providing access to databases from middleware are the topics of Weeks 10-11.
+
+17. Database design, part 1 and part 2 were discussed in Weeks 12-13.
+18. Working on the mid-term assessment is a significant milestone in Week 14.
+
+19. Advanced database operations, part 1 - Topic 8 introduction was covered in Week 15.
+
+20. Aggregation in SQL is a topic that can be read through in a short duration of 2 hours and practiced with a 5-minute assignment.
+
+21. Aggregate functions are essential reading material, taking up 45 minutes to review.
+
+22. A discussion prompt on programming activity issues lasts 10 minutes.
+
+23. The course then transitions into more advanced topics like security (Weeks 17-18) and networking concepts (Weeks 19-20).
+
+24. Preparation for the exam is a crucial aspect of the course, as emphasized in Week 21.
+
+25. The final topic introduction marks the beginning of the interactive transcript for Topic 8.

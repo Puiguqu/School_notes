@@ -1,0 +1,8 @@
+# Routes and HTML files
+Reading•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/RkL9h/routes-and-html-files
+
+In your study journal, list routes and HTML files in an example web application of your choice. You can choose the one that you previously used or nominate a new one. Draw a site map, showing how different routes connect to each other via links on the pages. Routes and HTML files In your study journal, list routes and HTML files in an example web application of your choice. You can choose the one that you previously used or nominate a new one. Draw a site map, showing how different routes connec...

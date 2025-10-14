@@ -1,0 +1,38 @@
+# New Video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/KTD7l/new-video
+
+Unfortunately, the provided text does not contain any technical details or information about a specific formula or concept. It appears to be a transcript of a video explaining the benefits and functionality of an educational resource called Studiosity.
+
+However, I can summarize the content in 25 sentences, preserving all key information:
+
+1. The speaker is Sophia, who will introduce the Studiosity service.
+2. Studiosity is available for students to receive personalized feedback on their written drafts.
+3. To access the Studiosity account, log into the institution's student portal and find the Studiosity link.
+4. If unable to find the link, contact support services for assistance.
+5. Once inside the Studiosity account, bookmark the page for easier access.
+6. Students can upload a document for same-day feedback on structure, language, spelling, and grammar.
+7. They can also chat with a specialist in real-time.
+8. To start using Studiosity, click "Submit Your Document" or "Connect Now".
+9. Upload your draft before bed to receive feedback the next morning.
+10. Upon receiving feedback, view it and make changes before submitting work.
+11. Connect with specialists for instant writing feedback on any subject.
+12. Get help with English skills, math, science, and essential concepts.
+13. Every year, thousands of students use Studiosity worldwide.
+14. The service aims to increase student confidence in their writing and studying.
+15. Log into your account tonight to try Studiosity.
+16. There is no specific formula or technical detail mentioned in the transcript.
+17. No links are provided in the text, only instructions on how to access Studiosity.
+18. The focus of the transcript is on explaining the benefits and functionality of Studiosity.
+19. Studiosity appears to be a supportive tool for students' writing and studying needs.
+20. No technical specifications or programming details are mentioned.
+21. There is no discussion of web applications, Node, Express, or other technical concepts.
+22. The content revolves around introducing Students to the Studiosity service.
+23. The purpose of Studiosity seems to be providing personalized feedback and support.
+24. No specific week numbers or topics are discussed in the transcript.
+25. Overall, the transcript aims to provide an introduction to the Studiosity service and its benefits for students.
+
+Since there is no technical information provided, I couldn't summarize the content in 25 sentences with key information about formulas, links, or technical details.

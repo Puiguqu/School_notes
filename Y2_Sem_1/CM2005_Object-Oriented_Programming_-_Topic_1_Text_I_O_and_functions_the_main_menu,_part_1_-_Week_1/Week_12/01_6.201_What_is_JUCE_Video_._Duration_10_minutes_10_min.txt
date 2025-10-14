@@ -1,0 +1,33 @@
+# 6.201 What is JUCE?
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/R2pTN/6-201-what-is-juce
+
+Here is a summary of the transcript:
+
+**What is JUCE?**
+
+JUCE (Java User Components) is a software development framework used to build music and audio applications.
+
+The video explains that JUCE is not just a GUI library, but also a full-fledged application platform with a comprehensive set of tools and features for building digital instruments, effects processors, mixers, and other types of audio software.
+
+**Key points:**
+
+* JUCE provides a range of widgets, including buttons, sliders, and display components.
+* It includes a robust event-driven programming model that allows developers to handle user input and interact with their application in a flexible way.
+* The framework also supports multithreading, which enables developers to run computationally intensive tasks in the background without impacting the main application thread.
+
+**Learning objectives:**
+
+* Understand the basics of JUCE and its role as a software development framework for audio applications
+* Learn how to use JUCE widgets and event-driven programming model to build interactive GUIs
+* Understand how to handle user input, threading, and other advanced features in JUCE
+
+**Prerequisites:**
+
+* Basic knowledge of programming (C++ or Java) and software development principles.
+* Familiarity with audio software development concepts, such as digital signal processing and effects processing.
+
+This summary provides a high-level overview of the key points discussed in the video. If you'd like me to elaborate on any specific aspect of JUCE or its features, please let me know!

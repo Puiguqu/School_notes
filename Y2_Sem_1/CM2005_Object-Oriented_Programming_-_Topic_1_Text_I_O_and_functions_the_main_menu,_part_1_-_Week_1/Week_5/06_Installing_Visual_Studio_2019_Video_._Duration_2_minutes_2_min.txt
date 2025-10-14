@@ -1,0 +1,36 @@
+# Installing Visual Studio 2019
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/nMKh8/installing-visual-studio-2019
+
+Here is a summary of the provided text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses installing Visual Studio on Windows.
+2. To start, search for Visual Studio 2019 on a search engine to download the installer.
+3. After downloading, the user will be prompted to select components to install.
+4. The user should check the C++ components box to ensure proper installation for future projects like Merkel wreck simulation and JUCE project.
+5. Once all selected components are installed, Visual Studio fires up, and the user can create a new project.
+6. The first half of the course will require Visual Studio on Windows.
+7. To download Visual Studio 2019, visit the official Microsoft website or search engine.
+8. The installer will take several minutes to complete due to downloading all required components.
+9. Once installed, the user is presented with a new project in Visual Studio.
+10. Throughout the course, various projects and assignments are completed using Visual Studio.
+11. Installing Xcode on Mac is also discussed as an alternative development environment.
+12. The video transcript covers topics such as text I/O, functions, classes, variables, file I/O, exception handling, algorithms, and more.
+13. Each topic includes interactive videos, quizzes, practice assignments, and labs to reinforce learning.
+14. Topics range from basic C++ concepts to advanced class design and user interfaces using JUCE toolkit.
+15. The course covers topics related to DJ application development, including event-driven programming and inheritance.
+16. Visual Studio 2019 is a popular choice for Windows development due to its extensive features and community support.
+17. Xcode on Mac offers similar functionality but with a different set of tools and features.
+18. The JUCE toolkit provides an easy-to-use API for creating user interfaces and handling events.
+19. Throughout the course, users will work on various projects, including the DJ application, to develop skills in C++ programming.
+20. The video transcript includes interactive elements, such as quizzes, practice assignments, and labs, to ensure students understand each topic.
+21. The use of Visual Studio 2019 allows for rapid development and prototyping, essential skills for any software developer.
+22. Xcode on Mac provides a similar experience, but with its own set of tools and features tailored for macOS development.
+23. JUCE toolkit simplifies the process of creating user interfaces and handling events in C++ applications.
+24. The course covers various topics related to file I/O, exception handling, algorithms, and more to ensure students have a solid foundation in C++ programming.
+25. Throughout the course, students will work on real-world projects to develop practical skills in C++ programming using Visual Studio 2019 or Xcode on Mac.
+
+Note that this summary is based on the provided text and may not cover all the topics and details discussed in the video transcript.

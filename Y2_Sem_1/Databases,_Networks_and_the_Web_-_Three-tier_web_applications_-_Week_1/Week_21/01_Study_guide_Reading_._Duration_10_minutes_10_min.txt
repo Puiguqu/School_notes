@@ -1,0 +1,36 @@
+# Study guide
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/r0eKb/study-guide
+
+Here is a summary of the text in 25 sentences:
+
+1. In preparation for the final exam, review the learning outcomes and assess your proficiency level.
+2. Identify areas where you feel confident and those where you need improvement.
+3. Familiarize yourself with the structure of the exam by using past exam papers as practice exams.
+4. Use these past exam papers to test your knowledge and identify questions that struggle with.
+5. Go back to the week and rewatch lectures, reread essential readings, and reattempt quizzes and exercises.
+6. Seek out additional resources to improve your learning outcomes.
+7. A three-tier architecture is a common web application design pattern.
+8. The mechanism of a web request involves an HTTP request and response.
+9. HTTP requests can be secure or insecure, with HTTPS providing encryption.
+10. GET and POST are common HTTP methods used in web applications.
+11. Web services can be stateless or stateful, with separation of concerns (SoC) being important.
+12. Node.js, Express, and EJS are popular technologies for creating web applications.
+13. Creating web forms requires understanding req.query vs req.body differences.
+14. Relational databases have concepts such as tables, fields, relationships (PK/FK), one-to-one, one-to-many, many-to-many, and join tables.
+15. Entity relationship diagrams using crows-feet notation are used to visualize database relationships.
+16. SQL basic operations include CREATE, INSERT, SELECT, UPDATE, DELETE, and JOINs.
+17. SQL aggregations include SUM, COUNT, MIN, MAX, and GROUP BY.
+18. SQL sorting can be done using ORDER BY.
+19. Advanced SQL techniques include nested selects.
+20. Security threats and risks involve data in storage vs motion, encryption (symmetric vs asymmetric), password hashing and salting, authentication and authorization, validation and sanitization.
+21. The TCP/IP model compares to the OSI reference model with similarities and differences.
+22. Packet switching involves transmission of data between devices using protocols at each layer.
+23. The three-way handshake is an important concept in networking.
+24. A revision checklist should include completing resources, familiarizing yourself with exam structure, rewatching lectures and rereading essential readings, and seeking additional resources.
+25. Seeking help from instructors, peers, or online resources can improve learning outcomes.
+
+Note: I did not preserve any links or technical details as they were not present in the original text.

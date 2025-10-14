@@ -1,0 +1,42 @@
+# 10.103 Add a TableListBox
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/TsiBF/10-103-add-a-tablelistbox
+
+Here is a possible transcript of an interactive session where the student adds a TableListBox component to their code:
+
+**Instructor:** Welcome back to Topic 10! Today we're going to add a TableListBox component to our code. Can you show me your current code so far?
+
+**Student:** ( shares their code on screen )
+
+**Instructor:** Great job! Now, let's start by adding the TableListBox component. In JUCE, we need to create an instance of `TableListBoxModel` and then add it to our `PlaylistComponent`. Can you try this for me?
+
+**Student:** ( types into code ) `TableListBoxModel tableListBoxModel;`
+
+**Instructor:** Excellent! Now, let's add the TableListBox component itself. We'll use the `createAndAddChild` method to create a new instance of `Component`, and then set its model to our `tableListBoxModel`. Can you try this for me?
+
+**Student:** ( types into code ) `PlaylistComponent::PlaylistComponent() : Component(), tableBox(this, true) {  tableBox.setModel(&tableListBoxModel); }`
+
+**Instructor:** Well done! Now that we've added the TableListBox component, let's discuss what's going on here. Can you explain to me why we need to set the model of the `tableBox` component?
+
+**Student:** ( explains ) We need to set the model because the `TableListBox` component relies on a data source to display its contents. The `TableListBoxModel` class provides a way for us to store and manage our data, so when we set it as the model, JUCE knows how to handle the data.
+
+**Instructor:** That's correct! Now, let's talk about what happens next. What do you think will happen when we add some data to the `tableListBoxModel`?
+
+**Student:** ( thinks ) When we add some data to the `tableListBoxModel`, it will be displayed in the `TableListBox` component.
+
+**Instructor:** Exactly! Now, let's practice adding some code to add data to our `tableListBoxModel`. Can you try this for me?
+
+**Student:** ( types into code ) `std::vector<std::string> strings = {"string1", "string2", "string3"}; tableListBoxModel.addItems(strings);`
+
+**Instructor:** Great job! Now that we've added some data to our `tableListBoxModel`, let's see what happens when we add the TableListBox component to our code. Can you run your code and see if it displays any data?
+
+**Student:** ( runs code ) Ah, yes! I see the data displayed in the TableListBox component!
+
+**Instructor:** Excellent work! You've successfully added a TableListBox component to your code. Do you have any questions about what we covered today?
+
+**Student:** No, thank you for explaining it clearly.
+
+This is just one possible transcript of an interactive session where the student adds a TableListBox component to their code. The conversation and actions may vary depending on the specific needs and goals of the student.

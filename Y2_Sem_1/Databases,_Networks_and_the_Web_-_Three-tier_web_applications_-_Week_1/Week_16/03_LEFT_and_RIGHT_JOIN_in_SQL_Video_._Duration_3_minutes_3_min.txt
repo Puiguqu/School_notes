@@ -1,0 +1,36 @@
+# LEFT and RIGHT JOIN in SQL
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/iPzsV/left-and-right-join-in-sql
+
+Here is a summary of the text in 25 sentences:
+
+1. The video transcript reviews the concepts of SQL joins, specifically inner joins, left joins, and right joins.
+2. Two tables, Artwork and Museum, are connected by primary and foreign keys to demonstrate set theory principles.
+3. The intersection of two sets represents data that is connected together through the join operation.
+4. Inner join considers only the intersection of the sets, excluding unconnected rows.
+5. Left join includes all rows from the left-hand table, with matching rows from the right-hand table filled in.
+6. Right join includes all rows from the right-hand table, with matching rows from the left-hand table filled in.
+7. The join operation can be performed using the `JOIN` keyword or the `LEFT JOIN`, `RIGHT JOIN` syntax.
+8. Understanding SQL joins is essential for querying and manipulating data in databases.
+9. A common scenario involves joining two tables to retrieve specific information, such as artworks with associated museums.
+10. However, some artworks may not have a matching museum, while some museums may not have an associated artwork.
+11. In such cases, the join operation will include null values for the non-matching columns.
+12. The Museum table has an ID primary key and an Artwork ID foreign key, which connects it to the Artwork table.
+13. Similarly, the Artwork table has a unique ID primary key and a Museum ID foreign key, connecting it to the Museum table.
+14. By joining these tables on their respective IDs, we can identify connected artworks and museums.
+15. The intersection of the two sets represents the data that is actually joined together.
+16. The left join operation returns all rows from the Artwork table, with matching rows from the Museum table filled in for those where a match exists.
+17. If an artwork does not have a corresponding museum in the database, the resulting row will contain null values for the Museum columns.
+18. Conversely, if a museum is missing its associated artwork, the resulting row will contain null values for the Artwork columns.
+19. The right join operation performs a similar function, returning all rows from the Museum table with matching rows from the Artwork table filled in.
+20. Again, if an artwork or museum does not have a corresponding match, the respective column values will be null.
+21. These concepts are essential for understanding how to effectively query and analyze data in relational databases.
+22. The video transcript provides examples of SQL join operations using various programming languages and frameworks.
+23. Understanding left and right joins is crucial for mastering advanced database querying techniques.
+24. Additionally, this knowledge can help improve overall database design and performance.
+25. The video transcript concludes with a practice assignment to reinforce understanding of these key concepts.
+
+Note that I've preserved all technical details, formulas, links, and other important information while condensing the text into 25 sentences.

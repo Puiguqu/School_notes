@@ -1,0 +1,8 @@
+# Topic 7 summary
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/H5M7l/topic-7-summary
+
+Summary In this topic you have learned about: the entity relationship (ER) diagram in relational databases association types between entities in an ER diagram the problem with many-to-many association junction or bridge tables in ER diagrams and how they can solve the problem with many-to-many associations foreign keys in relational databases querying multiple tables in relational databases by using the SQL JOIN statement. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic7_eval.pdf PDF File Topic 7 summary Summary In this topic you have learned about: the entity relationship (ER) diagram in relational databases association types between entities in an ER diagram the problem with many-to-many association junction or bridge tables in ER diagrams and how they can solve the problem with many-to-many associations foreign keys in relational databases querying multiple tables in relational databases by using the SQL JOIN statement. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic7_eval.pdf PDF File Mark as completed Dislike Report an issue

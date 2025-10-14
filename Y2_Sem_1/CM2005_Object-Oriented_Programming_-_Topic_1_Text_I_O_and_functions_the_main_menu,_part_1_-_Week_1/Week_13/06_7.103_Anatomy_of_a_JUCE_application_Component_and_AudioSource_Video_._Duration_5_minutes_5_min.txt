@@ -1,0 +1,40 @@
+# 7.103 Anatomy of a JUCE application – Component and AudioSource
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/usEKY/7-103-anatomy-of-a-juce-application-component-and-audiosource
+
+This is a transcript of an interactive video lesson on event-driven programming and inheritance in JUCE (Jules' Utility Class Extensions). The topic is "Event-Driven Programming and Inheritance: Buttons, Sliders, and Audio, Part 2" of Topic 7.
+
+The instructor is explaining the concept of pure virtual functions and how they force implementation in derived classes. They provide a quick example to illustrate this concept.
+
+**Instructor:** ...and that's where we need to implement the `buttonClicked()` function. We can do this by overriding the pure virtual function.
+
+**Student:** Can you show us an example?
+
+**Instructor:** Sure, let's create a simple class called `MyButton` and override the `buttonClicked()` function.
+
+**Code snippet:**
+```cpp
+class MyButton : public Button {
+public:
+    MyButton() {}
+    void buttonClicked() override {
+        std::cout << "Button clicked!" << std::endl;
+    }
+};
+```
+In this example, we've created a new class called `MyButton` that inherits from the `Button` class. We've also overridden the `buttonClicked()` function to provide our own implementation.
+
+**Student:** How does this work?
+
+**Instructor:** When you create an instance of the `MyButton` class and pass it to a component, such as a Button object, the `buttonClicked()` function will be called when the button is clicked. If we didn't override the pure virtual function in the `MyButton` class, the compiler would error out because there was no implementation for the `buttonClicked()` function.
+
+The instructor then shows an example of how to use the `MyButton` class in a GUI application.
+
+**Student:** Can you explain what's happening here?
+
+**Instructor:** When we create an instance of the `MyButton` class and pass it to the Button object, the `MyButton` class is able to override the pure virtual function and provide our own implementation. This allows us to customize the behavior of the button in our GUI application.
+
+The lesson concludes with a practice assignment for the students to try implementing the `buttonClicked()` function themselves.

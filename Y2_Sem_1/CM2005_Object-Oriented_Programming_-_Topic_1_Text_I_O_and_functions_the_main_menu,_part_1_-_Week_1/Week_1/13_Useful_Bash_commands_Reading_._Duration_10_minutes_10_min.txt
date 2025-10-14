@@ -1,0 +1,8 @@
+# Useful Bash commands
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/bDMcE/useful-bash-commands
+
+Useful commands in Visual Studio Code. The Terminal in Visual Studio Code is a full Linux Bash console. Bash is a really powerful command line shell with which you can interact with the virtual machine running there. Some basic commands that might be useful in Bash: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 # lines starting with # are comments! # list contents of current directory ls -l # move into a directory called mydirectory cd mydirectory # print out the present working directory pwd # build a...

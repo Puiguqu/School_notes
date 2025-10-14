@@ -1,0 +1,46 @@
+# Security of data in storage
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/wlFkt/security-of-data-in-storage
+
+This is an interactive transcript of a video lecture on web development, specifically on security and database operations.
+
+The topic of this week's lesson is "Security of data in storage". The speaker explains that when it comes to storing sensitive information such as passwords, usernames, and credit card numbers, we need to take extra precautions to ensure their confidentiality and integrity.
+
+**Section 1: Introduction**
+
+Speaker: Welcome back to our series on web development. In this episode, we're going to discuss the security of data in storage. When it comes to storing sensitive information, we need to think about how to protect that information from unauthorized access.
+
+**Section 2: Password Hashing**
+
+Speaker: So, let's talk about password hashing. We want to store passwords securely so that even if an attacker gains access to our database, they won't be able to get the original password.
+
+The speaker explains how password hashing works and demonstrates a few common algorithms such as bcrypt, scrypt, and PBKDF2.
+
+**Section 3: Database Design**
+
+Speaker: When designing our database, we need to think about the types of data we'll be storing and how we can protect that data from unauthorized access. This includes creating strong user accounts with limited privileges.
+
+The speaker explains how to create a new user account in MySQL and demonstrates how to limit their privileges.
+
+**Section 4: Best Practices**
+
+Speaker: So, what are some best practices for securing our data in storage? First, we need to use secure passwords that are not easily guessable. Second, we need to use encryption to protect our data at rest.
+
+The speaker explains the importance of keeping software up-to-date and using a firewall to block unauthorized access to our database.
+
+**Section 5: Conclusion**
+
+Speaker: That's it for today's lesson on security of data in storage. Remember, securing your data is an ongoing process that requires constant attention and effort.
+
+The speaker summarizes the key takeaways from the episode and encourages viewers to try out some of the techniques discussed in the video.
+
+**Additional Resources**
+
+* Password hashing algorithm (bcrypt)
+* Database design best practices
+* Security tips for web development
+
+Note: The transcript may not include all the details and explanations from the original video, but it should give you an idea of the main topics covered.

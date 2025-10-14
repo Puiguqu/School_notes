@@ -1,0 +1,8 @@
+# Programming activity: Database search from Node
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/zEECE/programming-activity-database-search-from-node
+
+In this lab activity you will explore how to implement a search page that searches the database and shows matching results. Please download the following PDF and follow the instructions for this lab activity 18_Database-search-from-node.pdf PDF File Programming activity: Database search from Node In this lab activity you will explore how to implement a search page that searches the database and shows matching results. Please download the following PDF and follow the instructions for this lab activity 18_Database-search-from-node.pdf PDF File Mark as completed Dislike Report an issue

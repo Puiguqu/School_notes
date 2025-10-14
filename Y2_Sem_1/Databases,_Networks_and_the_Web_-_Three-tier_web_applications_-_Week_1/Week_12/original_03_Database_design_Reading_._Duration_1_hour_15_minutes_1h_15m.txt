@@ -1,0 +1,8 @@
+# Database design
+Reading•
+. Duration: 1 hour 15 minutes
+1h 15m
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/g7dSs/database-design
+
+To see an example of project planning, designing the database and using the database refer to the following reading: Hoffer, Venkataraman and Topi, Chapter 1, Developing a database application for Pine Valley Furniture Company . This example will help you in your mid-term assessment activity. Database design To see an example of project planning, designing the database and using the database refer to the following reading: Hoffer, Venkataraman and Topi, Chapter 1, Developing a database application for Pine Valley Furniture Company . This example will help you in your mid-term assessment activity. Mark as completed Dislike Report an issue

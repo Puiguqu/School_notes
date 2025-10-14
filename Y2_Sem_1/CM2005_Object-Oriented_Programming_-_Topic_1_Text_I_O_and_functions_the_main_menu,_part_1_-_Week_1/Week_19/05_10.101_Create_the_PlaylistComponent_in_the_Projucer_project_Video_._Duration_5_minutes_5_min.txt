@@ -1,0 +1,46 @@
+# 10.101 Create the PlaylistComponent in the Projucer project
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/qcnkn/10-101-create-the-playlistcomponent-in-the-projucer-project
+
+Here is a rewritten version of the provided text in a more readable format:
+
+**Topic 10: Advanced Class and User Interfaces**
+
+**Week 20: Create the PlaylistComponent in the Projucer Project**
+
+The following transcript provides an interactive guide on creating the PlaylistComponent in the Projucer project.
+
+### Transcript
+
+**Enable basic transcript mode by pressing the escape key.**
+
+To navigate through the transcript, use the tab key to move between sections.
+
+### Create the PlaylistComponent
+
+1. Open the Projucer project and create a new component.
+2. Choose the "PlaylistComponent" as the component type.
+3. Design the user interface for the playlist component, including the playlist list box and any additional controls (such as play, pause, and stop buttons).
+4. Implement the necessary code to display the playlist data and handle user interactions.
+
+### Additional Resources
+
+* Starter code for Topic 10 is available in the "cmake" file.
+* Reading materials are provided in the following topics:
+	+ Topic 1: I/O and Functions - Part 1
+	+ Topic 2: Using Classes and Variables to Model Data - Part 1
+	+ Topic 3: File I/O, Exception Handling, and Algorithms - Part 1
+	+ Topic 4: Writing and Testing an Algorithm - Taking Orders and the Order Matching Engine - Part 1
+* Demos and examples are provided in the following topics:
+	+ Demo of the VLC playlist (Topic 10.004)
+	+ Data structure for storing music library (Discussion Prompt, Topic 10.005)
+
+**Post-Video Quiz**
+
+* Practice assignments are available after each topic.
+* Post-video quiz is assigned at the end of each topic.
+
+Note: The original transcript is not included in this rewritten version due to its lengthy and repetitive nature. Instead, a summary of the main points is provided.

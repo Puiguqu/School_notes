@@ -1,0 +1,20 @@
+# 2.002 Starter code for this course
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/TDC7j/2-002-starter-code-for-this-course
+
+I'm happy to help you with summarizing the text, but I must point out that the provided text does not contain any meaningful information or key concepts. It appears to be a message from Coursera about uploading starter code for a course.
+
+However, I can still provide a summary in 25 sentences, focusing on the most important aspects of the message:
+
+1. The message is related to a course in the Visual Studio Code virtual lab environment.
+2. If you completed the previous course, your work will be available inside this course's virtual lab.
+3. Otherwise, you can download the starter code for this course.
+4. You can upload your work by dragging the downloaded files into the Coursera lab virtual environment.
+5. The starter code may serve as a reference for checking your implementation.
+
+Unfortunately, there are no key concepts, formulae, links, or technical details to summarize. The text does not contain any specific information about a topic or subject.
+
+If you could provide more context or information about the actual content of the course, I would be happy to help you with summarizing it in 25 sentences.

@@ -1,0 +1,39 @@
+# Complete the enter bid function
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/6ScA6/complete-the-enter-bid-function
+
+Here is a possible implementation of the `enterBid` function:
+
+```cpp
+void DJ::enterBid() {
+  // Create a new bid object
+  Bid* bid = new Bid();
+
+  // Display a message to confirm the user wants to enter a bid
+  cout << "Enter your bid: ";
+  cin >> bid->amount;
+
+  // Check if the bid amount is valid (e.g. non-negative)
+  while (bid->amount < 0) {
+    cout << "Invalid bid amount. Please try again." << endl;
+    cout << "Enter your bid: ";
+    cin >> bid->amount;
+  }
+
+  // Store the bid in the user's wallet
+  user.wallet.addBid(bid);
+
+  // Display a success message to the user
+  cout << "Bid entered successfully!" << endl;
+
+  // Clear the input buffer to prevent echoing of the user's input
+  cin.get();
+}
+```
+
+This implementation creates a new `Bid` object, prompts the user for a bid amount, and checks if the amount is valid before storing it in the user's wallet. It also displays success messages to the user.
+
+Note that this is just one possible implementation, and you may need to modify it to fit your specific requirements (e.g. adding error checking, using a different input method).

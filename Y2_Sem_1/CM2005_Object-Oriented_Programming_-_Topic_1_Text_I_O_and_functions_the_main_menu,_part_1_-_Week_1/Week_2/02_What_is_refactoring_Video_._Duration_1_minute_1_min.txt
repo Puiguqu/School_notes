@@ -1,0 +1,50 @@
+# What is refactoring?
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/XE82u/what-is-refactoring
+
+Here is a summary of the text in 25 sentences:
+
+Refactoring is the process of taking different blocks of code and breaking them into separate modules to make the code more modular, clear, and maintainable.
+
+The main goal of refactoring is to improve the organization and structure of the code.
+
+In the context of coding, refactoring involves identifying repetitive or redundant code sections and reorganizing them to make the code more concise and efficient.
+
+Refactoring also helps to clarify the purpose of each section of code and makes it easier to understand and maintain the program.
+
+The video discusses how to refactor the given code by breaking down large blocks of code into smaller, more manageable functions.
+
+The first step is to identify areas of repetition or duplication in the code.
+
+Next, separate modules are created for each function, making it easier to manage and understand the code.
+
+Refactoring involves using techniques such as extracting methods, removing redundant code, and improving variable names.
+
+The video provides examples of how to refactor common coding issues, including printing menus and processing user input.
+
+It is recommended to create a function for printing menu options and another for processing user input.
+
+This makes it easier to maintain the program by allowing each section of code to be worked on independently.
+
+Refactoring also helps to reduce the overall size of the program, making it more efficient.
+
+Additionally, refactoring can improve the readability of the code by making it clearer what each section is intended to do.
+
+The video discusses how to refactor functions and modules using different techniques, including extracting methods and improving variable names.
+
+It highlights the importance of regular maintenance and updating to ensure that the code remains efficient and effective.
+
+Refactoring is a critical aspect of software development, as it helps to improve the maintainability and readability of the code.
+
+By following these techniques, developers can create more modular, clear, and efficient code.
+
+The video covers how to refactor functions and modules using different techniques, including extracting methods, removing redundant code, and improving variable names.
+
+Refactoring is an ongoing process that requires continuous effort to ensure that the code remains up-to-date and effective.
+
+The goal of refactoring is to improve the overall quality and maintainability of the codebase.
+
+By doing so, developers can create more efficient, readable, and maintainable software.

@@ -1,0 +1,63 @@
+# Open a file
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/mFXrC/open-a-file
+
+Here's a concise version of what I understand to be the main points:
+
+* The transcript is for an interactive tutorial or lesson on C++ programming.
+* The topic being covered is file input/output, specifically reading and processing CSV (Comma Separated Values) data.
+
+To continue with the exercise, follow these steps:
+
+1. Open a text editor or IDE (Integrated Development Environment) of your choice.
+2. Create a new C++ project and add a file to it.
+3. Include the necessary header files for input/output operations (`<fstream>` or `<iostream>`) and CSV parsing (`<sstream>`, `<vector>`, etc.).
+
+The code snippet provided at the beginning of the transcript reads a CSV file line by line using `std::ifstream`:
+
+```cpp
+#include <fstream>
+#include <sstream>
+
+int main() {
+    std::ifstream file("your_file.csv");
+
+    if (file.is_open()) {
+        std::string line, cell;
+        while (std::getline(file, line)) {
+            std::stringstream ss(line);
+            std::vector<std::string> cells;
+            std::string token;
+
+            while (ss >> token) {
+                cells.push_back(token);
+            }
+
+            // Process the CSV data
+            for (const auto& cell : cells) {
+                std::cout << cell << " ";
+            }
+            std::cout << std::endl;
+        }
+    } else {
+        std::cerr << "Unable to open file";
+    }
+
+    return 0;
+}
+```
+
+Replace `"your_file.csv"` with the actual path to your CSV file.
+
+After writing this code, compile and run it. You will see each line of the CSV data printed on a new line, followed by the values in each cell separated by spaces.
+
+If you encounter any errors during compilation or execution, refer to the comments provided in the code snippet for guidance.
+
+Next steps:
+
+* Modify the code to parse more complex CSV data (e.g., nested lists, conditional formatting).
+* Experiment with different file formats and data structures.
+* Implement exception handling to handle cases where the file cannot be opened or parsed incorrectly.

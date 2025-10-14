@@ -1,0 +1,94 @@
+# If statements: conditionally printing responses to the user
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/X9fo1/if-statements-conditionally-printing-responses-to-the-user
+
+Here is an outline of a solution to the problem:
+
+**Problem Statement:**
+
+Create a C++ program that takes user input and uses if statements to conditionally print responses.
+
+**Solution Outline:**
+
+1. **Introduction**
+	* Introduce the concept of if statements in C++.
+	* Explain how to use if statements to conditionally print responses.
+2. **User Input**
+	* Use `std::cin` to read user input from the console.
+	* Store the input in a variable, e.g., `std::string userInput`.
+3. **If Statement Example**
+	* Use an if statement to check if the user input is equal to a certain value.
+	* If true, print a response. Otherwise, print another response.
+4. **Example Code**
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string userInput;
+    cout << "Enter a number: ";
+    cin >> userInput;
+
+    if (userInput == "5") {
+        cout << "You entered 5!" << endl;
+    } else {
+        cout << "That's not 5!" << endl;
+    }
+
+    return 0;
+}
+```
+5. **Using Multiple Conditions**
+	* Use multiple conditions in an if statement to check different values.
+	* If any of the conditions are true, print a response.
+6. **Example Code with Multiple Conditions**
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string userInput;
+    cout << "Enter a number: ";
+    cin >> userInput;
+
+    if (userInput == "5" || userInput == "10") {
+        cout << "You entered either 5 or 10!" << endl;
+    } else {
+        cout << "That's not 5 or 10!" << endl;
+    }
+
+    return 0;
+}
+```
+7. **Using a Switch Statement**
+	* Use a switch statement to check different values.
+	* If any of the cases match, print a response.
+8. **Example Code with a Switch Statement**
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    string userInput;
+    cout << "Enter a number: ";
+    cin >> userInput;
+
+    int value = stoi(userInput);
+    switch (value) {
+        case 5:
+            cout << "You entered 5!" << endl;
+            break;
+        case 10:
+            cout << "You entered 10!" << endl;
+            break;
+        default:
+            cout << "That's not 5 or 10!" << endl;
+    }
+
+    return 0;
+}
+```
+This solution outline should provide a good starting point for creating a C++ program that uses if statements to conditionally print responses based on user input.

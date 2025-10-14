@@ -1,0 +1,8 @@
+# 6.202a Note about Roli account
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/AzmdC/6-202a-note-about-roli-account
+
+Please note that in JUCE v5, which was the version used to make the videos, you need to create an account with Roli in order to use Projucer. This does not appear to be necessary with JUCE v6 at the time of writing. 6.202a Note about Roli account Please note that in JUCE v5, which was the version used to make the videos, you need to create an account with Roli in order to use Projucer. This does not appear to be necessary with JUCE v6 at the time of writing. Mark as completed Dislike Report an issue

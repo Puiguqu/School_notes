@@ -1,0 +1,103 @@
+# Create the Merkelmain class
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/vrsM2/create-the-merkelmain-class
+
+Here is the step-by-step guide to creating the Merkelmain class:
+
+**Step 1: Create a new project**
+
+Open Visual Studio or XCode and create a new project for your C++ application.
+
+**Step 2: Set up the necessary libraries**
+
+Add the following libraries to your project:
+
+* `windows.h` for Windows
+* `stdio.h` for stdio functions (not used in this example)
+* `stdlib.h` for standard library functions (not used in this example)
+
+**Step 3: Create the Merkelmain class**
+
+Create a new C++ file, e.g., `Merkelmain.cpp`, and add the following code:
+```cpp
+#include <iostream>
+#include "Merkelmain.hpp"
+
+int main() {
+    // Initialize the menu system
+    MenuSystem menu;
+    
+    // Print the menu
+    menu.printMenu();
+    
+    // Wait for user input
+    char input[10];
+    std::cin >> input;
+    
+    // Handle user input (not implemented in this example)
+    
+    return 0;
+}
+```
+**Step 4: Define the MenuSystem class**
+
+Create a new C++ file, e.g., `MenuSystem.hpp`, and add the following code:
+```cpp
+#ifndef MENU_SYSTEM_HPP
+#define MENU_SYSTEM_HPP
+
+#include <iostream>
+
+class MenuSystem {
+public:
+    void printMenu();
+};
+
+#endif // MENU_SYSTEM_HPP
+```
+**Step 5: Implement the MenuSystem class**
+
+Create a new C++ file, e.g., `MenuSystem.cpp`, and add the following code:
+```cpp
+#include "MenuSystem.hpp"
+
+void MenuSystem::printMenu() {
+    std::cout << "Welcome to Merkel's main menu!" << std::endl;
+    std::cout << "Please select one of the options:" << std::endl;
+    std::cout << "1. Print menu" << std::endl;
+    std::cout << "2. Do something else" << std::endl;
+    
+    char input[10];
+    std::cin >> input;
+    
+    // Handle user input (not implemented in this example)
+}
+```
+**Step 6: Create the Merkelmain class implementation**
+
+Create a new C++ file, e.g., `Merkelmain.cpp`, and add the following code:
+```cpp
+#include "Merkelmain.hpp"
+
+int main() {
+    // Initialize the menu system
+    MenuSystem menu;
+    
+    // Print the menu
+    menu.printMenu();
+    
+    return 0;
+}
+```
+**Step 7: Compile and link the code**
+
+Compile and link the code using the `cl.exe` compiler (Windows) or `g++` compiler (Linux/Mac).
+
+**Step 8: Run the program**
+
+Run the program using the command line or by clicking on the "Debug" button in Visual Studio/XCode.
+
+The program should print the menu and wait for user input. You can add additional functionality to handle user input, such as reading data from a file or sending a message over a network connection.

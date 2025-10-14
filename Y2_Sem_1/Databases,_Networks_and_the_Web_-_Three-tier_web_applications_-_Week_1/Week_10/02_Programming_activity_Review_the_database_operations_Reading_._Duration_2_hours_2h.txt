@@ -1,0 +1,8 @@
+# Programming activity: Review the database operations
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/OsTRO/programming-activity-review-the-database-operations
+
+In this lab activity you will explore how to update an existing database. Please download the following PDF and follow the instructions for this lab activity: 12_Review-and-practise-the-database-operations.pdf PDF File Programming activity: Review the database operations In this lab activity you will explore how to update an existing database. Please download the following PDF and follow the instructions for this lab activity: 12_Review-and-practise-the-database-operations.pdf PDF File Mark as c...

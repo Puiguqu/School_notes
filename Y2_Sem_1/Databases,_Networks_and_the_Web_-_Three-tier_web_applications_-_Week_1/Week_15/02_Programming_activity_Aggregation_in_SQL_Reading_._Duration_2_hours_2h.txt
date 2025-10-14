@@ -1,0 +1,8 @@
+# Programming activity: Aggregation in SQL
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/J3H7y/programming-activity-aggregation-in-sql
+
+In this lab activity you will explore how to use the aggregation functions ‘SUM’, ‘COUNT’, ‘MIN’ and ‘MAX’ in your database. Please download the following PDF and follow the instructions for this lab activity: 21_Aggregation-in-SQL.pdf PDF File Programming activity: Aggregation in SQL In this lab activity you will explore how to use the aggregation functions ‘SUM’, ‘COUNT’, ‘MIN’ and ‘MAX’ in your database. Please download the following PDF and follow the instructions for this lab activity: 21_A...

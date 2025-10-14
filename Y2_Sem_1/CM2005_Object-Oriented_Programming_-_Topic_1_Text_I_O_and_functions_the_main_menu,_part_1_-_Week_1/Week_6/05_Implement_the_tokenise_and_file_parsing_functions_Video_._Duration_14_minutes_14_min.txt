@@ -1,0 +1,74 @@
+# Implement the tokenise and file parsing functions
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/nN0SI/implement-the-tokenise-and-file-parsing-functions
+
+Here is a possible implementation of the `tokenise` and `fileParsing` functions:
+```cpp
+// Tokenise function
+std::vector<std::string> tokenise(const std::string& line) {
+  std::istringstream iss(line);
+  std::vector<std::string> tokens;
+  std::string token;
+
+  while (iss >> token) {
+    tokens.push_back(token);
+  }
+
+  return tokens;
+}
+
+// File parsing function
+std::vector<OrderBookEntry> fileParsing(const std::string& filePath, int &totalOrders, bool &isError) {
+  std::vector<OrderBookEntry> orderList;
+  totalOrders = 0;
+
+  // Open the file for reading
+  std::ifstream file(filePath);
+
+  if (!file.is_open()) {
+    isError = true;
+    return orderList; // Return an empty list on error
+  }
+
+  std::string line;
+  while (std::getline(file, line)) {
+    try {
+      auto tokens = tokenise(line);
+      OrderBookEntry entry;
+
+      // Parse the tokens to create an OrderBookEntry object
+      if (!tokens.empty()) {
+        entry.symbol = tokens[0];
+        if (tokens.size() == 2) {
+          entry.side = tokens[1] == "buy" ? Side::BUY : Side::SELL;
+        }
+        entry.price = std::stod(tokens[1]);
+        entry.quantity = std::stoi(tokens[2]);
+
+        orderList.push_back(entry);
+      } else {
+        isError = true; // Ignore empty lines
+      }
+
+      totalOrders++;
+    } catch (const std::invalid_argument& e) {
+      isError = true;
+    }
+  }
+
+  file.close();
+
+  return orderList;
+}
+```
+Here's a brief explanation of each function:
+
+* `tokenise`: takes a string as input and splits it into tokens using the `std::istringstream` class. It returns a vector of strings, where each string represents a token from the original input.
+* `fileParsing`: reads a file specified by the `filePath` parameter and parses its contents to create an ordered list of `OrderBookEntry` objects. The function also keeps track of the total number of orders (`totalOrders`) and a boolean flag indicating whether there was an error reading the file (`isError`). If an error occurs while parsing a line, it sets `isError` to true and skips that line.
+
+Note that this implementation assumes that each line in the input file has a format like "symbol side price quantity", where "symbol" is a string, "side" is either "buy" or "sell", "price" is a decimal number, and "quantity" is an integer. You may need to adjust the parsing logic if your file format is different.
+
+Also, this implementation uses `std::istringstream` for tokenisation, which assumes that tokens are separated by whitespace characters (spaces, tabs, etc.). If your input file has a different tokenisation scheme, you'll need to modify the `tokenise` function accordingly.

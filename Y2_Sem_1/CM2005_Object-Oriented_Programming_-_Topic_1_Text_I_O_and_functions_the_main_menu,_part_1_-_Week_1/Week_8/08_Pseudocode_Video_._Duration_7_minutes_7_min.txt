@@ -1,0 +1,32 @@
+# Pseudocode
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/LjbLP/pseudocode
+
+This is a transcript of an online course or lecture on computer programming, specifically focused on teaching the concepts of algorithm design and implementation through a simulation of a stock market trading system.
+
+The lecture covers various topics, including:
+
+1. Introduction to I/O operations and functions
+2. Using classes and variables to model data (e.g., OrderBookEntry)
+3. File I/O, exception handling, and algorithms
+4. Writing and testing an algorithm: taking orders and the order matching engine
+5. Object interactions: wallet class
+6. Event-driven programming and inheritance
+7. Refactoring and class design
+8. Advanced class and user interfaces (e.g., using TableListBox and TableListBoxModel)
+
+The course also includes practical exercises, quizzes, and assignments to help students practice and reinforce their understanding of the concepts.
+
+Specific topics covered in this lecture include:
+
+* Reading input from users
+* Inserting orders into an order book
+* Converting pseudocode to C++
+* Implementing a matching algorithm using C++
+* Designing classes for interacting with objects (e.g., wallet, DJAudioPlayer)
+* Using JUCE toolkit for audio programming
+
+The course aims to provide students with a comprehensive understanding of algorithms and data structures, as well as hands-on experience in implementing them using C++.

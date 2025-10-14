@@ -1,0 +1,8 @@
+# 4.002 Starter code for Topic 4
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/2tf60/4-002-starter-code-for-topic-4
+
+Below you will find a link to the starter code for Topic 4. You can either start with this code, or you can continue with your own code that you developed in the worksheets. This code might also provide a reference if you want to check your implementation. merklerex_start_topic_4-20200415 ZIP File 4.002 Starter code for Topic 4 Below you will find a link to the starter code for Topic 4. You can either start with this code, or you can continue with your own code that you developed in the worksheets. This code might also provide a reference if you want to check your implementation. merklerex_start_topic_4-20200415 ZIP File Mark as completed Dislike Report an issue

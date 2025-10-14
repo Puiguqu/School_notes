@@ -1,0 +1,8 @@
+# Programming activity: Updating your database
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/RqPfR/programming-activity-updating-your-database
+
+In this lab activity you will explore how to update items in an existing database. Please download the following PDF and follow the instructions for this lab activity: 13_Updating-the-data-in-a-database.pdf PDF File Programming activity: Updating your database In this lab activity you will explore how to update items in an existing database. Please download the following PDF and follow the instructions for this lab activity: 13_Updating-the-data-in-a-database.pdf PDF File Mark as completed Disli...

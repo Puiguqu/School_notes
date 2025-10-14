@@ -1,0 +1,237 @@
+# 8.111 Implement position control with relative position
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/OYJY6/8-111-implement-position-control-with-relative-position
+
+Here is the code for implementing position control with relative position:
+
+```cpp
+// DJAudioPlayer.h
+#ifndef DJAUDIOPLAYER_H_INCLUDED
+#define DJAUDIOPLAYER_H_INCLUDED
+
+#include "../JuceLibraryCode/JuceHeader.h"
+#include <StringArray.h>
+
+//==============================================================================
+class DJAudioPlayer  : public AudioProcessor
+{
+public:
+    //==============================================================================
+    DJAudioPlayer();
+    ~DJAudioPlayer();
+
+    //==============================================================================
+    void prepareToPlay (double sampleRate, int numSamples) override;
+    void releaseResources() override;
+
+    //==============================================================================
+    void processBlock (AudioBuffer<float>& buffer, MidiBuffer& midiMessages) override;
+
+    //==============================================================================
+    AudioProcessorEditor* createEditor() override;
+
+    //==============================================================================
+    String getPluginName();
+    String getManufacturer();
+    String getProduct();
+    String getArtist();
+    String getCopyright();
+
+    //==============================================================================
+    float normalizePosition(float position);
+    void setSpeed(float speed);
+    float getSpeed();
+    void setGain(float gain);
+    float getGain();
+};
+
+//==============================================================================
+class RelativePositionController  : public Button::Delegate
+{
+public:
+    //==============================================================================
+    RelativePositionController(DJAudioPlayer* audioProcessor, int initialValue = 0);
+    ~RelativePositionController();
+
+    //==============================================================================
+    void buttonStateChanged (ButtonState newState) override;
+};
+
+#endif  // DJAUDIOPLAYER_H_INCLUDED
+
+//==============================================================================
+// DJAudioPlayer.cpp
+
+#include "../JuceLibraryCode/JuceHeader.h"
+#include "DJAudioPlayer.h"
+
+//==============================================================================
+DJAudioPlayer::DJAudioPlayer()
+{
+    addParameter (new AudioProcessorParameter ("position", "Position", Parameter::Int));
+    addParameter (new AudioProcessorParameter ("speed", "Speed", Parameter::Float));
+    addParameter (new AudioProcessorParameter ("gain", "Gain", Parameter::Float));
+
+    auto position = createPositionController();
+    auto speed = createSpeedController();
+    auto gain = createGainController();
+
+    addController (position);
+    addController (speed);
+    addController (gain);
+}
+
+//==============================================================================
+DJAudioPlayer::~DJAudioPlayer()
+{
+}
+
+//==============================================================================
+void DJAudioPlayer::prepareToPlay (double sampleRate, int numSamples)
+{
+}
+
+//==============================================================================
+void DJAudioPlayer::releaseResources()
+{
+}
+
+//==============================================================================
+void DJAudioPlayer::processBlock (AudioBuffer<float>& buffer, MidiBuffer& midiMessages)
+{
+    // TO DO: implement audio processing
+}
+
+//==============================================================================
+AudioProcessorEditor* DJAudioPlayer::createEditor() override
+{
+    return new DJAudioPlayerEditor(this);
+}
+
+//==============================================================================
+String DJAudioPlayer::getPluginName()
+{
+    return "DJ Audio Player";
+}
+
+String DJAudioPlayer::getManufacturer()
+{
+    return "Your Name";
+}
+
+String DJAudioPlayer::getProduct()
+{
+    return "DJ Audio Player Software";
+}
+
+String DJAudioPlayer::getArtist()
+{
+    return "";
+}
+
+String DJAudioPlayer::getCopyright()
+{
+    return "";
+}
+
+//==============================================================================
+float DJAudioPlayer::normalizePosition(float position)
+{
+    // TO DO: implement normalize position logic
+    return 0.0f;
+}
+
+void DJAudioPlayer::setSpeed(float speed)
+{
+    setParameter ("speed", speed);
+}
+
+float DJAudioPlayer::getSpeed()
+{
+    return getParameter("speed").getValue();
+}
+
+void DJAudioPlayer::setGain(float gain)
+{
+    setParameter ("gain", gain);
+}
+
+float DJAudioPlayer::getGain()
+{
+    return getParameter("gain").getValue();
+}
+
+//==============================================================================
+RelativePositionController::RelativePositionController(DJAudioPlayer* audioProcessor, int initialValue) :
+    ButtonState::ButtonDelegate (initialValue),
+    position (audioProcessor)
+{
+    // TO DO: initialize controller
+}
+
+RelativePositionController::~RelativePositionController()
+{
+}
+
+//==============================================================================
+void RelativePositionController::buttonStateChanged (ButtonState newState)
+{
+    if (newState == ButtonState::pressed)
+    {
+        float newPosition = normalizePosition(position->getParameter(0).getValue());
+        position->setParameter ("position", newPosition);
+    }
+    else
+    {
+        position->getParameter(0).setValue(position->getParameter(0).getValue() + 1.0f);
+    }
+}
+
+//==============================================================================
+DJAudioPlayer::DJAudioPlayerEditor : public AudioProcessorEditor
+{
+public:
+    //==============================================================================
+    DJAudioPlayerEditor (DJAudioPlayer* audioProcessor);
+    ~DJAudioPlayerEditor();
+
+private:
+    //==============================================================================
+    DJAudioPlayer* audioProcessor;
+
+    // GUI elements
+    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (DJAudioPlayerEditor)
+};
+
+//==============================================================================
+DJAudioPlayer::DJAudioPlayerEditor::DJAudioPlayerEditor (DJAudioPlayer* audioProcessor) :
+    AudioProcessorEditor (audioProcessor),
+    audioProcessor (audioProcessor)
+{
+}
+
+//==============================================================================
+DJAudioPlayer::DJAudioPlayerEditor::~DJAudioPlayerEditor()
+{
+}
+
+//==============================================================================
+ DJAudioPlayerEditor::~DJAudioPlayerEditor()
+{
+}
+```
+
+This code implements a basic `DJAudioPlayer` class with position control using a relative position controller. The controller is attached to a GUI element and responds to button state changes.
+
+To compile this code, you will need to link against the Juce library. You can do this by adding the following line to your compiler command:
+
+```
+-L../JuceLibraryCode/
+```
+
+You may also need to add the `-I../JuceLibraryCode/` flag to include the Juce headers.
+
+Note that this code is incomplete and you will need to implement the logic for the `normalizePosition()` function, as well as the GUI elements in the editor. Additionally, you will need to create a `DJAudioPlayerEditor` class that inherits from `AudioProcessorEditor`.

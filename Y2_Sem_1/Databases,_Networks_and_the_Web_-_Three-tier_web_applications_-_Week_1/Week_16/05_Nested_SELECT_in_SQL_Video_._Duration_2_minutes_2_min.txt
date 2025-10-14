@@ -1,0 +1,31 @@
+# Nested SELECT in SQL
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/QammO/nested-select-in-sql
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The transcript discusses NestedSelects in SQL, specifically how to find books that are more expensive than a given book.
+2. The inner query selects the price of the WebArchitecture book, which returns $31.99.
+3. The outer query selects books with prices greater than $31.99 using a NestedSelect.
+4. To solve a similar problem, we need to find all computing books and then select the minimum price in that category.
+5. We can use the following queries: SELECT STAR FROM book WHERE category == Computing and SELECT minPrice FROM book WHERE category == Computing.
+6. The query MINPRICE = (SELECT MIN(PRICE) FROM book WHERE category == Computing) returns the minimum price of computing books.
+7. We can then select other books that are cheaper than this minimum price using a NestedSelect: SELECT NAME, PRICE, CATEGORY FROM book WHERE PRICE < minPrice.
+8. This query selects books Physics and Zoology as examples of books that are cheaper than the cheapest computing book.
+
+Key concepts:
+
+* NestedSelects in SQL
+* Using subqueries to solve problems
+* Finding the minimum price in a category using an aggregation function
+
+Technical details:
+
+* The MyOtherBookshop database is used for this example.
+* The WebArchitecture book has a price of $31.99.
+* The computing books are those with category == Computing.
+
+No links or formulae were specified in the original text, but these concepts and technical details are relevant to understanding NestedSelects in SQL.

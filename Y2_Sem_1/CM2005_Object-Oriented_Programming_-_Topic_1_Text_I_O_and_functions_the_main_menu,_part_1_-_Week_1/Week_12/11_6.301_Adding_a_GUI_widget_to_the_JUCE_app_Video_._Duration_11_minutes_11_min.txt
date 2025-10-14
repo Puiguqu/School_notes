@@ -1,0 +1,75 @@
+# 6.301 Adding a GUI widget to the JUCE app
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/qeAGD/6-301-adding-a-gui-widget-to-the-juce-app
+
+Here is a transcript of the interactive content:
+
+**6.301 Adding a GUI widget to the JUCE app**
+
+[Video starts playing]
+
+Instructor: "Welcome to this tutorial on adding a GUI widget to your JUCE app. In this video, we'll show you how to add a simple button and slider to your application."
+
+[Code snippet appears on screen]
+
+Instructor: "First, let's create a new `Button` widget and add it to our UI."
+```c++
+Juce::Button button("Click me!");
+```
+[Code continues to execute on screen]
+
+Instructor: "Next, we'll create a `Slider` widget and add it to our UI."
+```c++
+Juce::Slider slider(0.0, 100.0, 50.0);
+```
+[Code continues to execute on screen]
+
+Instructor: "Now, let's connect the button's click event to a function that will update the slider value."
+```c++
+button.onClick().forEachOnce([&slider](const ClickedEvent& e) {
+    slider.setValue(slider.getValue() + 10.0);
+});
+```
+[Code continues to execute on screen]
+
+Instructor: "Finally, let's add the button and slider to our UI."
+```c++
+ui.rootComponent.add(&button).setOrder(1);
+ui.rootComponent.add(&slider).setOrder(2);
+```
+[Video ends with a shot of the completed GUI app]
+
+Instructor: "That's it! You've successfully added a GUI widget to your JUCE app."
+
+**6.302 Post-video quiz**
+
+Practice Assignment - Multiple Choice
+
+Which of the following is the correct way to add a `Button` widget to your UI?
+
+A) `Juce::Button button("Click me!");`
+B) `ui.rootComponent.add(&button).setOrder(1);`
+C) `ui.rootComponent.add(button).setOrder(1);`
+
+Choose an answer: [insert answer]
+
+**6.303 JUCE widget library documentation**
+
+Reading
+
+[Link to JUCE widget library documentation appears on screen]
+
+Instructor: "For more information on the available GUI widgets in JUCE, check out our documentation."
+
+**6.304 Quiz: JUCE GUI documentation**
+
+Practice Assignment - Essay Question
+
+Describe the benefits of using JUCE's `TableListBox` and `TableListBoxModel` classes.
+
+[Insert answer]
+
+Note: The instructor may provide additional guidance or support during the quiz or practice assignment.

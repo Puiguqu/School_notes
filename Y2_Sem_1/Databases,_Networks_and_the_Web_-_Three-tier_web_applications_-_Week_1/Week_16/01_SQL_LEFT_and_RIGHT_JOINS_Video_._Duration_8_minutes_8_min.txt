@@ -1,0 +1,50 @@
+# SQL LEFT and RIGHT JOINS
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/gITFE/sql-left-and-right-joins
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture covers SQL left and right joins.
+2. SQL join is discussed as part of the previous topic.
+3. A new art database example is introduced to illustrate the concept.
+4. The entity relationship diagram for the art database consists of two entities: Artwork and Museum.
+5. Each artwork can be located at zero or one museum, resulting in an optional one-to-one relationship between Artwork and Museum.
+6. Each museum displays zero to many artworks, resulting in an optional many-to-many relationship between Museum and Artwork.
+7. The primary key fields in both tables are ID and Artist, respectively.
+8. The database schema is created using MySQL commands.
+
+SQL LEFT JOIN:
+9. A LEFT JOIN returns all records from the left table (Artwork), even if there is no match in the right table (Museum).
+10. If there is a match, the corresponding record from the right table is included.
+11. If there is no match, NULL values are returned for the right table.
+
+SQL RIGHT JOIN:
+12. A RIGHT JOIN returns all records from the right table (Museum), even if there is no match in the left table (Artwork).
+13. If there is a match, the corresponding record from the left table is included.
+14. If there is no match, NULL values are returned for the left table.
+
+SQL LEFT EXCLUDING JOIN:
+15. A LEFT EXCLUDING JOIN returns all records from the left table that do not have a match in the right table (Museum).
+16. This join operation is used to exclude rows from the result set.
+
+SQL RIGHT EXCLUDING JOIN:
+17. A RIGHT EXCLUDING JOIN returns all records from the right table that do not have a match in the left table (Artwork).
+
+SQL OUTER INCLUDING JOIN:
+18. An OUTER INCLUDING JOIN returns all records from both tables, including those with no matches.
+19. This join operation is used to include rows from either or both tables.
+
+SQL OUTER EXCLUDING JOIN:
+20. An OUTER EXCLUDING JOIN returns all records from one table that do not have a match in the other table.
+
+Advanced Join Operations:
+21. Nested SELECT statements can be used to perform complex joins.
+22. Additional reading materials are provided for further learning on SQL joins and nested SELECT statements.
+
+Practice Assignments:
+23. Practice assignments are available to reinforce understanding of left and right joins.
+24. The practice assignments include interactive exercises to test your skills.
+25. Further reading materials and additional resources are provided for continued learning.

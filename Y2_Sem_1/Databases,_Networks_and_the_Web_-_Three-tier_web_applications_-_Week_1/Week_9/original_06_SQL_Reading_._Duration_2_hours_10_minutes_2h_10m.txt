@@ -1,0 +1,8 @@
+# SQL
+Reading•
+. Duration: 2 hours 10 minutes
+2h 10m
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/0tvLt/sql
+
+The SQL language provides a comprehensive set of commands for managing data and databases stored in a RDBMS. The following reading provides more detail on SQL and an extensive example case study that will help you put this into a real-world context. Hoffer, Venkataraman and Topi, Chapter 5, Introduction to SQL, from ‘ The SQL environment ’ up to ‘Removing Tables’. SQL The SQL language provides a comprehensive set of commands for managing data and databases stored in a RDBMS. The following reading provides more detail on SQL and an extensive example case study that will help you put this into a real-world context. Hoffer, Venkataraman and Topi, Chapter 5, Introduction to SQL, from ‘ The SQL environment ’ up to ‘Removing Tables’. Mark as completed Dislike Report an issue

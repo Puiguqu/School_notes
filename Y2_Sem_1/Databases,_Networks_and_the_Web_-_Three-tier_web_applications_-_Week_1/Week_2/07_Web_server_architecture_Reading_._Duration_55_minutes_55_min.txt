@@ -1,0 +1,8 @@
+# Web server architecture
+Reading•
+. Duration: 55 minutes
+55 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/7BAct/web-server-architecture
+
+Read Chapter 3 to learn more about web server architecture: Mendez, M. The missing link: an introduction to web development and programming . (Geneseo, NY: Open SUNY textbooks, 2014). [ISBN 9781502447968]. If this link is broken, please let us know via the Student Portal . Web server architecture Read Chapter 3 to learn more about web server architecture: Mendez, M. The missing link: an introduction to web development and programming . (Geneseo, NY: Open SUNY textbooks, 2014). [ISBN 978150244796...

@@ -1,0 +1,8 @@
+# Topic 4 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/ojRjN/topic-4-summary
+
+In this topic you have learned about: creating forms using HTML collecting form data when the request method is GET (req.query) collecting form data when the request method is POST (req.body). Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic4_eval DOCX File Topic 4 summary In this topic you have learned about: creating forms using HTML collecting form data when the request method is GET (req.query) collecting form data when the request method is POST (req.body). Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic4_eval DOCX File Mark as completed Dislike Report an issue

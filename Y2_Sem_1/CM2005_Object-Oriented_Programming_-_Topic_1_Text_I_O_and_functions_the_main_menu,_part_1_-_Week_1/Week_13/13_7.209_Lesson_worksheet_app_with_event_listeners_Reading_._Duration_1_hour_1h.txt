@@ -1,0 +1,36 @@
+# 7.209 Lesson worksheet: app with event listeners
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/rlATX/7-209-lesson-worksheet-app-with-event-listeners
+
+Here is a summary of the provided text in 25 sentences, focusing on key concepts and findings:
+
+1. The text introduces the JUCE toolkit and its application development lessons.
+2. The first lesson covers "app with event listeners," which includes a worksheet (7209_juce_event_listener_worksheet.md-20200418.pdf) for completion.
+3. The course structure is outlined, covering 20 weeks of topics such as I/O, functions, classes, variables, file I/O, algorithms, object interactions, and more.
+4. Week 1 covers "Text I/O and functions: the main menu, part 1," which introduces text input/output and basic functions.
+5. Week 2 continues with "Text I/O and functions: the main menu, part 2."
+6. The course then moves on to using classes and variables (Weeks 3-4) and file I/O, exception handling, and algorithms (Weeks 5-6).
+7. Weeks 7-8 focus on writing and testing an algorithm with taking orders and the order matching engine.
+8. Week 9 introduces object interactions through the "wallet class," part 1.
+9. The course then assesses understanding of object interactions (Week 10) before moving on to introducing the DJ application and JUCE toolkit (Weeks 11-12).
+10. In Week 7, Topic 7 Video welcomes students to the event-driven programming and inheritance lesson.
+11. The starter code for Topic 7 is provided, along with a video that explains "Anatomy of a JUCE application and macros" (Video Duration: 9 minutes).
+12. A post-video quiz practice assignment is assigned after watching this video.
+13. In Week 7, the video "How to run a JUCE example application" is presented (Duration: 3 minutes).
+14. After completing this video, students participate in a post-video quiz practice assignment.
+15. The course then delves into the "lesson worksheet: app with event listeners," which requires completion of a worksheet.
+16. This lesson introduces the concept of an "event listener pattern" and its implementation in JUCE (Video Duration: 2 minutes).
+17. Students implement a Button::Listener in JUCE (Duration: 9 minutes) as part of this lesson.
+18. A post-video quiz practice assignment is assigned after completing this step.
+19. The video "Implement a Slider Listener" is presented, which focuses on using sliders with event listeners (Duration: 9 minutes).
+20. Students participate in a post-video quiz practice assignment after watching this video.
+21. The course covers pure virtual functions forcing implementation and quick examples (Video Duration: 6 minutes).
+22. This lesson introduces the concept of inheritance and its application in JUCE programming.
+23. After completing this lesson, students experiment with inheritance and virtual functions (Duration: 10 minutes).
+24. The final lesson covers "Short task and discussion," which provides a short task for completion and discussion prompts (Duration: 30 minutes).
+25. The course concludes with the submission of coursework 2 graded assignment #7.209.
+
+This summary aims to capture the key concepts, topics, and learning objectives covered in the provided text, while preserving important technical details and formulas related to JUCE application development.

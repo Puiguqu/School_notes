@@ -1,0 +1,32 @@
+# 8.109 Implement setSpeed and setGain
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/32VnK/8-109-implement-setspeed-and-setgain
+
+Based on the transcript provided, it appears that the topic is about implementing the `setSpeed` and `setGain` functions in the `DJAudioPlayer` class. Here's a summary of the content:
+
+The instructor guides the students through the implementation of the `setSpeed` and `setGain` functions in the `DJAudioPlayer` class, which are responsible for controlling the speed of audio playback and adjusting the gain.
+
+**Section 1: Implementing setSpeed**
+
+* The instructor explains that to implement `setSpeed`, they need to create a new function that takes a float value as an argument.
+* They use the `resamplingAudioSource` object to apply the speed change.
+* The code is shown, which involves calling the `setParameter` method on the `resamplingAudioSource` object with the speed value.
+
+**Section 2: Implementing setGain**
+
+* The instructor explains that to implement `setGain`, they need to create a new function that takes a float value as an argument.
+* They use the `gainControl` object to adjust the gain of the audio source.
+* The code is shown, which involves calling the `setParameter` method on the `gainControl` object with the gain value.
+
+**Additional Topics**
+
+* The instructor briefly touches on other topics, including:
+	+ Refactoring and class design
+	+ Polymorphism
+	+ Initialiser lists, constructors, and threads
+	+ Advanced class and user interfaces (using TableListBox and TableListBoxModel)
+
+Overall, the topic focuses on implementing specific functionality in the `DJAudioPlayer` class, as well as covering additional topics related to programming principles and software development best practices.

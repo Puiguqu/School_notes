@@ -1,0 +1,55 @@
+# Representing multiple order book entries: vector
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/1rglB/representing-multiple-order-book-entries-vector
+
+Based on the provided transcript, here is a step-by-step guide to representing multiple order book entries using a vector:
+
+**Step 1: Define the OrderBookEntry class**
+```
+class OrderBookEntry {
+public:
+    int id;
+    double price;
+    std::string side; // "buy" or "sell"
+    int quantity;
+
+    OrderBookEntry(int id, double price, std::string side, int quantity)
+        : id(id), price(price), side(side), quantity(quantity) {}
+};
+```
+**Step 2: Create a vector of OrderBookEntry objects**
+```
+std::vector<OrderBookEntry> orderBookEntries;
+orderBookEntries.push_back(OrderBookEntry(1, 10.0, "buy", 100));
+orderBookEntries.push_back(OrderBookEntry(2, 20.0, "sell", 50));
+// Add more entries to the vector...
+```
+**Step 3: Iterate over the vector and print each entry**
+```
+for (const auto& entry : orderBookEntries) {
+    std::cout << "Order Book Entry " << entry.id << ":" << std::endl;
+    std::cout << "Price: " << entry.price << std::endl;
+    std::cout << "Side: " << entry.side << std::endl;
+    std::cout << "Quantity: " << entry.quantity << std::endl;
+}
+```
+**Step 4: Access and manipulate specific entries in the vector**
+```
+OrderBookEntry& entry = orderBookEntries[0];
+entry.price = 15.0; // Update the price of the first entry
+std::cout << "Updated Price of Entry 1: " << entry.price << std::endl;
+```
+**Step 5: Use iterators to iterate over the vector and perform operations**
+```
+auto it = orderBookEntries.begin();
+while (it != orderBookEntries.end()) {
+    if ((*it).side == "buy") {
+        (*it).quantity *= 2; // Increase quantity of buying entry
+    }
+    ++it;
+}
+```
+Note: The `OrderBookEntry` class is a simple example and may need to be modified or expanded based on the specific requirements of your project.

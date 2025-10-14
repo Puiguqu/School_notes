@@ -1,0 +1,42 @@
+# Implement cash check on bids and asks
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/wEY3O/implement-cash-check-on-bids-and-asks
+
+Here is the code to implement the cash check on bids and asks:
+```cpp
+#include "CashCheck.h"
+
+// Constructor
+CashCheck::CashCheck(int bidLimit, int askLimit) {
+    this->bidLimit = bidLimit;
+    this->askLimit = askLimit;
+}
+
+// Check if we have enough cash for a bid/ask
+bool CashCheck::checkCashForBid(const std::string& bidAmount, const std::string& bidType) {
+    // Get the current cash amount from the Wallet class
+    int currentCash = wallet.getBalance();
+
+    // Calculate the maximum bid/ask amount based on the limit
+    double maxAmount = (bidType == "bid") ? bidLimit : askLimit;
+
+    // Check if we have enough cash for the bid/ask
+    return currentCash >= maxAmount;
+}
+
+// Check if we have enough cash for a trade
+bool CashCheck::checkCashForTrade(const std::string& bidAmount, const std::string& bidType, const std::string& askAmount, const std::string& askType) {
+    // Get the current cash amount from the Wallet class
+    int currentCash = wallet.getBalance();
+
+    // Calculate the total trade cost based on the bid and ask amounts
+    double totalCost = (bidType == "bid") ? bidAmount * 0.95 : askAmount;
+
+    // Check if we have enough cash for the trade
+    return currentCash >= totalCost;
+}
+```
+Note that I assumed that the `Wallet` class has a method called `getBalance()` to retrieve the current cash amount, and that the `bidLimit` and `askLimit` variables are defined elsewhere in the code.

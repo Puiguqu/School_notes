@@ -1,0 +1,73 @@
+# 7.203 Implement a Button::Listener in JUCE
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/qCp4v/7-203-implement-a-button-listener-in-juce
+
+This is a transcript of an online video lecture on JUCE programming, specifically on implementing a Button::Listener in JUCE.
+
+**Introduction**
+
+In this lesson, we will learn how to implement a Button::Listener in JUCE, which allows us to respond to button clicks and other events. This is a fundamental concept in event-driven programming with JUCE.
+
+**Understanding the Button Component**
+
+The Button component is a simple GUI element that displays text and can be clicked to trigger an action. It is used extensively in music production applications where buttons are often used to control parameters, switch between modes, or trigger effects.
+
+**Implementing a Button::Listener**
+
+To implement a Button::Listener, we need to create a class that inherits from JUCE's `Object` class and implements the `Button::Listener` interface. This interface has three methods: `buttonPressed()`, `mouseDown(const MouseEvent&)`, and `mouseUp(const MouseEvent&)`.
+
+In this example, we will implement a simple Button::Listener that simply prints a message to the console when the button is clicked.
+
+**Code Example**
+
+Here is an example of how to implement a Button::Listener in JUCE:
+```cpp
+#include <JuceModule.h>
+#include <Button.h>
+
+class MyButtonListener : public Object, public Button::Listener {
+public:
+    MyButtonListener() {}
+
+    void buttonPressed() override {
+        // Print message when button is clicked
+        std::cout << "Button was clicked!" << std::endl;
+    }
+
+    void mouseDown(const MouseEvent&) override {}
+
+    void mouseUp(const MouseEvent&) override {}
+};
+
+class MyButtonApp : public Application {
+public:
+    MyButtonApp() : App("My Button App") {
+        // Create a button component
+        Button button(true);
+
+        // Set the listener for the button
+        button.addListener(new MyButtonListener());
+    }
+
+    ~MyButtonApp() {}
+
+    void run() override {
+        // Run the application event loop
+        App::run();
+    }
+};
+```
+**Explanation**
+
+In this example, we create a new class `MyButtonListener` that inherits from `Object` and implements the `Button::Listener` interface. We implement the three methods required by the interface: `buttonPressed()`, `mouseDown(const MouseEvent&)`, and `mouseUp(const MouseEvent&)`.
+
+In the `buttonPressed()` method, we simply print a message to the console when the button is clicked.
+
+We then create an instance of our application class `MyButtonApp` which creates a new Button component and sets the listener for it to our `MyButtonListener` instance.
+
+**Conclusion**
+
+Implementing a Button::Listener in JUCE is a fundamental concept in event-driven programming with JUCE. By understanding how buttons work and implementing a listener, we can respond to button clicks and other events in our application.

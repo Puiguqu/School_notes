@@ -1,0 +1,95 @@
+# Create a vector of objects
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/tM0eT/create-a-vector-of-objects
+
+The code snippet is a C++ implementation of a class called `OrderBookEntry` that represents an entry in an order book. The class has several member variables and methods, including:
+
+*   Member variables:
+    *   `price`: The price at which the order can be filled.
+    *   `size`: The size of the order.
+    *   `type`: The type of order (bid or ask).
+    *   `time`: The time when the order was placed.
+*   Member functions:
+    *   `OrderBookEntry(double price, int size, char type)`: A constructor to initialize an `OrderBookEntry` object with a given price, size, and type.
+    *   `void print()`: A method to print the details of an `OrderBookEntry` object.
+
+Here is the code snippet:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+// Enum for order types
+enum OrderType {
+    BID,
+    ASK
+};
+
+class OrderBookEntry {
+private:
+    double price;
+    int size;
+    char type;  // B or A for bid/ask
+
+public:
+    // Constructor to initialize an OrderBookEntry object
+    OrderBookEntry(double price, int size, char type) : price(price), size(size), type(type) {}
+
+    // Method to print the details of an OrderBookEntry object
+    void print() {
+        cout << "Price: " << price << endl;
+        cout << "Size: " << size << endl;
+        if (type == BID)
+            cout << "Type: Bid" << endl;
+        else if (type == ASK)
+            cout << "Type: Ask" << endl;
+    }
+};
+
+// Function to create a vector of OrderBookEntry objects
+void createOrderBook() {
+    OrderBookEntry order[3];
+    // Initialize the order book with some sample data
+    order[0] = OrderBookEntry(10.5, 100, BID);
+    order[1] = OrderBookEntry(12.2, 50, ASK);
+    order[2] = OrderBookEntry(11.8, 200, BID);
+
+    // Print the details of each order in the order book
+    for (int i = 0; i < 3; i++) {
+        cout << "Order " << i + 1 << ":" << endl;
+        order[i].print();
+    }
+}
+
+// Function to print a vector of OrderBookEntry objects
+void printOrderBook(OrderBookEntry* orders, int size) {
+    for (int i = 0; i < size; i++) {
+        cout << "Price: " << orders[i].price << endl;
+        cout << "Size: " << orders[i].size << endl;
+        if (orders[i].type == OrderType::BID)
+            cout << "Type: Bid" << endl;
+        else if (orders[i].type == OrderType::ASK)
+            cout << "Type: Ask" << endl;
+
+        cout << endl;
+    }
+}
+
+// Function to test the code
+int main() {
+    createOrderBook();
+    return 0;
+}
+```
+
+**How it works**
+
+*   The `createOrderBook` function creates an array of `OrderBookEntry` objects and initializes them with sample data.
+*   The `printOrderBook` function takes a pointer to an array of `OrderBookEntry` objects and its size as parameters. It then prints the details of each order in the order book.
+
+**Example usage**
+
+You can run the code by compiling it with your favorite C++ compiler (e.g., `g++ -o myprogram myprogram.cpp`) and running it with the command `./myprogram`. The program will print out the details of three orders in an order book.

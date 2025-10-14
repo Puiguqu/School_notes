@@ -1,0 +1,45 @@
+# Implement getKnownProducts with a map
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/DCytE/implement-getknownproducts-with-a-map
+
+Here is a breakdown of the code snippet provided:
+
+**Context:** The code appears to be written in C++ and is part of a larger project that simulates a DJ application.
+
+**Code Snippet:**
+```cpp
+// Implement getKnownProducts with a map
+std::map<std::string, std::vector<Product>> knownProducts;
+
+void getKnownProducts() {
+    // Load products from database or file
+    // ...
+
+    for (const auto& product : products) {
+        knownProducts[product.name] = product;
+    }
+}
+
+// ...
+
+std::vector<Product> getOrders(const std::string& productId) {
+    if (knownProducts.find(productId) != knownProducts.end()) {
+        return knownProducts[productId];
+    } else {
+        // Return empty vector or throw exception
+        // ...
+    }
+}
+```
+**Explanation:**
+
+* The code defines a `std::map` called `knownProducts`, which maps product names to vectors of `Product` objects.
+* The `getKnownProducts()` function loads products from a database or file and populates the `knownProducts` map. Each product is assigned a key (its name) and its corresponding value is a vector of `Product` objects.
+* The `getOrders()` function takes a product ID as input and returns a vector of `Product` objects associated with that ID. It first checks if the product ID exists in the `knownProducts` map. If it does, it returns the corresponding vector of products; otherwise, it returns an empty vector or throws an exception (implementation not shown).
+
+**Note:** The code snippet assumes that the `Product` class is defined elsewhere and has a constructor that takes a `std::string` argument for its name.
+
+The implementation of `getKnownProducts()` and `getOrders()` may vary depending on the specific requirements of the project, such as how to load products from a database or file.

@@ -1,0 +1,8 @@
+# 6.206 JUCE links
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/HQBrc/6-206-juce-links
+
+Here are some links relating to the JUCE library and the Projucer tool: JUCE (no date) https://juce.com accessed 16 April 2020. Projucer (no date) https://juce.com/discover/projucer accessed 16 April 2020. URLs given on this page were checked at the time of publication but will not be maintained. Please let us know via the Student Portal if you can no longer access this link. The University of London cannot take responsibility for pages maintained by external providers. 6.206 JUCE links Here are some links relating to the JUCE library and the Projucer tool: JUCE (no date) https://juce.com accessed 16 April 2020. Projucer (no date) https://juce.com/discover/projucer accessed 16 April 2020. URLs given on this page were checked at the time of publication but will not be maintained. Please let us know via the Student Portal if you can no longer access this link. The University of London cannot take responsibility for pages maintained by external providers. Mark as completed Dislike Report an issue

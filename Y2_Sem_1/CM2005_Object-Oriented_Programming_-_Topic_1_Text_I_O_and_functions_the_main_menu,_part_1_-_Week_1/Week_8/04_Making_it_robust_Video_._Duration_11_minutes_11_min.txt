@@ -1,0 +1,31 @@
+# Making it robust
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/ZToNV/making-it-robust
+
+Based on the provided transcript, it appears that the topic is about making a program more robust by adding layers of error handling and input validation.
+
+The speaker mentions reading a line from the user to retrieve data for an `OrderBookEntry` class. They then discuss how to make this process more robust by checking if the input is valid before using it.
+
+The speaker also talks about inserting an order into the order book and mentions that they need to handle potential errors, such as when the user inputs invalid data.
+
+Throughout the transcript, there are frequent references to making the program more "robust" or adding layers of error handling. The speaker uses terms like "input validation" and "error checking" to describe these techniques.
+
+Some specific examples mentioned in the transcript include:
+
+* Checking if a line read from the user is not empty
+* Using try-catch blocks to catch exceptions when inserting an order into the order book
+* Validating user input for things like bid and ask prices
+
+The speaker seems to emphasize the importance of adding these layers of robustness to make the program more reliable and less prone to errors.
+
+Some key takeaways from the transcript include:
+
+* Making a program more robust by adding error handling and input validation techniques
+* Using try-catch blocks to catch exceptions and handle potential errors
+* Validating user input for things like bid and ask prices
+* Checking if a line read from the user is not empty before using it
+
+Overall, the speaker seems to be emphasizing the importance of writing robust code that can handle potential errors and edge cases.

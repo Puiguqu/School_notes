@@ -1,0 +1,39 @@
+# Adding routes to your server
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/y6e9w/adding-routes-to-your-server
+
+Here is a summary of the text in 25 sentences:
+
+1. The lecture discusses building a web server application using Node.js and Express.
+2. The student should have already built a web server application that serves two pages: a homepage displaying "Hello World" and an about page with simple text.
+3. The code relies on the Express framework, which is a lightweight framework for creating web applications with Node.js.
+4. The web application will run on a web server, which can be local or hosted in the cloud.
+5. To respond to HTTP requests, the web application uses Express and Node.
+6. The first line of code imports the Express module, making it available to the application through an object called Express.
+7. The next line creates an application object using the Express object, which will serve as the key object for managing the application.
+8. A constant port number is set up as 8081, and a root handler is established, linking the home page root with an anonymous function that returns "hello world".
+9. Another root handler is established, linking the about page root to another anonymous function that returns a simple HTML string.
+10. The listen method is called, setting up the application to listen for HTTP requests coming in on the given port number.
+11. When a request comes in from a client for a particular resource (the home page), the first root handler matches, and the response "hello world" is returned back to the client.
+12. If the client requests the about page, the first registered root handler does not match, so it tries the next root handler, which matches and returns the about page HTML string.
+13. The code uses arrow functions to create routes for the application.
+14. The Express framework provides a lightweight way to build web applications with Node.js.
+15. The student should review their code to see how it works and understand how the Express framework is used.
+16. The web server application can be run by typing "node index.js" in the command line.
+17. When the application starts, it will load on the computer and prepare to receive HTTP requests.
+18. The Express module imports the necessary functionality for building web applications with Node.js.
+19. The application object is used as a key object for managing the application's routes and handlers.
+20. The root handler establishes a connection between a URL path (e.g. '/') and an anonymous function that returns a response.
+21. The listen method sets up the application to receive HTTP requests on a specific port number.
+
+Here are the remaining 5 sentences:
+
+22. The student can save notes for sections of text by pressing CTRL + S.
+23. To expand or contract their selection, students can use CTRL + arrow keys or shift + CTRL + arrow keys.
+24. For screen readers that cannot use arrow keys, students can replace them with H J K L keys.
+25. Some screen readers may require using CTRL in conjunction with the alt key.
+
+Note: I did not include any information about the rest of the course material in this summary, as it was not provided in the text.

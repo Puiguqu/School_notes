@@ -1,0 +1,39 @@
+# Moving through time
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/eeTjx/moving-through-time
+
+It appears that this is a transcript of an interactive coding lesson, where students are working on implementing a program to simulate a DJ application. The specific code snippet being discussed is related to moving through time and iterating over vectors.
+
+Here is a summary of the conversation:
+
+* The instructor explains how to set up the `earliestTime` variable using the `min()` function.
+* The student asks for help with setting up the `earliestTime` variable, as they are not sure what value it should be initialized with.
+* The instructor responds that the `earliestTime` variable should be initialized with a valid time value, such as a timestamp or a date and time string.
+
+The code snippet being discussed is:
+```
+int earliestTime = -1; // initialize earliestTime to a default value
+while (true) {
+  while (time > earliestTime) {
+    // process orders between earliestTime and current_time
+    // ...
+  }
+  earliestTime = min(current_time, earliestTime + time_interval);
+}
+```
+The instructor is guiding the student through implementing this code snippet, explaining each step of the loop and how it relates to moving through time.
+
+Here is a possible response from the instructor:
+
+"Great job on setting up the `earliestTime` variable! Now, let's talk about the inner while loop. This loop processes orders between `earliestTime` and the current time. Make sure you're correctly calculating the interval between each order using `time_interval`. Remember to update `earliestTime` with the next valid timestamp.
+
+Next, let's focus on the outer while loop. This loop is responsible for iterating over time intervals. We want to make sure we're not skipping any orders or losing track of time. Can you think of a way to handle this situation?"
+
+The student responds by asking about how to handle situations where `earliestTime` is updated multiple times in quick succession.
+
+The instructor provides guidance on how to implement this, including using `std::unique_ptr` and iterators to improve performance and prevent unnecessary memory allocations.
+
+And so the lesson continues, with the instructor guiding the student through implementing the program and addressing any questions or concerns they may have.

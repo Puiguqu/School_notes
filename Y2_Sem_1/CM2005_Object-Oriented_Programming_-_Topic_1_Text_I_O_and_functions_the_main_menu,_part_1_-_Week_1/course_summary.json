@@ -1,0 +1,1111 @@
+{
+  "course_title": "CM2005 Object-Oriented Programming - Topic 1 Text I/O and functions: the main menu, part 1 - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Module_introduction_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Module_introduction_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_Module_syllabus_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Module_syllabus_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Demonstrating_the_merkelsim_currency_exchange_simulation_Video_._Duration_5_minutes_5_min",
+            "summary_file": "04_Demonstrating_the_merkelsim_currency_exchange_simulation_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "05_Demonstrating_the_second_example_application_otodecks_DJ_application_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Demonstrating_the_second_example_application_otodecks_DJ_application_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Introduction_to_Topic_1_Video_._Duration_1_minute_1_min",
+            "summary_file": "06_Introduction_to_Topic_1_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "07_Reading_for_Topic_1_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_Reading_for_Topic_1_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "08_Is_C++_a_low-level_language_Video_._Duration_2_minutes_2_min",
+            "summary_file": "08_Is_C++_a_low-level_language_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "09_Writing_our_first_program_Video_._Duration_9_minutes_9_min",
+            "summary_file": "09_Writing_our_first_program_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "10_How_to_access_Visual_Studio_Code_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "10_How_to_access_Visual_Studio_Code_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "11_How_to_compile_a_program_in_web-based_Visual_Studio_Code_Video_._Duration_5_minutes_5_min",
+            "summary_file": "11_How_to_compile_a_program_in_web-based_Visual_Studio_Code_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "12_How_to_back-up_your_virtual_lab_work_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "12_How_to_back-up_your_virtual_lab_work_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "13_Useful_Bash_commands_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "13_Useful_Bash_commands_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "14_Print_a_list_of_options_(menu)_Video_._Duration_5_minutes_5_min",
+            "summary_file": "14_Print_a_list_of_options_(menu)_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "15_Receiving_user_input_with_the_extraction_operator_Video_._Duration_4_minutes_4_min",
+            "summary_file": "15_Receiving_user_input_with_the_extraction_operator_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "16_If_statements_conditionally_printing_responses_to_the_user_Video_._Duration_6_minutes_6_min",
+            "summary_file": "16_If_statements_conditionally_printing_responses_to_the_user_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "17_Let's_experiment_with_std_cout_and_std_cin_Video_._Duration_7_minutes_7_min",
+            "summary_file": "17_Let's_experiment_with_std_cout_and_std_cin_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "18_1.401a_About_the_end_of_line_character_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "18_1.401a_About_the_end_of_line_character_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "19_1.402_Babbage_and_C++_standards_quiz_Practice_Quiz_2_questions",
+            "summary_file": "19_1.402_Babbage_and_C++_standards_quiz_Practice_Quiz_2_questions.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Background_text-based_simulations_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Background_text-based_simulations_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_What_is_refactoring_Video_._Duration_1_minute_1_min",
+            "summary_file": "02_What_is_refactoring_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "03_Write_a_print_menu_function_and_a_processOption_function_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Write_a_print_menu_function_and_a_processOption_function_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_Write_menu_functions_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_Write_menu_functions_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_Let's_look_at_some_functions_Video_._Duration_11_minutes_11_min",
+            "summary_file": "05_Let's_look_at_some_functions_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "06_1.702_Post-video_quiz_Practice_Quiz_4_questions",
+            "summary_file": "06_1.702_Post-video_quiz_Practice_Quiz_4_questions.txt"
+          },
+          {
+            "name": "07_1.901_Topic_1_summary_Video_._Duration_52_seconds_52_sec",
+            "summary_file": "07_1.901_Topic_1_summary_Video_._Duration_52_seconds_52_sec.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_2.001_Introduction_to_Topic_2_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_2.001_Introduction_to_Topic_2_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_2.002_Starter_code_for_this_course_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_2.002_Starter_code_for_this_course_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_2.003_Reading_for_Topic_2_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_2.003_Reading_for_Topic_2_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_C++_is_strongly_typed_Video_._Duration_10_minutes_10_min",
+            "summary_file": "04_C++_is_strongly_typed_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_How_are_floating_points_represented_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_How_are_floating_points_represented_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_2.105_CSV_order_book_data_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_2.105_CSV_order_book_data_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_The_order_book_data_set_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_The_order_book_data_set_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_Representing_numerical_order_book_data_with_variables_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_Representing_numerical_order_book_data_with_variables_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_Modelling_the_other_data_Video_._Duration_3_minutes_3_min",
+            "summary_file": "09_Modelling_the_other_data_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "10_Using_an_enum_to_represent_the_bid_ask_Video_._Duration_5_minutes_5_min",
+            "summary_file": "10_Using_an_enum_to_represent_the_bid_ask_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "11_Representing_multiple_order_book_entries_vector_Video_._Duration_6_minutes_6_min",
+            "summary_file": "11_Representing_multiple_order_book_entries_vector_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "12_Concept_workshop_basic_data_types_numbers_and_strings_Video_._Duration_12_minutes_12_min",
+            "summary_file": "12_Concept_workshop_basic_data_types_numbers_and_strings_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "13_Introduction_to_classes_Video_._Duration_2_minutes_2_min",
+            "summary_file": "13_Introduction_to_classes_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "14_Defining_our_first_class_OrderBookEntry_Video_._Duration_7_minutes_7_min",
+            "summary_file": "14_Defining_our_first_class_OrderBookEntry_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "15_Constructors_passing_initialisation_data_into_objects_Video_._Duration_10_minutes_10_min",
+            "summary_file": "15_Constructors_passing_initialisation_data_into_objects_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "16_Constructor_initialisation_list_Video_._Duration_2_minutes_2_min",
+            "summary_file": "16_Constructor_initialisation_list_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "17_Create_a_vector_of_objects_Video_._Duration_5_minutes_5_min",
+            "summary_file": "17_Create_a_vector_of_objects_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "18_Three_ways_to_iterate_over_a_vector_Video_._Duration_8_minutes_8_min",
+            "summary_file": "18_Three_ways_to_iterate_over_a_vector_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "19_Syntax_for_working_with_simple_classes,_and_putting_objects_into_a_vector_Video_._Duration_10_minutes_10_min",
+            "summary_file": "19_Syntax_for_working_with_simple_classes,_and_putting_objects_into_a_vector_Video_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_2.501_Convert_OrderBookEntry_to_header_and_cpp_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_2.501_Convert_OrderBookEntry_to_header_and_cpp_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Add_a_class_to_Visual_Studio_Windows_Video_._Duration_3_minutes_3_min",
+            "summary_file": "02_Add_a_class_to_Visual_Studio_Windows_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "03_Add_a_class_in_XCode_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Add_a_class_in_XCode_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_Use_the_OrderBookEntry_header_in_the_main_cpp_and_compile_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_Use_the_OrderBookEntry_header_in_the_main_cpp_and_compile_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Create_the_Merkelmain_class_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_Create_the_Merkelmain_class_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_Implement_the_init_function_Video_._Duration_5_minutes_5_min",
+            "summary_file": "06_Implement_the_init_function_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "07_Limiting_exposure_Video_._Duration_3_minutes_3_min",
+            "summary_file": "07_Limiting_exposure_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "08_Load_orderBook_function_Video_._Duration_10_minutes_10_min",
+            "summary_file": "08_Load_orderBook_function_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_2.512_Post-video_quiz_Practice_Quiz_2_questions",
+            "summary_file": "09_2.512_Post-video_quiz_Practice_Quiz_2_questions.txt"
+          },
+          {
+            "name": "10_Classes_with_functions,_headers_and_cpp_Video_._Duration_8_minutes_8_min",
+            "summary_file": "10_Classes_with_functions,_headers_and_cpp_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "11_Topic_2_summary_Video_._Duration_56_seconds_56_sec",
+            "summary_file": "11_Topic_2_summary_Video_._Duration_56_seconds_56_sec.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_Topic_3_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Introduction_to_Topic_3_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_3.002_Starter_code_for_Topic_3_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_3.002_Starter_code_for_Topic_3_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_3.003_Reading_for_Topic_3_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_3.003_Reading_for_Topic_3_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Install_a_professional_IDE_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Install_a_professional_IDE_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Development_environments_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Development_environments_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Installing_Visual_Studio_2019_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_Installing_Visual_Studio_2019_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_Running_a_program_in_Visual_Studio_2019_Video_._Duration_3_minutes_3_min",
+            "summary_file": "07_Running_a_program_in_Visual_Studio_2019_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "08_Add_a_class_to_Visual_Studio_Windows_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_Add_a_class_to_Visual_Studio_Windows_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_Installing_Xcode_Video_._Duration_2_minutes_2_min",
+            "summary_file": "09_Installing_Xcode_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "10_Create_and_build_a_project_in_Xcode_Video_._Duration_2_minutes_2_min",
+            "summary_file": "10_Create_and_build_a_project_in_Xcode_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "11_Copy_of_Add_a_class_in_XCode_Video_._Duration_3_minutes_3_min",
+            "summary_file": "11_Copy_of_Add_a_class_in_XCode_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "12_3.101_The_tokenise_algorithm_in_pseudocode_Video_._Duration_7_minutes_7_min",
+            "summary_file": "12_3.101_The_tokenise_algorithm_in_pseudocode_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "13_The_tokenise_algorithm_in_pseudocode_-_summary_and_skills_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "13_The_tokenise_algorithm_in_pseudocode_-_summary_and_skills_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "14_The_tokenise_algorithm_in_C++_Video_._Duration_9_minutes_9_min",
+            "summary_file": "14_The_tokenise_algorithm_in_C++_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "15_3.105_Testing_tokenise_Video_._Duration_5_minutes_5_min",
+            "summary_file": "15_3.105_Testing_tokenise_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "16_3.105_Testing_Tokenise_Summary_Reading_+_Skills_Checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "16_3.105_Testing_Tokenise_Summary_Reading_+_Skills_Checklist_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "17_Open_a_file_Video_._Duration_6_minutes_6_min",
+            "summary_file": "17_Open_a_file_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "18_Read_a_file_using_getline_Video_._Duration_4_minutes_4_min",
+            "summary_file": "18_Read_a_file_using_getline_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "19_Tokenise_then_translate_the_data_into_the_correct_format_Video_._Duration_8_minutes_8_min",
+            "summary_file": "19_Tokenise_then_translate_the_data_into_the_correct_format_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "20_Dealing_with_exceptions_Video_._Duration_6_minutes_6_min",
+            "summary_file": "20_Dealing_with_exceptions_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "21_Experimenting_with_exception_handling_Video_._Duration_9_minutes_9_min",
+            "summary_file": "21_Experimenting_with_exception_handling_Video_._Duration_9_minutes_9_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_The_plan_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_The_plan_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Create_the_CSVReader_class_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_Create_the_CSVReader_class_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_Make_it_compile_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Make_it_compile_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Implement_the_OrderBookEntry_making_function_Video_._Duration_10_minutes_10_min",
+            "summary_file": "04_Implement_the_OrderBookEntry_making_function_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Implement_the_tokenise_and_file_parsing_functions_Video_._Duration_14_minutes_14_min",
+            "summary_file": "05_Implement_the_tokenise_and_file_parsing_functions_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "06_Integrate_it_into_MerkleMain_init_function_and_compute_some_statistics_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Integrate_it_into_MerkleMain_init_function_and_compute_some_statistics_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_3.412_Post-video_quiz_Practice_Quiz_2_questions",
+            "summary_file": "07_3.412_Post-video_quiz_Practice_Quiz_2_questions.txt"
+          },
+          {
+            "name": "08_Static_and_non-static_exploration_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_Static_and_non-static_exploration_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_Topic_3_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_Topic_3_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_Topic_4_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Introduction_to_Topic_4_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_4.002_Starter_code_for_Topic_4_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_4.002_Starter_code_for_Topic_4_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_4.003_Reading_for_Topic_4_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_4.003_Reading_for_Topic_4_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Introduction_to_separating_orders_by_type,_product_and_time_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_Introduction_to_separating_orders_by_type,_product_and_time_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Set_up_the_OrderBook_class_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Set_up_the_OrderBook_class_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Basic_OrderBook_class_implementation_Video_._Duration_5_minutes_5_min",
+            "summary_file": "06_Basic_OrderBook_class_implementation_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "07_Implement_the_constructor_and_integrate_to_MerkelMain_Video_._Duration_3_minutes_3_min",
+            "summary_file": "07_Implement_the_constructor_and_integrate_to_MerkelMain_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "08_Implement_getKnownProducts_with_a_map_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_Implement_getKnownProducts_with_a_map_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "09_Implement_getOrders_Video_._Duration_5_minutes_5_min",
+            "summary_file": "09_Implement_getOrders_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "10_Implement_get_low_and_high_stats_Video_._Duration_9_minutes_9_min",
+            "summary_file": "10_Implement_get_low_and_high_stats_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "11_Summing_up_our_work_on_the_order_book_Video_._Duration_1_minute_1_min",
+            "summary_file": "11_Summing_up_our_work_on_the_order_book_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "12_Working_with_time_Video_._Duration_2_minutes_2_min",
+            "summary_file": "12_Working_with_time_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "13_Setting_up_earliest_time_Video_._Duration_4_minutes_4_min",
+            "summary_file": "13_Setting_up_earliest_time_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "14_Moving_through_time_Video_._Duration_7_minutes_7_min",
+            "summary_file": "14_Moving_through_time_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "15_Printing_stats_for_current_time_window_Video_._Duration_2_minutes_2_min",
+            "summary_file": "15_Printing_stats_for_current_time_window_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "16_Iterating_over_vectors_and_memory_Video_._Duration_9_minutes_9_min",
+            "summary_file": "16_Iterating_over_vectors_and_memory_Video_._Duration_9_minutes_9_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_How_will_we_retrieve_data_from_the_user_for_an_OrderBookEntry_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_How_will_we_retrieve_data_from_the_user_for_an_OrderBookEntry_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Read_a_line_from_the_user,_part_1_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Read_a_line_from_the_user,_part_1_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Read_a_line_from_the_user,_part_2_Video_._Duration_13_minutes_13_min",
+            "summary_file": "03_Read_a_line_from_the_user,_part_2_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "04_Making_it_robust_Video_._Duration_11_minutes_11_min",
+            "summary_file": "04_Making_it_robust_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "05_Introduction_to_inserting_the_order_into_the_order_book_Video_._Duration_2_minutes_2_min",
+            "summary_file": "05_Introduction_to_inserting_the_order_into_the_order_book_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "06_The_code_to_insert_the_order_into_the_order_book_Video_._Duration_8_minutes_8_min",
+            "summary_file": "06_The_code_to_insert_the_order_into_the_order_book_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "07_4.501_Information_about_the_matching_algorithm_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_4.501_Information_about_the_matching_algorithm_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Pseudocode_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_Pseudocode_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "09_Converting_the_pseudocode_into_C++_Video_._Duration_17_minutes_17_min",
+            "summary_file": "09_Converting_the_pseudocode_into_C++_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "10_Preparing_for_testing_Video_._Duration_5_minutes_5_min",
+            "summary_file": "10_Preparing_for_testing_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "11_Doing_testing_Video_._Duration_5_minutes_5_min",
+            "summary_file": "11_Doing_testing_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "12_4.507_Post-video_quiz_Practice_Quiz_1_question",
+            "summary_file": "12_4.507_Post-video_quiz_Practice_Quiz_1_question.txt"
+          },
+          {
+            "name": "13_Topic_4_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "13_Topic_4_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_Topic_5_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Introduction_to_Topic_5_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_5.002_Starter_code_for_Topic_5_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_5.002_Starter_code_for_Topic_5_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_5.003_Reading_for_Topic_5_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_5.003_Reading_for_Topic_5_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_The_plan_for_the_wallet_Video_._Duration_2_minutes_2_min",
+            "summary_file": "04_The_plan_for_the_wallet_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "05_The_Wallet_class_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_The_Wallet_class_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Getting_to_a_compile-ready_state_linker_error_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Getting_to_a_compile-ready_state_linker_error_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Implement_insert_and_contains_functions_Video_._Duration_8_minutes_8_min",
+            "summary_file": "07_Implement_insert_and_contains_functions_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "08_Implement_print_and_remove_functions_Video_._Duration_12_minutes_12_min",
+            "summary_file": "08_Implement_print_and_remove_functions_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "09_How_much_cash_do_we_need_for_bids_and_asks_Video_._Duration_3_minutes_3_min",
+            "summary_file": "09_How_much_cash_do_we_need_for_bids_and_asks_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "10_Implement_cash_check_on_bids_and_asks_Video_._Duration_8_minutes_8_min",
+            "summary_file": "10_Implement_cash_check_on_bids_and_asks_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "11_Integrate_to_the_main_app_enterAsk_Video_._Duration_5_minutes_5_min",
+            "summary_file": "11_Integrate_to_the_main_app_enterAsk_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "12_Complete_the_enter_bid_function_Video_._Duration_4_minutes_4_min",
+            "summary_file": "12_Complete_the_enter_bid_function_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "13_Concept_statefulness_and_static_vs_non-static_Video_._Duration_9_minutes_9_min",
+            "summary_file": "13_Concept_statefulness_and_static_vs_non-static_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "14_5.202_Post-video_quiz_Practice_Quiz_1_question",
+            "summary_file": "14_5.202_Post-video_quiz_Practice_Quiz_1_question.txt"
+          },
+          {
+            "name": "15_Complete_the_trade_the_theory_Video_._Duration_4_minutes_4_min",
+            "summary_file": "15_Complete_the_trade_the_theory_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "16_Adding_the_username_and_special_types_Video_._Duration_10_minutes_10_min",
+            "summary_file": "16_Adding_the_username_and_special_types_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "17_Putting_the_money_in_their_wallet_Video_._Duration_15_minutes_15_min",
+            "summary_file": "17_Putting_the_money_in_their_wallet_Video_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "18_5.308_Merklerex_final_code_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "18_5.308_Merklerex_final_code_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Coursework_1_-_Key_concepts_review_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Coursework_1_-_Key_concepts_review_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Studiosity_Walkthrough_Video_Video_._Duration_1_minute_1_min",
+            "summary_file": "04_Studiosity_Walkthrough_Video_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "05_5.501_Topic_5_summary_Video_._Duration_2_minutes_2_min",
+            "summary_file": "05_5.501_Topic_5_summary_Video_._Duration_2_minutes_2_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_6.001_Welcome_to_Topic_6_and_the_DJ_Application_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_6.001_Welcome_to_Topic_6_and_the_DJ_Application_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_6.002_Demonstrating_the_application_we_are_going_to_build_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_6.002_Demonstrating_the_application_we_are_going_to_build_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_6.101_What_are_a_library,_a_framework,_a_toolkit_and_an_API_Video_._Duration_7_minutes_7_min",
+            "summary_file": "03_6.101_What_are_a_library,_a_framework,_a_toolkit_and_an_API_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "04_Summary_&_Skills_Checklist_-_What_are_a_library,_a_framework_a_tool_kit_Summary_&_Skills_Checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Summary_&_Skills_Checklist_-_What_are_a_library,_a_framework_a_tool_kit_Summary_&_Skills_Checklist_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_6.103_What_is_a_GUI_library_Video_._Duration_4_minutes_4_min",
+            "summary_file": "05_6.103_What_is_a_GUI_library_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "06_6.105_Identifying_'good'_frameworks_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_6.105_Identifying_'good'_frameworks_Video_._Duration_4_minutes_4_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_6.201_What_is_JUCE_Video_._Duration_10_minutes_10_min",
+            "summary_file": "01_6.201_What_is_JUCE_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Summary_&_Skills_Checklist_-_What_is_JUCE_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Summary_&_Skills_Checklist_-_What_is_JUCE_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_6.202a_Note_about_Roli_account_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_6.202a_Note_about_Roli_account_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_6.203_Installing_JUCE_on_Windows_Video_._Duration_3_minutes_3_min_Resume_._Click_to_resume",
+            "summary_file": "04_6.203_Installing_JUCE_on_Windows_Video_._Duration_3_minutes_3_min_Resume_._Click_to_resume.txt"
+          },
+          {
+            "name": "05_6.203a_How_to_see_print-outs_in_Windows_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_6.203a_How_to_see_print-outs_in_Windows_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_6.204_Installing_JUCE_on_macOS_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_6.204_Installing_JUCE_on_macOS_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_6.205_Introduction_to_Projucer_Video_._Duration_7_minutes_7_min",
+            "summary_file": "07_6.205_Introduction_to_Projucer_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "08_Summary_&_Skills_Checklist_-_Introduction_to_Projucer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Summary_&_Skills_Checklist_-_Introduction_to_Projucer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_6.206_JUCE_links_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_6.206_JUCE_links_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "10_6.207_Lesson_worksheet_get_up_and_running_with_JUCE_Reading_._Duration_2_hours_2h",
+            "summary_file": "10_6.207_Lesson_worksheet_get_up_and_running_with_JUCE_Reading_._Duration_2_hours_2h.txt"
+          },
+          {
+            "name": "11_6.301_Adding_a_GUI_widget_to_the_JUCE_app_Video_._Duration_11_minutes_11_min",
+            "summary_file": "11_6.301_Adding_a_GUI_widget_to_the_JUCE_app_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "12_6.303_JUCE_widget_library_documentation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "12_6.303_JUCE_widget_library_documentation_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "13_6.305_Lesson_worksheet_add_GUI_widgets_to_your_app_Reading_._Duration_1_hour_1h",
+            "summary_file": "13_6.305_Lesson_worksheet_add_GUI_widgets_to_your_app_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "14_6.401_Inheritance_Video_._Duration_9_minutes_9_min",
+            "summary_file": "14_6.401_Inheritance_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "15_6.403_Experiment_with_inheritance_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "15_6.403_Experiment_with_inheritance_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "16_6.501_Summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "16_6.501_Summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_7.001_Welcome_to_Topic_7_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_7.001_Welcome_to_Topic_7_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_7.002_Starter_code_for_Topic_7_[cmake_config_included]_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_7.002_Starter_code_for_Topic_7_[cmake_config_included]_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_7.003_Reading_for_Topic_7_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_7.003_Reading_for_Topic_7_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_7.101_Anatomy_of_a_JUCE_application_and_macros_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_7.101_Anatomy_of_a_JUCE_application_and_macros_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_Summary_&_Skills_Checklist_-_Anatomy_of_a_JUCE_application_and_macros_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Summary_&_Skills_Checklist_-_Anatomy_of_a_JUCE_application_and_macros_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_7.103_Anatomy_of_a_JUCE_application_Component_and_AudioSource_Video_._Duration_5_minutes_5_min",
+            "summary_file": "06_7.103_Anatomy_of_a_JUCE_application_Component_and_AudioSource_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "07_7.105_How_to_run_a_JUCE_example_application_Video_._Duration_3_minutes_3_min",
+            "summary_file": "07_7.105_How_to_run_a_JUCE_example_application_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "08_7.107_Lesson_worksheet_anatomy_of_a_JUCE_application_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_7.107_Lesson_worksheet_anatomy_of_a_JUCE_application_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_7.201_Introduction_of_the_(event)_listener_pattern_Video_._Duration_2_minutes_2_min",
+            "summary_file": "09_7.201_Introduction_of_the_(event)_listener_pattern_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "10_7.203_Implement_a_Button_Listener_in_JUCE_Video_._Duration_9_minutes_9_min",
+            "summary_file": "10_7.203_Implement_a_Button_Listener_in_JUCE_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "11_7.205_Implement_a_Slider_Listener_Video_._Duration_9_minutes_9_min",
+            "summary_file": "11_7.205_Implement_a_Slider_Listener_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "12_7.207_Pure_virtual_functions_forcing_implementation_quick_example_Video_._Duration_6_minutes_6_min",
+            "summary_file": "12_7.207_Pure_virtual_functions_forcing_implementation_quick_example_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "13_7.209_Lesson_worksheet_app_with_event_listeners_Reading_._Duration_1_hour_1h",
+            "summary_file": "13_7.209_Lesson_worksheet_app_with_event_listeners_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "14_7.301_Concept_video_inheritance_and_pure_virtual_functions_Video_._Duration_7_minutes_7_min",
+            "summary_file": "14_7.301_Concept_video_inheritance_and_pure_virtual_functions_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "15_7.302_Experiment_with_inheritance_and_virtual_functions_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "15_7.302_Experiment_with_inheritance_and_virtual_functions_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_7.401_Sending_audio_samples_to_the_audio_subsystem_in_blocks_Video_._Duration_10_minutes_10_min",
+            "summary_file": "01_7.401_Sending_audio_samples_to_the_audio_subsystem_in_blocks_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_7.403_Realtime_sound_synthesis_in_JUCE_Video_._Duration_19_minutes_19_min",
+            "summary_file": "02_7.403_Realtime_sound_synthesis_in_JUCE_Video_._Duration_19_minutes_19_min.txt"
+          },
+          {
+            "name": "03_7.405_Lesson_worksheet_basic_synthesis_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_7.405_Lesson_worksheet_basic_synthesis_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_7.501_Explanation_of_audio_files_and_audio_playback_Video_._Duration_2_minutes_2_min",
+            "summary_file": "04_7.501_Explanation_of_audio_files_and_audio_playback_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "05_7.503_Audio_files_to_download_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_7.503_Audio_files_to_download_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_7.504_Implement_audio_file_playback_in_JUCE_using_a_hard_coded_audio_file_Video_._Duration_11_minutes_11_min",
+            "summary_file": "06_7.504_Implement_audio_file_playback_in_JUCE_using_a_hard_coded_audio_file_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "07_Summary_&_Skills_Checklist_-_Implement_audio_file_playback_in_JUCE_using_a_hard_coded_audio_file_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Summary_&_Skills_Checklist_-_Implement_audio_file_playback_in_JUCE_using_a_hard_coded_audio_file_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_7.506_Add_a_file_chooser_and_load_any_file_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_7.506_Add_a_file_chooser_and_load_any_file_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "09_7.507b_Working_file_browser_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_7.507b_Working_file_browser_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_7.508_Add_stop_and_start_buttons_and_a_volume_control_Video_._Duration_5_minutes_5_min",
+            "summary_file": "10_7.508_Add_stop_and_start_buttons_and_a_volume_control_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "11_7.510_Using_ResamplingAudioPlayer_to_implement_variable_speed_playback_Video_._Duration_7_minutes_7_min",
+            "summary_file": "11_7.510_Using_ResamplingAudioPlayer_to_implement_variable_speed_playback_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "12_7.512_Review_of_library_classes_Video_._Duration_3_minutes_3_min",
+            "summary_file": "12_7.512_Review_of_library_classes_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "13_7.514_Lesson_worksheet_playing_an_audio_file_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "13_7.514_Lesson_worksheet_playing_an_audio_file_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "14_7.601_Summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "14_7.601_Summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_8.001_Welcome_to_Topic_8_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_8.001_Welcome_to_Topic_8_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_8.002_Starter_code_for_Topic_8_[cmake_included]_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_8.002_Starter_code_for_Topic_8_[cmake_included]_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_8.003_Reading_for_Topic_8_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_8.003_Reading_for_Topic_8_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_8.101_Refactoring_plan_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_8.101_Refactoring_plan_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_8.103_How_to_create_a_new_class_using_Projucer_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_8.103_How_to_create_a_new_class_using_Projucer_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_8.105_What_do_we_want_in_our_DJAudioPlayer_interface_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_8.105_What_do_we_want_in_our_DJAudioPlayer_interface_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_8.107_Add_audio_playback_functionality_to_DJAudioPlayer_Video_._Duration_12_minutes_12_min",
+            "summary_file": "07_8.107_Add_audio_playback_functionality_to_DJAudioPlayer_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "08_8.109_Implement_setSpeed_and_setGain_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_8.109_Implement_setSpeed_and_setGain_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "09_8.111_Implement_position_control_with_relative_position_Video_._Duration_8_minutes_8_min",
+            "summary_file": "09_8.111_Implement_position_control_with_relative_position_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "10_8.113_Lesson_worksheet_refactoring_the_audio_code_into_the_DJAudioPlayer_class_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_8.113_Lesson_worksheet_refactoring_the_audio_code_into_the_DJAudioPlayer_class_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "11_8.201_Polymorphism_Video_._Duration_11_minutes_11_min",
+            "summary_file": "11_8.201_Polymorphism_Video_._Duration_11_minutes_11_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_8.301_Introduction_to_the_DeckGUI_class_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_8.301_Introduction_to_the_DeckGUI_class_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_8.303_Implement_the_GUI_widgets_and_test_it_out_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_8.303_Implement_the_GUI_widgets_and_test_it_out_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_8.305_Implement_the_listener_interfaces_and_pass_the_messages_on_to_the_DJAudioPlayer_Video_._Duration_11_minutes_11_min",
+            "summary_file": "03_8.305_Implement_the_listener_interfaces_and_pass_the_messages_on_to_the_DJAudioPlayer_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "04_8.307_Use_a_MixerAudioSource_to_play_more_than_one_file_at_a_time_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_8.307_Use_a_MixerAudioSource_to_play_more_than_one_file_at_a_time_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_8.309_Lesson_worksheet_refactoring_the_GUI_into_a_class_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_8.309_Lesson_worksheet_refactoring_the_GUI_into_a_class_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_8.401_Implementing_drag_and_drop_triggers_Video_._Duration_8_minutes_8_min",
+            "summary_file": "06_8.401_Implementing_drag_and_drop_triggers_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "07_Summary_&_Skills_Checklist_-_Implementing_Drag_&_Drop_Triggers_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Summary_&_Skills_Checklist_-_Implementing_Drag_&_Drop_Triggers_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_8.403_Recap_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_8.403_Recap_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_8.404_Lesson_worksheet_drag_and_drop_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_8.404_Lesson_worksheet_drag_and_drop_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_8.501_Summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "10_8.501_Summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_9.001_Welcome_to_Topic_9_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_9.001_Welcome_to_Topic_9_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_9.002_Starter_code_for_Topic_9_[cmake_included]_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_9.002_Starter_code_for_Topic_9_[cmake_included]_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_9.003_Reading_for_Topic_9_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_9.003_Reading_for_Topic_9_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_9.101_Plan_for_the_WaveformDisplayComponent_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_9.101_Plan_for_the_WaveformDisplayComponent_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_9.103_Create_a_new_Component_WaveformDisplay_and_get_it_to_display_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_9.103_Create_a_new_Component_WaveformDisplay_and_get_it_to_display_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_9.105_Check_out_the_AudioThumbnail_class_in_the_API_Video_._Duration_11_minutes_11_min",
+            "summary_file": "06_9.105_Check_out_the_AudioThumbnail_class_in_the_API_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "07_9.109_Hook_up_the_load_button_to_trigger_the_AudioThumbnail_load_Video_._Duration_7_minutes_7_min",
+            "summary_file": "07_9.109_Hook_up_the_load_button_to_trigger_the_AudioThumbnail_load_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "08_9.111_Draw_the_thumbnail_Video_._Duration_6_minutes_6_min",
+            "summary_file": "08_9.111_Draw_the_thumbnail_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "09_9.113_Implement_a_ChangeListener_to_make_sure_it_draws_automatically_Video_._Duration_10_minutes_10_min",
+            "summary_file": "09_9.113_Implement_a_ChangeListener_to_make_sure_it_draws_automatically_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_9.115_Review_of_waveform_display_implementation_Video_._Duration_3_minutes_3_min",
+            "summary_file": "10_9.115_Review_of_waveform_display_implementation_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "11_9.116_Lesson_worksheet_the_basic_WaveformDisplay_class_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "11_9.116_Lesson_worksheet_the_basic_WaveformDisplay_class_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "12_9.117_Lesson_worksheet_refactoring_the_program_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "12_9.117_Lesson_worksheet_refactoring_the_program_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "13_9.118_Lesson_worksheet_completing_WaveformDisplay_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "13_9.118_Lesson_worksheet_completing_WaveformDisplay_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_9.201_Introduction_to_the_moving_playhead_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_9.201_Introduction_to_the_moving_playhead_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_9.203_Refactor_DJAudioPlayer_to_use_app-scope_formatManager_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_9.203_Refactor_DJAudioPlayer_to_use_app-scope_formatManager_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_9.205_Add_getPosition_and_setPosition_functions_Video_._Duration_11_minutes_11_min",
+            "summary_file": "03_9.205_Add_getPosition_and_setPosition_functions_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "04_9.207_Implement_a_timer_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_9.207_Implement_a_timer_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_9.209_Lesson_worksheet_adding_a_movable_play_head_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_9.209_Lesson_worksheet_adding_a_movable_play_head_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_9.301_Threads_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_9.301_Threads_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_9.401_Summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "07_9.401_Summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_10.001_Welcome_to_Topic_10_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_10.001_Welcome_to_Topic_10_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_10.002_Starter_code_for_Topic_10_[cmake_included]_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_10.002_Starter_code_for_Topic_10_[cmake_included]_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_10.003_Reading_for_Topic_10_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_10.003_Reading_for_Topic_10_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_10.004_Demo_of_the_VLC_playlist_Video_._Duration_1_minute_1_min",
+            "summary_file": "04_10.004_Demo_of_the_VLC_playlist_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "05_10.101_Create_the_PlaylistComponent_in_the_Projucer_project_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_10.101_Create_the_PlaylistComponent_in_the_Projucer_project_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_10.103_Add_a_TableListBox_Video_._Duration_6_minutes_6_min",
+            "summary_file": "06_10.103_Add_a_TableListBox_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "07_10.105_Add_a_vector_to_store_a_list_of_files_Video_._Duration_8_minutes_8_min",
+            "summary_file": "07_10.105_Add_a_vector_to_store_a_list_of_files_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "08_10.107_Implement_paintCell_and_paintRowBackground_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_10.107_Implement_paintCell_and_paintRowBackground_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_10.109_Implement_a_play_button_Video_._Duration_6_minutes_6_min",
+            "summary_file": "09_10.109_Implement_a_play_button_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "10_10.111_Add_a_button_listener_Video_._Duration_4_minutes_4_min",
+            "summary_file": "10_10.111_Add_a_button_listener_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "11_10.113_Add_a_component_ID_and_converting_between_ints_and_strings_Video_._Duration_7_minutes_7_min",
+            "summary_file": "11_10.113_Add_a_component_ID_and_converting_between_ints_and_strings_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "12_10.115_Lesson_worksheet_starter_table_component_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "12_10.115_Lesson_worksheet_starter_table_component_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "13_10.117_End_of_topic_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "13_10.117_End_of_topic_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_Congratulations_on_reaching_the_end_of_the_course_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Congratulations_on_reaching_the_end_of_the_course_Video_._Duration_3_minutes_3_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    }
+  }
+}

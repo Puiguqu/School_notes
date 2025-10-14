@@ -1,0 +1,33 @@
+# 7.510 Using ResamplingAudioPlayer to implement variable speed playback
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Z9IPu/7-510-using-resamplingaudioplayer-to-implement-variable-speed-playback
+
+It appears to be a transcript of a video lecture on audio programming with JUCE, specifically covering the implementation of variable speed playback using the `ResamplingAudioPlayer` class.
+
+Here is a summary of the main points:
+
+**Introduction**
+
+* The lecturer introduces the concept of resampling audio and its importance in audio programming.
+* They explain that the `ResamplingAudioPlayer` class is used to implement variable speed playback.
+
+**Implementing Variable Speed Playback**
+
+* The lecturer demonstrates how to use the `ResamplingAudioPlayer` class to load an audio file and play it at different speeds.
+* They show how to adjust the resampling rate using a slider or keyboard input.
+* They also explain how to add a stop button and a volume control.
+
+**Refactoring and Class Design**
+
+* The lecturer discusses the importance of refactoring and designing classes for maintainability and reusability.
+* They show examples of how to refactor code to make it more concise and efficient.
+* They introduce the concept of initialiser lists and constructors in C++.
+
+**Conclusion**
+
+* The lecturer summarizes the key points covered in the lecture, including implementing variable speed playback with `ResamplingAudioPlayer`, refactoring and class design, and initialiser lists and constructors.
+
+The video likely contains visual demonstrations and code examples to illustrate these concepts.

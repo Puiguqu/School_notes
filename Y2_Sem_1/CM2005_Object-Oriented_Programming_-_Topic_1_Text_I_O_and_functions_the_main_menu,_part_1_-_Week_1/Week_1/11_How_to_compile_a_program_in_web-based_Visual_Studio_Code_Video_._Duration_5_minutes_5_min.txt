@@ -1,0 +1,40 @@
+# How to compile a program in web-based Visual Studio Code
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/5mmg3/how-to-compile-a-program-in-web-based-visual-studio-code
+
+This is an interactive transcript of a video lecture on programming in C++. The lecturer is demonstrating how to compile a program in web-based Visual Studio Code.
+
+**Step 1: Opening Visual Studio Code**
+
+The lecturer opens Visual Studio Code and navigates to the "File" menu. They select "New Folder" to create a new folder for their project.
+
+**Step 2: Creating a New File**
+
+The lecturer creates a new file called `main.cpp` by right-clicking on the folder and selecting "New File". They then type the following code:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
+```
+**Step 3: Compiling the Program**
+
+The lecturer navigates to the terminal in Visual Studio Code by clicking on the "Terminal" icon in the top navigation bar. They then type `g++` followed by the file name `main.cpp` to compile the program:
+```
+$ g++ main.cpp -o main
+```
+**Step 4: Running the Program**
+
+The lecturer types `./main` to run the compiled program:
+```
+$ ./main
+Hello, World!
+```
+The program outputs "Hello, World!" to the console.
+
+That's it! The lecturer has successfully compiled and run a simple C++ program in web-based Visual Studio Code.

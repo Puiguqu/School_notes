@@ -1,0 +1,62 @@
+# Implement the constructor and integrate to MerkelMain
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Iiu2H/implement-the-constructor-and-integrate-to-merkelmain
+
+Here is a summary of the text in 25 sentences:
+
+The instructor has implemented the constructor and integrated it to MerkelMain.
+
+The goal is to create an OrderBook class that can be used to manage orders for a DJ application.
+
+The OrderBook class should have methods for getting known products, orders, low and high stats, and other useful information.
+
+To implement the constructor, the instructor created a new class called OrderBookEntry.
+
+The OrderBookEntry class has properties such as price, quantity, and product.
+
+The instructor implemented a method to get known products using a map.
+
+The instructor also implemented a method to get orders.
+
+To print statistics for the current time window, the instructor used a loop to iterate over vectors of numbers.
+
+Finally, the instructor wrote a statistical function to calculate various market statistics.
+
+The goal is to create an order book that can be used in a DJ application.
+
+The instructor has discussed various topics such as separating orders by type, product, and time.
+
+The instructor has also talked about object interactions, event-driven programming, inheritance, refactoring, and class design.
+
+To implement the OrderBook class, the instructor used JUCE toolkit.
+
+The instructor created a new class called DeckGUI to manage DJ decks.
+
+The instructor implemented a method to display waveform audio using threads.
+
+The goal is to create an interactive DJ application with a GUI.
+
+The instructor has discussed various topics such as initialiser lists, constructors, and threads.
+
+To implement the WaveformDisplay class, the instructor used JUCE toolkit.
+
+The instructor created a new class called TableListBoxModel to manage table lists.
+
+The instructor implemented methods to display data in tables using JUCE.
+
+The goal is to create an interactive DJ application with a GUI.
+
+The instructor has discussed various topics such as object interactions, event-driven programming, inheritance, refactoring, and class design.
+
+To implement the order book, the instructor used a map to store known products.
+
+The instructor implemented methods to get orders and print statistics for the current time window.
+
+Finally, the instructor wrote a statistical function to calculate various market statistics.
+
+The goal is to create an interactive DJ application with a GUI that can manage orders.
+
+The instructor has discussed various topics such as object interactions, event-driven programming, inheritance, refactoring, and class design.

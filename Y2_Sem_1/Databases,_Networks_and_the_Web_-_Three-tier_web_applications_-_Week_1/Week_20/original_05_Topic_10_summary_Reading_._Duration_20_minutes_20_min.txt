@@ -1,0 +1,8 @@
+# Topic 10 summary
+Reading•
+. Duration: 20 minutes
+20 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/ODbei/topic-10-summary
+
+In this topic you have learned about the basics of networking concepts, including: packet switching versus circuit switching the TCP/IP model including application, transport, internet and link layers the OSI reference model the internet protocol stack HTTPS, FTPS, SSL and TLS IP addressing, IPv4 androuting TCP, three-way handshake and UDP ports and sockets, multiplexing and demultiplexing. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic10_eval.pdf PDF File Topic 10 summary In this topic you have learned about the basics of networking concepts, including: packet switching versus circuit switching the TCP/IP model including application, transport, internet and link layers the OSI reference model the internet protocol stack HTTPS, FTPS, SSL and TLS IP addressing, IPv4 androuting TCP, three-way handshake and UDP ports and sockets, multiplexing and demultiplexing. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic10_eval.pdf PDF File Mark as completed Dislike Report an issue

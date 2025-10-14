@@ -1,0 +1,8 @@
+# Programming activity: Entity relationship diagram
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/p3PWQ/programming-activity-entity-relationship-diagram
+
+In this lab activity you will explore how a relational database represents objects and their properties. Please download the following PDF and follow the instructions for this lab activity: 19_Entity-relationship-diagram.pdf PDF File Programming activity: Entity relationship diagram In this lab activity you will explore how a relational database represents objects and their properties. Please download the following PDF and follow the instructions for this lab activity: 19_Entity-relationship-diagram.pdf PDF File Mark as completed Dislike Report an issue

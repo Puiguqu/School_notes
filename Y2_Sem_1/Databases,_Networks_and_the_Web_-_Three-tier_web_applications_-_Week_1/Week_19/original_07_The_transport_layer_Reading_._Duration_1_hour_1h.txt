@@ -1,0 +1,8 @@
+# The transport layer
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/kPpuk/the-transport-layer
+
+Read the following sections to gain a better understanding of some important concepts in the transport layer of networks: Tatipamula et al. Section 2.1.2, Three-way handshake Section 2.1.4, Port number Section 2.2, User Datagram Protocol . The transport layer Read the following sections to gain a better understanding of some important concepts in the transport layer of networks: Tatipamula et al. Section 2.1.2, Three-way handshake Section 2.1.4, Port number Section 2.2, User Datagram Protocol . Mark as completed Dislike Report an issue

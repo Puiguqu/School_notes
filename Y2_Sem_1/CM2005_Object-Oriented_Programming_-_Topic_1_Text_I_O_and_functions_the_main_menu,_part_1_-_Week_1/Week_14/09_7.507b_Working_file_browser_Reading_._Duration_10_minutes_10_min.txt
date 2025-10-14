@@ -1,0 +1,8 @@
+# 7.507b Working file browser
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/hfTQV/7-507b-working-file-browser
+
+If you are coding along with the videos, here is the code you need to make the file browser work. We will also cover this again in the lab worksheet coming up in a few steps, so do not worry if you are not coding along. Step 1 Add this line to the MainComponent.h file, inside the private section of the class definition: 1 juce::FileChooser fChooser{"Select a file..."}; Step 2: Add this code to the void buttonClicked function in MainCompnent.cpp: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 if (butt...

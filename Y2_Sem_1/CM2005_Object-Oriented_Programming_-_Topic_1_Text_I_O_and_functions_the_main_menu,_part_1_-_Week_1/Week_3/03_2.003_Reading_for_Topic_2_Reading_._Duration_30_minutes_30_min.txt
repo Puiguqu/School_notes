@@ -1,0 +1,10 @@
+# 2.003 Reading for Topic 2
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/eluvF/2-003-reading-for-topic-2
+
+There is no text to summarize. The provided text appears to be a list of recommended reading materials for a programming course, specifically highlighting essential books and chapters related to C++17. It does not contain any meaningful information or data that could be summarized.
+
+If you provide the actual text you would like me to summarize, I'll be happy to assist you in preserving all key information, formulae, links, and technical details while focusing on the most important concepts and findings.

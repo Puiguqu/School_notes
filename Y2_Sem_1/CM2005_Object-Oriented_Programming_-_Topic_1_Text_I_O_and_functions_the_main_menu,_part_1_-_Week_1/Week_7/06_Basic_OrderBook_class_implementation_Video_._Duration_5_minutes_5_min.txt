@@ -1,0 +1,21 @@
+# Basic OrderBook class implementation
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/3tf4t/basic-orderbook-class-implementation
+
+Here is a possible interactive transcript for the "Basic OrderBook class implementation" topic:
+
+**Interactive Transcript**
+
+You are in the Basic OrderBook class implementation section.
+
+**What do you want to do?**
+
+1. **Start**: Begin the lesson.
+2. **Continue**: Continue from where we left off.
+3. **Skip**: Skip this section and move on to the next one.
+4. **Save Note**: Save a note for later.
+
+Choose an option by typing the corresponding number.

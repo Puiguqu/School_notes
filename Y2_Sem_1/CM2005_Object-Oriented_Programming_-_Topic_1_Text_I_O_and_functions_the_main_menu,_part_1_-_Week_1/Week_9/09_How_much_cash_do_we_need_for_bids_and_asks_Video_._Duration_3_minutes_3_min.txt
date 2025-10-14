@@ -1,0 +1,61 @@
+# How much cash do we need for bids and asks?
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/xTXez/how-much-cash-do-we-need-for-bids-and-asks
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript explains how to calculate the amount of cash needed to fulfill an ask or bid on an exchange.
+2. An ask is an offer to sell a security, while a bid is an offer to buy a security.
+3. To calculate the amount of cash needed for a bid, we need to multiply the number of shares by the current market price.
+4. For a bid, we use the formula: Cash Needed = Number of Shares * Current Market Price
+5. Similarly, to calculate the amount of cash needed for an ask, we use the formula: Cash Needed = Number of Shares * Current Market Price
+6. The key difference between bids and asks is that bids are used to buy shares, while asks are used to sell shares.
+7. To determine if a bid or ask can be fulfilled with the available cash, we compare the cash needed with the amount of money in the wallet.
+8. If the cash needed is less than or equal to the amount of money in the wallet, then the bid or ask can be fulfilled.
+
+Example:
+- Number of Shares = 100
+- Current Market Price = $50
+- Cash Needed (Bid) = 100 * $50 = $5000
+- Wallet Balance = $5000
+
+In this example, both the bid and ask can be fulfilled with the available cash.
+
+9. To calculate the amount of cash needed for a bid or ask, we use the formula: Cash Needed = Number of Shares * Current Market Price
+10. The JUCE toolkit is used to develop the DJ application.
+11. The video transcript provides starter code for Topic 5 Reading.
+12. The plan for the wallet Video explains how to implement the Wallet class.
+
+The Wallet class Video explains how to implement the following functions:
+
+* insert: adds a new item to the wallet
+* contains: checks if an item is already in the wallet
+
+13. To integrate the cash check on bids and asks, we use the JUCE toolkit.
+14. The enterAsk function takes the number of shares and current market price as input and calculates the cash needed.
+
+Example:
+- Number of Shares = 100
+- Current Market Price = $50
+- Cash Needed (Ask) = 100 * $50 = $5000
+
+15. To implement the enter bid function, we use the JUCE toolkit.
+16. The lesson worksheet for the Wallet Lab provides a comprehensive overview of the wallet implementation.
+
+17. The video transcript explains how to refactor and redesign classes using the DeckGUI and DJAudioPlayer classes as an example.
+18. The WaveformDisplay class is used to display audio waveforms in the DJ application.
+19. Initialiser lists, constructors, and threads are discussed in the context of the WaveformDisplay class.
+
+20. The video transcript introduces the TableListBox and TableListBoxModel classes for advanced user interfaces.
+21. The video transcript provides a post-video quiz for assessment purposes.
+
+22. To complete the trade theory video, we need to understand how trades work on an exchange.
+
+23. The username and special types are discussed in the context of the Wallet class implementation.
+
+24. Putting money into a wallet is a fundamental operation that requires careful consideration of statefulness and static vs non-static variables.
+
+25. The Merklerex final code reading provides a comprehensive overview of the project's technical details and implementation.

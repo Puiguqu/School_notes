@@ -1,0 +1,58 @@
+# 9.207 Implement a timer
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/cDyEw/9-207-implement-a-timer
+
+Here is a summary of the transcript:
+
+**Lesson 9.207 Implement a timer**
+
+The instructor explains how to implement a timer in C++.
+
+*   Create a new class called `Timer` that inherits from `Component`.
+*   Use the `createAndAddTimer()` function to create and add a timer.
+*   Set the timer's callback function using `setCallbackFunction()`.
+*   Start the timer using `startTimer()`.
+*   Stop the timer using `stopTimer()`.
+
+The instructor also provides code examples for implementing a timer in C++.
+
+**Code Example**
+
+```cpp
+class Timer : public Component {
+public:
+    Timer() {
+        createAndAddTimer(10.0, this); // Create and add a timer that triggers every 10 milliseconds.
+        startTimer(); // Start the timer.
+    }
+
+    void timerCallback() override {
+        // Handle timer callback function here.
+        std::cout << "Timer triggered!" << std::endl;
+    }
+};
+```
+
+The instructor also explains how to implement a timer in C++ using `std::chrono` and `std::thread`.
+
+**Code Example**
+
+```cpp
+class Timer : public Component {
+public:
+    Timer() {
+        auto start_time = std::chrono::high_resolution_clock::now();
+        std::this_thread::sleep_for(std::chrono::milliseconds(1000)); // Wait for 1 second.
+
+        auto end_time = std::chrono::high_resolution_clock::now();
+
+        double duration = chrono::duration_cast<chrono::seconds>(end_time - start_time).count();
+        std::cout << "Duration: " << duration << " seconds" << std::endl;
+    }
+};
+```
+
+The instructor concludes by emphasizing the importance of implementing a timer in C++ and providing examples for different use cases.

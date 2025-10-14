@@ -1,0 +1,48 @@
+# 10.004 Demo of the VLC playlist
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/3lvSX/10-004-demo-of-the-vlc-playlist
+
+Here is a summary of the text in 25 sentences:
+
+The video transcript introduces the concept of a playlist, which is a list of files that can be played and managed.
+
+A media player, VLC, is used as an example to demonstrate the functionality of playlists.
+
+VLC has a simple and easy-to-understand playlist feature that allows users to add, delete, and search for files.
+
+The playlist can also be saved to disk in a file format, making it useful for managing music libraries.
+
+This concept is relevant to DJing applications, where playlists are crucial for organizing and playing back tracks.
+
+The video transcript mentions various topics related to programming, including text input/output, functions, classes, variables, file I/O, exception handling, algorithms, object interactions, event-driven programming, inheritance, refactoring, class design, and user interfaces.
+
+Each topic has a corresponding lesson plan, which includes demo videos, starter code, reading materials, and practice assignments.
+
+The video transcript also mentions the JUCE toolkit, which is used for building audio applications, including DJ software.
+
+Some of the topics covered in the video transcript include:
+
+* Week 1-4: Text input/output and functions
+* Week 5-8: File I/O, exception handling, and algorithms
+* Week 9-10: Object interactions and user interfaces
+* Week 11-14: Event-driven programming and inheritance
+* Week 15-16: Refactoring and class design
+* Week 17-18: Initialiser lists, constructors, and threads
+* Week 19-20: Advanced class and user interfaces
+
+The video transcript includes demo videos, practice assignments, and quizzes to help learners understand the concepts.
+
+Some of the specific features covered in the video transcript include:
+
+* Creating a playlist component
+* Adding a TableListBox
+* Implementing paintCell and paintRowBackground
+* Adding a play button and button listener
+* Converting between ints and strings
+
+The video transcript also includes discussion prompts, such as examples of file listing and searching GUIs.
+
+Overall, the video transcript provides an overview of various programming topics and concepts related to DJ software development using JUCE.

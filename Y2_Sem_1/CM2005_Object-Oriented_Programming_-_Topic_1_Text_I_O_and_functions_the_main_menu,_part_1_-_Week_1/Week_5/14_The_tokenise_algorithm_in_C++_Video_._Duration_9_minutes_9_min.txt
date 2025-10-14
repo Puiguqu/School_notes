@@ -1,0 +1,57 @@
+# The tokenise algorithm in C++
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/5fmcd/the-tokenise-algorithm-in-c
+
+Here is a high-quality solution to the problem:
+
+**Tokenise Algorithm in C++**
+
+The tokenise algorithm is used to split input text into individual words or tokens. Here's an example implementation in C++:
+```cpp
+#include <iostream>
+#include <sstream>
+#include <vector>
+
+std::vector<std::string> tokenize(const std::string& input) {
+    std::istringstream iss(input);
+    std::vector<std::string> tokens;
+    std::string token;
+
+    while (iss >> token) {
+        // Remove leading and trailing whitespace
+        token.erase(0, token.find_first_not_of(" \t\r\n"));
+        token.erase(token.find_last_not_of(" \t\r\n") + 1);
+
+        tokens.push_back(token);
+    }
+
+    return tokens;
+}
+
+int main() {
+    std::string input = "Hello World! This is a test.";
+    std::vector<std::string> tokens = tokenize(input);
+
+    for (const auto& token : tokens) {
+        std::cout << token << " ";
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+```
+This code uses an `istringstream` to split the input text into individual words. The `>>` operator is used to extract each word, which are then added to a vector of strings.
+
+**Example Use Cases**
+
+* Tokenising a sentence: `tokenize("Hello World! This is a test.")`
+* Tokenising a paragraph: `tokenize("This is a sample paragraph.\n\nIt contains multiple sentences.")`
+
+**Notes and Advice**
+
+* Make sure to remove leading and trailing whitespace from each token using `token.erase(0, ...)` and `token.erase(... + 1)`.
+* Use a vector to store the tokens, as it allows for efficient insertion and iteration.
+* Consider adding additional error checking or handling to deal with edge cases, such as empty input or invalid characters.

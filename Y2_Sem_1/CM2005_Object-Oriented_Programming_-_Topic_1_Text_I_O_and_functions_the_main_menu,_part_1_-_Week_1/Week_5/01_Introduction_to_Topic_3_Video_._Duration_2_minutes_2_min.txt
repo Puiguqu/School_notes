@@ -1,0 +1,36 @@
+# Introduction to Topic 3
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/JI82K/introduction-to-topic-3
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The topic is about implementing a CSV reader functionality to read data from files and process it.
+2. The goal is to learn how to convert pseudocode algorithms into C++ code and use exception handling to manage unexpected scenarios.
+3. One of the important features of many C++ programs that run in the wild is safety-criticality, making them robust against processing unreliable data.
+4. The algorithm to be implemented reads text from a file using the `getline` function, which is part of the standard library in C++.
+5. The course will cover hands-on programming and use CSV files for this project.
+6. A big data file will be read into the program for simulation purposes.
+7. The course has 20 weeks of content, covering topics from I/O and functions to object interactions and advanced class designs.
+8. Each week will have a lecture video and additional resources such as practice assignments and quizzes.
+9. The course starts with an introduction to Topic 3, where the CSV reader functionality is implemented.
+10. This topic covers file input/output, exception handling, and algorithms.
+11. The course then moves on to writing and testing algorithms, object interactions, and advanced class designs.
+12. Topics will cover topics such as taking orders, order matching engines, wallets, DJ applications, event-driven programming, inheritance, refactoring, and more.
+13. Each topic has a corresponding lecture video, practice assignments, quizzes, and lab exercises.
+14. The course uses the JUCE toolkit for DJ application development.
+15. Topics will cover advanced class designs, such as using TableListBox and TableListBoxModel.
+16. Initialiser lists, constructors, and threads are also covered in later topics.
+17. Event-driven programming and inheritance will be discussed as well.
+18. Refactoring and class design will be emphasized to improve code quality and readability.
+19. Topics are designed to help students build a solid foundation in C++ programming and software development.
+20. The course is graded, with peer-graded assignments and quizzes used throughout the duration of the program.
+21. Students can access additional resources, such as video lectures, practice assignments, and quizzes, to supplement their learning.
+22. The course covers a wide range of topics, from basic I/O and functions to advanced class designs and software development principles.
+23. Each topic is designed to build upon previous knowledge and skills, allowing students to develop a comprehensive understanding of C++ programming.
+24. The course provides hands-on experience with real-world projects, including CSV reader functionality and DJ application development.
+25. Overall, the course aims to equip students with practical skills and knowledge in C++ programming and software development.
+
+Note: Some information was condensed or paraphrased to fit within the 25-sentence limit, while still maintaining the original content's essence.

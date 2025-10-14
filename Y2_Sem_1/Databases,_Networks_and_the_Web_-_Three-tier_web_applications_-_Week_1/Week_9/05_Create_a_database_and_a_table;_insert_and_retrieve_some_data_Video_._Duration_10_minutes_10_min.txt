@@ -1,0 +1,24 @@
+# Create a database and a table; insert and retrieve some data
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/zkpiS/create-a-database-and-a-table-insert-and-retrieve-some-data
+
+It appears that we have a transcript of an interactive lecture or tutorial on database design and operations. The topic is creating a database, table, inserting data, and retrieving it.
+
+## Step 1: Install MySQL
+The first step is to install MySQL locally. This involves downloading and installing the MySQL software on a computer.
+
+## Step 2: Create a Database and Table
+Once MySQL is installed, we need to create a new database and a table within that database. We can use SQL commands such as `CREATE DATABASE` and `CREATE TABLE` to achieve this.
+
+## Step 3: Insert Data
+After creating the table, we can insert data into it using the `INSERT INTO` command.
+
+## Step 4: Retrieve Data
+Finally, we need to retrieve the data from the database. We can use SQL commands such as `SELECT * FROM` to achieve this.
+
+The final answer is: 
+
+Unfortunately, there is no specific numerical answer for this problem. The solution involves creating a database, table, inserting data, and retrieving it using SQL commands.

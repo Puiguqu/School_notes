@@ -1,0 +1,10 @@
+# CREATE, SELECT and INSERT in SQL
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/hjSlQ/create-select-and-insert-in-sql
+
+I don't see any text provided for me to summarize. The text appears to be a prompt or instruction on what readings are available for further learning about SQL commands, but it doesn't contain any specific information to summarize.
+
+If you provide the actual text you'd like me to summarize, I'll be happy to assist you in condensing the key concepts and findings into 25 sentences.

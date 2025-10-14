@@ -1,0 +1,75 @@
+# Implement get low and high stats
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/kfbGo/implement-get-low-and-high-stats
+
+The code to implement `get low and high stats` is:
+```cpp
+// GetLowAndHighStats class
+class GetLowAndHighStats {
+public:
+    // Constructor
+    GetLowAndHighStats(OrderBook& book) : book_(book) {}
+
+    // Calculate minimum (low) and maximum (high) prices for each product
+    void getStats() {
+        std::map<std::string, Price> lowAndHighPrices;
+
+        for (auto& entry : book_.getOrders()) {
+            auto it = lowAndHighPrices.find(entry.product);
+            if (it == lowAndHighPrices.end()) {
+                lowAndHighPrices[entry.product] = Price();
+            }
+
+            // Update the minimum price
+            if (entry.price < it->second.minPrice) {
+                it->second.minPrice = entry.price;
+            }
+
+            // Update the maximum price
+            if (entry.price > it->second.maxPrice) {
+                it->second.maxPrice = entry.price;
+            }
+        }
+
+        // Print the results
+        for (auto& pair : lowAndHighPrices) {
+            Price minPrice = pair.second.minPrice;
+            Price maxPrice = pair.second.maxPrice;
+
+            std::cout << "Product: " << pair.first << ", Low: " << minPrice << ", High: " << maxPrice << std::endl;
+        }
+    }
+
+private:
+    OrderBook& book_;
+};
+```
+This code defines a `GetLowAndHighStats` class that takes an `OrderBook` object as input. The class has two main functions:
+
+1.  **Constructor**: The constructor initializes the `book_` member variable, which is a reference to the `OrderBook` object.
+2.  **getStats() function**: This function calculates the minimum (low) and maximum (high) prices for each product in the order book.
+
+    *   It iterates through all orders in the `OrderBook`.
+    *   For each order, it checks if there's already a record for its product in the `lowAndHighPrices` map. If not, it creates a new entry with default minimum and maximum prices.
+    *   It updates the minimum price whenever it encounters an order price that is lower than the current minimum price.
+    *   Similarly, it updates the maximum price whenever it encounters an order price that is higher than the current maximum price.
+4.  **Print results**: After processing all orders, it prints out the product names along with their respective minimum and maximum prices.
+
+To use this class in your code:
+
+```cpp
+int main() {
+    // Assuming you have an OrderBook object named 'book'
+    GetLowAndHighStats stats(book);
+
+    // Call the getStats function to calculate the min and max for each product.
+    stats.getStats();
+
+    return 0;
+}
+```
+
+Note that this is a simplified implementation. Real-world applications may need additional features or considerations, such as handling ties (when multiple orders have the same price) or updating prices over time.

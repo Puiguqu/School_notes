@@ -1,0 +1,8 @@
+# Syntax for working with simple classes, and putting objects into a vector
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/g3qWp/syntax-for-working-with-simple-classes-and-putting-objects-into-a-vector
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key In this video, we're going to talk about classes and data...

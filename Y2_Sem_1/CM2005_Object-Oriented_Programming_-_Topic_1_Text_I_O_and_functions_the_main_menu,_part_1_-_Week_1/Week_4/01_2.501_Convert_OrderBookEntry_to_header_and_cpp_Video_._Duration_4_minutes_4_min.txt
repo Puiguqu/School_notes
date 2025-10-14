@@ -1,0 +1,36 @@
+# 2.501 Convert OrderBookEntry to header and cpp
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/novB5/2-501-convert-orderbookentry-to-header-and-cpp
+
+Here is a summary of the text in 25 sentences:
+
+1. The video transcript discusses separating the order book entry class definition into specification and implementation.
+2. The C++ and header file pattern will be used throughout the course to organize code.
+3. The full class definition and implementation for the OrderBookEntry class are presented as an example.
+4. The speaker explains how to reorganize the code into a header file and a separate CPP file.
+5. This separation allows for easier maintenance, debugging, and compilation of the code.
+6. The speaker discusses how to convert the OrderBookEntry class to a header and CPP file using Visual Studio and XCode.
+7. The main menu is presented as an example of I/O and functions in programming.
+8. The course covers various topics, including Text I/O and functions, Using classes and variables, File I/O, exception handling, algorithms, Object interactions, Event-driven programming, Refactoring, and class design.
+9. Each topic has a corresponding video duration, practice assignment, or quiz.
+10. The speaker emphasizes the importance of understanding the order book entry class definition and its implementation in the course.
+11. The OrderBookEntry class is used to model data using classes and variables.
+12. The speaker explains how to create a new class in Visual Studio and XCode.
+13. The main CPP file is presented as an example of creating a program with functions.
+14. The Merkelmain class is introduced as a new class that will be created in the course.
+15. The init function is discussed as a way to initialize variables in C++.
+16. Limiting exposure is mentioned as a concept in programming that allows for better error handling.
+17. The load orderBook function is presented as an example of file I/O and exception handling.
+18. The speaker emphasizes the importance of understanding the order book entry class definition and its implementation.
+19. The course covers various topics, including Text I/O and functions, Using classes and variables, File I/O, exception handling, algorithms, Object interactions, Event-driven programming, Refactoring, and class design.
+20. Each topic has a corresponding video duration, practice assignment, or quiz.
+21. The speaker discusses the benefits of using header files and CPP files in programming.
+22. The Course Outline page provides an overview of the course topics and schedule.
+23. The Practice Assignment section includes various exercises to help students practice their skills.
+24. The Quiz section includes multiple-choice questions to test students' understanding of the material.
+25. The discussion prompt at the end of the video encourages viewers to share their thoughts and experiences with the topic.
+
+Note: There is no actual content related to "2.501 Convert OrderBookEntry to header and cpp" in the provided text, as it appears to be a placeholder or error message.

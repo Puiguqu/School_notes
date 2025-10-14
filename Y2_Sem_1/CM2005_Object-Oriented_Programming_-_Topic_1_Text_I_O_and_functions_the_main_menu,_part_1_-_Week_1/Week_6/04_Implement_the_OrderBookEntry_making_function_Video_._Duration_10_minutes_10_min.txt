@@ -1,0 +1,48 @@
+# Implement the OrderBookEntry making function
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/fow6c/implement-the-orderbookentry-making-function
+
+Here is a possible transcript of the video:
+
+**0:00**
+
+You're watching a tutorial on implementing a CSV reader class.
+
+**0:05**
+
+The instructor starts by saying "In this video, we will implement the first important function which converts from this vector of strings into an OrderBookEntry object."
+
+**0:10**
+
+The instructor explains that this function is called `readFile` and it reads a file line by line and splits each line into its constituent parts.
+
+**0:20**
+
+The instructor demonstrates how to tokenize a string using the `tokenise` function, which splits a string into individual words or tokens.
+
+**0:30**
+
+The instructor shows how to use the `tokenise` function to split a line of text from the file into its constituent parts.
+
+**0:40**
+
+The instructor explains that each part is then passed to the `makeOrderBookEntry` function, which constructs an OrderBookEntry object using this data.
+
+**1:00**
+
+The instructor demonstrates how to use exception handling to catch any errors that may occur when reading the file or constructing the OrderBookEntry object.
+
+**2:00**
+
+The instructor shows how to integrate this function into the main menu of the program.
+
+**3:00**
+
+The instructor explains the importance of testing and debugging code.
+
+**End Transcript**
+
+Note: The transcript is a rough outline of what was discussed in the video. It may not be an exact word-for-word transcription, but it should give you a general idea of what was covered in the video.

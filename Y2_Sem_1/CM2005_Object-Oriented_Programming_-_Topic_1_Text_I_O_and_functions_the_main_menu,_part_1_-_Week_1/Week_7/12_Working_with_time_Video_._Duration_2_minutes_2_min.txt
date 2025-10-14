@@ -1,0 +1,52 @@
+# Working with time
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/zldJy/working-with-time
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+The video transcript discusses implementing a time window feature in a simulation that models an order book.
+
+The simulation will step through the order book in terms of time, collecting all orders at a given point in time and processing them accordingly.
+
+The goal is to implement a concept where the simulation knows its current timestamp and can move on to the next time step, using the order book to help with this process.
+
+The idea is to add functionality that allows giving the current timestamp to determine the next timestamp for filtering orders.
+
+This will enable working with time in the simulation and collecting filtered orders based on timestamps.
+
+The subsequent videos will focus on implementing the time window feature in the code.
+
+Previous topics covered include text input/output, functions, classes, variables, file I/O, exception handling, algorithms, writing and testing an algorithm, object interactions, event-driven programming, inheritance, refactoring, class design, initialiser lists, constructors, threads, advanced user interfaces, and submission of coursework.
+
+The video transcript focuses on working with time in the simulation, including implementing a time window feature.
+
+A key concept is that the simulation needs to know its current timestamp to move on to the next time step.
+
+This requires adding functionality to allow determining the next timestamp based on the current one.
+
+The goal is to implement this concept in the code for the order book.
+
+The video transcript provides an overview of how the simulation will work with time and collecting filtered orders.
+
+It discusses implementing a time window feature that allows working with timestamps.
+
+The subsequent videos will focus on implementing this feature in detail.
+
+The video transcript covers topics such as text input/output, functions, classes, variables, file I/O, exception handling, algorithms, writing and testing an algorithm, object interactions, event-driven programming, inheritance, refactoring, class design, initialiser lists, constructors, threads, advanced user interfaces, and submission of coursework.
+
+However, the video transcript specifically focuses on working with time in the simulation.
+
+It discusses implementing a time window feature that allows working with timestamps.
+
+The goal is to implement this concept in the code for the order book.
+
+Previous topics covered include text input/output, functions, classes, variables, file I/O, exception handling, algorithms, writing and testing an algorithm, object interactions, event-driven programming, inheritance, refactoring, class design, initialiser lists, constructors, threads, advanced user interfaces, and submission of coursework.
+
+The video transcript provides an overview of how the simulation will work with time and collecting filtered orders.
+
+It discusses implementing a time window feature that allows working with timestamps.
+
+The subsequent videos will focus on implementing this feature in detail.

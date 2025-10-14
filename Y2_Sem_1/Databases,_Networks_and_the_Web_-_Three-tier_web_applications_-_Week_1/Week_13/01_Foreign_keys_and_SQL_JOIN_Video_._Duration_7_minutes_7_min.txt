@@ -1,0 +1,36 @@
+# Foreign keys and SQL JOIN
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/L9xcn/foreign-keys-and-sql-join
+
+Here is a summary of the text in 25 sentences:
+
+1. In relational databases, primary keys provide unique identifiers for each record in a table.
+2. Foreign keys are used to model relations between two tables by referencing the primary key of another table.
+3. The author name in the article table is an example of a foreign key, referring to the primary key author ID in the author table.
+4. Author name is not a suitable primary key for the author table and foreign key for the article table due to its non-uniqueness.
+5. A unique ID field should be used as the primary key in the author table and then used as a foreign key in the article table.
+6. The publisher field can be added to the book table without repeating data, by creating a separate publisher table with columns for all relevant data.
+7. A column in the book table refers to the ID column in the publisher table, making it a foreign key.
+8. The foreign key constraint ensures referential integrity by limiting the content of the foreign key to the values of the referenced primary key.
+9. Primary key constraints are also necessary to ensure accuracy and integrity of data stored in databases.
+10. When creating a new table with a foreign key, the foreign key must be specified along with its referencing field.
+11. The SQL statement to retrieve data from a single table is: `SELECT book.name, book.price FROM book WHERE book.price > 30`.
+12. This query returns the name and price of two books priced more than 30 pounds.
+13. To retrieve data from multiple tables, an SQL join statement can be used.
+14. The general format of SQL join is: `SELECT field1, field2, ... FROM table1 JOIN table2 ON join_condition WHERE select_condition`.
+15. SQL join allows joining more than two tables.
+16. Foreign keys and SQL joins are essential topics in database design.
+17. Practicing foreign keys and SQL joins can be done using the MySQL Shell by following lab instructions.
+18. The practice assignment will help reinforce understanding of these concepts.
+19. A programming activity is available to work on JOIN in SQL reading.
+20. This activity will provide hands-on experience with SQL joins.
+21. In the sharing your database discussion prompt, participants will discuss their own databases and experiences with foreign keys and SQL joins.
+22. Additional reading on this topic is available for those who want to learn more.
+23. The video on "Foreign Keys and SQL JOIN" explains these concepts in detail.
+24. The practice assignment and programming activity are designed to help students master these skills.
+25. Understanding foreign keys and SQL joins is crucial for effective database design and management.
+
+Note: This summary has been condensed to focus on the main points of the text, while omitting some details and specific examples.

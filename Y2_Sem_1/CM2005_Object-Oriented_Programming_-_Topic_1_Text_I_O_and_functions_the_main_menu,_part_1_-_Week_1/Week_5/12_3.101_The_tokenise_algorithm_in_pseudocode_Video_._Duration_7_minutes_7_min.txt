@@ -1,0 +1,57 @@
+# 3.101 The tokenise algorithm in pseudocode
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/x6PHx/3-101-the-tokenise-algorithm-in-pseudocode
+
+Here's a summary of what I can gather from the provided transcript:
+
+**Course Overview**
+
+The course appears to be about programming and software development, focusing on various topics such as file input/output, exception handling, object interactions, event-driven programming, inheritance, and more. The course covers a range of languages, including C++, and uses tools like JUCE.
+
+**Topic 3: Tokenise Algorithm in Pseudocode**
+
+The topic focuses on the tokenise algorithm, which is responsible for breaking down text into individual tokens (e.g., words or phrases). The pseudocode version is presented as:
+
+```
+FUNCTION tokenise(text)
+  input = text
+  output = empty array
+  WHILE input ≠ empty string
+    token = first word in input
+    output.append(token)
+    remove first word from input
+  ENDWHILE
+  RETURN output
+ENDFUNCTION
+```
+
+The pseudocode provides a simple example of how the algorithm works, using a while loop to iterate through each character in the input text and extract individual tokens.
+
+**Practice Assignments**
+
+Throughout the course, practice assignments are mentioned as a way to reinforce learning. These assignments include:
+
+1. Implementing the tokenise algorithm in C++
+2. Reading and processing CSV files
+3. Writing an algorithm for taking orders and creating an order matching engine
+4. Creating a wallet class
+5. Using JUCE to create a DJ application
+
+**Course Structure**
+
+The course is structured into weekly topics, each covering a specific topic or skill. The topics are:
+
+1. File input/output
+2. Exception handling
+3. Object interactions
+4. Event-driven programming and inheritance
+5. Refactoring and class design
+6. Advanced class and user interfaces
+7. Initialiser lists, constructors, and threads
+
+Each topic has its own practice assignments, quizzes, and assessments to help learners reinforce their understanding.
+
+I hope this summary is helpful! Let me know if you have any further questions or need more information about specific topics.

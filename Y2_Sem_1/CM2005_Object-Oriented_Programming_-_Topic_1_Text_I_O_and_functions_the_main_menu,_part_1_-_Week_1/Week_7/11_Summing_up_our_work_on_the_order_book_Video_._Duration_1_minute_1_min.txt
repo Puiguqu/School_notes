@@ -1,0 +1,45 @@
+# Summing up our work on the order book
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/VJ1Kg/summing-up-our-work-on-the-order-book
+
+Here is a summary of the text in 25 sentences, preserving key information and technical details:
+
+1. The OrderBook class provides a high-level interface to interact with order entry objects.
+2. It allows filtering orders based on product and timestamp.
+3. High-level statistics can be performed using the OrderBook class.
+4. The class is part of a larger system that aims to analyze market data.
+
+5. Initially, there was a large set of unsorted orders that needed processing.
+6. Filtering out bids and asks from the order book helped organize the data.
+7. Further analysis showed that pulling out all products and statistics provided valuable insights.
+
+8. Future videos will introduce the concept of stepping through time in the simulation.
+9. This step allows for multiple timestamps to be analyzed.
+
+10. The OrderBook class is a key component in the overall system design.
+11. It provides a structured way to handle order data and perform analysis.
+
+12. The main menu, part 1 was covered in Week 1 of the topic I/O and functions.
+13. The main menu, part 2 was covered in Week 2 of the same topic.
+
+14. Using classes and variables to model data is an essential skill for this project.
+15. The OrderBookEntry class was used as a starting point for building more complex structures.
+
+16. File I/O, exception handling, and algorithms are critical components of the system design.
+17. The CSVReader class was introduced in Week 5 as part of this topic.
+
+18. Writing and testing an algorithm is crucial for the overall success of the project.
+19. The order matching engine is a fundamental aspect of the system's functionality.
+
+20. Object interactions, such as those involving the wallet class, are also essential components.
+21. The DJ application and JUCE toolkit will be explored in later weeks.
+
+22. Event-driven programming and inheritance are key concepts to master for this project.
+23. Refactoring and class design are critical skills required for maintaining a complex system like this one.
+
+24. Initialiser lists, constructors, and threads will be covered in later weeks as part of the WaveformDisplay class.
+
+25. Advanced class and user interfaces will also be explored, including using TableListBox and TableListBoxModel.

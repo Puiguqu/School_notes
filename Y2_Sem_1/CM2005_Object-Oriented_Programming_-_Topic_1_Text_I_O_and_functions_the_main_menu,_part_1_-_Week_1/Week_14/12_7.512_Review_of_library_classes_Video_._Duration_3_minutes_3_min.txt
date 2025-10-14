@@ -1,0 +1,36 @@
+# 7.512 Review of library classes
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/jmKnk/7-512-review-of-library-classes
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The AudioFormatManager class is responsible for knowing about different audio formats and generating readers to read those file formats.
+2. The AudioFormatReader class wraps the reader up into a single interface that can be used to interact with any audio file format.
+3. The AudioFormatReaderSource layer provides additional functionality, such as parsing audio files and wrapping up the audio life cycle.
+4. The TransportSource layer adds control over audio playback, allowing for stopping, starting, and changing volume levels.
+5. However, this layer has a limitation: it cannot change the speed of playback.
+6. To address this limitation, an additional layer called ResamplingAudioSource was added to enable variable speed playback.
+7. The JUCE toolkit is used in the DJ application to handle audio file playback and other related tasks.
+8. The lesson series covers various topics, including event-driven programming, inheritance, and advanced class design.
+9. A post-video quiz is provided for practice after each video lesson.
+10. Real-time sound synthesis in JUCE is demonstrated through a video lesson.
+11. The Summary & Skills Checklist provides an overview of the lessons covered and the skills learned.
+12. Implementing audio file playback in JUCE using a hard-coded audio file is demonstrated through a video lesson.
+13. Adding a file chooser to load any file is shown, along with working the file browser.
+14. Stop and start buttons, and a volume control are added to the GUI to improve user interaction.
+15. Using ResamplingAudioPlayer to implement variable speed playback is explained in another video lesson.
+16. A review of library classes is provided at the end of the series.
+17. The final lesson covers refactoring and class design, specifically with regards to the DeckGUI and DJAudioPlayer classes.
+18. The WaveformDisplay class is covered in two lessons, covering initialiser lists, constructors, and threads.
+19. Advanced class and user interfaces are discussed, including using TableListBox and TableListBoxModel.
+20. The final lesson submission of coursework 2 graded assignment #7.512 is provided.
+21. The interactive transcript feature allows users to navigate through the transcript using tab or other keyboard shortcuts.
+22. Basic transcript mode can be enabled by pressing the escape key.
+23. Users can save notes for sections of text by pressing CTRL + S, and expand or contract their selection using CTRL + arrow keys.
+24. Screen readers that are incompatible with arrow keys can replace them with H J K L keys.
+25. The post-video quiz is a practice assignment to help users reinforce their understanding of the material covered in each video lesson.
+
+Note: There is no specific formulae, links, or technical details mentioned in the original text, but rather a list of topics and lessons covered in the DJ application tutorial series.

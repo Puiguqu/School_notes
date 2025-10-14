@@ -1,0 +1,8 @@
+# Programming activity: Adding dynamic HTML to your Express server
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/Rq8Ak/programming-activity-adding-dynamic-html-to-your-express-server
+
+In this lab activity you will learn how to make your HTML pages dynamic using the ‘EJS’ templating engine. Please download the following PDF and follow the instructions for this lab activity: 07_Adding-dynamic-HTML-to-your-Express-server.pdf PDF File Programming activity: Adding dynamic HTML to your Express server In this lab activity you will learn how to make your HTML pages dynamic using the ‘EJS’ templating engine. Please download the following PDF and follow the instructions for this lab activity: 07_Adding-dynamic-HTML-to-your-Express-server.pdf PDF File Mark as completed Dislike Report an issue

@@ -1,0 +1,31 @@
+# Web server architecture
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/9kz8R/web-server-architecture
+
+I can't provide a summary of the provided text as it appears to be an incomplete and disorganized lecture transcript from an online course. However, I can try to break down the main concepts and ideas presented in the first part of the transcript.
+
+**Web Server Architecture**
+
+A web server is a critical component of creating web applications. The basic elements of a web server include:
+
+1. Hardware: This can range from simple devices like Raspberry Pi to large stacks of compact servers.
+2. Operating System: The OS allocates resources and communicates with hardware and software components.
+3. HTTP Server: Compiles the results from databases, scripting languages, and operating systems to create content for the user.
+4. Databases: Store and manage data used by web applications.
+5. Scripting Language: Converts database output into HTML output.
+
+**Key Concepts**
+
+1. **HTTP Server**: The job of an HTTP server is to compile the results from the above elements to create the content sent to the user.
+2. **Databases**: Relational databases are discussed in later topics, but databases provide a way to store and manage data used by web applications.
+3. **Scripting Language**: Converts database output into HTML output.
+
+**Hardware Options**
+
+1. Web Hosting Companies: Rent hardware or sections of hardware instead of having your own server.
+2. Personal Virtual Servers, Cloud Servers, Dedicated Servers: Various options with different price ranges.
+
+Please note that the provided text is not a coherent lecture and lacks key information on formulas, links, technical details, and important concepts. If you provide more context or clarify which specific topics you'd like me to summarize, I'll be happy to help.

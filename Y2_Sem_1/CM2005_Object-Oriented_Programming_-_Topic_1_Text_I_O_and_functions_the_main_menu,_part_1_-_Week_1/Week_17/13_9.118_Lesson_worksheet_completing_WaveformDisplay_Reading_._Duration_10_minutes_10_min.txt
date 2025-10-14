@@ -1,0 +1,30 @@
+# 9.118 Lesson worksheet: completing WaveformDisplay
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/IGzqY/9-118-lesson-worksheet-completing-waveformdisplay
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The provided text appears to be a course schedule or syllabus for a programming course, likely using the JUCE (Jules' Utility Class Extensions) toolkit.
+
+* The course consists of 20 topics, each with multiple lessons.
+* Topics include Text I/O and functions, Using classes and variables, File I/O and algorithms, Writing and testing an algorithm, Object interactions, Event-driven programming and inheritance, Refactoring and class design, and Initialiser lists, constructors, and threads.
+
+Weeks 1-3 cover Text I/O and functions, including the main menu.
+* Topics include the OrderBookEntry class and taking orders using the order matching engine.
+* Weeks 4-6 cover File I/O, exception handling, and algorithms, with a focus on the CSVReader class.
+
+Weeks 7-10 cover Writing and testing an algorithm, Object interactions, and Event-driven programming and inheritance.
+* Topics include buttons, sliders, audio, and refactoring and class design using the DeckGUI and DJAudioPlayer classes.
+
+Weeks 11-13 introduce the DJ application and JUCE toolkit, with a focus on event-driven programming and inheritance.
+* Topics include buttons, sliders, and audio, as well as refactoring and class design.
+
+Weeks 14-17 cover Refactoring and class design, including initialiser lists, constructors, and threads.
+* The WaveformDisplay class is the main topic of interest.
+
+The final week covers the submission of coursework and the completion of a lesson worksheet on completing WaveformDisplay.
+
+Overall, the course appears to be focused on building a DJ application using JUCE and C++.

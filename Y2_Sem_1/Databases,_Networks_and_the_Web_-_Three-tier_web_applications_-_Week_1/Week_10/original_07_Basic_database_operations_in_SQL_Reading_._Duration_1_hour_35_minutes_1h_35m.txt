@@ -1,0 +1,8 @@
+# Basic database operations in SQL
+Reading•
+. Duration: 1 hour 35 minutes
+1h 35m
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/bBboE/basic-database-operations-in-sql
+
+The following reading will give you a deeper understanding of SELECT, INSERT, DELETE and UPDATE statements in SQL: Elmasri and Navathe, Chapter 6: Basic SQL, Section 6.3 ‘Basic retrieval queries in SQL ’ and Section 6.4 ‘ INSERT, DELETE, and UPDATE statements in SQL’ . Basic database operations in SQL The following reading will give you a deeper understanding of SELECT, INSERT, DELETE and UPDATE statements in SQL: Elmasri and Navathe, Chapter 6: Basic SQL, Section 6.3 ‘Basic retrieval queries in SQL ’ and Section 6.4 ‘ INSERT, DELETE, and UPDATE statements in SQL’ . Mark as completed Dislike Report an issue

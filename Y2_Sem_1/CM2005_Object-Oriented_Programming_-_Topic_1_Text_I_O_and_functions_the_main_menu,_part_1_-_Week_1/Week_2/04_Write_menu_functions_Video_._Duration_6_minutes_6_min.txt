@@ -1,0 +1,36 @@
+# Write menu functions
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/f8DIY/write-menu-functions
+
+Here is a summary of the text in 25 sentences, preserving key information, formulas, links, and technical details:
+
+1. The video transcript discusses creating functions for each option on a menu to separate concerns and make the code more manageable.
+2. The author lays out a framework with six functions: print menu, processOption, print market stats, enter offer, enter bid, and go-to next time frame.
+3. Each function is written as a void function, which means it doesn't return any value.
+4. The printMenu function prints the available options to the user.
+5. The processOption function calls the appropriate function based on the user's choice.
+6. The author implements each function with sample code.
+7. The printMarketStats function is implemented to print market statistics.
+8. The enterOffer function is written as a void function that will eventually make an offer.
+9. The enterBid function is also written as a void function that will make a bid.
+10. The go-to NextTimeFrame function prints the next time frame and waits for user input.
+11. The author reviews the code to ensure it looks reasonable and separates concerns effectively.
+12. The printMenu function quiz is available for practice.
+13. The write menu functions assignment is due soon, and the author will provide more details on the task.
+14. The video quiz on writing a print menu function is now live.
+15. The lesson worksheet is available for converting the menu to use functions.
+16. The video lecture on functions covers basic concepts and provides practice exercises.
+17. The post-video quiz is now available for practice.
+18. The Experimenting with Functions lab is scheduled for this week, where students will work on implementing functions.
+19. The Dealing with programming errors discussion prompt asks students to share their experiences with debugging code.
+20. The End-of-topic quiz for Topic 1 is now live and assesses students' understanding of functions.
+21. The OrderBookEntry class is introduced in the next video, where students will learn about modeling data using classes and variables.
+22. The CSVReader class is also covered in an upcoming video, which introduces file I/O, exception handling, and algorithms.
+23. The taking orders and order matching engine assignment is due soon, and students will need to implement a working algorithm.
+24. The DJ application and JUCE toolkit are introduced in the next video, covering event-driven programming and inheritance.
+25. The author provides a detailed schedule for the upcoming topics, which include advanced class design, user interfaces, and submission of coursework.
+
+Note that this summary is based on the provided transcript and may not include all the details or specific content from each section.

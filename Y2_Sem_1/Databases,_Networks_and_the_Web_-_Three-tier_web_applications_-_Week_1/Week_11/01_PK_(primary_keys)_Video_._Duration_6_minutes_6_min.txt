@@ -1,0 +1,36 @@
+# PK (primary keys)
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/n5P2p/pk-primary-keys
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The concept of primary keys in relational databases will be introduced in this lecture.
+2. A primary key is a field or combination of fields in a table that uniquely identifies each row or record in a table.
+3. In the example of the "books" table, the "id" field serves as a primary key.
+4. Each row in the book table is identified by an id number, such as database book with id number one and price £40.25.
+5. Primary keys provide a unique identifier for each record in a table and guarantee that every row is in some way unique.
+6. The concept of primary keys is essential in relational databases to ensure data integrity and uniqueness.
+7. In the "newspaper archiving database" example, the "article_id" field serves as a primary key in the article table.
+8. Similarly, the "author_id" field serves as a primary key in the author table.
+9. Primary keys are used to uniquely identify each record in a table and ensure data integrity.
+10. In most cases, primary keys are numerical IDs that auto-increment.
+11. Non-numerical primary keys or combinations of letters and numbers can be used, but they must be unique.
+12. Primary key constraints say that every table must have a field or combination of fields designated as its primary key.
+13. These constraints ensure data integrity by preventing duplicate records in a table.
+14. The "not null" constraint is an example of an integrity constraint related to primary keys.
+15. The "primary key constraints" rule ensures that every table has a unique and non-null primary key field or combination of fields.
+16. The concept of primary keys is essential in database design and operations.
+17. Understanding primary keys is crucial for ensuring data integrity and uniqueness in relational databases.
+18. Primary keys are used to enforce referential integrity between tables in a database.
+19. The "PK" (primary key) video covers the basics of primary keys in relational databases.
+20. The "Practice Assignment" on PK primary keys helps students understand and apply the concept.
+21. The "Programming activity: Accessing the database from Node" allows students to practice accessing databases using Node.js.
+22. The "Inserting data and searching" exercise demonstrates how to insert data into a database and search for it using Node.js.
+23. Understanding primary keys is essential for database design, operations, and security.
+24. Primary keys are used to ensure data integrity and uniqueness in relational databases.
+25. In summary, primary keys are a fundamental concept in relational databases that ensures data integrity and uniqueness.
+
+Note: Some sentences were combined or rephrased to maintain the original message and flow of the text.

@@ -1,0 +1,116 @@
+# Let's look at some functions
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/m2TQF/lets-look-at-some-functions
+
+Here is a possible transcript for the video "Let's look at some functions":
+
+**Instructor**: Welcome to today's lesson on functions! In this course, we'll be covering the basics of programming and how to use them to solve problems. Functions are a fundamental concept in programming, and they're used to organize our code and make it more efficient.
+
+**(Video shows an example of a function being defined)**
+
+**Instructor**: Let's take a look at an example of a function definition. This is a simple function that takes two arguments, `x` and `y`, and returns their sum.
+
+```c
+int add(int x, int y) {
+    return x + y;
+}
+```
+
+**(Video shows how to call the function)**
+
+**Instructor**: Now, let's see how we can call this function. We can pass in values for `x` and `y`, like so:
+
+```c
+int result = add(2, 3);
+```
+
+**(Video shows the output of the function)**
+
+**Instructor**: And when we run this code, what do we get? That's right, we get a value of `5`.
+
+**(Video shows an example of a more complex function)**
+
+**Instructor**: Now, let's take a look at a more complex function. This is a function that calculates the area of a rectangle.
+
+```c
+double calculateArea(double width, double height) {
+    return width * height;
+}
+```
+
+**(Video shows how to call the function and use the result)**
+
+**Instructor**: We can call this function with values for `width` and `height`, like so:
+
+```c
+double area = calculateArea(4.0, 5.0);
+printf("The area is: %f", area);
+```
+
+**(Video shows the output of the code)**
+
+**Instructor**: And when we run this code, what do we get? That's right, we get a value of `20`.
+
+**(Video shows how to write functions in different programming languages)**
+
+**Instructor**: Functions are not just limited to one language. They're used in many programming languages, including C++, Java, Python, and more.
+
+**(Video shows an example of a function in Python)**
+
+**Instructor**: Let's take a look at an example of a function in Python. This is a simple function that takes two arguments and returns their product.
+
+```python
+def multiply(x, y):
+    return x * y
+```
+
+**(Video shows how to call the function and use the result)**
+
+**Instructor**: We can call this function with values for `x` and `y`, like so:
+
+```python
+result = multiply(2, 3)
+print(result)  # Output: 6
+```
+
+**(Video shows a comparison between functions and other programming concepts)**
+
+**Instructor**: Functions are similar to procedures in other programming languages. They're also similar to methods in object-oriented programming.
+
+**(Video shows how to write functions for problem-solving)**
+
+**Instructor**: So, why should we use functions when solving problems? Well, functions allow us to break down our code into smaller, more manageable pieces. They help us to organize our code and make it more efficient.
+
+**(Video shows a real-world example of using functions in programming)**
+
+**Instructor**: Let's take a look at an example of how functions are used in real-world programming. In this example, we're writing a program that simulates a game of rock-paper-scissors.
+
+```c
+void playGame() {
+    int choice = rand() % 3;
+    if (choice == 0) {
+        printf("Rock\n");
+    } else if (choice == 1) {
+        printf("Paper\n");
+    } else {
+        printf("Scissors\n");
+    }
+}
+```
+
+**(Video shows how to call the function and use it in a loop)**
+
+**Instructor**: We can call this function in a loop to simulate multiple games of rock-paper-scissors.
+
+```c
+for (int i = 0; i < 10; i++) {
+    playGame();
+}
+```
+
+**(Video ends with an animation)**
+
+This transcript is just one possible way that the instructor could present the material. The actual video may include additional elements, such as animations or graphics, to help illustrate the concepts being discussed.

@@ -1,0 +1,8 @@
+# 7.302 Experiment with inheritance and virtual functions
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/9ZSVw/7-302-experiment-with-inheritance-and-virtual-functions
+
+Now it is your turn to experiment. Try creating Parent and Child classes, then seeing what kind of errors your build tools give you when you leave your classes abstract and so on. Refer to the textbook Chapter 14, pp.561–66. The textbook for this course is: Horton, I. and P. Van Weert Beginning CC++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the book. 7.302 Experiment with inheritance and virtual functions Now it is your turn to experiment. Try creating Parent and Child classes, then seeing what kind of errors your build tools give you when you leave your classes abstract and so on. Refer to the textbook Chapter 14, pp.561–66. The textbook for this course is: Horton, I. and P. Van Weert Beginning CC++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the book. Mark as completed Dislike Report an issue

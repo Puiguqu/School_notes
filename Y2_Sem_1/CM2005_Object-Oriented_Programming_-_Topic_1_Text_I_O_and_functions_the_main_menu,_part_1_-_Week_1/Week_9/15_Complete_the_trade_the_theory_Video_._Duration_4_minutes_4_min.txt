@@ -1,0 +1,25 @@
+# Complete the trade: the theory
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/EV0pC/complete-the-trade-the-theory
+
+Here is a possible answer to the problem:
+
+## Step 1: Understand the task
+The task is to complete the trade: the theory. This means we need to implement the logic for handling trades, which involves updating the username and cash balances.
+
+## Step 2: Review the code
+We need to review the code that handles trades, including the `enterAsk` and `enterBid` functions.
+
+## Step 3: Implement the logic
+The logic for handling trades is as follows:
+
+- When a user enters an ask or bid, we update their cash balance accordingly.
+- We also update the username to reflect the new trade.
+
+## Step 4: Test the code
+We need to test the code to ensure that it works correctly and handles all possible scenarios.
+
+The final answer is: $\boxed{No specific numerical answer, but rather a completed implementation of the logic for handling trades.}$

@@ -1,0 +1,8 @@
+# Topic 9 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/yXePw/topic-9-summary
+
+In this topic you learned about security, including: understanding the threats posed to data in storage and transit in dynamic web applications how encryption can be used to protect data in storage the use of symmetric and asymmetric encryption in data transmission implementing encryption of passwords stored in databases implementing authentication and authorisation in web applications implementing validation and sanitisation in web applications. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic9_eval.pdf PDF File Topic 9 summary In this topic you learned about security, including: understanding the threats posed to data in storage and transit in dynamic web applications how encryption can be used to protect data in storage the use of symmetric and asymmetric encryption in data transmission implementing encryption of passwords stored in databases implementing authentication and authorisation in web applications implementing validation and sanitisation in web applications. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic9_eval.pdf PDF File Mark as completed Dislike Report an issue

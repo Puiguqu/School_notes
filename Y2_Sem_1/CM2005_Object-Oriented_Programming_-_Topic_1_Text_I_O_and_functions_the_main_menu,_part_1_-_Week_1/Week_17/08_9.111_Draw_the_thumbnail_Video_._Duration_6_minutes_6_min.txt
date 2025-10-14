@@ -1,0 +1,31 @@
+# 9.111 Draw the thumbnail
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/YX19z/9-111-draw-the-thumbnail
+
+Here's a summary of the transcript:
+
+The topic is about implementing a waveform display component in a DJ application. The speaker discusses the following points:
+
+1. Introduction to I/O and functions: The main menu of the program uses text input/output (I/O) and functions.
+2. Using classes and variables: The speaker introduces the concept of using classes and variables to model data, specifically the OrderBookEntry class.
+3. File I/O, exception handling, and algorithms: The CSVReader class is introduced, which reads data from a file and handles exceptions.
+
+The speaker then moves on to implementing the WaveformDisplay component, which includes:
+
+1. Drawing the thumbnail: The speaker discusses how to draw the waveform display using the AudioThumbnail class.
+2. Implementing a ChangeListener: To ensure that the waveform display updates automatically when new data is loaded.
+3. Review of implementation: A review of the implemented waveform display class.
+
+The speaker also provides practice assignments and lesson worksheets for the audience to complete.
+
+Key takeaways:
+
+* Understanding I/O and functions is essential for creating interactive programs.
+* Using classes and variables effectively can help model complex data structures.
+* File I/O, exception handling, and algorithms are crucial skills for any programmer.
+* Implementing a waveform display component requires drawing thumbnails and using a ChangeListener to update the display.
+
+Note: The transcript is quite detailed, but it seems that the main topic is about implementing a waveform display component in a DJ application.

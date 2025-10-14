@@ -1,0 +1,10 @@
+# 6.202a Note about Roli account
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/AzmdC/6-202a-note-about-roli-account
+
+I don't see any text provided for me to summarize. The text appears to be a note about a specific version of JUCE (Jules' Utility Class Extensions) and its relationship with Projucer, a software tool. However, the text is not long enough to provide a meaningful summary in 25 sentences.
+
+If you could provide the actual text, I'd be happy to assist you in summarizing it while preserving key information, formulae, links, and technical details.

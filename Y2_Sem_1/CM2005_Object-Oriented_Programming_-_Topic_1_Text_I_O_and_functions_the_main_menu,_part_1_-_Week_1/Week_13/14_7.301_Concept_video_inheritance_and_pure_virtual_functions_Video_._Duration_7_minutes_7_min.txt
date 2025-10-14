@@ -1,0 +1,27 @@
+# 7.301 Concept video: inheritance and pure virtual functions
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/7Q5Rr/7-301-concept-video-inheritance-and-pure-virtual-functions
+
+This appears to be a transcript of a video lecture or tutorial on programming, specifically using the JUCE (Jules' UK Audio Coding Expert) library. The video is part of a larger course on C++ and audio programming.
+
+The topic covered in this section is "Event-driven programming and inheritance: buttons, sliders and audio". It seems that the instructor is explaining how to use event-driven programming techniques with JUCE's class system, specifically using inheritance to create custom classes that interact with UI components like buttons and sliders.
+
+Here are some key points from the transcript:
+
+* The instructor explains that in JUCE, events are passed through a callback function, which allows for decoupling between the UI component and the code that reacts to it.
+* They demonstrate how to use inheritance to create custom classes that inherit behavior from base classes.
+* The instructor shows how to override virtual functions in base classes to provide custom implementations for specific events.
+* They discuss how to use pure virtual functions to force implementation of certain methods in derived classes.
+
+The lecture also touches on the importance of using proper coding practices, such as avoiding excessive nesting and using meaningful variable names. Additionally, they demonstrate how to use JUCE's `Listener` class to create custom listeners that can be attached to UI components.
+
+Some notable quotes from the transcript include:
+
+* "Inheritance is a powerful tool for creating reusable code."
+* "Pure virtual functions force implementation of certain methods in derived classes."
+* "Event-driven programming is a fundamental concept in software development."
+
+Overall, this section appears to be an introduction to using JUCE's class system and event-driven programming techniques with inheritance.

@@ -1,0 +1,36 @@
+# Using an enum to represent the bid/ask
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/JiJLk/using-an-enum-to-represent-the-bid-ask
+
+The concept of using an enum to represent the bid/ask is introduced in this section of the transcript.
+
+To break it down:
+
+* The instructor explains that enums are a way to define a set of named values.
+* They provide an example of how to use an enum to represent a bid/ask, where `enum BidAsk { ASK, BID };` defines two possible values: ASK and BID.
+* The instructor shows how to use this enum in the code by declaring a variable of type `BidAsk` and assigning it one of the defined values, e.g. `BidAsk myState = BidAsk.BID;`.
+* They discuss the benefits of using enums, such as readability and maintainability, when working with values that have specific names or meanings.
+
+The instructor then provides an example code snippet:
+```c++
+enum class Direction {
+    UP,
+    DOWN
+};
+
+int main() {
+    Direction direction = Direction.UP;
+    if (direction == Direction.UP) {
+        std::cout << "Going up" << std::endl;
+    } else if (direction == Direction.DOWN) {
+        std::cout << "Going down" << std::endl;
+    }
+    return 0;
+}
+```
+In this example, the `Direction` enum is used to represent two possible directions: UP and DOWN. The code checks which direction is currently being followed by using an if-else statement.
+
+The instructor concludes that enums are a useful tool for defining named values in C++, making the code more readable and maintainable.

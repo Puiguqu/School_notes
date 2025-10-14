@@ -1,0 +1,64 @@
+# 6.207 Lesson worksheet: get up and running with JUCE
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/7bPLU/6-207-lesson-worksheet-get-up-and-running-with-juce
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+JUCE (Jules' Utility Class Extensions) is an open-source audio software development framework.
+
+The first week focuses on Text I/O and functions, covering the main menu.
+
+The second week introduces using classes and variables to model data with the OrderBookEntry class.
+
+The third week covers File I/O, exception handling, and algorithms with the CSVReader class.
+
+The fourth week introduces writing and testing an algorithm with taking orders and the order matching engine.
+
+The fifth week explores object interactions with the wallet class.
+
+The sixth week introduces the DJ application and the JUCE toolkit, covering setup and essential concepts.
+
+JUCE has a comprehensive library of GUI widgets, including buttons, sliders, and audio components.
+
+The 6.201 video covers the basics of JUCE, while the 6.202 post-video quiz assesses understanding.
+
+Installing JUCE on Windows involves downloading the framework and following installation instructions.
+
+On macOS, JUCE can be installed using a similar process, with additional steps for compatibility.
+
+The 6.203 video explains how to see print-outs in Windows, while the 6.204 video covers installing JUCE on macOS.
+
+The 6.205 introduction to Projucer, a code editor and project generator, is covered in detail.
+
+JUCE provides extensive documentation and resources, including links to tutorials and FAQs.
+
+The 6.206 lesson worksheet introduces users to JUCE basics, while the 6.207 lesson worksheet gets users up and running with the framework.
+
+The 6.301 video adds a GUI widget to a JUCE app, demonstrating essential concepts.
+
+The 6.302 post-video quiz assesses understanding of GUI widgets, while the 6.303 documentation provides in-depth details on the library.
+
+The 6.305 lesson worksheet introduces users to adding GUI widgets to their apps, with a peer-graded assignment for practice.
+
+Users can experiment with JUCE widgets using a peer-graded assignment that allows them to showcase their work.
+
+Inheritance is introduced in the 6.401 video, which explains the concept and its applications.
+
+The 6.402 post-video quiz assesses understanding of inheritance, while the 6.403 documentation provides additional details on the topic.
+
+Advanced topics include event-driven programming and inheritance with buttons, sliders, and audio components.
+
+Refactoring and class design are covered in depth, using the DeckGUI and DJAudioPlayer classes as examples.
+
+Initialiser lists, constructors, and threads are introduced in the WaveformDisplay class.
+
+The 6.501 summary video provides a brief overview of JUCE basics.
+
+Overall, JUCE is a comprehensive framework for audio software development, with extensive documentation and resources to support users.
+
+The course covers essential concepts, including GUI widgets, event-driven programming, inheritance, and refactoring.
+
+Users can learn by following along with the lesson worksheets and practicing with peer-graded assignments.

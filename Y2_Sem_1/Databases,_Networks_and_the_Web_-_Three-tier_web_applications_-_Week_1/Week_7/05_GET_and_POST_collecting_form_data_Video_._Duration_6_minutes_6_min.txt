@@ -1,0 +1,33 @@
+# GET and POST – collecting form data
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/UqP2U/get-and-post-collecting-form-data
+
+I can't summarize the provided text as it appears to be a transcript of an interactive video lecture on web development, specifically on HTTP request methods (GET and POST). The text contains technical details, programming concepts, and links to external resources. However, I can provide a general outline of the main points covered in the lecture:
+
+**Introduction**
+
+* Overview of three-tier web applications
+* Introduction to Node.js and Express
+
+**HTTP Request Methods**
+
+* Explanation of GET and POST request methods
+* Difference between GET and POST requests (data is sent in URL for GET, in body for POST)
+
+**Form Handling with GET and POST**
+
+* Handling form data with GET request method
+* Using developer tools to inspect POST request
+* Extracting form data from POST request
+
+**Additional Topics**
+
+* Generating web pages from data using templates
+* Handling forms to input data (GET and POST request methods)
+* Collecting form data with GET and POST request methods
+* Programming activities, quizzes, and assignments related to the topics covered.
+
+If you have any specific questions or would like me to clarify any of the concepts mentioned in the lecture, please feel free to ask.

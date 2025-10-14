@@ -1,0 +1,8 @@
+# 8.113 Lesson worksheet: refactoring the audio code into the DJAudioPlayer class
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/f6bfr/8-113-lesson-worksheet-refactoring-the-audio-code-into-the-djaudioplayer-class
+
+8.113 Lesson worksheet: refactoring the audio code into the DJAudioPlayer class Please find the lesson worksheet below. 8113_refactor_audio_v3.pdf PDF File Mark as completed Dislike Report an issue

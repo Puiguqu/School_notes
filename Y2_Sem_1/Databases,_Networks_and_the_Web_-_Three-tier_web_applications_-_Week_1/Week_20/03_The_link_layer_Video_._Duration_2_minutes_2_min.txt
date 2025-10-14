@@ -1,0 +1,42 @@
+# The link layer
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/AzaRx/the-link-layer
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The link layer is the lowest layer in the TCP/IP model, closest to the physical part of the network.
+2. Unlike the network layer, which deals with data transmission across multiple hops, the link layer only concerns itself with getting data across one hop.
+3. The link layer incorporates a group of communication protocols that are designed for specific mediums, such as wire, Wi-Fi, and fiber optics, and Ethernet.
+4. These protocols cover different mediums and do not depend on the existence of the Internet.
+5. The link layer is responsible for making the connection between the logical and physical components of the communication network.
+6. A frame represents a packet of data at the data link layer.
+7. Frames are used for transmitting data in a point-to-point manner, and their addressing mechanism is hardware-specific (MAC address).
+8. MAC addresses are often assigned by manufacturers as a burned-in address.
+9. They allow link-layer devices to identify themselves on a network.
+10. The MAC address is used in the medium access control protocol, which is a sub-layer of the data link layer.
+11. The link layer does not concern itself with the routing or forwarding of data across multiple hops.
+12. It only focuses on getting the data from one device to another on the same hop.
+13. This is in contrast to the network layer, which deals with routing and forwarding data across multiple hops.
+14. The link layer protocols are designed to work with specific mediums, such as wire, Wi-Fi, and fiber optics, and Ethernet.
+15. Each protocol is designed for a specific medium, and they do not share common functionality.
+
+Unfortunately, I was unable to find the information on links in this text, so I will leave them blank.
+
+16. The link layer is a critical component of the TCP/IP model, as it provides the foundation for data transmission across networks.
+17. Understanding the link layer is essential for working with networking technologies and protocols.
+18. The link layer is responsible for making the connection between devices on a network, which allows data to be transmitted from one device to another.
+19. It is also responsible for managing access to the network, using protocols such as MAC addresses and medium access control.
+
+Unfortunately, I was unable to find the information on formulas in this text, so I will leave them blank.
+
+20. The link layer is a critical component of many networking technologies, including Ethernet and Wi-Fi.
+21. It provides the foundation for data transmission across networks, allowing devices to communicate with each other.
+22. Understanding the link layer is essential for working with networking technologies and protocols.
+23. The link layer is responsible for managing access to the network, using protocols such as MAC addresses and medium access control.
+24. It also provides a framework for error detection and correction, which is essential for ensuring reliable data transmission.
+25. In summary, the link layer is a critical component of the TCP/IP model, providing the foundation for data transmission across networks.
+
+Unfortunately, I was unable to find any additional information on "Further reading" or "Additional Page Content" in this text, so I will leave those sections blank.

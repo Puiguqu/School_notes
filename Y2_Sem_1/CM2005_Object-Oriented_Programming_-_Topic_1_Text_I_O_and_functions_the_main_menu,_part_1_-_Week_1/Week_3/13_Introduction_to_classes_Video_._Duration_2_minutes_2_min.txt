@@ -1,0 +1,36 @@
+# Introduction to classes
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/KeAFT/introduction-to-classes
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. A class in C++ is a way of organizing data and functions that are related to each other.
+2. The string class is an example of a built-in class in C++ that organizes data representing a string.
+3. In this course, we will define our own class called OrderBookEntry to organize the order book data.
+4. The current approach involves five separate variables to store the data, which are not related to each other.
+5. A better approach is to create a single data structure that represents a complete row in one place.
+6. To achieve this, we can use classes and objects in C++.
+7. Classes provide a way to define custom data types and organize related functions and variables.
+8. Objects are instances of these classes, which can be created and manipulated in memory.
+9. Constructors are special functions that initialize objects when they are created.
+10. Constructor initialisation lists allow us to pass initialization data into objects during construction.
+11. The OrderBookEntry class will have its own set of members (data) and functions (operations).
+12. We will define our first class: OrderBookEntry, which will represent an order book entry.
+13. The OrderBookEntry class will have constructor initialisation lists to pass in the initialization data.
+14. We will create a vector of objects (OrderBookEntry instances) and iterate over it.
+15. Iteration over vectors allows us to access each element individually.
+16. To use the OrderBookEntry class, we need to define its syntax for working with simple classes.
+17. The CSVReader class is another example of using classes and objects in C++.
+18. The CSVReader class will be used for file I/O operations, exception handling, and algorithms.
+19. File I/O involves reading and writing data from files, which can be done using classes like CSVReader.
+20. Exception handling allows us to manage errors and exceptions that may occur during execution.
+21. Algorithms are sets of instructions that solve a specific problem, and can be implemented using classes and objects in C++.
+22. In this course, we will cover file I/O, exception handling, and algorithms using the CSVReader class.
+23. We will also explore object interactions, including the wallet class, which represents a user's financial information.
+24. The DJ application and JUCE toolkit are used for building graphical user interfaces (GUIs) in C++.
+25. Inheritance is a mechanism that allows one class to inherit properties from another class, allowing for code reuse.
+
+Note: This summary only includes the main points and key concepts mentioned in the text, and does not include all the details and specifics of each topic.

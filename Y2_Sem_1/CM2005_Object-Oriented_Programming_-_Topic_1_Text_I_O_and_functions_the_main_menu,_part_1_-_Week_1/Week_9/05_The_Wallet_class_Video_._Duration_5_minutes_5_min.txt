@@ -1,0 +1,80 @@
+# The Wallet class
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/d2gda/the-wallet-class
+
+Here is a possible version of the code for the `Wallet` class:
+```
+#include <iostream>
+#include <string>
+#include "JuceLibraryCode/JuceHeader.h"
+
+using namespace juce;
+
+class Wallet {
+public:
+    Wallet() : cash(0.0) {}
+
+    void insertCash(double amount) {
+        cash += amount;
+        std::cout << "Inserted: $" << formatMoney(amount) << std::endl;
+    }
+
+    bool contains(double amount) {
+        return cash >= amount;
+    }
+
+    void print() {
+        std::cout << "Wallet balance: $" << formatMoney(cash) << std::endl;
+    }
+
+    void removeCash(double amount) {
+        if (contains(amount)) {
+            cash -= amount;
+            std::cout << "Removed: $" << formatMoney(amount) << std::endl;
+        } else {
+            std::cout << "Not enough cash in wallet." << std::endl;
+        }
+    }
+
+private:
+    double cash;
+
+    std::string formatMoney(double amount) {
+        return "$" + std::to_string(amount);
+    }
+};
+```
+This code defines a `Wallet` class with the following methods:
+
+*   `insertCash`: adds a specified amount of cash to the wallet and prints out a message indicating how much was inserted.
+*   `contains`: checks whether the wallet contains enough cash to cover a specified amount and returns true if it does, false otherwise.
+*   `print`: prints out the current balance in the wallet.
+*   `removeCash`: removes a specified amount of cash from the wallet if there is enough available, and prints out a message indicating how much was removed.
+
+The class also has a private member variable `cash` to store the current balance. The `formatMoney` method formats a double as a string representing currency.
+
+You can create an instance of the `Wallet` class like this:
+```
+int main() {
+    Wallet wallet;
+
+    // Insert some cash
+    wallet.insertCash(100.0);
+
+    // Check if there's enough cash for a bid or ask
+    bool hasEnough = wallet.contains(50.0);
+    std::cout << "Has enough: " << (hasEnough ? "Yes" : "No") << std::endl;
+
+    // Print the current balance
+    wallet.print();
+
+    // Remove some cash
+    wallet.removeCash(20.0);
+
+    return 0;
+}
+```
+Note that this is just a basic example, and you may want to add more functionality or error checking depending on your specific requirements.

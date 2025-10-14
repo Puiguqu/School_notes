@@ -1,0 +1,78 @@
+# 10.107 Implement paintCell and paintRowBackground
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/emhK4/10-107-implement-paintcell-and-paintrowbackground
+
+I can help you with implementing the `paintCell` and `paintRowBackground` methods as per the requirements of the DJ application.
+
+Here's an example implementation:
+```cpp
+// MyTableListBoxComponent.h
+#ifndef MYTABLELBOXLISTCOMPONENT_H_INCLUDED
+#define MYTABLELBOXLISTCOMPONENT_H_INCLUDED
+
+#include <JuceHeader.h>
+
+class MyTableListBoxComponent : public TableListBox
+{
+public:
+    MyTableListBoxComponent() { }
+
+    void paintCell (Graphics &g, int row, int col) override;
+    void paintRowBackground (Graphics &g, bool isHovered, int row) override;
+
+protected:
+    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MyTableListBoxComponent)
+};
+
+#endif // MYTABLELBOXLISTCOMPONENT_H_INCLUDED
+```
+
+```cpp
+// MyTableListBoxComponent.cpp
+#include "MyTableListBoxComponent.h"
+
+void MyTableListBoxComponent::paintCell (Graphics &g, int row, int col) override
+{
+    if (row == 0 && col == 0)
+    {
+        // Draw the table header
+        g.fillAll (JUCE Colour (0xffcc00));
+    }
+    else
+    {
+        // Draw the playlist items as rectangles with text
+        int itemWidth = getWidth() / getNumColumns();
+        int itemHeight = getHeight();
+
+        // Calculate the y-position of each row
+        int yPos = row * itemHeight;
+
+        // Get the current song title and artist from the Model
+        String songTitle = model->getSongAtRowAndCol(row, col);
+        String artist = model->getArtistAtRowAndCol(row, col);
+
+        // Draw a rectangle for the playlist item with text
+        g.fillAll (JUCE Colour (0xffffff));
+        g.setColour (JUCE Colour (0x333333)); // Text colour
+        g.setFont (10.0f); // Font size
+        g.setText ("", pos.top - yPos, 0, 0, songTitle, nullptr);
+    }
+}
+
+void MyTableListBoxComponent::paintRowBackground (Graphics &g, bool isHovered, int row) override
+{
+    if (isHovered)
+    {
+        // Draw the background of the playlist items as a slightly darker rectangle
+        g.fillAll (JUCE Colour (0xffcccc));
+    }
+}
+```
+In this example, we're implementing two methods: `paintCell` and `paintRowBackground`. The `paintCell` method is called for each cell in the table, where `row` represents the row number and `col` represents the column number. We draw a rectangle with text to represent each playlist item.
+
+The `paintRowBackground` method is similar, but it only draws the background of the playlist items when they're hovered over.
+
+Note that you'll need to adjust this implementation according to your specific requirements, such as modifying the colors and fonts used for drawing.

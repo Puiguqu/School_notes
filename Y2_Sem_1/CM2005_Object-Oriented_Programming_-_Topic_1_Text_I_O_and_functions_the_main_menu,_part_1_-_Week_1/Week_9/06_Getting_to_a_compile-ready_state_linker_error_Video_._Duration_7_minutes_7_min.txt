@@ -1,0 +1,27 @@
+# Getting to a compile-ready state – linker error
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/WmldL/getting-to-a-compile-ready-state-linker-error
+
+This is a transcript of an interactive video lecture on object-oriented programming, specifically on the topic of implementing a wallet class.
+
+The speaker explains that to get to a compile-ready state for their program, they need to add the following functions:
+
+1. `insert`: inserts cash into the wallet
+2. `contains`: checks if the wallet contains a specific amount of cash
+3. `print`: prints out the current balance in the wallet
+4. `remove`: removes cash from the wallet
+
+The speaker then implements these functions, explaining each step as they go.
+
+They start by creating a new class called `Wallet` that inherits from a base class called `Cash`. They then implement the `insert`, `contains`, and `print` functions using simple arithmetic operations to calculate the balance of the wallet.
+
+Next, they implement the `remove` function, which uses recursion to remove cash from the wallet by repeatedly dividing the balance by 100 (since each note is worth $100).
+
+The speaker also explains how to use the `Wallet` class to create a new instance and perform various operations on it. They demonstrate how to insert cash, check if the wallet contains a specific amount of cash, print out the current balance, and remove cash from the wallet.
+
+Throughout the lecture, the speaker provides explanations, examples, and code snippets to help illustrate key concepts and techniques.
+
+The final section of the lecture includes a practice assignment for students to complete on their own, which involves implementing the `Wallet` class and testing its functionality.

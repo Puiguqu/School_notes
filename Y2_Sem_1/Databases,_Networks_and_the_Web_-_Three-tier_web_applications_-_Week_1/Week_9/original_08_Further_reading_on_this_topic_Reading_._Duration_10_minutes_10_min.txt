@@ -1,0 +1,8 @@
+# Further reading on this topic
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/A1lIf/further-reading-on-this-topic
+
+When you have completed this topic, if you would like to read more detail about advanced SQL constructs, we recommend the following reading. Hoffer, Venkataraman and Topi, Chapter 6: Advanced SQL, from ‘ Processing multiple tables ’ up to ‘Using and defining views’. Further reading on this topic When you have completed this topic, if you would like to read more detail about advanced SQL constructs, we recommend the following reading. Hoffer, Venkataraman and Topi, Chapter 6: Advanced SQL, from ‘ Processing multiple tables ’ up to ‘Using and defining views’. Mark as completed Dislike Report an issue

@@ -1,0 +1,16 @@
+# 10.111 Add a button listener
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/LIq8J/10-111-add-a-button-listener
+
+Unfortunately, there is no text to summarize. The provided "text" appears to be a video transcript and additional page content from a course or tutorial on programming, specifically focusing on event-driven programming, inheritance, and GUI development using JUCE.
+
+However, I can provide a summary of the most important concepts and findings from the video transcript:
+
+1. **Table Component**: A table component is created with rows and buttons embedded in each row.
+2. **Button Listener**: To receive events from the buttons, a button listener needs to be implemented. The button listener requires the implementation of the `void ButtonClicked()` function.
+3. **Component ID**: A unique identifier (ID) is assigned to each component for reference purposes.
+
+Without more context or specific details on what was discussed in the video transcript, it's challenging to provide a comprehensive summary of the topics covered. If you have any further questions or would like me to summarize specific sections, feel free to ask!

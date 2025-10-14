@@ -1,0 +1,26 @@
+# Development environments
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/d0BlT/development-environments
+
+This appears to be a transcript of an online lecture or tutorial on computer science, specifically focused on C++ programming and object-oriented design. The lecturer is discussing development environments, including professional IDEs (Integrated Development Environments) such as Visual Studio 2019 and Xcode.
+
+The section titled "Development Environments" covers the following topics:
+
+1. **Introduction to development environments**: The lecturer explains that a development environment is a set of tools used to write, compile, and debug code.
+2. **Professional IDEs**: The lecturer discusses two popular professional IDEs: Visual Studio 2019 and Xcode.
+	* **Visual Studio 2019**: A Windows-based IDE for C++ programming, offering features such as project management, debugging, and version control.
+	* **Xcode**: A macOS-based IDE for C++ programming, offering features similar to Visual Studio 2019.
+3. **Installing a professional IDE**: The lecturer provides instructions on how to install Visual Studio 2019 and Xcode.
+4. **Creating and building a project in Visual Studio 2019**: The lecturer demonstrates how to create and build a new project in Visual Studio 2019.
+5. **Creating and building a project in Xcode**: The lecturer demonstrates how to create and build a new project in Xcode.
+
+The lecture also covers other topics, such as:
+
+* **Tokenize algorithm**: A basic programming concept that involves tokenizing input text into individual words or tokens.
+* **Exception handling**: A way to handle runtime errors and exceptions in C++ programming.
+* **Refactoring and class design**: Techniques for improving code quality and organization.
+
+Overall, this transcript appears to be a comprehensive overview of development environments and their role in C++ programming, as well as other essential topics such as exception handling, tokenization, and refactoring.

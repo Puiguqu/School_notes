@@ -1,0 +1,36 @@
+# Adding HTML to your Express server
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/9TRJh/adding-html-to-your-express-server
+
+Here is a summary of the text in 25 sentences:
+
+1. The transcript provides an overview of how to create a web application that can render HTML files in response to HTTP requests.
+2. The first step is to reorganize code by moving root handlers to another file, main.js, to avoid making index.js too large.
+3. Express is required and a router object is created, which is exported so other modules can access it.
+4. Main.js requires express and creates a router object, linking the home root (/) to the functions that need to be run when this route is requested by a client.
+5. The code shows how to load multiple middleware JavaScript root handler files, such as main.js and user.js, each with their own set of root handlers.
+6. Root handling works by concatenating parts of the root URL and matching them to the corresponding root handlers in main.js and user.js.
+7. The transcript explains that embedding HTML like this isn't the best approach, especially when the HTML gets bigger.
+8. A better approach is to move the HTML code into a separate file and render that file using EJS (Embedded JavaScript), which provides templating capabilities.
+9. To set up the web application to use EJS, npm install needs to be run and Express needs to be told it's being used to render HTML pages.
+10. The transcript covers various topics related to building web applications with Node and Express, including weeks 1-22 and programming activities.
+11. The topic of templating engines is discussed in more detail, providing an overview and practice assignments.
+12. Templating engines are explained as a mechanism for rendering HTML files from data sources.
+13. Pug is mentioned as another templating engine, with a discussion prompt encouraging the audience to share their thoughts on it.
+14. The transcript covers various aspects of building web applications, including handling forms, representing data in databases, and security measures.
+15. Database design and basic database operations are also covered in separate topics.
+16. Networking concepts are discussed as part of preparing for the exam.
+17. Advanced database operations and networking are covered in later weeks, with a focus on providing access to databases from middleware.
+18. Security is an important aspect of web development, with multiple parts dedicated to it throughout the course.
+19. The transcript provides various resources, including additional page content, reading materials, videos, and practice assignments.
+20. Some topics have interactive transcripts available for enabling basic transcript mode.
+21. Screen readers are mentioned as incompatible with using arrow keys for shortcuts and alternative keys may be used instead.
+22. Certain screen readers require using Ctrl in conjunction with the alt key for certain shortcuts to work.
+23. The course covers various aspects of web development, including building three-tier web applications and handling forms to input data.
+24. Representing data in databases and database design are also crucial topics covered throughout the course.
+25. The course provides a comprehensive overview of web development with Node and Express, covering various aspects from beginner to advanced topics.
+
+Please note that the summary is not exhaustive, as some details were omitted due to their technical nature or lack of relevance to the overall summary.

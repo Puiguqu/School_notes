@@ -1,0 +1,24 @@
+# Integrate it into MerkleMain init function and compute some statistics
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/gxekW/integrate-it-into-merklemain-init-function-and-compute-some-statistics
+
+This is a transcript of an interactive video lesson on programming, specifically on integrating a CSV reader into a main program and computing some statistics.
+
+The instructor guides the viewer through the process of creating the CSVReader class, making it compile, implementing the tokenise and file parsing functions, and integrating it into the MerkleMain init function to compute some statistics.
+
+Here's a breakdown of the key points covered in the video:
+
+1. **Integrating the CSV reader into the main program**: The instructor shows how to integrate the CSVReader class into the main program by calling its initialization functions.
+2. **Computing some statistics**: The instructor demonstrates how to use the CSVReader class to read data from a file and compute some basic statistics, such as the number of entries, asks, and bids in the order book.
+3. **Using the OrderBookEntry class**: The instructor briefly mentions the OrderBookEntry class and its role in storing information about each entry in the order book.
+
+The video also includes several interactive elements, including:
+
+* **Practice assignments**: The instructor provides practice assignments for viewers to complete as they follow along with the lesson.
+* **Quiz questions**: The instructor asks quiz questions throughout the video to check the viewer's understanding of the material.
+* **Lab exercises**: The instructor assigns lab exercises that require viewers to implement specific features or functionality in their code.
+
+Overall, this video provides a comprehensive introduction to integrating a CSV reader into a main program and computing some statistics.

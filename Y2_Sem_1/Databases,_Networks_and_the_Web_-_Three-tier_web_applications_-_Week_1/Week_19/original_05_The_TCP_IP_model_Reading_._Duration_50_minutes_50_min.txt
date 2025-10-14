@@ -1,0 +1,8 @@
+# The TCP/IP model
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/b18Bt/the-tcp-ip-model
+
+Read about TCP/IP model in: Tatipamula, M. et al. Advanced internet protocols, services, and applications. (Hoboken, NJ: John Wiley & Sons, 2012). [ISBN 9781118180808]. Chapter 1, Transmission control/internet protocol overview. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book . The TCP/IP model Read about TCP/IP model in: Tatipamula, M. et al. Advanced internet protocols, services, and applications. (Hoboken, NJ: John Wiley & Sons, 2012). [ISBN 9781118180808]. Chapter 1, Transmission control/internet protocol overview. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book . Mark as completed Dislike Report an issue

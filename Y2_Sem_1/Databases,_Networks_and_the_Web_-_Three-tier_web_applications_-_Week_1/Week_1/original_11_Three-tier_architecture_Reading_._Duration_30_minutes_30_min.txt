@@ -1,0 +1,8 @@
+# Three-tier architecture
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/IgjDg/three-tier-architecture
+
+Read more detail about three-tier architecture, particularly comparing two-tier and three-tier architectures: Ceri et al, Chapter 1, Three-tier architectures . Three-tier architecture Read more detail about three-tier architecture, particularly comparing two-tier and three-tier architectures: Ceri et al, Chapter 1, Three-tier architectures . Mark as completed Dislike Report an issue

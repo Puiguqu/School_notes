@@ -1,0 +1,8 @@
+# Programming activity: Validation
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/j4Wyb/programming-activity-validation
+
+In this lab activity you will implement validation in your Node.js application. Please download the following PDF and follow the instructions for this lab activity: 26_Validation.pdf PDF File Programming activity: Validation In this lab activity you will implement validation in your Node.js application. Please download the following PDF and follow the instructions for this lab activity: 26_Validation.pdf PDF File Mark as completed Dislike Report an issue

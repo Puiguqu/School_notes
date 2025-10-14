@@ -1,0 +1,36 @@
+# 8.103 How to create a new class using Projucer
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/pwmMi/8-103-how-to-create-a-new-class-using-projucer
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript provides an overview of how to add a new class to a JUCE project using Projucer.
+2. Projucer is used to manage the file centrally, ensuring that different builders export projects correctly.
+3. To add a new class, navigate to the File Explorer panel in Projucer and click on "Add New CPP & Header File".
+4. Give the new class a name, such as "DJAudioPlayer", and select the "Source" folder to create the files there.
+5. The two files will be created outside of the Source folder by default; drag them back into the Source folder to avoid this.
+6. Check the list of project builds above to ensure that all CPP files have checkmarks, but none of the header files do.
+7. This is because the CPP files include the header files, so there's no need to build the header files separately.
+8. Ensure that the CPP file is being built in the project by verifying the checkmark.
+9. Save the project to regenerate the files and reopen it in the IDE.
+10. The video transcript covers topics related to JUCE, including event-driven programming, inheritance, and class design.
+11. Week 13-15 cover event-driven programming and inheritance with buttons, sliders, and audio.
+12. Topic 8 (Refactoring and Class Design) spans weeks 9-17 and includes the DJAudioPlayer class.
+13. The video transcript provides interactive lessons for topics such as refactoring, polymorphism, and initialiser lists.
+14. A starter code file is included at the end of week 15 to help with practice assignments.
+15. Throughout the video transcript, there are practice assignments and quizzes to test understanding.
+16. The DJAudioPlayer class is created using Projucer, and various features such as setSpeed and setGain are implemented.
+17. The video transcript also covers implementing position control with relative position and refactoring the audio code into the DJAudioPlayer class.
+18. Polymorphism is introduced in week 20 as part of advanced class and user interface design.
+19. The WaveformDisplay class uses initialiser lists, constructors, and threads to implement its functionality.
+20. TableListBox and TableListBoxModel are used for advanced user interfaces in JUCE.
+21. Coursework 2 includes a graded assignment that tests understanding of these concepts.
+22. Throughout the video transcript, there are discussion prompts and reading materials provided for further learning.
+23. The interactive transcript mode allows for navigation through the text using keyboard shortcuts.
+24. Screen readers can be enabled to assist with accessibility needs.
+25. The entire video transcript provides a comprehensive guide to JUCE programming, covering various topics from beginner to advanced levels.
+
+Note: Some details may have been omitted or simplified in this summary to fit within the 25-sentence limit.

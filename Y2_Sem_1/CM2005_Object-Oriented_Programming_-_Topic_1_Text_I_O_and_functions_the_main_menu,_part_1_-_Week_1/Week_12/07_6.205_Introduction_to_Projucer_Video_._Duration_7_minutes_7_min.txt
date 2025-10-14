@@ -1,0 +1,49 @@
+# 6.205 Introduction to Projucer
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/419h2/6-205-introduction-to-projucer
+
+The transcript is a video introduction to Projucer, which is a tool used in JUCE (Jules' Ultramodern C++ Audio Development Environment) for creating audio applications.
+
+Here's a summary of the transcript:
+
+**Introduction**
+
+* The host introduces themselves and explains that Projucer is a powerful tool used in JUCE for creating audio applications.
+* They explain that Projucer allows users to create and manage their audio projects, including setting up project configurations, adding and arranging tracks, and importing and exporting data.
+
+**Key Features of Projucer**
+
+* The host explains the key features of Projucer, including:
+	+ Creating and managing project configurations
+	+ Adding and arranging tracks
+	+ Importing and exporting data (e.g. MIDI files)
+	+ Setting up and configuring audio interfaces
+
+**Setting Up a New Project in Projucer**
+
+* The host shows how to set up a new project in Projucer, including:
+	+ Creating a new JUCE project
+	+ Choosing a project template
+	+ Configuring the project settings (e.g. number of tracks, sample rate)
+
+**Adding Tracks and Arranging Audio**
+
+* The host explains how to add tracks and arrange audio in Projucer, including:
+	+ Adding a new track
+	+ Moving tracks around the arrangement
+	+ Adjusting track levels and panning
+
+**Importing and Exporting Data**
+
+* The host shows how to import and export data using Projucer, including:
+	+ Importing MIDI files
+	+ Exporting audio files (e.g. WAV)
+
+**Conclusion**
+
+* The host concludes by summarizing the key features of Projucer and encouraging viewers to try it out for themselves.
+
+Overall, this transcript provides a brief introduction to Projucer and its key features, making it a good starting point for users who want to learn more about this powerful tool in JUCE.

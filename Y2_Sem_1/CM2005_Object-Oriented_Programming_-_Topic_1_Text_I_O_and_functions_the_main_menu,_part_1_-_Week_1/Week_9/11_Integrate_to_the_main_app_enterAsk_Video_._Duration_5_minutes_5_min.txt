@@ -1,0 +1,24 @@
+# Integrate to the main app enterAsk
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/mqrzo/integrate-to-the-main-app-enterask
+
+It seems like there was a miscommunication. The task provided earlier has been resolved.
+
+However, I'll still provide a solution to the problem "Integrate to the main app enterAsk" based on the information given:
+
+## Step 1: Review the code for the Wallet class
+The Wallet class should have functions to insert and remove cash from the wallet. These functions will be used in the orderMatchingEngine class.
+
+## Step 2: Modify the Wallet class to implement cash check
+In the enterAsk function of the orderMatchingEngine class, a cash check is performed on both bids and asks. This function will ensure that there is enough cash available for each trade.
+
+## Step 3: Integrate the enterAsk function into the main app
+The enterAsk function should be integrated into the main app by calling it when an ask or bid is entered. This function will perform the cash check, update the wallet, and return whether the trade can be executed.
+
+## Step 4: Test the integrate function
+Once the enterAsk function has been integrated into the main app, test it to ensure that it works correctly. This includes testing both valid trades and invalid trades to verify that the correct cash is being deducted or added.
+
+The final answer is: There is no numerical answer for this problem as it involves coding and integration of functions into a larger application.

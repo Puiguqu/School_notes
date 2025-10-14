@@ -1,0 +1,10 @@
+# Programming activity: GET – collecting form data
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/1lJU2/programming-activity-get-collecting-form-data
+
+Unfortunately, there is no text provided for me to summarize. The text appears to be a link or instruction to download a PDF file related to a programming activity on collecting form data using the 'GET' request method. 
+
+If you could provide the actual text, I would be happy to assist you in summarizing it into 25 sentences, preserving key information, formulae, links, and technical details.

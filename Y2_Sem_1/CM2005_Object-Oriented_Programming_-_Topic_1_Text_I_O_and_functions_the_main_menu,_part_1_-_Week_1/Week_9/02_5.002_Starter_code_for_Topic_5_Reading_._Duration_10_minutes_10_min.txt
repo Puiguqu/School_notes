@@ -1,0 +1,8 @@
+# 5.002 Starter code for Topic 5
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/xcXNF/5-002-starter-code-for-topic-5
+
+Below you will find a link to the code in a form that will allow you to proceed with Topic 5. You can work from this, or from your own codebase. merklerex_start_topic_5-20200416 ZIP File 5.002 Starter code for Topic 5 Below you will find a link to the code in a form that will allow you to proceed with Topic 5. You can work from this, or from your own codebase. merklerex_start_topic_5-20200416 ZIP File Mark as completed Dislike Report an issue

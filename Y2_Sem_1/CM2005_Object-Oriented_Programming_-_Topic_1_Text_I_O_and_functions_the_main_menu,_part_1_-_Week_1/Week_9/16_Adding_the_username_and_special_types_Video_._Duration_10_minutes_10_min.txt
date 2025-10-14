@@ -1,0 +1,61 @@
+# Adding the username and special types
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/iFK6U/adding-the-username-and-special-types
+
+This appears to be a transcript of an interactive coding lesson. The section being transcribed is titled "Adding the username and special types".
+
+Here's the relevant code snippet:
+
+```cpp
+// Define a class for the Order object
+class Order {
+public:
+    // Constructor
+    Order(String symbol, int side, bool type)
+        : symbol(symbol), side(side), type(type) {}
+    
+    // Member variables
+    String symbol;
+    int side;
+    bool type;
+
+    // Add the username to the order
+    void addUsername(String username) {
+        username_ = username + " - ";
+    }
+
+private:
+    String username_;
+};
+
+// Define a class for the OrderBook
+class OrderBook {
+public:
+    // Constructor
+    OrderBook() {}
+    
+    // Method to get the total cash available for bids and asks
+    float getCash() {
+        float totalCash = 0;
+        for (Order order : orders_) {
+            if (order.side == 1) {
+                totalCash += order.amount();
+            } else if (order.side == -1) {
+                totalCash -= order.amount();
+            }
+        }
+        return totalCash;
+    }
+
+private:
+    // List of orders
+    vector<Order> orders_;
+};
+```
+
+The code snippet defines two classes: `Order` and `OrderBook`. The `Order` class represents an individual order in the trading system, with members for the symbol, side (buy or sell), and type. The `addUsername` method adds the username to the order.
+
+The `OrderBook` class represents a book of orders, where each order has a symbol, side, and amount. The `getCash` method calculates the total cash available in the book by summing up the amounts of all buy orders and subtracting the amounts of all sell orders.

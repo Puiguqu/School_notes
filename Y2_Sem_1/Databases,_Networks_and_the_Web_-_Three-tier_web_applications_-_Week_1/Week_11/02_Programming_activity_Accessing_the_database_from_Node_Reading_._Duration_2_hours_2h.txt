@@ -1,0 +1,8 @@
+# Programming activity: Accessing the database from Node
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/V15PV/programming-activity-accessing-the-database-from-node
+
+In this lab activity you will explore how to access and manipulate databases from your Node web application. Please download the following PDF and follow the instructions for this lab activity: 15_Accessing-the-database-from-node.pdf PDF File Programming activity: Accessing the database from Node In this lab activity you will explore how to access and manipulate databases from your Node web application. Please download the following PDF and follow the instructions for this lab activity: 15_Acces...

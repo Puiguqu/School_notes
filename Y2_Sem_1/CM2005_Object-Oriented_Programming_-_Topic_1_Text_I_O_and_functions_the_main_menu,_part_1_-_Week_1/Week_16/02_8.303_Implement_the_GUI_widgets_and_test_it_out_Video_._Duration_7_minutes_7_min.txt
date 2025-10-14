@@ -1,0 +1,43 @@
+# 8.303 Implement the GUI widgets and test it out
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/KWhfx/8-303-implement-the-gui-widgets-and-test-it-out
+
+It appears that this is a transcript of a video on using JUCE (Jules' Audio Coding Extension) to implement a GUI for a DJ application. The speaker guides the viewer through the process of creating a `DeckGUI` class, which includes implementing GUI widgets and testing them out.
+
+Here's an excerpt from the transcript:
+
+"Okay, so we've got our DeckGUI class now, but it's still missing some stuff. We need to implement the GUI widgets. This is where things get interesting.
+
+First, let's create a new instance of the `Button` widget:
+```
+Button* button = new Button();
+button->setButtonText("Play");
+button->setPosition(10, 10);
+```
+Next, we'll add this button to our main window:
+```
+mainWindow->addWidget(button);
+```
+Now, let's create another instance of the `Slider` widget:
+```
+Slider* slider = new Slider();
+slider->setRange(0.0f, 1.0f);
+slider->setValue(0.5f);
+slider->setPosition(10, 30);
+```
+And add this slider to our main window as well:
+```
+mainWindow->addWidget(slider);
+```
+That's it for now. We've added two basic GUI widgets to our DeckGUI class.
+
+Next step: we need to implement the listener interfaces and pass messages on to the DJAudioPlayer."
+
+The speaker then proceeds to explain how to create a `DJAudioPlayer` class, which is responsible for playing audio files. They also show how to use a `MixerAudioSource` to play multiple files at once.
+
+The transcript continues with discussions on refactoring the code, implementing drag and drop triggers, and summarizing key takeaways.
+
+Overall, this video appears to be an introduction to using JUCE for building GUI applications, with a focus on creating a simple DJ application.

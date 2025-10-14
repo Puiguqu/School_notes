@@ -1,0 +1,39 @@
+# Templating engines
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/v1Wz8/templating-engines
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. Template engines are used to separate presentation, logic, and code in a web application.
+2. In the current project, HTML files (views folder) handle presentation, while index.js (home directory) handles main logic.
+3. As the application becomes more dynamic, HTML files need to display both static content and user input/output.
+4. Template engines solve this problem by passing variables from the database tier to the front-end presentation tier.
+5. A template engine replaces variables in a template file with actual values at runtime.
+6. This approach allows for easy maintenance and scalability of web applications.
+7. The current project uses EJS (Embedded JavaScript) as its templating engine.
+
+8. EJS has two main functions: passing variables to HTML files and adding simple logic.
+9. Variables are passed from the server-side to the client-side, where they can be used in HTML templates.
+10. Simple logic is added using loops, conditionals, and control structures.
+11. Pug (formerly Jade) is another popular templating engine with a whitespace-sensitive syntax.
+
+12. Pug's syntax is similar to Python for writing HTML, making it easier to read and maintain.
+13. Pug has a high-performance and feature-rich engine that removes repetitive HTML tags.
+14. Users have mixed opinions about Pug, some loving its simplicity while others prefer traditional HTML tags.
+15. The course covers the concept of template engines and their importance in web development.
+
+16. Template engines are designed to perform two main tasks: passing variables to HTML files and adding simple logic.
+17. Passing variables enables data-driven web applications with dynamic content.
+18. Adding simple logic allows for conditional statements, loops, and control structures.
+19. The course emphasizes the use of template engines in building three-tier web applications.
+
+20. EJS is used throughout the module due to its ease of use and integration with Node.js.
+21. Pug has a more complex syntax but offers high-performance and feature-rich capabilities.
+22. Understanding templating engines is essential for building robust and maintainable web applications.
+23. Template engines enable developers to separate presentation, logic, and code, making it easier to manage complexity.
+24. The course covers topics such as adding HTML to Express servers, dynamic content, and form handling.
+
+25. Mastering template engines is crucial for success in web development, allowing developers to build robust, scalable, and maintainable applications.

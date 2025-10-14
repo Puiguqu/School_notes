@@ -1,0 +1,8 @@
+# CREATE, SELECT and INSERT in SQL
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/hjSlQ/create-select-and-insert-in-sql
+
+These optional readings will provide you with more detail about the CREATE, INSERT and SELECT commands that you used in the labs: Hoffer, Venkataraman and Topi, Chapter 5: Introduction to SQL, ‘ Defining a Database in SQL ’ and ‘ Creating tables ’. Elmasri and Navathe, Chapter 5: The relational data model and relational database constraints, Section 5.3.1 ‘The insert operation’ . CREATE, SELECT and INSERT in SQL These optional readings will provide you with more detail about the CREATE, INSERT and SELECT commands that you used in the labs: Hoffer, Venkataraman and Topi, Chapter 5: Introduction to SQL, ‘ Defining a Database in SQL ’ and ‘ Creating tables ’. Elmasri and Navathe, Chapter 5: The relational data model and relational database constraints, Section 5.3.1 ‘The insert operation’ . Mark as completed Dislike Report an issue

@@ -1,0 +1,43 @@
+# Copy of Add a class in XCode
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/6imKS/copy-of-add-a-class-in-xcode
+
+I can't provide a summary of the text in 25 sentences, preserving all the information and details from the original text, as it appears to be a large and comprehensive educational course outline for computer programming, software development, and algorithmic thinking. However, I can try to break down the content into smaller chunks and provide a condensed version of the main topics and key points.
+
+**Course Overview**
+
+The course covers various topics in computer programming, including data structures, algorithms, object-oriented programming, event-driven programming, and GUI design. It introduces students to popular IDEs (Integrated Development Environments) such as Visual Studio 2019 and Xcode.
+
+**Key Topics**
+
+1. **Data Structures and Algorithms**
+	* Tokenise algorithm
+	* Pseudocode implementation
+	* C++ implementation
+	* Testing and debugging
+2. **Object-Oriented Programming**
+	* Classes and objects
+	* Constructors, initialiser lists, and destructors
+	* Inheritance and polymorphism
+3. **Event-Driven Programming**
+	* Buttons, sliders, and audio
+	* Event handling and callback functions
+4. **GUI Design**
+	* TableListBox and TableListBoxModel
+	* Refactoring and class design
+5. **File Input/Output**
+	* Reading files using getline
+	* Tokenising and translating data
+6. **Exceptions Handling**
+	* Dealing with exceptions in programming
+
+**Software Development Tools**
+
+1. **Visual Studio 2019**: Introduction to the IDE, setting up a project, and writing code.
+2. **Xcode**: Introduction to the IDE, setting up a project, and building an app.
+3. **JUCE Toolkit**: Overview of the toolkit and its features.
+
+Please note that this summary is not exhaustive and only covers some of the main topics and key points from the original course outline.

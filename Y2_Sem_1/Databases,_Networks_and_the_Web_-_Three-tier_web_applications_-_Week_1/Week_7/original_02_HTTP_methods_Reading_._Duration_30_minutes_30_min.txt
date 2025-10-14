@@ -1,0 +1,8 @@
+# HTTP methods
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/4T4nE/http-methods
+
+We’ve taken a look at the GET and POST request methods, but there are more! Read the following pages to find out what they are. Yaapa, Chapter 3: Understanding Express routes, ‘ A quick introduction to HTTP verbs ’. HTTP methods We’ve taken a look at the GET and POST request methods, but there are more! Read the following pages to find out what they are. Yaapa, Chapter 3: Understanding Express routes, ‘ A quick introduction to HTTP verbs ’. Mark as completed Dislike Report an issue

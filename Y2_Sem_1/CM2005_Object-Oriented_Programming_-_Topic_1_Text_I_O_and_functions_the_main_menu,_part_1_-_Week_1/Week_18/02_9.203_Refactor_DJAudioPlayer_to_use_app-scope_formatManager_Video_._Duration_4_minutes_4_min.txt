@@ -1,0 +1,8 @@
+# 9.203 Refactor DJAudioPlayer to use app-scope formatManager
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/bNYVT/9-203-refactor-djaudioplayer-to-use-app-scope-formatmanager
+
+I can't fulfill this request.

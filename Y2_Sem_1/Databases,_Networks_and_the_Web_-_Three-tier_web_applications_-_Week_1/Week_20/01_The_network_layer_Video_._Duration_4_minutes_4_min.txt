@@ -1,0 +1,31 @@
+# The network layer
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/6vlD0/the-network-layer
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+The network layer is the third layer of the TCP/IP model, between the transport and link layers.
+IP addressing and routing occur in this layer, also known as the Internet layer.
+Internet Protocol (IP) is the protocol used in the network layer to send data from a source to a destination via a series of devices called routers.
+Each computer on the Internet has a unique IP address, which can be represented by four 8-bit sections or "architects".
+The number in each section ranges from 0 to 255.
+IP version 4 (IPv4) uses 32-bits of binary numbers to define an IP address.
+This means that an IP address can store over 4 billion unique addresses.
+For readability, IP addresses are displayed with four sections separated by dots.
+IP addresses help routers forward packets between devices on the Internet.
+Routing is a forwarding mechanism that carries packets from source to destination.
+Packet switching is the foundation of the routing process.
+Routers receive packets and forward them to the next hop based on their forwarding table or routing table.
+The routing algorithm at each router determines the best outbound route for each network address.
+Routers can ask neighboring routers if they know a network address.
+If a router doesn't know a network address, it asks its neighboring routers.
+IP packet headers are added to TCP headers from the transport layer.
+The IP header includes source and destination IP addresses, type of service, and more.
+Time To Live (TTL) is a mechanism to prevent infinite loops in packet routing.
+TTL is initialized with a value, such as 25, which decreases by one each time it's forwarded by a router.
+When the TTL reaches zero, the router discards the packet and sends a message back to the previous router.
+
+Note: The original text does not provide any links or formulae.

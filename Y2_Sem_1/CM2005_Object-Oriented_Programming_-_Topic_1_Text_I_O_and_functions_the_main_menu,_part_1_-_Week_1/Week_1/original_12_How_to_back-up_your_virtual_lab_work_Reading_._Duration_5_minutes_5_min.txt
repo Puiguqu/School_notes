@@ -1,0 +1,8 @@
+# How to back-up your virtual lab work
+Reading•
+. Duration: 5 minutes
+5 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/h7iH5/how-to-back-up-your-virtual-lab-work
+
+It is always a great idea to backup your work in case something goes wrong and we all know that things do go wrong from time to time! The Coursera virtual lab environments allow you to download your project folders from the Jupyter Notebook environment. Simply open your lab and click with your mouse on the "Lab Files" tab located at the top. From here you can either download all files or select the files that you want to download. Here is a picture that illustrates the download process: You can of course repeat the backup process multiple times and it is strongly recommended that you do it frequently. How to back-up your virtual lab work It is always a great idea to backup your work in case something goes wrong and we all know that things do go wrong from time to time! The Coursera virtual lab environments allow you to download your project folders from the Jupyter Notebook environment. Simply open your lab and click with your mouse on the "Lab Files" tab located at the top. From here you can either download all files or select the files that you want to download. Here is a picture that illustrates the download process: You can of course repeat the backup process multiple times and it is strongly recommended that you do it frequently. Mark as completed Dislike Report an issue

@@ -1,0 +1,91 @@
+# Dealing with exceptions
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/0sP9i/dealing-with-exceptions
+
+Here is a possible written version of the transcript:
+
+**Dealing with Exceptions**
+
+In this lesson, we will learn about how to handle exceptions in C++.
+
+**Tokenise Algorithm**
+
+First, let's review the tokenise algorithm. The tokenise algorithm is used to break down a string into individual words or tokens.
+
+```
+// Tokenise algorithm
+void tokenize(const std::string& str) {
+  // Create an empty vector to store the tokens
+  std::vector<std::string> tokens;
+  
+  // Loop through each character in the input string
+  for (char c : str) {
+    // If the character is a space, add it to the token list
+    if (c == ' ') {
+      tokens.push_back("");
+    }
+    
+    // If the character is not a space, convert it to an uppercase letter
+    else {
+      tokens.back() += toupper(c);
+    }
+  }
+  
+  // Print out the tokens
+  for (const std::string& token : tokens) {
+    std::cout << token << " ";
+  }
+}
+```
+
+**Exception Handling**
+
+Now that we have our tokenise function, let's talk about how to handle exceptions.
+
+In C++, exceptions are used to signal an error condition or exception. We can use the `throw` keyword to throw an exception and catch it using a `try-catch` block.
+
+Here is an example of how to handle an exception:
+
+```
+// Tokenise function with exception handling
+void tokenize(const std::string& str) {
+  try {
+    // Create an empty vector to store the tokens
+    std::vector<std::string> tokens;
+    
+    // Loop through each character in the input string
+    for (char c : str) {
+      // If the character is a space, add it to the token list
+      if (c == ' ') {
+        tokens.push_back("");
+      }
+      
+      // If the character is not a space, convert it to an uppercase letter
+      else {
+        tokens.back() += toupper(c);
+      }
+    }
+    
+  } catch(const std::exception& e) {
+    std::cerr << "Exception caught: " << e.what() << '\n';
+  }
+}
+```
+
+In this example, we have added a `try-catch` block to our tokenise function. If an exception is thrown within the `try` block, it will be caught by the `catch` block and printed out to the standard error stream.
+
+**Best Practices**
+
+Here are some best practices for handling exceptions:
+
+* Always wrap code that may throw an exception in a `try-catch` block.
+* Catch specific exceptions using the `catch` keyword. This allows you to handle different types of exceptions differently.
+* Print out an error message and exit the program if an exception is caught.
+* Use a logging mechanism to log errors instead of printing them to the console.
+
+**Conclusion**
+
+In this lesson, we have learned about how to handle exceptions in C++. We covered the tokenise algorithm and how to use exception handling to signal an error condition. We also discussed best practices for handling exceptions.

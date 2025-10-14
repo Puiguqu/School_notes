@@ -1,0 +1,32 @@
+# Doing testing
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/l9UNo/doing-testing
+
+Based on the provided transcript, it appears that this is a video recording of a lecture or tutorial on C++ programming, specifically focusing on building a DJ application and its components.
+
+The transcript mentions various topics, including:
+
+1. Reading data from the user
+2. Inserting orders into an order book
+3. Implementing a matching algorithm
+4. Using classes and variables to model data (OrderBookEntry class)
+5. File I/O, exception handling, and algorithms (CSVReader class)
+6. Writing and testing an algorithm (taking orders and the order matching engine)
+7. Object interactions (wallet class)
+8. Event-driven programming and inheritance (buttons, sliders, and audio)
+9. Refactoring and class design (DeckGUI and DJAudioPlayer classes)
+10. Advanced class and user interfaces (TableListBox and TableListBoxModel)
+
+The lecture covers various C++ topics, including:
+
+* Functions and main menu
+* Classes and variables to model data
+* File I/O and exception handling
+* Algorithms and testing
+* Object interactions and inheritance
+* Refactoring and class design
+
+The video appears to be part of a larger tutorial or course on building a DJ application in C++.

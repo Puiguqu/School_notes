@@ -1,0 +1,8 @@
+# Set up a local development environment
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/t61CC/set-up-a-local-development-environment
+
+In order to work on the labs in this module, you will need to set up a local development environment. This involves assembling all the tools you will need to develop dynamic web applications. Here are the instructions to set up a local development environment for this course: 00_Setup_Local_Dev_Environment.pdf PDF File Please let us know if you encounter any issues with these instructions via your tutor support forum. Set up a local development environment In order to work on the labs in this mo...

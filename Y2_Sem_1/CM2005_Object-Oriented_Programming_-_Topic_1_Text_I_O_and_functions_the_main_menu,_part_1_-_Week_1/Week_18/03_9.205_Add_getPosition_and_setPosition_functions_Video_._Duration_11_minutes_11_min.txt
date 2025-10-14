@@ -1,0 +1,73 @@
+# 9.205 Add getPosition and setPosition functions
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/jBKGJ/9-205-add-getposition-and-setposition-functions
+
+Based on the transcript provided, it appears that the speaker is explaining how to implement a movable playhead in a DJ application built with the JUCE toolkit.
+
+The speaker starts by describing the plumbing necessary to connect the position stored in the `DJAudioPlayer` to the `WaveformDisplay`. They explain that this involves creating a getter function for the current position and passing it to the `WaveformDisplay`.
+
+Next, they discuss how to draw a box where the playhead should be. They use the `JUCE` API to create a rectangle with a specific size and color.
+
+The speaker then mentions that in order to make the playhead move over time, they need to repeatedly ask the `DJAudioPlayer` for its current position and update the playhead accordingly.
+
+To achieve this, they would need to implement a timer or use JUCE's built-in scheduling mechanisms. They also mention the importance of using app-scope variables and functions to encapsulate data and behavior.
+
+Finally, they touch on the topic of threading and its relevance to the DJ application.
+
+Here is a rough outline of the code that might be implemented based on this transcript:
+
+1. Create a `WaveformDisplay` class with a getter function for the current position.
+2. Create a `DJAudioPlayer` class with a method to get its current position.
+3. Implement a timer or scheduling mechanism to repeatedly ask the `DJAudioPlayer` for its current position and update the playhead accordingly.
+4. Use app-scope variables and functions to encapsulate data and behavior.
+
+Some sample code that might be used in this implementation could look like this:
+```c
+// WaveformDisplay.h
+class WaveformDisplay {
+public:
+    float getPosition() const { return m_position; }
+    void setPosition(float position) { m_position = position; }
+
+private:
+    float m_position;
+};
+
+// DJAudioPlayer.h
+class DJAudioPlayer {
+public:
+    float getPosition() const { return m_position; }
+    void updatePosition(float newPosition) { m_position = newPosition; }
+
+private:
+    float m_position;
+};
+
+// Timer.cpp
+void timerCallback(Timer::TimeValue time) {
+    // Get the current position from the DJAudioPlayer
+    float position = DJAudioPlayer::getInstance().getPosition();
+
+    // Update the playhead in the WaveformDisplay
+    WaveformDisplay::getInstance().setPosition(position);
+
+    // Schedule the next timer callback
+    Timer::setNextCallback(time + 1000, TimerCallback);
+}
+
+// Main.cpp
+int main() {
+    // Create instances of the WaveformDisplay and DJAudioPlayer
+    WaveformDisplay display;
+    DJAudioPlayer player;
+
+    // Create a timer to call the timerCallback function every second
+    Timer::createAndStartNewTimerWithCallback(timerCallback, 1000);
+
+    return 0;
+}
+```
+Note that this is just one possible implementation of the code based on the transcript provided. The actual implementation may vary depending on the specific requirements and design choices made by the speaker.

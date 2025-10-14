@@ -1,0 +1,8 @@
+# How are floating points represented
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/GVLa5/how-are-floating-points-represented
+
+Floating-point numbers are somewhat more complex than integers. You can familiarise yourself with how floating points are represented here: https://en.cppreference.com/w/cpp/language/floating_literal If you are in the BSc CS version of this course, you can read about floating points in the University of London online library: Horton, I. and P. Van Weert Beginning C++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. https://onlinelibrary.london.ac.uk/ Note...

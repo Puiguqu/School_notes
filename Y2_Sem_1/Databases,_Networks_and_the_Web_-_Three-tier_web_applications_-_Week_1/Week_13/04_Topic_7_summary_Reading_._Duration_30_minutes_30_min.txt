@@ -1,0 +1,26 @@
+# Topic 7 summary
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/H5M7l/topic-7-summary
+
+Unfortunately, there is no text provided to summarize. The text appears to be a summary of a self-evaluation worksheet for a topic in a database management course (CM2040), but it does not contain any specific information or concepts that can be summarized.
+
+However, I can provide a general outline of the key concepts and topics related to entity-relationship diagrams, many-to-many associations, foreign keys, and SQL JOIN statements, which are likely covered in this topic:
+
+1. Introduction to Entity-Relationship Diagrams (ERDs)
+2. Association Types between Entities in ERDs
+3. Many-to-Many Associations: Problem and Solution using Junction or Bridge Tables
+4. Foreign Keys in Relational Databases
+5. Querying Multiple Tables using the SQL JOIN Statement
+
+Some key concepts and formulas that may be covered in this topic include:
+
+* Entity-relationship diagrams (ERDs)
+* Association types (one-to-one, one-to-many, many-to-one, many-to-many)
+* Junction or bridge tables for many-to-many associations
+* Foreign keys and primary keys
+* SQL JOIN statements (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN)
+
+If you provide the actual text to summarize, I would be happy to help.

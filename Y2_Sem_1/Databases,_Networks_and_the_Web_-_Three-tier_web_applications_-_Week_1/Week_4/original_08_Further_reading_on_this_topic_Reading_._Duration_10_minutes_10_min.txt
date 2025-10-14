@@ -1,0 +1,8 @@
+# Further reading on this topic
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/9hBY8/further-reading-on-this-topic
+
+When you have completed this topic, if you would like to read in more depth about any of the content covered, we recommend the following text. It will deepen your understanding in some areas, but it is not required in order to pass the module. Please note that because this is supplemental, we are unable to guarantee it is available in our Online Library. Krause, J. Programming web applications with Node, Express and Pug.(New York, NY: Apress Media LLC, 2017). [ISBN 9781484225110]. Further reading on this topic When you have completed this topic, if you would like to read in more depth about any of the content covered, we recommend the following text. It will deepen your understanding in some areas, but it is not required in order to pass the module. Please note that because this is supplemental, we are unable to guarantee it is available in our Online Library. Krause, J. Programming web applications with Node, Express and Pug.(New York, NY: Apress Media LLC, 2017). [ISBN 9781484225110]. Mark as completed Dislike Report an issue

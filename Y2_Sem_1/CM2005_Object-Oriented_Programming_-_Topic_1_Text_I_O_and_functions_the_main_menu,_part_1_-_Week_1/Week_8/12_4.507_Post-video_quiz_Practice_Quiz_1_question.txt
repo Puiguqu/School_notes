@@ -1,0 +1,31 @@
+# 4.507 Post-video quiz
+Practice Quiz•1 question - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/quiz/O23ty/4-507-post-video-quiz
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The course is titled "4.507" and consists of 20 weeks with various topics covered.
+2. Week 1 covers Text I/O and functions, with two parts: main menu and CSVReader class.
+3. Week 2 continues with Text I/O and functions, focusing on reading lines from the user.
+4. Week 3 introduces using classes and variables to model data with the OrderBookEntry class.
+5. Week 4 builds upon the previous week's topic, completing the OrderBookEntry class.
+6. Week 5 covers File I/O, exception handling, and algorithms with the CSVReader class.
+7. Week 6 continues with the CSVReader class, focusing on reading lines from the user.
+8. Week 7 introduces writing and testing an algorithm for taking orders and the order matching engine.
+9. Week 8 completes the algorithm for taking orders and the order matching engine.
+10. The course includes practice assignments, quizzes, and labs to reinforce learning.
+11. Week 9 covers object interactions with the Wallet class.
+12. Week 10 is an assessment of the object interactions with the Wallet class.
+13. Week 11 introduces the DJ application and the JUCE toolkit.
+14. Week 12 continues with the introduction to the DJ application and the JUCE toolkit.
+15. Week 13 covers event-driven programming and inheritance, focusing on buttons, sliders, and audio.
+16. Week 14 completes the event-driven programming and inheritance topic.
+17. Week 15 introduces refactoring and class design, starting with the DeckGUI and DJAudioPlayer classes.
+18. Week 16 continues with refactoring and class design, completing the DeckGUI and DJAudioPlayer classes.
+19. Week 17 covers initialiser lists, constructors, and threads, focusing on the WaveformDisplay class.
+20. Week 18 completes the initialiser lists, constructors, and threads topic for the WaveformDisplay class.
+21. Week 19 introduces advanced class and user interfaces using TableListBox and TableListBoxModel.
+22. Week 20 is the final submission of coursework with a graded assignment.
+
+Note that this summary does not include links or formulae as they were not present in the original text.

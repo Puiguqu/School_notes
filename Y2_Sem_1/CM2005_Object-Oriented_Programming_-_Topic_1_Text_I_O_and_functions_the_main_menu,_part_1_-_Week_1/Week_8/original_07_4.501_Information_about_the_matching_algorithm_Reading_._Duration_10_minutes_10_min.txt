@@ -1,0 +1,8 @@
+# 4.501 Information about the matching algorithm
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/BpyeN/4-501-information-about-the-matching-algorithm
+
+In the following videos, we are going to implement a matching algorithm that matches bids to asks and therefore creates currency exchanges or trades. It might help you to understand these videos if you study the algorithm first, so I recommend that you now read the first few sections of the lesson worksheet, attached below. You do not need to implement the algorithm yet – watch me doing it first! But do familiarise yourself with it. 4509_20200413.pdf PDF File 4.501 Information about the matching algorithm In the following videos, we are going to implement a matching algorithm that matches bids to asks and therefore creates currency exchanges or trades. It might help you to understand these videos if you study the algorithm first, so I recommend that you now read the first few sections of the lesson worksheet, attached below. You do not need to implement the algorithm yet – watch me doing it first! But do familiarise yourself with it. 4509_20200413.pdf PDF File Mark as completed Dislike Report an issue

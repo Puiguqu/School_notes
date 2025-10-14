@@ -1,0 +1,96 @@
+# Implement print and remove functions
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/JPM8P/implement-print-and-remove-functions
+
+Here is the code to implement the `print` and `remove` functions:
+
+```cpp
+// Insert function implementation
+void Wallet::insertMoney(JUCEString money) {
+    // Check if the wallet has enough space for a new bill
+    if (walletCapacity > walletAmount) {
+        // Add the money to the wallet
+        walletAmount = walletAmount + money.length();
+        cash.addBill(money);
+    } else {
+        cout << "Not enough space in your wallet." << endl;
+    }
+}
+
+// Contains function implementation
+bool Wallet::contains(JUCEString billNumber) {
+    // Check if the bill is already in the wallet
+    for (auto& bill : cash.get Bills()) {
+        if (billNumber == bill.billNumber) {
+            return true;
+        }
+    }
+    return false;
+}
+
+// Print function implementation
+void Wallet::printMoney() {
+    cout << "Current amount of money: $" << walletAmount << endl;
+
+    // Display each bill in the wallet
+    for (const auto& bill : cash.get Bills()) {
+        cout << "Bill #: " << bill.billNumber << ", Amount: $" << bill.amount << endl;
+    }
+
+    // Print the total capacity of the wallet
+    cout << "Total wallet capacity: " << walletCapacity << endl;
+
+    cout << "Your cash: ";
+    for (const auto& bill : cash.get Bills()) {
+        cout << bill.billNumber << ", ";
+    }
+    cout << endl;
+}
+
+// Remove function implementation
+void Wallet::removeMoney(JUCEString billNumber) {
+    // Check if the bill is in the wallet
+    bool found = false;
+
+    for (auto& bill : cash.get Bills()) {
+        if (billNumber == bill.billNumber) {
+            found = true;
+            break;
+        }
+    }
+
+    // If the bill is not found, print a message and return
+    if (!found) {
+        cout << "Bill not found in wallet." << endl;
+        return;
+    }
+
+    // Find the index of the bill to be removed
+    int billIndex = -1;
+    for (int i = 0; i < cash.get Bills().size(); i++) {
+        if (cash.get Bills()[i].billNumber == billNumber) {
+            billIndex = i;
+            break;
+        }
+    }
+
+    // If the index is still -1, print a message and return
+    if (billIndex == -1) {
+        cout << "Bill not found in wallet." << endl;
+        return;
+    }
+
+    // Remove the bill from the list
+    cash.removeBill(billIndex);
+
+    // Update the total amount of money in the wallet
+    walletAmount = walletAmount - 10.0f; // Assuming a $10 bill
+
+    cout << "Bill removed successfully." << endl;
+}
+```
+
+Note that this implementation assumes that `cash` is a member variable of the `Wallet` class, and that it has functions `addBill`, `get Bills()`, `removeBill` to manage its internal data structure. The actual implementation may vary depending on the specific requirements of your project.

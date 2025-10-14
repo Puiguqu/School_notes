@@ -1,0 +1,82 @@
+# 9.113 Implement a ChangeListener to make sure it draws automatically
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/7Ybe7/9-113-implement-a-changelistener-to-make-sure-it-draws-automatically
+
+Here is a possible transcript of the video "Implementing a ChangeListener to make sure it draws automatically" based on the provided text:
+
+**Speaker:** Welcome back to our series on creating a DJ application with the JUCE toolkit. Today, we're going to focus on implementing a ChangeListener to make sure our WaveformDisplay component is always up-to-date.
+
+**(Video shows the speaker working on code)**
+
+**Speaker:** As you can see from our previous video, we've created a basic WaveformDisplay class that displays a waveform for an audio file. However, in order to make this display responsive and automatic, we need to implement a ChangeListener.
+
+**(Code snippet appears on screen)**
+```cpp
+class WaveformDisplay : public Component {
+public:
+    // ...
+    JUCE_DECLARE_CHANGE_LISTENER(WaveformDisplayListener);
+private:
+    // ...
+    ChangeListener listener;
+};
+```
+**Speaker:** So, what is a ChangeListener? In short, it's an interface that allows us to respond to changes in the component. In our case, we want to update the display whenever the audio file being played changes.
+
+**(Code snippet appears on screen)**
+```cpp
+class WaveformDisplayListener : public ChangeListener {
+public:
+    void valueChanged(ChangeInfo changeInfo) override;
+private:
+    // ...
+};
+```
+**Speaker:** Now, let's create an implementation of our listener. We'll need to update the display whenever the audio file changes.
+
+**(Code snippet appears on screen)**
+```cpp
+void WaveformDisplayListener::valueChanged(ChangeInfo changeInfo) {
+    auto audioBuffer = dynamic_cast<AudioBuffer<float>*>(changeInfo.getValue());
+    if (audioBuffer != nullptr) {
+        // Update the waveform display with new audio data
+        updateWaveform(audioBuffer);
+    }
+}
+```
+**Speaker:** As you can see, we're using a ChangeInfo object to get the changed value. In this case, it's an AudioBuffer, which contains our audio data.
+
+**(Code snippet appears on screen)**
+```cpp
+void WaveformDisplay::updateWaveform(AudioBuffer<float>& audioBuffer) {
+    // Clear the existing waveform display
+    graphicsContext.clear();
+
+    // Draw a new waveform based on the updated audio data
+    for (int i = 0; i < audioBuffer.getSampleSize(); ++i) {
+        float amplitude = audioBuffer.getSample(i);
+        drawPoint(audioBuffer.getXPosition(i), amplitude * 100.0f, graphicsContext);
+    }
+
+    // Update the display to show the new waveform
+    repaint();
+}
+```
+**Speaker:** So, in summary, we've implemented a ChangeListener to update our WaveformDisplay component whenever the audio file being played changes. This ensures that our display is always up-to-date and responsive.
+
+**(Video shows the speaker working on code)**
+```cpp
+// In the constructor of WaveformDisplay
+WaveformDisplay::WaveformDisplay() {
+    // ...
+    addChangeListener(this, new WaveformDisplayListener());
+}
+```
+**Speaker:** And that's it! Our WaveformDisplay component is now fully functional and automatically updates its display whenever the audio file being played changes.
+
+**(Video shows the speaker working on code)**
+
+I hope this transcript provides a clear explanation of how to implement a ChangeListener in JUCE. Let me know if you have any questions or need further clarification!

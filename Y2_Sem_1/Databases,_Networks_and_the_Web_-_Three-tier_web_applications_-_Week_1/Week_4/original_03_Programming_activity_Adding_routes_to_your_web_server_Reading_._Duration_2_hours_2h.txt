@@ -1,0 +1,8 @@
+# Programming activity: Adding routes to your web server
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/Eh2WE/programming-activity-adding-routes-to-your-web-server
+
+In this lab activity you will explore how to add new routes to your Express web application. Please download the following PDF and follow the instructions for this lab activity: 05_Adding-routes-to-your-web-server.pdf PDF File Programming activity: Adding routes to your web server In this lab activity you will explore how to add new routes to your Express web application. Please download the following PDF and follow the instructions for this lab activity: 05_Adding-routes-to-your-web-server.pdf PDF File Mark as completed Dislike Report an issue

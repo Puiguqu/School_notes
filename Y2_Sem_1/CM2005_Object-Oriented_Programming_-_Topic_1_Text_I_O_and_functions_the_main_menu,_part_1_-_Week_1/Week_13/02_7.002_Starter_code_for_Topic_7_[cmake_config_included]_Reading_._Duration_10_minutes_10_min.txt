@@ -1,0 +1,19 @@
+# 7.002 Starter code for Topic 7 [cmake config included]
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/WyEFn/7-002-starter-code-for-topic-7-cmake-config-included
+
+I don't see any text to summarize in your prompt. The provided text is a description of starter code for Topic 7, but it does not contain any specific information or key concepts that need summarization.
+
+However, I can provide a summary of the context and potential content that might be present in the text:
+
+The text appears to be an introduction to the starter code for Topic 7. It mentions a CMakeLists.txt file, which is used to build projects using CMake. The commands mentioned are:
+
+* cmake -B build : Generates a project
+* cmake --build build --preset Debug : Builds the project on the command line
+
+The text also provides instructions on how to use these commands to create and build a project.
+
+If you could provide the actual text from Topic 7, I would be happy to help summarize it in 25 sentences, preserving key information, formulae, links, and technical details.

@@ -1,0 +1,8 @@
+# 7.003 Reading for Topic 7
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/9H3OT/7-003-reading-for-topic-7
+
+Your Essential reading textbook is: Horton, I. and P. Van Weert Beginning C++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. The textbook covers several of the concepts and techniques we will use in Topic 7. Chapter 5, pp.123–25: some further information about arrays Chapter 5, pp.126–27: for loops Chapter 13, pp.493–96: inheritance Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the book. 7.003 Reading for Topic 7 Your Essential reading textbook is: Horton, I. and P. Van Weert Beginning C++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. The textbook covers several of the concepts and techniques we will use in Topic 7. Chapter 5, pp.123–25: some further information about arrays Chapter 5, pp.126–27: for loops Chapter 13, pp.493–96: inheritance Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the book. Mark as completed Dislike Report an issue

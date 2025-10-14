@@ -1,0 +1,53 @@
+# Read a line from the user, part 2
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/NPmQd/read-a-line-from-the-user-part-2
+
+Based on the transcript provided, it appears that the code snippet being discussed is related to reading a line from the user and inserting an order into an order book.
+
+**Code Snippet:**
+```
+#include "OrderBook.h"
+
+void readLine() {
+    std::string line;
+    std::getline(std::cin, line);
+    // Process the input line
+}
+
+int main() {
+    int choice;
+    do {
+        System::Console::WriteLine("Choose an option:");
+        System::Console::WriteLine("1. Read a line from the user");
+        System::Console::WriteLine("2. Insert the order into the order book");
+
+        std::cin >> choice;
+
+        switch (choice) {
+            case 1:
+                readLine();
+                break;
+            case 2:
+                // Code to insert the order into the order book
+                break;
+            default:
+                System::Console::WriteLine("Invalid option");
+                break;
+        }
+    } while (choice != 0);
+
+    return 0;
+}
+```
+**Explanation:**
+
+The `readLine()` function reads a line from the user using `std::getline(std::cin, line)`. The input is then processed according to the specific requirements of the program.
+
+In the `main()` function, the user is presented with a menu and asked to choose an option. If the user chooses option 1, the `readLine()` function is called. If the user chooses option 2, the code to insert the order into the order book is not yet implemented.
+
+**Task:**
+
+Insert the code that reads a line from the user and inserts it into an `OrderBook` object.

@@ -1,0 +1,35 @@
+# 8.404 Lesson worksheet: drag and drop
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/GHdEH/8-404-lesson-worksheet-drag-and-drop
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The lesson worksheet for topic 8.404 "Implementing Drag & Drop Triggers" has been provided.
+
+This topic covers implementing drag and drop triggers in the DJ application using the JUCE toolkit.
+
+The first part of the topic (Weeks 1-6) introduces text I/O and functions, including the main menu, CSV reader class, and exception handling.
+
+The second part of the topic (Weeks 7-16) focuses on object interactions, event-driven programming, inheritance, refactoring, and class design.
+
+Specific topics include:
+
+* Using classes and variables to model data (OrderBookEntry class)
+* Writing and testing an algorithm (taking orders and order matching engine)
+* Object interactions (wallet class)
+* Introducing the DJ application and JUCE toolkit
+* Event-driven programming and inheritance (buttons, sliders, audio)
+* Refactoring and class design (DeckGUI and DJAudioPlayer classes)
+
+Additionally, there are practice assignments and quizzes throughout the topic.
+
+The WaveformDisplay class is introduced in Weeks 17-18, covering initialiser lists, constructors, and threads.
+
+Weeks 19-20 cover advanced topics on user interfaces using TableListBox and TableListBoxModel.
+
+Finally, coursework submission for this topic is due (Week 20).
+
+No external links or formulae are present in the provided text.

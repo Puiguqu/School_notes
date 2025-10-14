@@ -1,0 +1,8 @@
+# Programming activity: Inserting data from Node to database
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/2Ox21/programming-activity-inserting-data-from-node-to-database
+
+In this lab activity you will explore how to pass different variables to your application's backend and database. Please download the following PDF and follow the instructions for this lab activity: 17_Inserting-data-from-node-to-database.pdf PDF File Programming activity: Inserting data from Node to database In this lab activity you will explore how to pass different variables to your application's backend and database. Please download the following PDF and follow the instructions for this lab activity: 17_Inserting-data-from-node-to-database.pdf PDF File Mark as completed Dislike Report an issue

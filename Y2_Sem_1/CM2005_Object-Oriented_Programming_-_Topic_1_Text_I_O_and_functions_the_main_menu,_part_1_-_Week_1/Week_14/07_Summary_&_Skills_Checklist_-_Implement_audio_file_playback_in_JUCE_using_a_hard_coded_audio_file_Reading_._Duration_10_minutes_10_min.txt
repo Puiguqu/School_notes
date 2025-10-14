@@ -1,0 +1,36 @@
+# Summary & Skills Checklist - Implement audio file playback in JUCE using a hard coded audio file
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/8Mvxt/summary-skills-checklist-implement-audio-file-playback-in-juce-using-a-hard
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture demonstrated how to play an audio file in JUCE using ready-made components.
+2. The process involved layering multiple components to handle audio file reading and playback.
+3. The first step was to add necessary components to the main component header file, including AudioFormatManager, AudioFormatReaderSource, and AudioTransportSource.
+4. These components are essential for reading and playing audio files in JUCE.
+5. The AudioFormatManager is responsible for managing audio formats and registering basic audio formats with formatManager.registerBasicFormats().
+6. The AudioFormatReaderSource wraps the reader into an audio source, while the AudioTransportSource allows control over audio playback.
+7. The layered approach involves adding more complexity and capability to the system as each layer is added.
+8. The first layer that registers audio formats is the AudioFormatManager.
+9. The second layer that wraps the reader into an audio source is the AudioFormatReaderSource.
+10. The final layer that allows control over audio playback, such as play, pause, and stop, is the AudioTransportSource.
+11. Components are initialised in the prepareToPlay function to be ready for audio playback.
+12. This includes registering basic audio formats with formatManager.registerBasicFormats() and setting up the audio file URL.
+13. The lecture showed how to read the audio file and wrap it into the components for playback.
+14. This involves converting the audio file URL into an InputStream, creating an AudioFormatReader, and wrapping it into an AudioFormatReaderSource.
+15. Smart pointers are used for better memory management, allowing dynamic instantiation while ensuring proper memory cleanup.
+16. The std::unique_ptr is a smart pointer that is used to manage the AudioFormatReaderSource component.
+17. Connecting to the audio system involves connecting the transportSource to the JUCE audio system.
+18. The getNextAudioBlock function is used to supply audio blocks to the system.
+19. This involves calling transportSource.prepareToPlay(samplesPerBlock, sampleRate) and transportSource.getNextAudioBlock(bufferToFill).
+20. Running the application involved building and running the application to test the audio playback functionality.
+21. The lecture demonstrated running the application and successfully playing an audio file, confirming the implementation.
+22. To master this content, a learner must have knowledge of how to add and initialise AudioFormatManager, AudioFormatReaderSource, and AudioTransportSource components.
+23. Understanding the role of each component in the audio playback process is also essential.
+24. The layered approach involves understanding the concept of layering components to build complex functionality.
+25. Ability to implement and connect different layers for audio playback in JUCE is also a key skill.
+
+Note: This summary is based on the provided text and may not be comprehensive or exhaustive.

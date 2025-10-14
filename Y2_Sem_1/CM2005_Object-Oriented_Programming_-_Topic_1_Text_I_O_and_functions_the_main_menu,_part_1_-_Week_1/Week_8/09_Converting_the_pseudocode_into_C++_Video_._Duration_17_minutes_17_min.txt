@@ -1,0 +1,152 @@
+# Converting the pseudocode into C++
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/I058T/converting-the-pseudocode-into-c
+
+The code provided is a C++ implementation of an order book system, which is used to manage and execute buy and sell orders for financial instruments such as stocks, bonds, or commodities.
+
+Here's an overview of the code:
+
+**OrderBookEntry Class**
+
+The `OrderBookEntry` class represents a single entry in the order book. It has attributes for the instrument being traded (e.g., stock symbol), the quantity of shares being bought or sold, and the price at which the trade is being executed.
+
+```cpp
+class OrderBookEntry {
+public:
+    std::string instrument;
+    int quantity;
+    double price;
+
+    // Constructor to initialize an order book entry
+    OrderBookEntry(std::string i, int q, double p) : instrument(i), quantity(q), price(p) {}
+};
+```
+
+**OrderBook Class**
+
+The `OrderBook` class represents the entire order book. It has methods for inserting orders into the book, checking if a bid or ask exists at a given price, and executing trades.
+
+```cpp
+class OrderBook {
+public:
+    // Method to insert an order into the book
+    void insertOrder(OrderBookEntry entry) {
+        // Find the best match in the bid side of the book
+        for (int i = 0; i < bids.size(); i++) {
+            if (entry.price <= bids[i].price && entry.quantity >= bids[i].quantity) {
+                // Update the quantity and price if possible
+                if (entry.quantity > bids[i].quantity) {
+                    bids[i].quantity += entry.quantity;
+                    return;
+                } else {
+                    // Remove the order from the book if it's fully filled
+                    bids.erase(bids.begin() + i);
+                    return;
+                }
+            }
+        }
+
+        // Find the best match in the ask side of the book
+        for (int i = 0; i < asks.size(); i++) {
+            if (entry.price >= asks[i].price && entry.quantity <= asks[i].quantity) {
+                // Update the quantity and price if possible
+                if (entry.quantity < asks[i].quantity) {
+                    asks[i].quantity -= entry.quantity;
+                    return;
+                } else {
+                    // Remove the order from the book if it's fully filled
+                    asks.erase(asks.begin() + i);
+                    return;
+                }
+            }
+        }
+
+        // If no match is found, add the order to one side of the book
+        if (entry.price < bids[0].price) {
+            bids.push_back(entry);
+        } else {
+            asks.push_back(entry);
+        }
+    }
+
+    // Method to check if a bid or ask exists at a given price
+    bool hasPrice(double price) {
+        for (const auto& entry : bids) {
+            if (entry.price == price) return true;
+        }
+        for (const auto& entry : asks) {
+            if (entry.price == price) return true;
+        }
+        return false;
+    }
+
+    // Method to execute a trade
+    void executeTrade(double price, int quantity) {
+        // Find the best match in the bid side of the book
+        for (int i = 0; i < bids.size(); i++) {
+            if (price <= bids[i].price && quantity >= bids[i].quantity) {
+                // Update the quantity and price if possible
+                if (quantity > bids[i].quantity) {
+                    bids[i].quantity += quantity;
+                    return;
+                } else {
+                    // Remove the order from the book if it's fully filled
+                    bids.erase(bids.begin() + i);
+                    return;
+                }
+            }
+        }
+
+        // Find the best match in the ask side of the book
+        for (int i = 0; i < asks.size(); i++) {
+            if (price >= asks[i].price && quantity <= asks[i].quantity) {
+                // Update the quantity and price if possible
+                if (quantity < asks[i].quantity) {
+                    asks[i].quantity -= quantity;
+                    return;
+                } else {
+                    // Remove the order from the book if it's fully filled
+                    asks.erase(asks.begin() + i);
+                    return;
+                }
+            }
+        }
+
+        // If no match is found, add the trade to one side of the book
+        if (price < bids[0].price) {
+            bids.push_back({ instrument, quantity, price });
+        } else {
+            asks.push_back({ instrument, quantity, price });
+        }
+    }
+};
+```
+
+This code provides a basic implementation of an order book system. It includes methods for inserting orders into the book, checking if a bid or ask exists at a given price, and executing trades.
+
+**Example Usage**
+
+```cpp
+int main() {
+    OrderBook orderBook;
+
+    // Insert some orders into the book
+    orderBook.insertOrder(OrderBookEntry("AAPL", 10, 100.0));
+    orderBook.insertOrder(OrderBookEntry("GOOGL", 5, 2000.0));
+
+    // Check if a bid or ask exists at $100
+    std::cout << "Has price at $100? " << (orderBook.hasPrice(100) ? "Yes" : "No") << std::endl;
+
+    // Execute a trade for 10 shares of AAPL at $100
+    orderBook.executeTrade(100.0, 10);
+
+    return 0;
+}
+```
+
+This example demonstrates how to create an `OrderBook` object and insert some orders into it. It then checks if a bid or ask exists at a given price and executes a trade for a specified quantity of shares at a given price.
+
+Note that this is a simplified implementation and does not include features such as multiple layers in the book, time-stamping of trades, or risk management.

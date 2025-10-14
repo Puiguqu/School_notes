@@ -1,0 +1,18 @@
+# Preparing for the mid-term assessment
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/7xZGr/preparing-for-the-mid-term-assessment
+
+Unfortunately, there is not enough information in the provided text to summarize in 25 sentences. The text appears to be a set of instructions for a mid-term assignment, but it does not contain any specific details about the assignment itself, such as its purpose, requirements, or expected outcomes.
+
+However, I can extract some key points from the text:
+
+1. The instructor recommends downloading a template (uol-dnw-coursework-template-main ZIP File) to prepare for the mid-term assignment.
+2. The template uses SQLite rather than MySQL and must be used for the mid-term assignment.
+3. Students should read the README.md and Working with this Template.pdf files in the template for instructions on how to use it.
+4. When full instructions are issued, students should download and read them carefully before starting their work.
+5. The instructor suggests preparing for the mid-term assessment by working with the template beforehand.
+
+Unfortunately, there is no additional information in the text that can be summarized in 25 sentences. If you provide more context or information about the assignment, I would be happy to help you summarize it.

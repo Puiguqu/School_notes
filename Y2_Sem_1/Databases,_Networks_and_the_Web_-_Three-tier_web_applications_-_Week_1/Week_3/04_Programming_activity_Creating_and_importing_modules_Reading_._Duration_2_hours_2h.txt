@@ -1,0 +1,8 @@
+# Programming activity: Creating and importing modules
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/49Dfr/programming-activity-creating-and-importing-modules
+
+In this lab activity you will explore the concept of Node modules. Please download the following PDF and follow the instructions for this lab activity: 03_Creating-and-importing-modules.pdf PDF File Programming activity: Creating and importing modules In this lab activity you will explore the concept of Node modules. Please download the following PDF and follow the instructions for this lab activity: 03_Creating-and-importing-modules.pdf PDF File Mark as completed Dislike Report an issue

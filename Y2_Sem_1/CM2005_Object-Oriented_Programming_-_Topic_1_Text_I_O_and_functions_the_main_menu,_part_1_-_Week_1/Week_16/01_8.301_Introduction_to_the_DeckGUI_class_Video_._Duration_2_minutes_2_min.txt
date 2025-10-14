@@ -1,0 +1,41 @@
+# 8.301 Introduction to the DeckGUI class
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/03rOw/8-301-introduction-to-the-deckgui-class
+
+Here is a summary of the text in 25 sentences:
+
+1. The author discusses creating a new `DeckGUI` class to represent the user interface for a DJ deck.
+2. The `DeckGUI` class will inherit from `slider listener` and `button listener`.
+3. The author aims to create a complete package for GUI functionality, which can be easily replicated and used to create multiple decks.
+4. In this video, the author creates the `DeckGUI` class using Projucer and saves it as a component class.
+5. The author opens the header file of the generated code in their code editor.
+6. The header file includes boilerplate code for paint function, resize function, and error checking macros.
+7. The `DeckGUI` class is designed to act as a real component and can be added to the main component class.
+8. The author aims to minimize functionality in the `DeckGUI` class to make it easy to replicate.
+9. In the next video, the author will dive into the details of creating the `DeckGUI` class.
+
+10. The text also mentions additional pages with topics such as:
+11. Text I/O and functions
+12. Using classes and variables to model data
+13. File I/O, exception handling, and algorithms
+14. Writing and testing an algorithm
+15. Object interactions
+16. Introducing the DJ application and the JUCE toolkit
+17. Event-driven programming and inheritance
+18. Refactoring and class design
+
+19. The author will implement GUI widgets in a subsequent video.
+20. They will also test out the implemented GUI widgets.
+
+21. In another video, the author will implement listener interfaces for the `DeckGUI` class.
+
+22. They will also use a MixerAudioSource to play multiple files at once.
+
+23. The author mentions implementing drag and drop triggers as part of their next lesson.
+
+24. The text includes information on refactoring the GUI into a class and defining 'refactoring'.
+
+25. The author will provide a summary video at the end, which includes a recap and lesson worksheet for the topic of drag-and-drop triggers.

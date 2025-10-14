@@ -1,0 +1,37 @@
+# 1.702 Post-video quiz
+Practice Quiz•4 questions - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/quiz/n1PFI/1-702-post-video-quiz
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+The course includes multiple topics covering various programming concepts.
+
+Week 1-2 covers Input/Output (I/O) and functions.
+
+* The main menu has two parts: an introduction to I/O and an explanation of refactoring.
+* A text-based simulation quiz assesses understanding of refactoring.
+* Practice assignments test knowledge on writing a print menu function, processOption function, and converting the menu to use functions.
+* A lesson worksheet covers using functions with variables.
+
+Week 3-4 introduces classes and variables to model data.
+
+* The OrderBookEntry class is created in two parts: part 1 and part 2.
+* Weeks 5-6 cover file I/O, exception handling, and algorithms with the CSVReader class.
+* Weeks 7-8 focus on writing and testing an algorithm for taking orders and creating an order matching engine.
+* Weeks 9-10 explore object interactions with the wallet class.
+
+Weeks 11-12 introduce the DJ application and JUCE toolkit.
+
+* The DJ application is developed in two parts: part 1 and part 2.
+* Week 13 covers event-driven programming and inheritance with buttons, sliders, and audio.
+* Week 14 continues with event-driven programming and inheritance.
+* Weeks 15-16 focus on refactoring and class design for the DeckGUI and DJAudioPlayer classes.
+
+Weeks 17-18 cover initialiser lists, constructors, and threads for the WaveformDisplay class.
+
+* The WaveformDisplay class is created in two parts: part 1 and part 2.
+* Week 19 introduces advanced class and user interfaces using TableListBox and TableListBoxModel.
+* Week 20 involves submitting coursework 2 graded assignment #1.702 Post-video quiz.
+
+There are no explicit links or technical details provided in the text, but it is clear that this course covers a wide range of programming concepts and topics.

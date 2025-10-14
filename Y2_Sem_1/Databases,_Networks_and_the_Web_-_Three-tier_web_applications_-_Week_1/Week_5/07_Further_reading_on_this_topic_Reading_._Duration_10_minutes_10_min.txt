@@ -1,0 +1,10 @@
+# Further reading on this topic
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/VgcDl/further-reading-on-this-topic
+
+I don't see any text provided for me to summarize. The given text appears to be a prompt or instructions rather than a passage to be summarized. It suggests additional readings and provides information about books and chapters related to programming web applications with Node, Express, and Pug.
+
+If you could provide the actual text you'd like me to summarize, I'd be happy to assist you in condensing it into 25 sentences while preserving key information, formulae, links, and technical details.

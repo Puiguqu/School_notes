@@ -1,0 +1,48 @@
+# Topic 4 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/XrZ0v/topic-4-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The topic introduces form handling and collecting access form data in middleware for dynamic web applications.
+2. User interactions, including input forms, are part of the front-end or presentation tier of an application.
+3. Input forms generate data that needs to be handled or stored.
+4. In this topic, learners will learn how to create a form using HTML code and display it in the front end.
+5. The second part of the topic focuses on collecting user inputs from the form and accessing it in middleware.
+6. The interaction between the front-end (forms) and middleware is discussed in this topic.
+7. Lab instructions and programming exercises are provided to practice form handling, collecting, and accessing form data.
+8. Learners will apply these skills in their dynamic web application.
+
+9. The video transcript introduces the concept of three-tier web applications.
+10. Later topics cover building web apps with Node and Express, generating web pages from data using templates, and more.
+11. There are 22 weeks dedicated to different topics related to form handling and collecting form data.
+12. Some weeks focus on specific skills such as adding forms to the Express server, programming activities, and check understanding exercises.
+13. Other weeks explore database operations, security, networking concepts, and preparation for an exam.
+
+14. The topic covers two common HTTP request methods: GET and POST.
+15. Learners will learn how to collect form data from the front end and access it in middleware.
+
+16. The topic does not provide specific formulae or technical details related to form handling.
+
+17. However, learners can expect to learn about programming concepts such as HTML, Node, Express, and JavaScript.
+
+18. The interactive transcript allows users to navigate through the text using tab navigation.
+
+19. Learners can save notes for sections of text by pressing CTRL + S.
+
+20. They can expand or contract their selection by using CTRL + arrow keys.
+
+21. Screen readers that are incompatible with using arrow keys may use H J K L keys instead.
+
+22. The topic is designed to be interactive, allowing learners to practice form handling and collecting form data.
+
+23. There is no specific link provided in the text related to this topic.
+
+24. However, future topics will cover passing collected form data from middleware to the back end or database tier.
+
+25. Learners can apply their skills learned in this topic to their dynamic web application.
+
+Note that there is no explicit formulae or technical details mentioned in the text.

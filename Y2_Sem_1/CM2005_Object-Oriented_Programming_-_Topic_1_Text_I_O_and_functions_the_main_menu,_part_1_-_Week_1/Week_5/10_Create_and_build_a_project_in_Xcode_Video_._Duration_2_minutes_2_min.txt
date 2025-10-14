@@ -1,0 +1,36 @@
+# Create and build a project in Xcode
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Eq0vv/create-and-build-a-project-in-xcode
+
+Here is a summary of the provided text in 25 sentences:
+
+1. The video transcript explains how to create a project in Xcode with a command-line target.
+2. The first step is to open Xcode and navigate to the "Create a new project" window.
+3. The user selects the "Command Line Tool" option as the type of project to create.
+4. Next, the user selects the programming language for the project, which in this case is C++.
+5. The user then types in the name of the project and chooses where to save it.
+6. After saving the project, Xcode opens the full program file.
+7. The user can edit the code in the file browser, which includes code completion features.
+8. When finished editing, the user clicks the "Play" button to build the application.
+9. If the build is successful, a console will appear with the output from the programming.
+10. This allows the user to see the results of their coding.
+11. The video transcript also covers the tokenise algorithm in pseudocode.
+12. The tokenise algorithm is used for file input/output and parsing data.
+13. The user can open a file, read it using getline, and then tokenize the data.
+14. The data can be translated into the correct format after tokenization.
+15. Dealing with exceptions is also covered in the transcript.
+16. Exceptions are handled to prevent errors from occurring during programming.
+17. The video transcript covers various topics related to programming, including file I/O, exception handling, and algorithms.
+18. Each topic builds on previous ones, covering a wide range of programming concepts.
+19. The user can experiment with different coding techniques and exercises throughout the course.
+20. The video transcript includes interactive coding sessions and quizzes to test understanding.
+21. The goal is to provide hands-on experience with real-world programming applications.
+22. By completing the coursework, users will gain practical skills in programming languages like C++.
+23. The JUCE toolkit is introduced as a software framework for building audio applications.
+24. The course covers event-driven programming, inheritance, and refactoring techniques.
+25. By the end of the course, users should have a comprehensive understanding of programming concepts and hands-on experience with various tools and technologies.
+
+Note: This summary is based on the provided transcript and may not include all the topics covered in the full video content.

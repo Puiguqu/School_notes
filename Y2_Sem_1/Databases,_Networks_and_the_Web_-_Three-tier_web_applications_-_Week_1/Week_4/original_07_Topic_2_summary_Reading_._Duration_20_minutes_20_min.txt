@@ -1,0 +1,8 @@
+# Topic 2 summary
+Reading•
+. Duration: 20 minutes
+20 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/yAaj6/topic-2-summary
+
+In this topic you have learned about: web servers, web server architecture and web hosting Node.js creating a web server with Node.js modules in Node.js the Express module in Node.js creating a web server with Express the separation of concerns (SoC) principle of programming. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic2_eval DOCX File Topic 2 summary In this topic you have learned about: web servers, web server architecture and web hosting Node.js creating a web server with Node.js modules in Node.js the Express module in Node.js creating a web server with Express the separation of concerns (SoC) principle of programming. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic2_eval DOCX File Mark as completed Dislike Report an issue

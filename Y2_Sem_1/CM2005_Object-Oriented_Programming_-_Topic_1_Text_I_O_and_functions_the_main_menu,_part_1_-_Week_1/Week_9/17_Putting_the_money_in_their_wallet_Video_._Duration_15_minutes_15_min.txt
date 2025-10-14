@@ -1,0 +1,39 @@
+# Putting the money in their wallet
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/OXE4B/putting-the-money-in-their-wallet
+
+It appears that the code for the "Putting the money in their wallet" section is missing from the interactive transcript. However, based on the context provided, I will attempt to provide a possible solution.
+
+Here's an example of how you could implement putting the money into the user's wallet:
+```cpp
+// In the Wallet class constructor
+wallet.addMoney(user.getCash());
+
+// In the enterAsk function
+if (askType == "buy") {
+  // Calculate the amount to spend
+  float amount = askAmount.getText().floatValue();
+  
+  // Check if there is enough money in the wallet
+  if (user.getCash() >= amount) {
+    // Subtract the amount from the user's cash
+    user.removeMoney(amount);
+    
+    // Add the amount to the wallet
+    wallet.addMoney(-amount); // Note: using -amount instead of addMoney(amount)
+    
+    // Update the user's balance and wallet balance
+    user.setBalance(user.getCash() + askAmount.getText().floatValue());
+    wallet.setBalance(wallet.getCash() - amount);
+  } else {
+    // Display an error message if there is not enough money in the wallet
+    JOptionPane.showMessageDialog(this, "Not enough money in your wallet!");
+  }
+}
+```
+Note that this code assumes that `user` and `wallet` are objects with `getCash`, `removeMoney`, and `setBalance` methods, as well as a `floatValue()` method for getting the value of a float input field. Additionally, it assumes that the `askAmount` object is an input field containing the amount to spend.
+
+This code checks if there is enough money in the user's wallet to make the purchase, and if so, subtracts the amount from the user's cash and adds it to the wallet. If there is not enough money in the wallet, it displays an error message.

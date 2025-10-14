@@ -1,0 +1,60 @@
+# The order book data set
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/icnt9/the-order-book-data-set
+
+It appears to be a transcript of an interactive programming course where students learn to model and simulate stock trading systems using C++. The transcript is divided into weekly topics, each covering specific aspects of the course material.
+
+Here's a summary of the transcript:
+
+**Weeks 1-3: Introduction to Classes**
+
+* Students are introduced to classes and objects in C++.
+* They learn how to define their own classes and use constructors to initialize objects.
+* The OrderBookEntry class is defined, which represents a single entry in an order book.
+
+**Weeks 4-6: CSV Data Reading and File I/O**
+
+* Students learn how to read data from a CSV file using the `std::vector` class.
+* They are introduced to exception handling and learn how to handle errors that may occur during file I/O operations.
+* The `CSVReader` class is defined, which reads data from a CSV file.
+
+**Weeks 7-8: Algorithm Development**
+
+* Students learn how to develop algorithms for simulating stock trading systems.
+* They are introduced to the concept of an order matching engine and learn how to implement it using C++.
+* The `takingOrders` function is implemented, which takes in orders from users and matches them with existing bids and asks.
+
+**Weeks 9-10: Object Interactions**
+
+* Students learn about object interactions, including inheritance and polymorphism.
+* They are introduced to the `Wallet` class, which represents a user's wallet in the system.
+
+**Weeks 11-12: DJ Application and JUCE Toolkit**
+
+* Students are introduced to the DJ application framework and the JUCE toolkit.
+* They learn how to create a GUI for their trading system using the JUCE toolkit.
+
+**Weeks 13-14: Event-driven Programming and Inheritance**
+
+* Students learn about event-driven programming and inheritance in C++.
+* They implement buttons, sliders, and audio playback using C++.
+
+**Weeks 15-16: Refactoring and Class Design**
+
+* Students learn how to refactor their code to improve its design and structure.
+* They are introduced to the `DeckGUI` and `DJAudioPlayer` classes, which represent the GUI for their trading system.
+
+**Weeks 17-18: Initialiser Lists, Constructors, and Threads**
+
+* Students learn about initialiser lists, constructors, and threads in C++.
+* They implement the `WaveformDisplay` class, which displays a waveform graph.
+
+**Weeks 19-20: Advanced Class and User Interfaces**
+
+* Students learn how to use advanced GUI components, including TableListBox and TableListBoxModel.
+* They are introduced to the concept of submission of coursework.
+
+Overall, this course appears to be an intermediate-level C++ programming course that covers various topics in computer science, including object-oriented programming, algorithms, file I/O, exception handling, event-driven programming, inheritance, refactoring, and GUI design.

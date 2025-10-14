@@ -1,0 +1,8 @@
+# Programming activity: LEFT and RIGHT JOINS in SQL
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/WIHeC/programming-activity-left-and-right-joins-in-sql
+
+In this lab activity you will explore how to use the LEFT and RIGHT ‘JOIN’ statement in your database. Please download the following PDF and follow the instructions for this lab activity: 22_Left-and-right-join-in-SQL.pdf PDF File Programming activity: LEFT and RIGHT JOINS in SQL In this lab activity you will explore how to use the LEFT and RIGHT ‘JOIN’ statement in your database. Please download the following PDF and follow the instructions for this lab activity: 22_Left-and-right-join-in-SQL.p...

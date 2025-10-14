@@ -1,0 +1,238 @@
+# 8.401 Implementing drag and drop triggers
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/QpCI6/8-401-implementing-drag-and-drop-triggers
+
+Here is a written version of the interactive transcript:
+
+**Enable basic transcript mode by pressing the escape key**
+
+To navigate through the transcript, press the tab key to move between sections.
+
+**[0:00 - 0:02]**
+
+You may save a note for a section of text by pressing CTRL + S.
+
+**[0:03 - 0:06]**
+
+To expand your selection, you may use the arrow keys (up, down, left, right).
+
+**[0:07 - 0:10]**
+
+To contract your selection, press shift + CTRL + arrow key.
+
+**[0:11 - 0:14]**
+
+For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key.
+
+**Implementing drag and drop triggers**
+
+In this video, we will be implementing drag and drop triggers for our DJ application.
+
+First, let's create a new class called `DraggableItem`. This class will represent an item that can be dragged around.
+
+```cpp
+class DraggableItem {
+public:
+    DraggableItem(int x, int y) : x(x), y(y) {}
+
+    void dragStart() {}
+    void dragUpdate(float dx, float dy) {}
+    void dragEnd() {}
+
+private:
+    int x;
+    int y;
+};
+```
+
+Next, we need to create a new class called `DragDropTrigger`. This class will handle the dragging and dropping of items.
+
+```cpp
+class DragDropTrigger {
+public:
+    void attach(DraggableItem* item) {}
+    void detach(DraggableItem* item) {}
+
+private:
+    std::list<DrivableItem*> dragItems;
+};
+```
+
+Now, let's implement the drag and drop functionality in our `DJAudioPlayer` class.
+
+```cpp
+class DJAudioPlayer {
+public:
+    void play() {
+        // ...
+    }
+
+    void stop() {
+        // ...
+    }
+
+    void dragStart(DraggableItem* item) {
+        dragItems.push_back(item);
+    }
+
+    void dragUpdate(float dx, float dy) {
+        for (auto it = dragItems.begin(); it != dragItems.end();) {
+            if ((*it)->x > 0 && (*it)->y > 0) {
+                // Move the item to a new location
+                (*it)->x += dx;
+                (*it)->y += dy;
+            }
+            ++it;
+        }
+    }
+
+    void dragEnd() {
+        for (auto it = dragItems.begin(); it != dragItems.end();) {
+            if ((*it)->x > 0 && (*it)->y > 0) {
+                // Remove the item from the list
+                delete *it;
+                dragItems.erase(it);
+            }
+            ++it;
+        }
+    }
+
+private:
+    std::list<DrivableItem*> dragItems;
+};
+```
+
+Finally, let's create a new class called `DeckGUI` that will handle the GUI for our DJ application.
+
+```cpp
+class DeckGUI {
+public:
+    void display() {
+        // Display the GUI components
+    }
+
+    void update() {
+        // Update the GUI components based on user input
+    }
+};
+```
+
+In this video, we have implemented drag and drop triggers for our DJ application. We created new classes called `DraggableItem` and `DragDropTrigger`, and implemented the dragging and dropping functionality in our `DJAudioPlayer` class.
+
+**Post-video quiz**
+
+To complete this exercise, please answer the following questions:
+
+1. What is the main purpose of the `DraggableItem` class?
+2. How does the `DragDropTrigger` class handle the dragging and dropping of items?
+3. In what way do we update the GUI components in our `DeckGUI` class?
+
+**Practice Assignment**
+
+For this assignment, please create a new class called `WindowedApplication` that will handle the windowing for our DJ application.
+
+```cpp
+class WindowedApplication {
+public:
+    void display() {}
+    void update() {}
+
+private:
+    // ...
+};
+```
+
+Please complete the following tasks:
+
+1. Implement the `display()` method to create and display a new window.
+2. Implement the `update()` method to handle user input and update the GUI components accordingly.
+
+**Use a MixerAudioSource to play more than one file at a time**
+
+To implement this feature, please modify your `DJAudioPlayer` class to use multiple `MixerAudioSource`s to play different audio files simultaneously.
+
+```cpp
+class DJAudioPlayer {
+public:
+    void play() {
+        // ...
+        MixerAudioSource* source1 = new MixerAudioSource("file1.wav");
+        MixerAudioSource* source2 = new MixerAudioSource("file2.wav");
+        // ...
+    }
+
+private:
+    std::vector<MixerAudioSource*> sources;
+};
+```
+
+Please complete the following tasks:
+
+1. Implement the `play()` method to create multiple `MixerAudioSource`s and play them simultaneously.
+2. Modify the `stop()` method to stop all audio sources.
+
+**For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key.**
+
+To complete this exercise, please modify your code to use keyboard shortcuts instead of mouse events.
+
+```cpp
+class DraggableItem {
+public:
+    DraggableItem(int x, int y) : x(x), y(y) {}
+
+    void dragStart() {}
+    void dragUpdate(float dx, float dy) {}
+    void dragEnd() {}
+
+private:
+    int x;
+    int y;
+
+    // Add keyboard shortcut functionality
+    bool isDragging = false;
+    float dx = 0.0f;
+    float dy = 0.0f;
+
+public:
+    void handleKeydown(KeyEvent* event) {
+        if (event->getKeycode() == VK_LEFT) {
+            dx = -10.0f;
+        } else if (event->getKeycode() == VK_RIGHT) {
+            dx = 10.0f;
+        } else if (event->getKeycode() == VK_UP) {
+            dy = -10.0f;
+        } else if (event->getKeycode() == VK_DOWN) {
+            dy = 10.0f;
+        }
+    }
+
+    void handleKeyup(KeyEvent* event) {
+        if (event->getKeycode() == VK_LEFT || event->getKeycode() == VK_RIGHT ||
+           event->getKeycode() == VK_UP || event->getKeycode() == VK_DOWN) {
+            dx = 0.0f;
+            dy = 0.0f;
+        }
+    }
+
+    void dragStart() {
+        isDragging = true;
+    }
+
+    void dragUpdate(float newX, float newY) {
+        x = newX;
+        y = newY;
+    }
+
+    void dragEnd() {
+        isDragging = false;
+    }
+};
+```
+
+Please complete the following tasks:
+
+1. Implement the `handleKeydown()` and `handleKeyup()` methods to handle keyboard events.
+2. Modify the `dragStart()`, `dragUpdate()`, and `dragEnd()` methods to use keyboard shortcuts instead of mouse events.

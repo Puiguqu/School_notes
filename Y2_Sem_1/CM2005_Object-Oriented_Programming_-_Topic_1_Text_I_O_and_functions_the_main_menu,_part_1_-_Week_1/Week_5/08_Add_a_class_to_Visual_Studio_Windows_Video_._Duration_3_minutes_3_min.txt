@@ -1,0 +1,62 @@
+# Add a class to Visual Studio Windows
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/epsHV/add-a-class-to-visual-studio-windows
+
+Here is a step-by-step guide on how to add a class to Visual Studio Windows:
+
+**Step 1: Create a new C++ project**
+
+* Open Visual Studio and click on "Create a new project" under the "Empty Project" template.
+* Select "Win32 Console App (.NET)" as the project type and choose a location for your project files.
+
+**Step 2: Create a new class file**
+
+* In the Solution Explorer, right-click on your project and select "Add" > "New Item..."
+* In the "Templates" pane, select "C++ Class" under the "Visual C++" section.
+* Name your class file (e.g., "MyClass.h") and click "Add".
+
+**Step 3: Create a new source file**
+
+* In the Solution Explorer, right-click on your project and select "Add" > "New Item..."
+* In the "Templates" pane, select "C++ Source File (.cpp)" under the "Visual C++" section.
+* Name your source file (e.g., "MyClass.cpp") and click "Add".
+
+**Step 4: Add class members**
+
+* Open the `MyClass.h` file and add any member variables you want for your class.
+* For example, if you're creating a simple class to hold a string variable, you can add:
+```cpp
+class MyClass {
+public:
+    std::string name;
+};
+```
+**Step 5: Implement the class**
+
+* Open the `MyClass.cpp` file and implement the class by providing definitions for any member functions.
+* For example, if you want to create a constructor for your class, you can add:
+```cpp
+MyClass::MyClass() {
+    name = "John Doe";
+}
+```
+**Step 6: Create an instance of the class**
+
+* Open the `main.cpp` file (if it doesn't exist, create one) and add code to create an instance of your class.
+* For example:
+```cpp
+int main() {
+    MyClass myClass;
+    std::cout << "Hello, " << myClass.name << "!" << std::endl;
+    return 0;
+}
+```
+**Step 7: Build and run the project**
+
+* Press F5 to build and run your project.
+* If everything is set up correctly, you should see a message in the console that says "Hello, John Doe!".
+
+That's it! You've successfully added a class to Visual Studio Windows.

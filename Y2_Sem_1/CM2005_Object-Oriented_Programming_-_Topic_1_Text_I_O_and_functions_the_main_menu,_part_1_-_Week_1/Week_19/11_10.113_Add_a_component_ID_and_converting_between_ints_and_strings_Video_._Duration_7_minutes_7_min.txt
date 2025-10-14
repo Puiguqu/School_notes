@@ -1,0 +1,23 @@
+# 10.113 Add a component ID and converting between ints and strings
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/cMwEl/10-113-add-a-component-id-and-converting-between-ints-and-strings
+
+This appears to be a transcript of a video lecture on programming and software development, specifically using the JUCE (Jules' Utility Class Extensions) framework.
+
+The video covers a range of topics, including text I/O and functions, classes and variables to model data, file I/O, exception handling, algorithms, object interactions, event-driven programming, inheritance, refactoring, and class design. The instructor provides detailed explanations, examples, and code snippets to illustrate key concepts and techniques.
+
+The transcript includes a list of topics covered in each week, as well as practice assignments and quizzes to reinforce learning. It also provides additional resources, such as starter code for certain topics and examples of file listing and searching GUIs.
+
+Some specific topics covered include:
+
+* Using classes and variables to model data (e.g., the `OrderBookEntry` class)
+* Implementing algorithms (e.g., CSV reader)
+* Refactoring and class design (e.g., `DeckGUI` and `DJAudioPlayer` classes)
+* Event-driven programming and inheritance (e.g., buttons, sliders, and audio)
+
+The instructor also provides guidance on best practices for coding, such as using initializer lists and constructors, and how to handle threads.
+
+Overall, this transcript appears to be a comprehensive resource for learning JUCE and software development principles.

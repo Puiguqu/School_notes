@@ -1,0 +1,36 @@
+# Read a file using getline
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Ps65z/read-a-file-using-getline
+
+To read a file using `getline`, we need to open the file and then use `getline` to read each line.
+
+Here is an example:
+```cpp
+#include <iostream>
+#include <fstream>
+
+int main() {
+    std::ifstream file("example.txt"); // Open the file
+
+    if (file.is_open()) { // Check if the file was opened successfully
+        std::string line;
+        while (std::getline(file, line)) { // Read each line and store it in the `line` variable
+            std::cout << line << std::endl; // Print the line to the console
+        }
+        file.close(); // Close the file
+    } else {
+        std::cerr << "Unable to open file" << std::endl;
+        return 1;
+    }
+
+    return 0;
+}
+```
+This code opens a file named `example.txt` and reads each line using `getline`. It then prints each line to the console. If the file cannot be opened, it prints an error message to the standard error stream.
+
+Note that this is just a basic example, and in a real-world application you would likely want to add more error checking and handling code.
+
+Also, remember to include the necessary headers (`<fstream>`, `<iostream>`) at the top of your code file.

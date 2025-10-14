@@ -1,0 +1,26 @@
+# Topic 2 summary
+Video•
+. Duration: 56 seconds
+56 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/EAeW0/topic-2-summary
+
+Unfortunately, I must inform you that the provided text is not a coherent article or document that contains any specific information on data modeling in C++. The text appears to be a transcript of an online course lecture or tutorial, and it seems to be divided into multiple topics, each covering a different concept.
+
+The only relevant information I was able to extract from the text is:
+
+* The importance of choosing appropriate data types when modeling data in C++.
+* The use of classes to combine multiple items of data into one place.
+* The ability to add functions to classes to operate on that data.
+
+However, without further context or clarification, it's difficult to provide a summary of key information, formulae, links, and technical details. If you could provide more information about the specific topic or concept you'd like me to summarize, I'd be happy to try again.
+
+In general, here is a rough outline of what might be covered in a course on data modeling in C++:
+
+* Topic 2: Using classes and variables to model data
+ + Introduction to classes and objects in C++
+ + Choosing appropriate data types for modeling data
+ + Creating classes to combine multiple items of data into one place
+ + Adding functions to classes to operate on that data
+
+Please let me know if you have any further questions or if there's anything else I can help with.

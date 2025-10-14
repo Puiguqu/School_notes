@@ -1,0 +1,8 @@
+# 5.003 Reading for Topic 5
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/B8KdT/5-003-reading-for-topic-5
+
+The textbook for this course is: Horton, I. and P. Van Weert Beginning CC++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. We introduce the relevant sections from the textbook in the worksheets, but here is a list of the chapters we mention: Chapter 15, p.573: details on throwing exceptions Chapter 11, p.411: friend functions Chapter 12, p.449: operator overloading Chapter 8, p.283: setting default parameter values. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the books. 5.003 Reading for Topic 5 The textbook for this course is: Horton, I. and P. Van Weert Beginning CC++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. We introduce the relevant sections from the textbook in the worksheets, but here is a list of the chapters we mention: Chapter 15, p.573: details on throwing exceptions Chapter 11, p.411: friend functions Chapter 12, p.449: operator overloading Chapter 8, p.283: setting default parameter values. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the books. Mark as completed Dislike Report an issue

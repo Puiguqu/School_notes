@@ -1,0 +1,80 @@
+# 9.105 Check out the AudioThumbnail class in the API
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/iovOL/9-105-check-out-the-audiothumbnail-class-in-the-api
+
+This is a transcript of a video tutorial on programming using the JUCE (Jules' Audio Codex User Interface) toolkit. The tutor guides through the creation of a WaveformDisplay component that displays an audio waveform.
+
+**Section 9.105: Check out the AudioThumbnail class in the API**
+
+The tutor explains that the AudioThumbnail class is used to load and display thumbnails for audio files. They demonstrate how to use this class to load a thumbnail for a selected audio file.
+
+```cpp
+// Load the thumbnail
+AudioThumbnail thumbnail;
+thumbnail.load("path/to/audio/file.wav");
+
+// Get the image from the thumbnail
+JUCE::Image img = thumbnail.getThumbnailImage();
+```
+
+**Section 9.106: Post-video quiz Practice Assignment**
+
+The tutor assigns practice assignments to reinforce understanding of the concepts covered in the video. These include:
+
+* Creating a new Component: WaveformDisplay and get it to display
+* Checking out the AudioThumbnail class in the API
+* Hooking up the load button to trigger the AudioThumbnail load
+* Drawing the thumbnail
+* Implementing a ChangeListener to make sure it draws automatically
+
+**Section 9.107: Draw the thumbnail**
+
+The tutor demonstrates how to draw the thumbnail using the JUCE image library.
+
+```cpp
+// Create an image view
+JUCE::ImageView imageView;
+imageView.setColour(Juce::Image::ColourId::BackgroundColour, JUCE::Colour(0x000000));
+
+// Get the image from the thumbnail
+JUCE::Image img = thumbnail.getThumbnailImage();
+
+// Draw the image
+imageView.drawImage(img);
+```
+
+**Section 9.108: Implement a ChangeListener to make sure it draws automatically**
+
+The tutor explains that a ChangeListener is needed to detect changes in the waveform display and redraw it automatically.
+
+```cpp
+// Create a ChangeListener
+WaveformDisplay::ChangeListener listener;
+listener.addChangeListener(WaveformDisplay::ChangeType::RangeChanged, [this] { 
+    this->draw();
+});
+
+// Get the range of the waveform display
+float range = display.getRange();
+
+// Draw the waveform
+display.draw(range);
+```
+
+**Section 9.109: Review of waveform display implementation**
+
+The tutor reviews the implementation of the WaveformDisplay class and emphasizes the importance of using proper coding practices, such as following JUCE's naming conventions.
+
+```cpp
+// Follow JUCE's naming convention for variables
+float range = display.getRange();
+```
+
+**Section 9.110: Lesson worksheet: the basic WaveformDisplay class**
+
+The tutor provides a lesson worksheet that covers the basics of the WaveformDisplay class, including its usage and functionality.
+
+This is a summary of the main points covered in this section of the tutorial. The specific details may vary depending on the version of JUCE being used and the specific requirements of the project.

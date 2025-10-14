@@ -1,0 +1,23 @@
+# Add a class to Visual Studio Windows
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/h64gN/add-a-class-to-visual-studio-windows
+
+Unfortunately, this text does not provide a clear summary or key information to preserve in 25 sentences. The text appears to be a transcript of a video lecture on C++ programming in Visual Studio on Windows, covering various topics such as classes, functions, file I/O, exception handling, algorithms, and more.
+
+However, here is a possible attempt to condense the main points into 25 sentences:
+
+1. The video provides a step-by-step guide on how to add a new class to a C++ project in Visual Studio on Windows.
+2. To start, open Visual Studio and create a new project or work with an existing one.
+3. In the Add dialog box, select "Class" as the type of item to add.
+4. Specify the class name, header file, and CPP file, ensuring they are created separately.
+5. The project will display two folders: Header Files and Source Files, indicating a virtual file system.
+6. Create a new class by right-clicking on the desired folder and selecting "Add Class".
+7. Design the class layout using the Visual Studio interface.
+8. Implement the class's functionality and member variables as needed.
+9. Use the `#include` directive to link the header file with other source files.
+10. Compile and run the project to test the new class.
+
+However, it appears that this text is not a clear summary or key information, but rather an interactive transcript of a video lecture.

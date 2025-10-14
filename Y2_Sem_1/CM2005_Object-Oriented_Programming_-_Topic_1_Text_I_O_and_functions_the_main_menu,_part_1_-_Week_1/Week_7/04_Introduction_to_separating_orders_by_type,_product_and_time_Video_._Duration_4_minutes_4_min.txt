@@ -1,0 +1,28 @@
+# Introduction to separating orders by type, product and time
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/0dJu4/introduction-to-separating-orders-by-type-product-and-time
+
+It appears that this is an introductory transcript to a course on programming and computer science, specifically focused on a project related to DJing and digital music production. The transcript introduces the topic of separating orders by type, product, and time, which seems to be relevant to the project's requirements.
+
+The instructor mentions the importance of distinguishing between different types of orders (e.g., buy and sell orders), products (e.g., cryptocurrencies or fiat currencies), and time (e.g., current market conditions). They also emphasize the need for a robust data structure to manage these complexities.
+
+The transcript then dives into implementing the separation of orders, starting with creating an `OrderBook` class that can handle different types of orders. The instructor explains how to use a map to store known products and how to implement methods like `getOrders` to retrieve order information.
+
+As the course progresses, the instructor introduces more advanced topics such as refactoring, class design, and using specific UI components like `TableListBox` and `TableListBoxModel`. They also discuss the importance of initialiser lists, constructors, and threads in implementing a robust DJing application.
+
+Throughout the transcript, the instructor provides examples, explanations, and practice assignments to help students understand the concepts and implement them in their own code. The course seems to be structured around a set of modules or topics, each building on previous ones to create a comprehensive understanding of programming and computer science principles.
+
+Some specific topics mentioned in the transcript include:
+
+* Separating orders by type, product, and time
+* Implementing an `OrderBook` class
+* Using a map to store known products
+* Implementing methods like `getOrders`
+* Refactoring and class design
+* Initialiser lists, constructors, and threads
+* Advanced UI components like `TableListBox` and `TableListBoxModel`
+
+Overall, the transcript provides a comprehensive introduction to programming concepts and techniques relevant to a DJing application project.

@@ -1,0 +1,68 @@
+# 7.403 Realtime sound synthesis in JUCE
+Video•
+. Duration: 19 minutes
+19 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/BPSVz/7-403-realtime-sound-synthesis-in-juce
+
+Here is the transcript of the video on "Realtime sound synthesis in JUCE":
+
+**0:00**
+
+Hello and welcome to this tutorial on Realtime sound synthesis in JUCE.
+
+In this tutorial, we will be learning how to generate audio in real time using JUCE's audio framework. We'll cover the basics of how to create a synthesizer that can play sounds as soon as you press a button.
+
+**0:20**
+
+First things first, let's make sure our environment is set up correctly. If you haven't already done so, make sure you have JUCE installed on your machine and that your development environment is configured properly.
+
+We'll be using the JUCE Audio Framework to create a synthesizer that can play sounds in real time. To do this, we need to create an `AudioProcessor` class, which will contain our synthesizer's functionality.
+
+**0:50**
+
+Let's start by creating a new `AudioProcessor` class called `MySynth`. We'll use the `JUCE::AudioProcessor` base class as a starting point and add some basic synthesizer functionality to it.
+
+```cpp
+class MySynth : public JUCE::AudioProcessor
+{
+public:
+    MySynth() {}
+};
+```
+
+**1:15**
+
+Next, we need to create a `Synthesiser` object that will generate the audio. We'll use JUCE's built-in `WaveformGenerator` class to do this.
+
+```cpp
+JUCE::Synthesiser synthesiser;
+```
+
+**2:00**
+
+Now that we have our synthesiser set up, let's add some basic functionality to play a sound when you press a button. We can create a `Button` and connect it to the synthesiser so that when the button is pressed, the synthesiser will start playing.
+
+```cpp
+JUCE::Button playButton;
+playButton.setLabelText("Play");
+playButton.connectToSynthesiser(&synthesiser);
+```
+
+**3:00**
+
+Finally, let's put everything together and create a new `Application` object that will contain our synthesizer and button. We can then use the `runApp()` function to start the application.
+
+```cpp
+JUCE::Application app;
+app.addProcessor(new MySynth());
+app.runApp();
+```
+
+**4:00**
+
+That's it! Now you should see a window with a play button. Pressing the play button will cause the synthesiser to start playing, demonstrating how to generate audio in real time using JUCE.
+
+Thank you for watching this tutorial on Realtime sound synthesis in JUCE!
+
+[Note: The timestamps are approximate and may vary depending on the video editing software used.]

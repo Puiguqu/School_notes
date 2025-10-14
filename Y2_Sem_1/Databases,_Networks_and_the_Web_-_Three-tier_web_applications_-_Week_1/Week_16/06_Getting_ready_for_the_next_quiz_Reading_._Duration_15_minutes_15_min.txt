@@ -1,0 +1,34 @@
+# Getting ready for the next quiz
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/tED9x/getting-ready-for-the-next-quiz
+
+Here are the 25 sentences summarizing the text:
+
+1. The next module activity requires a formative quiz with questions based on an external database.
+2. The external database can be accessed by visiting Online SQL interpreter.
+3. It is recommended to practice and explore the database before attempting the quiz.
+4. The quiz will be based on the structure of the external database.
+5. The format of this quiz differs from previous quizzes taken so far.
+6. The questions in this quiz are related to querying the external database.
+7. This quiz has unlimited attempts, providing ample opportunity for practice and learning.
+8. The database should be given a few seconds to load completely before attempting any queries.
+9. Once loaded, the interactive input box can be used to run different queries and view the output.
+10. To get started with the quiz, try running the following initial queries:
+11. SELECT sql FROM sqlite_master; (similar to 'SHOW tables', lists and describes all tables in the database)
+12. Use this command to reset the database view after each query.
+13. SELECT * FROM classroom; (selects all fields from the 'classroom' table)
+14. SELECT name FROM student; (selects all fields from the 'student' table)
+15. SELECT SUM(tot_cred) from student; (sums all 'tot_cred' fields from the 'student' table)
+16. These queries can be used to familiarize oneself with the database structure and content.
+17. Practicing and exploring the database before attempting the quiz is beneficial.
+18. The link to Online SQL interpreter may break, so please notify the Student Portal if it does.
+19. The formative quiz will cover various aspects of querying the external database.
+20. No prior knowledge or experience with SQL queries is required for this quiz.
+21. The format and content of the quiz will be determined by the structure of the external database.
+22. There is no penalty for incorrect answers, making it an inclusive learning environment.
+23. The quiz provides ample opportunity for practice and reinforcement of skills acquired so far.
+24. By participating in this quiz, students can gauge their progress and identify areas for improvement.
+25. If you encounter any issues with the quiz link, please reach out to the Student Portal for assistance.

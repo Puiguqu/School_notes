@@ -1,0 +1,10 @@
+# 8.002 Starter code for Topic 8 [cmake included]
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/IQKIZ/8-002-starter-code-for-topic-8-cmake-included
+
+I don't see any text to summarize. The provided text appears to be a message about starter code for Topic 8, but it does not contain any relevant information or technical details.
+
+If you could provide the actual text you would like me to summarize, I would be happy to assist you in condensing it into 25 sentences, preserving key concepts, formulae, links, and technical details.

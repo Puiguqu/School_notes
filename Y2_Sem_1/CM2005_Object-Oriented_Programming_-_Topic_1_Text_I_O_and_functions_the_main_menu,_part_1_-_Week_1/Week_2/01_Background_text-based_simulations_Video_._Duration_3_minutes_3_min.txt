@@ -1,0 +1,48 @@
+# Background: text-based simulations
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/YRcLU/background-text-based-simulations
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+The video transcript introduces modern operating systems like iPadOS and Android, which are often used for graphics rather than text-based applications.
+
+However, there is a rich history of text-based applications in computing that has been largely overlooked.
+
+The author created an application to help with video mixing by using MIDI controls to control the video mixer.
+
+Another example shown is the Unix `tree` command, which displays a massive tree structure of the file system when run.
+
+SSH (Secure Shell) is also mentioned as a program used daily for logging into remote machines and issuing commands.
+
+The course focuses on building an application that runs on the command line and deals with printing text out and receiving text from the user.
+
+There is a discussion prompt where participants are encouraged to find interesting text-based programs they have used before.
+
+One of the first examples mentioned is email, which can be done in text.
+
+Text-based programs are incredibly powerful due to their simplicity and flexibility.
+
+Some examples of text-based applications include MIDI controllers, file system browsers like Unix's `tree` command, and SSH.
+
+These examples demonstrate how text-based applications can be used for a variety of tasks beyond just inputting commands.
+
+The course aims to show participants that text really is powerful in terms of programming.
+
+In the following weeks, topics will cover classes and variables to model data, file I/O, exception handling, algorithms, object interactions, event-driven programming, inheritance, and more.
+
+Throughout the course, participants will learn how to write robust code using functions, exceptions, and other techniques.
+
+The DJ application and JUCE toolkit are introduced in later weeks as a way to create a user-friendly interface for users.
+
+Event-driven programming and inheritance are also covered in depth.
+
+Refactoring and class design are discussed as crucial skills for effective coding practices.
+
+Participants will learn about initialiser lists, constructors, and threads, among other topics.
+
+Throughout the course, there are quizzes, practice assignments, and discussion prompts to keep participants engaged.
+
+The author emphasizes that refactoring is an essential skill for any programmer.

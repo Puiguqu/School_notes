@@ -1,0 +1,28 @@
+# 7.514 Lesson worksheet: playing an audio file
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/tH2AO/7-514-lesson-worksheet-playing-an-audio-file
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The text provides a summary of a lesson plan for teaching programming concepts using the JUCE (Juicebox) toolkit.
+2. The first section (Weeks 1-4) focuses on basic programming concepts such as functions, classes, variables, file input/output, exception handling, and algorithms.
+3. In Week 5, students learn about file I/O and algorithms using the CSVReader class.
+4. Weeks 6-8 introduce writing and testing algorithms for a stock market application using an order matching engine.
+5. In Weeks 9-10, students explore object interactions with the Wallet class.
+6. The next sections (Weeks 11-13) cover event-driven programming and inheritance, including audio processing and GUI design.
+7. The video series covers topics such as sending audio samples to the audio subsystem in blocks (7.401), post-video quizzes (7.402, 7.404, 7.506), and basic synthesis (7.501).
+8. The lessons also cover implementing audio file playback using a hard-coded audio file (7.504) and adding features such as stop and start buttons and volume control (7.508-7.509).
+9. The ResamplingAudioPlayer is used to implement variable speed playback (7.511).
+10. A review of library classes is provided in Section 7.513.
+11. The final section (Weeks 15-20) focuses on more advanced topics such as refactoring and class design, initialiser lists, constructors, threads, and user interfaces.
+
+Some key findings and concepts include:
+
+* The importance of mastering basic programming concepts, file I/O, and algorithms in a timely manner.
+* The use of the JUCE toolkit to build a DJ application with features like audio playback, GUI design, and event-driven programming.
+* The need for refactoring and class design improvements to improve code organization and maintainability.
+
+Unfortunately, no links or technical details are preserved as the original text does not contain any external links.

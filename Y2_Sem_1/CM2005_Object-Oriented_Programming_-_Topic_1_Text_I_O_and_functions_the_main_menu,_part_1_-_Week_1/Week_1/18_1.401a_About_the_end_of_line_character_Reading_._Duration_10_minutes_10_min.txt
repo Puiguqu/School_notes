@@ -1,0 +1,20 @@
+# 1.401a About the end of line character
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/rMujp/1-401a-about-the-end-of-line-character
+
+Here is a summary of the text in 25 sentences, preserving key information:
+
+1. The end of line character '\n' will be converted to the appropriate characters for ending a line on a specific platform.
+2. This conversion can be found in the C++ reference https://en.cppreference.com/w/cpp/io/c/FILE.
+3. According to the reference, a text stream is an ordered sequence of characters composed into lines.
+4. A line may contain zero or more characters plus a terminating '\n'.
+5. The implementation-defined nature of the last line's termination character affects text representation.
+6. Characters may need to be added, altered, or deleted on input and output to conform to OS conventions.
+7. For C streams on Windows OS, '\n' is converted to '\r\n' on output.
+8. On input, '\r\n' is converted to '\n'.
+9. This conversion behavior ensures compatibility with the specific platform's text representation.
+
+Note: The original text appears to be a minimal example of a "Completed" dislike report in 1.401a. The content seems unrelated to any specific formula or technical detail. If you could provide more context or information, I'd be happy to help further.

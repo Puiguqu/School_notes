@@ -1,0 +1,36 @@
+# 3.105 Testing Tokenise Summary Reading + Skills Checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/wcpW4/3-105-testing-tokenise-summary-reading-skills-checklist
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture discussed testing a tokenize function to ensure it operates correctly.
+2. The focus was on creating and running various test cases to manually verify the function's performance.
+3. Different scenarios and edge cases were explored, including strings with commas, single tokens, and real-world data from a CSV file.
+4. The goal was to test the tokenize function, which splits a string into tokens based on a specified delimiter (comma in this case).
+5. An example of testing the function was using the string "thing 1, thing 2" to verify if it correctly identifies and splits the tokens.
+6. To create a variable to store the tokens returned by the tokenize function, the lecture demonstrated how to use `tokens = tokenize(S, ',')`.
+7. The function was tested with various input strings to cover different scenarios and edge cases.
+8. Examples of such strings included "thing 1, thing 2," (string ending with a comma), "single_token" (string without commas), and "x,y,z,1,2,3" (string with mixed characters).
+9. Real data testing was also explored to ensure the function works with actual data.
+10. An example of real data testing involved feeding a CSV line to the tokenize function and verifying the output tokens.
+11. To address compilation warnings and errors, the lecture specified using the C++11 standard (-std=c++11) to resolve syntax warnings.
+12. The concept of unit testing was introduced, which involves writing automated tests to check the function's behavior under various conditions.
+13. Automated testing was suggested as a way to ensure robust function performance.
+14. To successfully master this content, a learner must have basic understanding of functions, including defining and calling functions.
+15. They must also understand function parameters and return values.
+16. Knowledge of string operations and handling different delimiters is necessary for manipulating strings.
+17. The ability to split strings into tokens using the tokenize function is crucial.
+18. Creating variables to store function outputs is essential for testing.
+19. For-each loops are used to iterate over collections, such as vectors in C++.
+20. Error handling is important for identifying and resolving compilation errors and warnings.
+21. Specifying the correct compilation standard (e.g., C++11) ensures code runs correctly.
+22. Manually testing functions with various input scenarios helps understand edge cases and their importance in testing.
+23. The concept of unit testing is significant, as it allows developers to validate function behavior comprehensively.
+24. Creating automated tests for unit testing enables developers to work with real-world data (e.g., CSV files) and verify outputs.
+25. To master this content, learners must develop skills in basic understanding of functions, string manipulation, variable declaration and initialization, looping constructs, error handling, and testing and debugging.
+
+Please note that the original text is quite long, and some details might have been condensed or omitted during the summary process.

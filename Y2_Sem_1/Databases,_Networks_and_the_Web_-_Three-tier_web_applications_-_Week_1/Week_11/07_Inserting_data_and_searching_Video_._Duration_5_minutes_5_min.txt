@@ -1,0 +1,34 @@
+# Inserting data and searching
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/nOgBW/inserting-data-and-searching
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The Adbook web application has been modified to allow new data to be inserted into the database and searches on the database.
+2. When a user browses to the Adbook root, the Adbook root handler is executed, rendering the Adbook EJS page.
+3. When the user fills in the Adbook form, a POST request is made to the slash book added root handler.
+4. The slash book added root handler inserts the new book into the database and displays a confirmation message to the user.
+5. The insert operation uses an SQL query with placeholders for the values from the form.
+6. An array of records is created to extract the data from the form and pass it to the db.query function.
+7. The db.query function executes the SQL query, which may fail or succeed depending on the input.
+8. When the search page is submitted, a GET request is made to the slash search result root handler.
+9. The root handler executes a query on the database using a SELECT command, searching for books with a specific term.
+10. The query uses the LIKE keyword for a wildcard search, finding books containing the search term anywhere in the book name.
+11. The search term comes from the submitted form in rec.query.searchText and is surrounded by percent signs to indicate matching on any text before or after the term.
+12. An anonymous function is called when the query completes to handle errors or display results.
+13. If there are no matching books, a suitable message is shown; if there are books found, they are displayed using the same List EJS page as for all books.
+14. The Adbook and search functionality reuse the same List EJS page with dynamic data-driven behavior in the application tier.
+15. The insert operation uses an array of records to extract data from the form and pass it to the db.query function.
+16. The db.query function executes SQL queries on the database, including those for inserting new books or searching for existing ones.
+17. The Adbook root handler renders the Adbook EJS page when a user browses to the Adbook root.
+18. The slash book added root handler inserts new data into the database and displays a confirmation message to the user.
+19. The sql query used in the insert operation is constructed using placeholders for the values from the form.
+20. An anonymous function is called when the query completes, handling any errors that may occur.
+21. The search functionality uses a SELECT command with a WHERE clause to search for books with a specific term.
+22. The LIKE keyword is used for wildcard searches to find books containing the search term anywhere in the book name.
+23. The db.query function replaces placeholders in the SQL query with actual values from the form data.
+24. The Adbook web application uses EJS templates to display dynamic data, including retrieved from the database.
+25. The insert and search functionality demonstrate basic database operations using Node.js and a relational database management system (RDBMS).

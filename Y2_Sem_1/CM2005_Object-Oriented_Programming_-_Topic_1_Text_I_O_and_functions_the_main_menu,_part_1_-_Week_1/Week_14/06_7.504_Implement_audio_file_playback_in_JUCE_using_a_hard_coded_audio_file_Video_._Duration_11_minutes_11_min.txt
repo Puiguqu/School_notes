@@ -1,0 +1,37 @@
+# 7.504 Implement audio file playback in JUCE using a hard coded audio file
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/fnXCh/7-504-implement-audio-file-playback-in-juce-using-a-hard-coded-audio-file
+
+This is a transcript of an online video tutorial on implementing audio file playback in JUCE (Jules' Audio Coding Extensions), a C++ library for building audio applications.
+
+**Video Title:** Implement audio file playback in JUCE using a hard coded audio file
+**Duration:** 11 minutes
+**Week Number:** 5
+
+The video is divided into several sections, each with its own topic and duration. Here's an overview of the main points covered in the video:
+
+1. Introduction to I/O and functions (10 minutes)
+	* The tutorial begins by explaining the importance of input/output (I/O) operations in audio applications.
+	* The host introduces themselves and explains the objective of the tutorial: implementing audio file playback using JUCE.
+2. Loading a hard-coded audio file (7 minutes)
+	* The video explains how to load an audio file using JUCE's `AudioFileReader` class.
+	* The host demonstrates how to create an `AudioFileReader` object, open and read an audio file, and then play the audio data.
+3. Sending audio samples to the audio subsystem in blocks (4 minutes)
+	* The video explains how to send audio samples to the audio subsystem using JUCE's `FloatBuffer` class.
+	* The host demonstrates how to create a `FloatBuffer` object, allocate memory for it, and fill it with audio data.
+4. Implementing audio file playback in JUCE (5 minutes)
+	* The video explains how to implement audio file playback by loading an audio file, sending the audio samples to the audio subsystem, and playing the audio data.
+	* The host demonstrates how to create a `DJAudioPlayer` object, load an audio file, and play the audio data.
+
+The video concludes with a summary of the main points covered in the tutorial and provides practice assignments for further learning.
+
+**Additional resources:**
+
+* Video transcript
+* Interactive transcript mode
+* Screen reader compatibility notes
+
+Note that this is just a summary of the main points covered in the video. The actual content of the video may vary depending on the host's presentation style and the specific examples used to illustrate each concept.

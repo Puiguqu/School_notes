@@ -1,0 +1,8 @@
+# Programming activity: My first Express web server
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/KZiZV/programming-activity-my-first-express-web-server
+
+In this lab activity you will explore a very popular web application framework called ‘Express’. Please download the following PDF and follow the instructions for this lab activity: 04_My-first-Express-web-server.pdf PDF File Programming activity: My first Express web server In this lab activity you will explore a very popular web application framework called ‘Express’. Please download the following PDF and follow the instructions for this lab activity: 04_My-first-Express-web-server.pdf PDF Fil...

@@ -1,0 +1,8 @@
+# Topic 3 summary
+Reading•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/rqVon/topic-3-summary
+
+In this topic you have learned about: organising your web application code into separate folders templating engines, including EJS. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic3_eval DOCX File Topic 3 summary In this topic you have learned about: organising your web application code into separate folders templating engines, including EJS. Use this self-evalua...

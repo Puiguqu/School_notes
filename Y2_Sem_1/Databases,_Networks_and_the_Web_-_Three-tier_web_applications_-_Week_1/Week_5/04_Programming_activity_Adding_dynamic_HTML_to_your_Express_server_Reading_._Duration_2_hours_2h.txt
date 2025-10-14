@@ -1,0 +1,10 @@
+# Programming activity: Adding dynamic HTML to your Express server
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/Rq8Ak/programming-activity-adding-dynamic-html-to-your-express-server
+
+Unfortunately, you didn't provide any text for me to summarize. The provided text appears to be a link or instruction on how to download a PDF file and complete a lab activity related to using the EJS templating engine with Express servers.
+
+If you could provide the actual text you'd like me to summarize, I'll be happy to assist you in condensing it into 25 sentences while preserving key information, formulae, links, and technical details.

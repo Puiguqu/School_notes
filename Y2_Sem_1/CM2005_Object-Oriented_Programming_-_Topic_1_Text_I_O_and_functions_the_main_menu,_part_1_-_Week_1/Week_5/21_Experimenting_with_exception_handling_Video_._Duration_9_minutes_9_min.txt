@@ -1,0 +1,28 @@
+# Experimenting with exception handling
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Rpdlj/experimenting-with-exception-handling
+
+This is an interactive transcript of a course lecture on exception handling in programming, specifically in C++. The speaker explains the concept of exceptions and how to handle them in a program.
+
+Here's a summary of the key points covered in the lecture:
+
+1. **What are exceptions?**: Exceptions are events that occur during the execution of a program that require special attention. They can be errors, such as division by zero or out-of-range values.
+2. **Types of exceptions**: There are two types of exceptions:
+	* **Runtime exceptions**: These occur at runtime and are thrown by the program when it encounters an error, such as division by zero.
+	* **Logical exceptions**: These occur during the development phase of a program and are typically errors in the code itself.
+3. **Handling exceptions**:
+	* **Try-catch blocks**: A try-catch block is used to handle exceptions. The `try` block contains the code that may throw an exception, while the `catch` block handles the exception if it occurs.
+	* **Exception types**: There are several types of exceptions in C++, including `std::exception`, `std::runtime_error`, and `std::invalid_argument`.
+4. **Throwing exceptions**:
+	* **throw keyword**: The `throw` keyword is used to throw an exception from a function.
+	* **std::terminate()**: If no exception handler is provided, the program terminates when an exception occurs.
+5. **Best practices for handling exceptions**:
+	* **Catch specific exceptions**: Catching specific exceptions allows you to handle each type of error differently.
+	* **Keep try-catch blocks short**: Keep try-catch blocks as short as possible to minimize code coverage.
+
+The speaker provides several examples of how to use try-catch blocks and handle exceptions in a program. They also discuss the importance of testing exception handling code thoroughly.
+
+Finally, the lecture concludes with a brief discussion on the benefits of using exception handling in programming, including improved reliability, security, and maintainability.

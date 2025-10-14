@@ -1,0 +1,35 @@
+# Introduction to inserting the order into the order book
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/IiGv4/introduction-to-inserting-the-order-into-the-order-book
+
+Here is a summary of the provided text in 25 sentences:
+
+1. The problem being discussed is how to insert an order book entry into the correct position.
+2. The current data structure used for the order book is a vector, which is not suitable for quick inserts in the middle.
+3. A more suitable data structure would be a linked list, but it's not necessary in this case.
+4. A simpler approach is to add the new order book entry to the end of the vector and then sort the vector.
+5. This method is efficient because sorting is relatively fast and adding to the end of the vector is straightforward.
+6. The next step will be to implement a function that can compare two objects so they can be sorted correctly.
+7. A built-in sort function from the standard library will also be used.
+8. To proceed, we need to introduce the problem of inserting an order book entry into the correct position.
+9. We have blocks of orders sorted by time, which makes it easier to insert new entries.
+10. The solution involves adding a new entry to the end of the list and then sorting it so that it goes in the right place.
+11. This method works well because it's easy to implement and efficient for large datasets.
+12. To make this work, we need to define a class called OrderBookEntry.
+13. The class should have properties such as buy or sell orders, price, and time.
+14. We also need to create a function that can compare two order book entries based on their time.
+15. This comparison function will be used when sorting the vector of order book entries.
+16. The sorting algorithm is expected to be efficient because it needs to work with large datasets.
+17. Once we have our data structure and sorting function in place, we can proceed with implementing the insert method.
+18. We'll write a simple program that creates an order book and inserts new entries into it.
+19. This will involve creating a function that takes an order book entry as input and adds it to the vector.
+20. The function will also sort the vector before inserting the new entry.
+21. To test this implementation, we can create a simple interactive program that allows users to place bids and asks.
+22. We'll also write pseudocode for the matching algorithm used in this system.
+23. After writing the pseudocode, we'll convert it into C++ code.
+24. Finally, we need to prepare for testing our new implementation by setting up tests for different scenarios.
+
+The text does not provide a specific outcome or conclusion but outlines the steps necessary to implement an order book system with efficient insertion and sorting of entries based on their time.

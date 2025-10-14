@@ -1,0 +1,8 @@
+# Topic 1 summary
+Reading•
+. Duration: 20 minutes
+20 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/e0cUv/topic-1-summary
+
+In this topic you have learned about: what a web application is two different types of web applications: static and dynamic the differences between a web application and a desktop application three-tier web application architecture using a restaurant analogy the life and times of a web request (what happens when you type the URL of a web application into a browser). Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic1_eval DOCX File Topic 1 summary In this topic you have learned about: what a web application is two different types of web applications: static and dynamic the differences between a web application and a desktop application three-tier web application architecture using a restaurant analogy the life and times of a web request (what happens when you type the URL of a web application into a browser). Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic1_eval DOCX File Mark as completed Dislike Report an issue

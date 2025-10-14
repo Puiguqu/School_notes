@@ -1,0 +1,8 @@
+# Programming activity: Create a database and a table; insert and retrieve some data
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/zQm8j/programming-activity-create-a-database-and-a-table-insert-and-retrieve-some-data
+
+In this lab activity you will explore how to use the ‘MySQL’ shell and how to create databases and tables. Please download the following PDF and follow the instructions for this lab activity: 11_Create-a-database-and-a-table-insert-retrieve-data.pdf PDF File Programming activity: Create a database and a table; insert and retrieve some data In this lab activity you will explore how to use the ‘MySQL’ shell and how to create databases and tables. Please download the following PDF and follow the in...

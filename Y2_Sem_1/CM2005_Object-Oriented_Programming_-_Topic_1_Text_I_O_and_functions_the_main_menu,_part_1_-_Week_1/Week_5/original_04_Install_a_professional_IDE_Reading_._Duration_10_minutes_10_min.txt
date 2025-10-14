@@ -1,0 +1,8 @@
+# Install a professional IDE
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/GHmBr/install-a-professional-ide
+
+You are doing so well learning C++ that we think you are ready to get your hands on some more serious programming tools. In the following videos you will learn about two professional integrated development environments, or IDEs. Firsly, for Windows users, Visual Studio (the full IDE, not just Visual Studio Code). Secondly, for Mac users, Xcode. If you are a GNU/Linux user, you probably already have your favourite development environment, so we do not cover detailed installation for you. You will see in the videos that Matthew uses Visual Studio Code on Linux. If you are happy working with our Visual Studio Code environment inside the Coursera platform, you can complete the tasks in this course using that, no problem. Install a professional IDE You are doing so well learning C++ that we think you are ready to get your hands on some more serious programming tools. In the following videos you will learn about two professional integrated development environments, or IDEs. Firsly, for Windows users, Visual Studio (the full IDE, not just Visual Studio Code). Secondly, for Mac users, Xcode. If you are a GNU/Linux user, you probably already have your favourite development environment, so we do not cover detailed installation for you. You will see in the videos that Matthew uses Visual Studio Code on Linux. If you are happy working with our Visual Studio Code environment inside the Coursera platform, you can complete the tasks in this course using that, no problem. Mark as completed Dislike Report an issue

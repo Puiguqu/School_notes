@@ -1,0 +1,8 @@
+# 6.203a How to see print-outs in Windows
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/Yg4ym/6-203a-how-to-see-print-outs-in-windows
+
+You will probably not be able to see print-outs in Windows if you do not follow the steps in the instructions below: 6203a_extra_notes_for_windows.md-20200727.pdf PDF File 6.203a How to see print-outs in Windows You will probably not be able to see print-outs in Windows if you do not follow the steps in the instructions below: 6203a_extra_notes_for_windows.md-20200727.pdf PDF File Mark as completed Dislike Report an issue

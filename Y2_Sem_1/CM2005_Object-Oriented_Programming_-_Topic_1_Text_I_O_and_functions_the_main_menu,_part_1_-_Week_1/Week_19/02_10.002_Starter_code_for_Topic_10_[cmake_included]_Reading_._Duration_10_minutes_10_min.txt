@@ -1,0 +1,56 @@
+# 10.002 Starter code for Topic 10 [cmake included]
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/Xc3xH/10-002-starter-code-for-topic-10-cmake-included
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The starter code for Topic 10 is provided in the ZIP file "OtoDecks_start_topic_10".
+2. The starter code includes CMake files.
+3. The topic covers advanced class and user interfaces, including using TableListBox and TableListBoxModel.
+
+4. The course has a total of 20 weeks, covering topics from I/O and functions to object interactions, event-driven programming, and refactoring.
+
+5. Each week, there is a video lecture or reading assignment that provides additional information on the topic.
+
+6. There are also practice assignments and quizzes throughout the course.
+
+7. The starter code for Topic 10 includes a PlaylistComponent in the Projucer project.
+
+8. To create the PlaylistComponent, watch the video tutorial "Create the PlaylistComponent in the Projucer project".
+
+9. Practice Assignment #10.102 is also provided, which involves adding a TableListBox to the PlaylistComponent.
+
+10. The starter code for Topic 10 includes a vector to store a list of files.
+
+11. To implement paintCell and paintRowBackground, watch the video tutorial "Implement paintCell and paintRowBackground".
+
+12. Practice Assignment #10.107 requires implementing a play button in the PlaylistComponent.
+
+13. The starter code for Topic 10 also includes a button listener to handle user interactions.
+
+14. Watch the video tutorial "Add a button listener" to learn more about this topic.
+
+15. To add a component ID and convert between ints and strings, watch the video tutorial "Add a component ID and converting between ints and strings".
+
+16. The starter code for Topic 10 includes a lesson worksheet with examples of file listing and searching GUIs.
+
+17. Watch the video lecture "Lesson worksheet: starter table component" to learn more about this topic.
+
+18. Practice Assignment #10.116 provides examples of file listing and searching GUIs.
+
+19. To implement advanced class and user interfaces, watch the video tutorial "Advanced class and user interfaces".
+
+20. The course covers a range of topics, including object interactions, event-driven programming, and refactoring.
+
+21. Each topic includes a starter code snippet to help students get started with their projects.
+
+22. There are also practice assignments and quizzes throughout the course to test students' understanding.
+
+23. The starter code for Topic 10 is included in the ZIP file "OtoDecks_start_topic_10".
+
+24. To access the starter code, download the ZIP file and extract it to a directory on your computer.
+
+25. From there, you can start working with the starter code and implementing your own projects using TableListBox and TableListBoxModel.

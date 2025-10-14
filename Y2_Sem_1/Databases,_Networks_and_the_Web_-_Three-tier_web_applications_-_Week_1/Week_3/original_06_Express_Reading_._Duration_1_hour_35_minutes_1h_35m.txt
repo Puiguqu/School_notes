@@ -1,0 +1,8 @@
+# Express
+Reading•
+. Duration: 1 hour 35 minutes
+1h 35m
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/emBUn/express
+
+Read the following pages to get an understanding of how Express works: Yaapa, H. Express web application development: learn how to develop web applications with the Express framework from scratch. (Birmingham: Packt Publishing Ltd., 2013). Chapter 1: What is Express? The stuff that makes up Express and Concepts used in Express. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book. Express Read the following pages to get an understanding of how Express works: Yaapa, H. Express web application development: learn how to develop web applications with the Express framework from scratch. (Birmingham: Packt Publishing Ltd., 2013). Chapter 1: What is Express? The stuff that makes up Express and Concepts used in Express. This reading is available in the Online Library and in the ProQuest Collection. Find out how to search for the book. Mark as completed Dislike Report an issue

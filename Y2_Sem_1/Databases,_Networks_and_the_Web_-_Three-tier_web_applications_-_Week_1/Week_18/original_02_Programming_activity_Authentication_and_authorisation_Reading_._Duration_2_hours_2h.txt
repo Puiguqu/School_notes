@@ -1,0 +1,8 @@
+# Programming activity: Authentication and authorisation
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/YdggL/programming-activity-authentication-and-authorisation
+
+In this lab activity, you will implement session management in your Node.js application to enable authentication and authorisation functionality. Please download the following PDF and follow the instructions for this lab activity: 25_Authentication_and_authorisation.pdf PDF File Programming activity: Authentication and authorisation In this lab activity, you will implement session management in your Node.js application to enable authentication and authorisation functionality. Please download the following PDF and follow the instructions for this lab activity: 25_Authentication_and_authorisation.pdf PDF File Mark as completed Dislike Report an issue

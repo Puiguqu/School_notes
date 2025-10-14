@@ -1,0 +1,8 @@
+# Programming activity: POST – collecting form data
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/rXhwF/programming-activity-post-collecting-form-data
+
+In this lab activity, you will explore how to collect data from your existing form using the ‘POST’ request method. Please download the following PDF and follow the instructions for this lab activity: 10_POST-Collecting-forms-data.pdf PDF File Programming activity: POST – collecting form data In this lab activity, you will explore how to collect data from your existing form using the ‘POST’ request method. Please download the following PDF and follow the instructions for this lab activity: 10_POST-Collecting-forms-data.pdf PDF File Mark as completed Dislike Report an issue

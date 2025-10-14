@@ -1,0 +1,40 @@
+# Introduction to the TCP/IP model
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/HEeVP/introduction-to-the-tcp-ip-model
+
+Here is a summary of the introduction to the TCP/IP model:
+
+**What is TCP/IP?**
+
+TCP/IP (Transmission Control Protocol/Internet Protocol) is a suite of communication protocols used to interconnect network devices on the internet.
+
+**What is the TCP/IP Model?**
+
+The TCP/IP model is a conceptual framework that divides the data transmission process into four layers: Application, Transport, Network, and Link. Each layer has specific responsibilities and tasks.
+
+**Layers of the TCP/IP Model**
+
+1. **Application Layer**: This layer provides services to end-user applications, such as email, file transfer, and web browsing.
+2. **Transport Layer**: This layer ensures reliable data transfer between devices, using protocols such as TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+3. **Network Layer**: This layer routes data between networks, using protocols such as IP (Internet Protocol).
+4. **Link Layer**: This layer manages the physical connection between devices, using protocols such as Ethernet or Wi-Fi.
+
+**How Data is Passed Through the TCP/IP Model**
+
+When a user sends data to another device on the internet, it follows this path:
+
+1. Application Layer: The application layer breaks down the data into smaller segments.
+2. Transport Layer: The transport layer adds headers and footers to each segment, ensuring reliable delivery.
+3. Network Layer: The network layer routes the data between networks using IP addresses.
+4. Link Layer: The link layer manages the physical connection between devices.
+
+**Key Concepts**
+
+* Segments vs. Packets: The application layer breaks down data into segments, which are then passed to the transport layer as packets.
+* Headers and Footers: Each layer adds headers and footers to each segment or packet to ensure reliable delivery.
+* IP Addresses: IP addresses are used to route data between networks.
+
+This is just a brief introduction to the TCP/IP model. Later in this topic, we will delve deeper into each layer of the model, exploring its responsibilities, protocols, and examples.

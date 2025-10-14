@@ -1,0 +1,36 @@
+# 9.101 Plan for the WaveformDisplayComponent
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/KQEok/9-101-plan-for-the-waveformdisplaycomponent
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses creating a new waveform display component for a DJ application.
+2. The DeckGUI class is currently used to embed pre-made components, including buttons and sliders.
+3. A new class, WaveformDisplayComponent, will be created to add sophisticated behavior to the application.
+4. The waveforms display component will use the AudioThumbnail class from the JUCE toolkit.
+5. The audio thumbnail is used to display the waveform of an audio file.
+6. To draw the waveform, a ChangeListener must be implemented to notify the component when the audio file changes.
+7. A post-video quiz and practice assignment are assigned for Week 9.
+8. The WaveformDisplayComponent should create a new instance of AudioThumbnail in its constructor.
+9. The constructor should initialize the thumbnail with the correct audio file data.
+10. The ChangeListener must be implemented to draw the waveform automatically when the audio file changes.
+11. The drawing process involves updating the GUI components and refreshing the display.
+12. A starter code for the WaveformDisplayComponent is provided, including a cmake build file.
+13. The code should include the necessary libraries and frameworks for creating GUI components.
+14. The audio thumbnail component must be initialized with the correct data before it can be used.
+15. The ChangeListener must listen to changes in the audio file and update the display accordingly.
+16. The drawing process involves rendering the waveform on the GUI, which may require graphics programming skills.
+17. A lesson worksheet is provided for further review of the WaveformDisplayComponent implementation.
+18. Refactoring and class design are discussed as part of improving the application's architecture.
+19. The DeckGUI and DJAudioPlayer classes should be refactored to improve modularity and maintainability.
+20. Initialiser lists, constructors, and threads are covered in a separate topic.
+21. A plan for the WaveformDisplayComponent is outlined in detail, including code snippets and examples.
+22. A post-video quiz and practice assignment are assigned for Week 17.
+23. The audio thumbnail component must be designed to work seamlessly with the rest of the application.
+24. Advanced class and user interfaces, such as TableListBox and TableListBoxModel, may be used to enhance the application's functionality.
+25. The WaveformDisplayComponent should provide a clear and intuitive interface for users to interact with the waveform display.
+
+Note that this summary is based on the provided transcript and may not be exhaustive or include all the details present in the original text.

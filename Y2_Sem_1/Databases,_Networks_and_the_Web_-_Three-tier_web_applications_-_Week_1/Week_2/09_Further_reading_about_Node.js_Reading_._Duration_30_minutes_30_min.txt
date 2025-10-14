@@ -1,0 +1,8 @@
+# Further reading about Node.js
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/p1J2h/further-reading-about-node-js
+
+When you have completed this topic, if you would like to read more detail about Node.js, we recommend the following readings. Please note that because these are supplemental readings, we are unable to guarantee they are available in our Online Library. Krause, J. Programming web applications with Node, Express and Pug. (New York, NY: Apress Media LLC, 2017). [ISBN 9781484225110] Chapter 3: Introduction to Node, pp.15–46. You can refer to this chapter throughout Topics 2–4. OpenJS Foundation ‘ Ab...

@@ -1,0 +1,8 @@
+# Programming activity: Create, modify and run Node files
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/18E3C/programming-activity-create-modify-and-run-node-files
+
+In this lab activity, you will become familiar with the Explorer, Terminal and Editor sections of the ‘Visual Studio Code’ environment. Please download the following PDF and follow the instructions for this lab activity: 01_Create-modify-and-run-Node-files.pdf PDF File Programming activity: Create, modify and run Node files In this lab activity, you will become familiar with the Explorer, Terminal and Editor sections of the ‘Visual Studio Code’ environment. Please download the following PDF and follow the instructions for this lab activity: 01_Create-modify-and-run-Node-files.pdf PDF File Mark as completed Dislike Report an issue

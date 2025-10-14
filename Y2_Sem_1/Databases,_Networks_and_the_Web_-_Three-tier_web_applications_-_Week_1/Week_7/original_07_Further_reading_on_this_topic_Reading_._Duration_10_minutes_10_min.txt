@@ -1,0 +1,8 @@
+# Further reading on this topic
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/cgmze/further-reading-on-this-topic
+
+When you have completed this topic, if you would like to learn about the capabilities of EJS, read this documentation, which is quite concise and worth reviewing. Please note that because this is a supplemental reading, we are unable to guarantee it is available in our Online Library. EJS ‘ Embedded JavaScript templating ’ (n.d.). Look at the following sections: Tags Includes Layouts. Further reading on this topic When you have completed this topic, if you would like to learn about the capabilities of EJS, read this documentation, which is quite concise and worth reviewing. Please note that because this is a supplemental reading, we are unable to guarantee it is available in our Online Library. EJS ‘ Embedded JavaScript templating ’ (n.d.). Look at the following sections: Tags Includes Layouts. Mark as completed Dislike Report an issue

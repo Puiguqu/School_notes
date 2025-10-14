@@ -1,0 +1,57 @@
+# Defining our first class: OrderBookEntry
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/wZAZQ/defining-our-first-class-orderbookentry
+
+Here is a summary of the code snippet provided:
+
+**Class Definition**
+
+The code defines a class called `OrderBookEntry` that represents an order book entry.
+```c
+class OrderBookEntry {
+public:
+    // Constructor to initialize the object
+    OrderBookEntry(const std::string& symbol, double price, int quantity) 
+        : symbol_(symbol), price_(price), quantity_(quantity) {}
+
+    // Destructor to clean up resources
+    ~OrderBookEntry() {}
+
+    // Member variables
+    std::string symbol_;
+    double price_;
+    int quantity_;
+
+    // Function to get the order book entry details
+    void printDetails() {
+        std::cout << "Symbol: " << symbol_ << ", Price: " << price_ << ", Quantity: " << quantity_ << std::endl;
+    }
+};
+```
+**Explanation**
+
+* The class `OrderBookEntry` has three member variables: `symbol_`, `price_`, and `quantity_`.
+* The constructor takes three parameters: `symbol`, `price`, and `quantity`. It initializes the member variables with these values.
+* The destructor is empty, as there are no resources to clean up.
+* The `printDetails()` function prints out the details of the order book entry.
+
+**Example Usage**
+
+To use this class, you can create an instance of it like this:
+```c
+int main() {
+    OrderBookEntry entry("AAPL", 100.0, 10);
+    entry.printDetails();
+    return 0;
+}
+```
+This would output: `Symbol: AAPL, Price: 100, Quantity: 10`
+
+**Notes**
+
+* The class uses a constructor to initialize the object with values.
+* The class does not have any member functions that modify its state.
+* The class is designed to be used as a simple data structure to represent an order book entry.

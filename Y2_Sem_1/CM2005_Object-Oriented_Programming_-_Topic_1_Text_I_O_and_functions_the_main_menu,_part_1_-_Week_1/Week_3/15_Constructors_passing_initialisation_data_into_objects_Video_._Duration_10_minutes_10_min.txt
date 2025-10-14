@@ -1,0 +1,49 @@
+# Constructors: passing initialisation data into objects
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/TinWu/constructors-passing-initialisation-data-into-objects
+
+The instructor is discussing constructors and passing initialisation data into objects.
+
+The instructor explains that a constructor is a special member function of a class that is called when an object is created from that class. The constructor takes initialisation data as arguments, which are used to initialize the member variables of the object.
+
+The instructor provides an example of a class `OrderBookEntry` and its constructor:
+```
+class OrderBookEntry {
+public:
+  OrderBookEntry(const std::string& symbol, double price, int quantity)
+    : symbol_(symbol), price_(price), quantity_(quantity) {}
+private:
+  std::string symbol_;
+  double price_;
+  int quantity_;
+};
+```
+The instructor explains that the constructor `OrderBookEntry` takes three arguments: `symbol`, `price`, and `quantity`. These arguments are used to initialize the member variables `symbol_`, `price_`, and `quantity_` of the object.
+
+The instructor then shows an example of how to create an instance of the `OrderBookEntry` class and pass initialisation data to its constructor:
+```
+int main() {
+  OrderBookEntry entry("AAPL", 100.0, 10);
+  return 0;
+}
+```
+In this example, the `main` function creates an instance of the `OrderBookEntry` class and passes the arguments `"AAPL"`, `100.0`, and `10` to its constructor.
+
+The instructor also explains that the initialisation list in the constructor is used to specify the member variables that need to be initialized when the object is created. The initialisation list is a list of member variable names separated by commas, without any parentheses:
+```
+OrderBookEntry(const std::string& symbol, double price, int quantity)
+  : symbol_(symbol), price_(price), quantity_(quantity) {}
+```
+This initialisation list can be used to initialize the member variables of the object before they are accessed in the constructor body.
+
+Finally, the instructor explains that constructors can also be used to provide a default value for an argument. For example:
+```
+OrderBookEntry(const std::string& symbol = "Unknown", double price = 0.0, int quantity = 0)
+  : symbol_(symbol), price_(price), quantity_(quantity) {}
+```
+In this example, the `OrderBookEntry` constructor takes three arguments: `symbol`, `price`, and `quantity`. The `symbol` argument has a default value of `"Unknown"`, and the `price` and `quantity` arguments have default values of `0.0` and `0`, respectively.
+
+Overall, constructors are an important part of object-oriented programming in C++. They provide a way to initialize objects when they are created and can be used to customize the behavior of classes.

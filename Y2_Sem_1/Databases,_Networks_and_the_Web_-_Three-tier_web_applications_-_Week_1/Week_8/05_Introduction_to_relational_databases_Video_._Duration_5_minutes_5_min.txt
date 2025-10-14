@@ -1,0 +1,36 @@
+# Introduction to relational databases
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/iuAox/introduction-to-relational-databases
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. Relational databases were developed to solve the problem of storing data in linear files.
+2. Linear files were long lists of tab-delimited files, making it difficult to look up and retrieve sets of related data quickly.
+3. The relational model was designed to make this process simpler and quicker by organizing data into tables that relate to each other.
+4. A relational database presents data as a collection of tables where all data relationships are represented by common values in related tables.
+5. Each type of object or entity is represented by a table in a relational database.
+6. Object corresponds to real-world objects or entities, such as customers, products, students, universities, etc.
+7. A relational database breaks up a list into several parts where each information theme or business concept is stored in its own table with a unique name.
+8. For example, the newspaper's article list might be divided into an article table and an author table.
+9. In relational databases, table rows are referred to as records, and columns are called fields.
+10. Each column represents different attributes of an entity, while each row represents an instance of the entity.
+11. The relationship between tables is established by common fields in tables.
+12. This eliminates data redundancy because information about each author is only recorded in the authors table and not replicated in the article table.
+13. The insertion, update, and deletion problems are also addressed in relational databases.
+14. A database management system (DBMS) is a software system used to create, maintain, and provide controlled access to user databases.
+15. Popular DBMSs for relational databases include MySQL, PostgreSQL, Microsoft SQL Server, and Oracle.
+16. SQL (Structured Query Language) is a database processing language designed to access and query data managed by relational database management systems.
+17. MySQL is a free and open-source relational DBMS based on SQL.
+18. The lecture discusses the concept of relational databases and their importance in storing and managing data effectively.
+19. The relational model was developed to solve the problem of storing data in linear files, which were long lists of tab-delimited files.
+20. The relational database model organizes data into tables that relate to each other, making it easier to manage and retrieve data quickly.
+21. Each table represents a type of object or entity, such as customers, products, students, universities, etc.
+22. The relationship between tables is established by common fields in tables, eliminating data redundancy and solving the insertion, update, and deletion problems.
+23. A DBMS provides controlled access to user databases, ensuring data security and integrity.
+24. SQL is a powerful language used to access and query data managed by relational database management systems.
+25. The lecture concludes by emphasizing the importance of relational databases in storing and managing data effectively.
+
+Note: I did not include any links or technical details that are not essential to understanding the main concepts of relational databases, as per your request.

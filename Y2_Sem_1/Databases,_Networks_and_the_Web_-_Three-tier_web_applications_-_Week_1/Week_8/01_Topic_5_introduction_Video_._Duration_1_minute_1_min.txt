@@ -1,0 +1,28 @@
+# Topic 5 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/nug3j/topic-5-introduction
+
+Unfortunately, the provided text does not contain any specific information about databases, lists, or modification issues. It appears to be a transcript of an introductory video on topics 5 and 9, which seem to be part of a larger course on web development.
+
+However, based on the context and structure of the transcript, I can provide a summary of the general topics that are likely to be covered:
+
+1. Introduction to databases: The first topic will introduce the concept of databases, their history, and how they replaced the use of files to store data.
+2. Lists of data: A section on lists of data will discuss modification issues related to storing data in lists, including how to handle duplicate entries and update existing records.
+3. Relational databases: The next topic will introduce relational databases, which are a type of database that stores data in tables with relationships between them. This topic will cover the basics of relational databases, including how to create and manage tables, insert records, and perform queries using SQL.
+4. Basic database operations: Subsequent topics will focus on basic database operations, such as providing access to databases from middleware, creating tables, inserting records, and performing queries.
+5. Database design: A section on database design will cover the process of designing a database schema, including how to create relationships between tables and define data types.
+6. Advanced database operations: Later topics will delve into more advanced database operations, such as security measures and networking concepts.
+7. Security: The final topic will focus on security measures for databases, including encryption and access control.
+
+Some key concepts that are likely to be covered include:
+
+* SQL (Structured Query Language) and its use in relational databases
+* Data modeling and database design principles
+* Database normalization and denormalization techniques
+* Relational database operations such as SELECT, INSERT, UPDATE, and DELETE
+* Security measures for databases, including encryption and access control
+
+Unfortunately, without more specific information about the content of each topic, it is difficult to provide a more detailed summary.

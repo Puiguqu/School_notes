@@ -1,0 +1,26 @@
+# 8.105 What do we want in our DJAudioPlayer interface?
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/7QeFT/8-105-what-do-we-want-in-our-djaudioplayer-interface
+
+It appears that the provided transcript is a series of video lessons and accompanying materials for an object-oriented programming course, specifically focusing on the JUCE (Jules' Utility Class Extensions) toolkit. The lessons cover topics such as file input/output, functions, classes, variables, exception handling, algorithms, event-driven programming, inheritance, and more.
+
+The specific transcript provided seems to be from Week 8 Topic 4: "Writing and testing an algorithm: taking orders and the order matching engine, part 2." However, it does not appear to contain any direct content related to the topic of file I/O, functions, or classes. Instead, it provides a brief introduction to the DJ application and the JUCE toolkit.
+
+To provide a more accurate response, here is a summary of the main topics covered in the provided transcript:
+
+* Week 1: Introduction to Topic 1 (I/O and Functions)
+* Week 2: Continued Topics 1
+* Week 3: Using Classes and Variables to Model Data (OrderBookEntry class)
+* Week 4: Continued OrderBookEntry Class
+* Week 5-6: File I/O, Exception Handling, and Algorithms (CSVReader class)
+* Week 7-8: Writing and Testing Algorithms (taking orders and order matching engine)
+* Week 9: Object Interactions (Wallet class)
+* Week 10: Assessment
+* Week 11-12: Introducing the DJ Application and JUCE Toolkit
+* Week 13-14: Event-driven Programming and Inheritance (buttons, sliders, and audio)
+* Week 15: Refactoring and Class Design (DeckGUI and DJAudioPlayer classes)
+
+These topics cover a wide range of object-oriented programming concepts, including file I/O, functions, classes, variables, exception handling, algorithms, event-driven programming, inheritance, and more.

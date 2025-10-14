@@ -1,0 +1,10 @@
+# Foreign keys and SQL JOIN
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/wVVrl/foreign-keys-and-sql-join
+
+Unfortunately, the provided text is incomplete and does not contain any information that can be summarized. The text appears to be a link to a specific reading in a book titled "The relational data model" by Hoffer, Venkataraman and Topi, but it does not provide any content or key information about foreign keys in relational databases.
+
+If you could provide the complete text or more context, I would be happy to assist you in summarizing it.

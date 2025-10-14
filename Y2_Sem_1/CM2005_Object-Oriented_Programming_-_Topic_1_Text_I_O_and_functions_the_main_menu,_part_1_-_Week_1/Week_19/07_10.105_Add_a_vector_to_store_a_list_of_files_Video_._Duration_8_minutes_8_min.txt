@@ -1,0 +1,26 @@
+# 10.105 Add a vector to store a list of files
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/WSOZ1/10-105-add-a-vector-to-store-a-list-of-files
+
+This appears to be a transcript of a video lecture on object-oriented programming (OOP) and its application in C++ development. The topic is "Using classes and variables to model data: the OrderBookEntry class, part 1".
+
+The speaker starts by explaining that OOP is a way of organizing code into objects that have properties (variables) and behaviors (functions). They introduce the concept of encapsulation, which is the idea of bundling data and methods that operate on that data into a single unit.
+
+The speaker then explains how to create a class in C++, using the `class` keyword. They provide an example of a simple class called `OrderBookEntry`, which has two variables: `symbol` (a string) and `price` (a float).
+
+Next, the speaker explains how to define functions within a class, using the `function()` syntax. They show examples of functions that add, subtract, multiply, and divide numbers, and explain how these functions can be used to perform calculations on the variables in the `OrderBookEntry` class.
+
+The speaker then introduces the concept of inheritance, which is the ability of one class to inherit properties and behaviors from another class. They explain how a new class can inherit from an existing class using the `:` symbol, and provide examples of classes that inherit from each other.
+
+Finally, the speaker provides some code snippets that demonstrate how to use these concepts in practice. They show how to create instances of the `OrderBookEntry` class, and how to use functions and variables within that class to perform calculations and operations.
+
+The transcript also includes some additional content, such as:
+
+* A discussion on the importance of encapsulation and inheritance in OOP
+* Examples of file listing and searching GUIs (Graphical User Interfaces)
+* A starter code for Topic 10
+
+Overall, this transcript appears to be a comprehensive introduction to OOP concepts and their application in C++ development.

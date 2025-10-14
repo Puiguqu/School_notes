@@ -1,0 +1,25 @@
+# Read a line from the user, part 1
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/7IC52/read-a-line-from-the-user-part-1
+
+It appears that you have provided a transcript of an educational video or course material related to C++ programming and data structures, specifically dealing with user input and interaction.
+
+The main topic of the video is about reading a line from the user, which involves understanding the standard input/output functions in C++. The instructor explains how to use `std::getline` to read a line from the user and store it in a string variable.
+
+However, there is also a section on handling exceptions that occur when reading from the standard input. In this case, the instructor demonstrates how to handle an exception that occurs when the user enters invalid data, such as a non-numeric value.
+
+The instructor then shows how to write a more robust version of the code that includes error checking and handling for potential exceptions. They demonstrate how to use `std::cin` to read from the standard input and how to check if the input operation was successful.
+
+Overall, the video covers important concepts related to reading user input in C++ and provides guidance on how to handle common errors that may occur during this process.
+
+Here's a high-level outline of the main topics covered:
+
+1. Reading a line from the user using `std::getline`.
+2. Handling exceptions that occur when reading from the standard input.
+3. Writing more robust code with error checking and handling for potential exceptions.
+4. Using `std::cin` to read from the standard input and checking if the input operation was successful.
+
+The instructor's goal is to provide a comprehensive understanding of how to handle user input in C++ and to equip students with the skills needed to write robust and efficient code that can handle various errors and edge cases.

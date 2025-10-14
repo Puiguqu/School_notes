@@ -1,0 +1,8 @@
+# Topic 8 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/BLfpp/topic-8-summary
+
+In this topic you have learned about more advanced SQL querying in relational databases, including: aggregate functions such as MIN, MAX, COUNT and SUM querying multiple tables in relational databases by LEFT and RIGHT JOIN the differences between JOIN, LEFT JOIN and RIGHT JOIN querying relational databases by nested SELECT or SELECT in SELECT queries. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts yo...

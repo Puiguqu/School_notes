@@ -1,0 +1,10 @@
+# Install a professional IDE
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/GHmBr/install-a-professional-ide
+
+There is not enough text to summarize. The provided text is a snippet of a conversation and does not contain any meaningful information about C++ or programming tools. It appears to be a prompt for a video series on learning professional integrated development environments (IDEs).
+
+If you could provide the full text, I would be happy to assist you in summarizing it into 25 sentences, preserving key information, formulae, links, and technical details.

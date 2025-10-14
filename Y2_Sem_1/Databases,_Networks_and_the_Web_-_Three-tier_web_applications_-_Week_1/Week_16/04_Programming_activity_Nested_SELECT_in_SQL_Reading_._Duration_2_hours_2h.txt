@@ -1,0 +1,8 @@
+# Programming activity: Nested SELECT in SQL
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/3R3V3/programming-activity-nested-select-in-sql
+
+In this lab activity you will explore how to use nested ‘SELECT’ statements in your database. Please download the following PDF and follow the instructions for this lab activity: 23_Nested-select-in-SQL.pdf PDF File Programming activity: Nested SELECT in SQL In this lab activity you will explore how to use nested ‘SELECT’ statements in your database. Please download the following PDF and follow the instructions for this lab activity: 23_Nested-select-in-SQL.pdf PDF File Mark as completed Dislike...

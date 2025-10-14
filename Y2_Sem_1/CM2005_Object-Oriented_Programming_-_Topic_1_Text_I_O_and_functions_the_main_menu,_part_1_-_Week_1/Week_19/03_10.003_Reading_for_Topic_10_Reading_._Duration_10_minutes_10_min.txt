@@ -1,0 +1,14 @@
+# 10.003 Reading for Topic 10
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/TGSDJ/10-003-reading-for-topic-10
+
+There are no key information, formulae, links, or technical details in the provided text. The text appears to be a brief introduction to a JUCE programming topic and includes:
+
+* A mention of the 'new' keyword and pointers in C++
+* A reference to a textbook for further reading on pointers and dynamic memory allocation
+* An invitation to access the Online Library where essential reading materials can be found
+
+There is no specific data or technical information presented in the text. Therefore, it's not possible to summarize the text in 25 sentences while preserving all key information, formulae, links, and technical details.

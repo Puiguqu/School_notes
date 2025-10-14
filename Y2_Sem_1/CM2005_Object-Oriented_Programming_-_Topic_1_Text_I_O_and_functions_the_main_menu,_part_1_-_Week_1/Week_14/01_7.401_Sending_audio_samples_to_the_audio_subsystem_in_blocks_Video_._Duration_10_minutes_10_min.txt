@@ -1,0 +1,64 @@
+# 7.401 Sending audio samples to the audio subsystem in blocks
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/4hq8w/7-401-sending-audio-samples-to-the-audio-subsystem-in-blocks
+
+This appears to be a transcript of a video lecture on object-oriented programming and audio processing using the JUCE (Jules' Utility Class Extensions) framework.
+
+The video lecture covers several topics, including:
+
+1. Introduction to I/O and functions: The main menu
+2. Using classes and variables to model data: The OrderBookEntry class
+3. File I/O, exception handling, and algorithms: The CSVReader class
+4. Writing and testing an algorithm: Taking orders and the order matching engine
+5. Object interactions: The wallet class
+6. Introducing the DJ application and the JUCE toolkit
+7. Event-driven programming and inheritance: Buttons, sliders, and audio
+8. Advanced class and user interfaces: Using TableListBox and TableListBoxModel
+
+The lecture also covers various JUCE-specific topics, such as:
+
+1. Sending audio samples to the audio subsystem in blocks
+2. Realtime sound synthesis in JUCE
+3. Implementing audio file playback using a hard-coded audio file
+4. Adding a file chooser and load any file
+5. Working with the library classes
+
+The lecture is divided into 20 video segments, each with its own title and duration.
+
+Here's an outline of the topics covered:
+
+**Weeks 1-10:**
+
+* Introduction to object-oriented programming and JUCE
+* I/O and functions: The main menu
+* Using classes and variables to model data: The OrderBookEntry class
+* File I/O, exception handling, and algorithms: The CSVReader class
+* Writing and testing an algorithm: Taking orders and the order matching engine
+* Object interactions: The wallet class
+
+**Weeks 11-15:**
+
+* Event-driven programming and inheritance: Buttons, sliders, and audio
+* Refactoring and class design: The DeckGUI and DJAudioPlayer classes
+* Initialiser lists, constructors, and threads: The WaveformDisplay class
+* Advanced class and user interfaces: Using TableListBox and TableListBoxModel
+
+**Weeks 16-20:**
+
+* Sending audio samples to the audio subsystem in blocks
+* Realtime sound synthesis in JUCE
+* Implementing audio file playback using a hard-coded audio file
+* Adding a file chooser and load any file
+* Working with the library classes
+* Review of library classes
+
+**Additional Topics:**
+
+* Post-video quizzes
+* Practice assignments
+* Lesson worksheets
+
+The lecture is designed to provide hands-on experience with JUCE and object-oriented programming, while also covering various topics in audio processing and development.

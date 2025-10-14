@@ -1,0 +1,66 @@
+# 8.201 Polymorphism
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/Wy4FG/8-201-polymorphism
+
+Here is a transcript of the interactive session:
+
+**Instructor:** Welcome to Topic 8 on Refactoring and Class Design! Today, we're going to explore the refactoring process and how to design classes that are maintainable and efficient.
+
+**Student:** Hi, I'm new here. Can you start by explaining what polymorphism is?
+
+**Instructor:** Great question! Polymorphism is a fundamental concept in object-oriented programming where objects of different classes can be treated as if they were of the same class. This allows for more flexibility and generic code.
+
+**Student:** That makes sense. Can you give an example of how we might use polymorphism in our DJ application?
+
+**Instructor:** For instance, imagine we have a `Button` class that has multiple child classes like `PlayPauseButton`, `VolumeButton`, etc. We can use polymorphism to treat all these buttons as if they were of the same `Button` class.
+
+**Student:** Okay, got it! How do I implement polymorphism in our code?
+
+**Instructor:** Ah, great question! To implement polymorphism, we need to create a common base class that has the common attributes and methods. Then, we can create child classes that inherit from this base class and add their specific attributes and methods.
+
+**Student:** That sounds like a good plan. Can you show me an example of how we might do this?
+
+**Instructor:** Sure thing! Here's an example:
+```
+// Base class
+class Button {
+public:
+    virtual void press() = 0;
+};
+
+// Child classes
+class PlayPauseButton : public Button {
+public:
+    void press() override {
+        // implement play/pause functionality
+    }
+};
+
+class VolumeButton : public Button {
+public:
+    void press() override {
+        // implement volume control functionality
+    }
+};
+```
+**Student:** Ah, I see! So we create a base class `Button` and then create child classes like `PlayPauseButton` and `VolumeButton`. We use the `virtual` keyword to indicate that the `press()` method is intended to be overridden by child classes.
+
+**Instructor:** Exactly! Now, when we want to treat all buttons as if they were of the same class, we can use polymorphism. For example:
+```
+Button* button = new PlayPauseButton();
+button->press(); // calls the press() method in PlayPauseButton
+```
+**Student:** That's a great example! Thanks for explaining it so clearly.
+
+**Instructor:** You're welcome! I'm glad I could help. Do you have any more questions about polymorphism or refactoring?
+
+**Student:** Actually, yes. How do we refactor our existing code to use polymorphism?
+
+**Instructor:** Ah, that's a great question! We'll cover that in the next lesson. But for now, let's take a practice assignment to reinforce your understanding of polymorphism.
+
+**Student:** Sounds good! I'm ready when you are.
+
+**Instructor:** Great! Let's get started on the practice assignment. Remember to work with the `Button` class and its child classes to implement polymorphism.

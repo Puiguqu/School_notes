@@ -1,0 +1,49 @@
+# How will we retrieve data from the user for an OrderBookEntry?
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/15LyE/how-will-we-retrieve-data-from-the-user-for-an-orderbookentry
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses how to collect data from users to create an Order Book Entry.
+2. To create an Order Book Entry, five pieces of data are needed: timestamp, order book type, product price, and amount.
+3. The simulation will provide the current time, which will be set as the timestamp for the order book entry.
+4. The user will choose whether to create a bid or ask, determining the order book type.
+5. Only a product price and amount are required from the user.
+6. A single string input is requested from the user, with values separated by commas.
+7. A CSV reader function will be used to process the user's input and handle exceptions.
+8. The CSV reader function will split the input string into an object representing the Order Book Entry.
+9. This approach simplifies the data collection process for users.
+10. The main menu plan is briefly explained, but not in detail.
+
+11. There are four practice assignments related to reading lines from users and making it robust.
+
+12. The code to insert an order into the order book will be discussed later in the video.
+
+13. A lesson worksheet allows students to place bids and asks while working on the project.
+
+14. Information about the matching algorithm is provided, but no specific details are given.
+
+15. Pseudocode for the matching algorithm is shown, followed by a conversion into C++ code.
+
+16. Testing will be performed to ensure the code works correctly.
+
+17. A post-video quiz assesses understanding of the material covered in the video.
+
+18. A lesson worksheet is provided for implementing the matching engine.
+
+19. The DJ application and JUCE toolkit are introduced in the next series of videos.
+
+20. Event-driven programming and inheritance will be discussed in subsequent lessons.
+
+21. The DeckGUI and DJAudioPlayer classes will be refactored and designed in a specific way.
+
+22. Initialiser lists, constructors, and threads are introduced as key concepts.
+
+23. Advanced class design using TableListBox and TableListBoxModel is covered in the next lesson.
+
+24. Coursework submission guidelines are provided for graded assignments.
+
+25. The final video transcript ends here, concluding the series of lessons on DJ programming.

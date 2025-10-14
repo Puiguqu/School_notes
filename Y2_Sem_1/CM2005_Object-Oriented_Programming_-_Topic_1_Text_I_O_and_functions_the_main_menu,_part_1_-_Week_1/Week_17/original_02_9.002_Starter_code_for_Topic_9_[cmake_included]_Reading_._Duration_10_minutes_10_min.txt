@@ -1,0 +1,8 @@
+# 9.002 Starter code for Topic 9 [cmake included]
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/8Y1Nj/9-002-starter-code-for-topic-9-cmake-included
+
+Please see below a link to the starter code for Topic 9. It should be close to the code you would have now, were you to have followed the worksheets from Topics 6–8 closely. You should be able to build off of this code in the worksheets in this topic. However, your codebase might have diverged as you have added customisations along the way, but you can still use this code as a reference point. OtoDecks_start_topic_9 ZIP File 9.002 Starter code for Topic 9 [cmake included] Please see below a link to the starter code for Topic 9. It should be close to the code you would have now, were you to have followed the worksheets from Topics 6–8 closely. You should be able to build off of this code in the worksheets in this topic. However, your codebase might have diverged as you have added customisations along the way, but you can still use this code as a reference point. OtoDecks_start_topic_9 ZIP File Mark as completed Dislike Report an issue

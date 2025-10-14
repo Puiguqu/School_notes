@@ -1,0 +1,8 @@
+# Programming activity: Passing database data to EJS templates
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/yv2rw/programming-activity-passing-database-data-to-ejs-templates
+
+In this lab activity you will explore how to access data from the database and pass it to an EJS template for displaying to a user. Please download the following PDF and follow the instructions for this lab activity: 16_Passing-database-data-to-EJS-templates.pdf PDF File Programming activity: Passing database data to EJS templates In this lab activity you will explore how to access data from the database and pass it to an EJS template for displaying to a user. Please download the following PDF a...

@@ -1,0 +1,39 @@
+# 7.207 Pure virtual functions forcing implementation: quick example
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/5PHQG/7-207-pure-virtual-functions-forcing-implementation-quick-example
+
+Here is a summary of the code example provided:
+
+**The Code**
+
+```cpp
+// Example of pure virtual functions forcing implementation
+class ButtonListener {
+public:
+    virtual void buttonPressed() = 0; // Pure virtual function
+};
+
+class MyButton : public ButtonListener { // Inheritance and implementation
+public:
+    void buttonPressed() override {
+        std::cout << "Button pressed!" << std::endl;
+    }
+};
+```
+
+**Explanation**
+
+In this example, we define a base class `ButtonListener` with a pure virtual function `buttonPressed()`. This function is declared as `void` and must be implemented by any derived classes.
+
+We then create a concrete class `MyButton` that inherits from `ButtonListener`. In the implementation of `MyButton`, we override the `buttonPressed()` function, providing our own implementation.
+
+By declaring `buttonPressed()` as a pure virtual function in `ButtonListener`, we are forcing any derived classes to implement this function. This is an example of how pure virtual functions can be used to ensure that certain methods are implemented by all derived classes.
+
+**Key Concepts**
+
+* Inheritance: The relationship between `ButtonListener` and `MyButton` where `MyButton` inherits from `ButtonListener`.
+* Pure virtual functions: A special type of function declared in a base class that must be implemented by any derived classes.
+* Polymorphism: The ability to treat objects of different types as if they were of the same type, demonstrated through the override of the `buttonPressed()` function in `MyButton`.

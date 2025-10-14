@@ -1,0 +1,41 @@
+# Module introduction
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/teVJ3/module-introduction
+
+Based on the provided transcript, it appears that this is an interactive coding tutorial or course, likely in C++ programming language. The content is organized into modules, each covering a specific topic.
+
+Here's a breakdown of the main topics and their corresponding module numbers:
+
+1. **Text I/O and functions: the main menu** (Module 1)
+2. **Using classes and variables to model data** (Modules 2-3)
+	* Class 1: OrderBookEntry
+	* Class 2: (Not specified in the transcript)
+3. **File I/O, exception handling, and algorithms** (Modules 4-5)
+	* Class 1: CSVReader
+	* Class 2: (Not specified in the transcript)
+4. **Writing and testing an algorithm** (Modules 6-7)
+	* Taking orders and the order matching engine
+5. **Object interactions** (Module 8)
+	* The wallet class
+6. **Introducing the DJ application and JUCE toolkit** (Modules 9-10)
+7. **Event-driven programming and inheritance** (Modules 11-12)
+	* Buttons, sliders, and audio
+8. **Refactoring and class design** (Modules 13-14)
+	* DeckGUI and DJAudioPlayer classes
+9. **Initialiser lists, constructors, and threads** (Modules 15-16)
+	* WaveformDisplay class
+10. **Advanced class and user interfaces** (Module 17)
+11. **Submission of coursework 2** (Graded assignment #2)
+
+Throughout the modules, there are various activities and assignments, including:
+
+1. Writing programs in C++
+2. Using classes and variables to model data
+3. Reading and understanding concepts (e.g., exception handling, algorithms)
+4. Completing exercises and quizzes
+5. Submitting graded assignments
+
+The course seems to be designed for learning C++ programming fundamentals, with a focus on practical applications and real-world examples (e.g., the DJ application).

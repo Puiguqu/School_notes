@@ -1,0 +1,8 @@
+# Database security
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/IpthD/database-security
+
+I don't see any text provided for me to summarize. The original text appears to be a link to a specific chapter in a book, but it doesn't contain any actual content. Can you please provide the text you'd like me to summarize? I'll do my best to preserve all key information, formulae, links, and technical details while focusing on the most important concepts and findings.

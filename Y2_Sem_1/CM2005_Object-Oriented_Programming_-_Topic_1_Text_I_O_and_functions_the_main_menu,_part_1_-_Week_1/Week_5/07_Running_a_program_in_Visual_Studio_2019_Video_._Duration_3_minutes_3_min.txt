@@ -1,0 +1,23 @@
+# Running a program in Visual Studio 2019
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/tolqu/running-a-program-in-visual-studio-2019
+
+Here is a summary of the interactive transcript for "Running a program in Visual Studio 2019":
+
+**Enable basic transcript mode**
+
+* Press the escape key to enable basic transcript mode.
+
+**Navigate through the transcript**
+
+* Use tab to navigate through the transcript.
+* To save a note for a section of text, press CTRL + S.
+* To expand your selection, use CTRL + arrow key.
+* To contract your selection, use shift + CTRL + arrow key.
+* For screen readers that are incompatible with using arrow keys for shortcuts, replace them with the H J K L keys.
+* Some screen readers may require using CTRL in conjunction with the alt key.
+
+Note: The transcript appears to be a tutorial or instructional guide on how to run a program in Visual Studio 2019.

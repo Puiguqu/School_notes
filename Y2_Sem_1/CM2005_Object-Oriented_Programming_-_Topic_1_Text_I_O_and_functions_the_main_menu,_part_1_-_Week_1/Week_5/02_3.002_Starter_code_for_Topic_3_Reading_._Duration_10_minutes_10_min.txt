@@ -1,0 +1,10 @@
+# 3.002 Starter code for Topic 3
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/sxmJx/3-002-starter-code-for-topic-3
+
+Unfortunately, you didn't provide any text to summarize. The provided "text" is a link to a starter code and some comments about using it.
+
+If you could provide the actual text or content you'd like me to summarize, I'll be happy to assist you in condensing it into 25 sentences while preserving key information, formulae, links, and technical details.

@@ -1,0 +1,42 @@
+# The programming assignment
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/OfL5M/the-programming-assignment
+
+Here are 25 sentences summarizing the text, preserving key information, formulae, links, and technical details:
+
+1. The programming assignment is a significant part of the module's assessment.
+2. It requires applying practical skills in designing and building working applications to consolidate understanding of concepts.
+3. The assignment asks students to build a working web application using Node.js Express EJS SQLite.
+4. The module instructions and labs will utilize Node.js Express EJS, while providing guidance on SQLite usage.
+5. For the database, SQLite is recommended instead of MySQL due to its ease of submission and assessment.
+6. SQLite is similar to MySQL, with the assignment providing guidance for its use.
+7. A basic template application will be provided as a starting point for students.
+8. Written instructions detailing business requirements will also be provided for the assignment.
+9. The application should include multiple web pages and forms for user input and data viewing on the SQLite database.
+10. Marks will be awarded based on:
+    * Successfully implementing required functionality
+    * Application quality from a user perspective
+    * Code quality
+    * Architecture and design quality
+    * Documentation quality
+    * Ambition of work
+11. The programming assignment is estimated to take around 20 hours to complete.
+12. To prepare for the assignment, students should:
+    * Complete all labs
+    * Explore beyond lab ideas with their own initiatives
+13. Mid-term instructions will be made available a few weeks into the session.
+14. The module aims to develop practical skills in web development and application design.
+15. Node.js is used as the server-side technology for the application.
+16. Express is used as the framework for building the application.
+17. EJS (Embedded JavaScript) is used for templating and rendering HTML pages.
+18. SQLite is a self-contained database that does not require a separate server process.
+19. The assignment requires students to design and implement a robust web application with proper security measures.
+20. Code organization, commenting, and documentation are essential aspects of the assignment.
+21. Students should focus on delivering high-quality code with minimal errors and bugs.
+22. The assignment will assess students' ability to work with various technologies and frameworks.
+23. Effective communication and collaboration skills are also valued in the assignment.
+24. Students are encouraged to explore and implement innovative ideas within the constraints of the assignment.
+25. The programming assignment is a critical component of the module's assessment, and students should plan accordingly.

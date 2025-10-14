@@ -1,0 +1,8 @@
+# 8.002 Starter code for Topic 8 [cmake included]
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/IQKIZ/8-002-starter-code-for-topic-8-cmake-included
+
+Please find below the starter code for Topic 8. You can work from this code, or you can work from the code you have been developing in the worksheets. If you get really stuck, it might be worth skipping to this code, for example. Note that there might be very slight variations between the code resulting from the worksheets and this code. You might have to rename a variable here and there. We normally point this out in the worksheets. OtoDecks_start_topic_8 ZIP File 8.002 Starter code for Topic 8 [cmake included] Please find below the starter code for Topic 8. You can work from this code, or you can work from the code you have been developing in the worksheets. If you get really stuck, it might be worth skipping to this code, for example. Note that there might be very slight variations between the code resulting from the worksheets and this code. You might have to rename a variable here and there. We normally point this out in the worksheets. OtoDecks_start_topic_8 ZIP File Mark as completed Dislike Report an issue

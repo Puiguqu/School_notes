@@ -1,0 +1,36 @@
+# Validation and sanitisation
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/6PAfj/validation-and-sanitisation
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. Web forms are prone to various risks and issues, including poor data entry, injection attacks, and SQL injection.
+2. A malicious user can inject client-side JavaScript code into a web form, which is then executed by the browser, potentially causing harm.
+3. Cross-site scripting (XSS) attacks involve injecting malicious code into a web form, which is then executed by the browser.
+4. Session hijacking involves stealing a user's cookies and using them to impersonate that user.
+5. Credential theft can be achieved through injection attacks, such as phishing or key login code injection.
+6. SQL injection involves injecting malicious SQL code into a database query, potentially causing catastrophic effects on the database.
+7. Validation with Express Validator checks data entered into a form on the server-side, ensuring that it conforms to certain rules and formats.
+8. The Express Validator module can be installed using NPM Install Express Validator from a terminal.
+9. Sanitization involves cleaning up form inputs to remove malicious scripts or code.
+10. The Express Sanitizer module can be installed using NPM Install Express Sanitizer from a terminal.
+11. Sanitization should be used in conjunction with validation to ensure that user input is both valid and safe.
+12. Validation and sanitization are essential techniques for protecting web applications against injection attacks and other malicious activities.
+13. By implementing these techniques, developers can significantly reduce the risk of security breaches and improve the overall security posture of their application.
+14. The importance of validation and sanitization cannot be overstated, as they provide a crucial layer of protection against malicious user input.
+15. Developers should prioritize validation and sanitization in their development workflow to ensure that their applications are secure and reliable.
+16. The use of Express Validator and Sanitizer modules can help simplify the process of implementing these techniques, making it easier for developers to get started.
+17. By combining validation and sanitization with other security measures, such as input encoding and error handling, developers can create a robust and secure application.
+18. Validation and sanitization are essential skills for any developer looking to improve their application's security posture.
+19. The ability to implement these techniques effectively is critical for ensuring the security and reliability of web applications.
+20. Developers should strive to understand the importance of validation and sanitization, as well as how to implement them in a practical and effective way.
+21. By investing time and effort into learning about validation and sanitization, developers can significantly improve their application's security and reduce the risk of security breaches.
+22. The use of validation and sanitization can help prevent common web application vulnerabilities, such as SQL injection and cross-site scripting attacks.
+23. Developers should be aware of the importance of input validation and sanitization in preventing these types of attacks.
+24. By prioritizing validation and sanitization, developers can create applications that are more secure, reliable, and resilient to malicious activities.
+25. In conclusion, validation and sanitization are essential techniques for protecting web applications against injection attacks and other malicious activities, and should be a top priority for any developer looking to improve their application's security posture.
+
+Note: The text does not provide specific formulas or mathematical equations, but rather focuses on technical concepts and best practices related to web application security.

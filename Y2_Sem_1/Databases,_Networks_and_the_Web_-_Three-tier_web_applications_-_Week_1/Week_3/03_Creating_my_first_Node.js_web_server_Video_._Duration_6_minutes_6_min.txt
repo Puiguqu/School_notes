@@ -1,0 +1,36 @@
+# Creating my first Node.js web server
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/JHNKx/creating-my-first-node-js-web-server
+
+Here is a summary of the text in 25 sentences:
+
+1. The lab activity involved creating a web server and navigating through it to understand how HTTP works.
+2. In an HTTP conversation, there is a client (usually a computer running a web browser) and a server (software running on a computer).
+3. The client sends an HTTP request to the server with a URL, which requests a specific resource from the server.
+4. The server processes the request and sends back an HTTP response containing the requested resource.
+5. The response is received by the client and rendered in the browser.
+6. In this lab activity, the computer was playing the role of an internet-facing web server for the labs.
+7. When a user typed in a URL into their browser, it sent an HTTP request to the web application.
+8. The web application handled the request and performed some methods on the response object.
+9. These methods set the response code to 200, content type to text/plain, and sent the contents of the response as "hello world".
+10. The client received the response and saw only the contents of the response in the browser.
+11. However, other information such as status code and content type was also sent back but not visible in the browser.
+12. To see this information, one can use the developer tools in the browser.
+13. In Chrome, going to "More Tools" > "Developer Tools" allows access to the network tab.
+14. The network tab shows the network traffic coming from the web server to the client.
+15. Refreshing the page shows the resource called "localhost" was sent back with a status code of 200 and content type text/plain.
+16. If a different resource is requested, such as putting "abc" in the URL, the request goes to the web server but the response remains the same ("hello world").
+17. This is because the web server is always doing the same thing and sending back the same response.
+18. In future labs, we will learn how to send back different responses when different resources are requested.
+19. To create a Node.js web server, one needs to use the `create-server` function and pass an anonymous function as a parameter.
+20. This anonymous function performs methods on the response object to set the response code, content type, and send the contents of the response.
+21. The `create-server` function returns an HTTP server that can be used to handle incoming requests.
+22. To create a new Node.js web server, one needs to use the `http.createServer()` method or `express.createServer()`.
+23. Express is a popular framework for building web applications with Node.js.
+24. In future labs, we will learn about Express and how to build web applications using it.
+25. The goal of this lab activity is to understand the basics of HTTP, creating a web server, and sending responses in Node.js.
+
+Note: I've omitted some details from the original text to condense it into 25 sentences while maintaining the main points.

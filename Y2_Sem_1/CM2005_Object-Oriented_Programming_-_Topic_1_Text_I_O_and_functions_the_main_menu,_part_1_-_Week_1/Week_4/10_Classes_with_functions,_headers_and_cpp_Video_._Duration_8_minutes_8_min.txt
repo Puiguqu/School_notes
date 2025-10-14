@@ -1,0 +1,97 @@
+# Classes with functions, headers and cpp
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/CXIef/classes-with-functions-headers-and-cpp
+
+Here is a step-by-step explanation of the code:
+
+**Code Explanation**
+
+The provided code snippet demonstrates how to create a simple class `OrderBookEntry` that represents an order book entry. The class has several member variables, including `symbol`, `price`, and `volume`. It also has two functions: `init()` and `load()`. The `init()` function initializes the member variables with default values, while the `load()` function reads data from a CSV file and populates the member variables.
+
+Here is the code:
+```cpp
+#include <iostream>
+#include <fstream>
+#include <string>
+
+class OrderBookEntry {
+public:
+    std::string symbol;
+    double price;
+    int volume;
+
+    void init() {
+        // Initialize member variables with default values
+        symbol = "";
+        price = 0.0;
+        volume = 0;
+    }
+
+    void load(std::ifstream& file) {
+        // Read data from CSV file and populate member variables
+        std::string line;
+        while (std::getline(file, line)) {
+            size_t pos = line.find(',');
+            if (pos != std::string::npos) {
+                symbol = line.substr(0, pos);
+                price = stod(line.substr(pos + 1));
+                volume++;
+            }
+        }
+    }
+};
+```
+**Code Explanation Continued**
+
+The code also includes a `main()` function that creates an instance of the `OrderBookEntry` class and calls its `init()` and `load()` functions.
+
+Here is the complete code:
+```cpp
+#include <iostream>
+#include <fstream>
+#include <string>
+
+class OrderBookEntry {
+public:
+    std::string symbol;
+    double price;
+    int volume;
+
+    void init() {
+        // Initialize member variables with default values
+        symbol = "";
+        price = 0.0;
+        volume = 0;
+    }
+
+    void load(std::ifstream& file) {
+        // Read data from CSV file and populate member variables
+        std::string line;
+        while (std::getline(file, line)) {
+            size_t pos = line.find(',');
+            if (pos != std::string::npos) {
+                symbol = line.substr(0, pos);
+                price = stod(line.substr(pos + 1));
+                volume++;
+            }
+        }
+    }
+};
+
+int main() {
+    OrderBookEntry order;
+    order.init();
+    // Open a CSV file and call the load function
+    std::ifstream file("data.csv");
+    order.load(file);
+    return 0;
+}
+```
+**Code Explanation Continued**
+
+The code also includes comments explaining what each section of code does. The comments provide additional context and help explain the purpose of each part of the code.
+
+Overall, this code demonstrates how to create a simple class with member variables and functions that can be used to read data from a CSV file.

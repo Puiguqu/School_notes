@@ -1,0 +1,8 @@
+# 7.002 Starter code for Topic 7 [cmake config included]
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/WyEFn/7-002-starter-code-for-topic-7-cmake-config-included
+
+Please find below the starter code for Topic 7. Note that this code includes the CMakeLists.txt file that allows you to use cmake. Here are the commands: You probably do not need this if you have already created a basic application and added some widgets, but it should be a useful reference point. Generate a project: cmake -B build . Build the project on the command line: cmake --build build --preset Debug OtoDecks_start_topic_7 ZIP File 7.002 Starter code for Topic 7 [cmake config included] Please find below the starter code for Topic 7. Note that this code includes the CMakeLists.txt file that allows you to use cmake. Here are the commands: You probably do not need this if you have already created a basic application and added some widgets, but it should be a useful reference point. Generate a project: cmake -B build . Build the project on the command line: cmake --build build --preset Debug OtoDecks_start_topic_7 ZIP File Mark as completed Dislike Report an issue

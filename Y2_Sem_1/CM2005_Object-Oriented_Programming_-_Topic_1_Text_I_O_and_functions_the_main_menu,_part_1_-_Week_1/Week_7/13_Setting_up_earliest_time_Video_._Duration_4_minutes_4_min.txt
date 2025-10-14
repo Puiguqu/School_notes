@@ -1,0 +1,52 @@
+# Setting up earliest time
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/kbfrD/setting-up-earliest-time
+
+Here is a summary of the text in 25 sentences:
+
+The video transcript discusses implementing time windows in a simulation. The concept involves finding the earliest order in the orderBook and working from there, stepping through time windows.
+
+To implement this, a function called `getEarliestTime` was added to the `OrderBook` class. This function returns the earliest timestamp from the orders in the book.
+
+The `getEarliestTime` function is used to set up the earliest time for the simulation. It allows the user to navigate through different points in time and view the orders at those times.
+
+The transcript also discusses implementing the constructor and integrating it with the `MerkelMain` class. This involves setting up the initial state of the orderBook and connecting it to the rest of the system.
+
+Additionally, the video touches on implementing the `getOrders` function, which returns a list of all orders in the book. It also discusses implementing the `getLow` and `getHigh` stats functions, which return the minimum and maximum prices in the book.
+
+The transcript emphasizes the importance of understanding time in trading simulations and how it affects the behavior of the system. It encourages viewers to practice working with time and experimenting with different scenarios.
+
+Overall, the video aims to provide a comprehensive introduction to implementing time windows in a simulation, from setting up the initial state to navigating through different points in time.
+
+Here is a more detailed summary:
+
+1. The video discusses implementing time windows in a simulation.
+2. A function called `getEarliestTime` was added to the `OrderBook` class.
+3. The `getEarliestTime` function returns the earliest timestamp from the orders in the book.
+4. The `getEarliestTime` function is used to set up the earliest time for the simulation.
+5. It allows the user to navigate through different points in time and view the orders at those times.
+6. The transcript discusses implementing the constructor and integrating it with the `MerkelMain` class.
+7. This involves setting up the initial state of the orderBook and connecting it to the rest of the system.
+8. Additionally, the video touches on implementing the `getOrders` function.
+9. This function returns a list of all orders in the book.
+10. The transcript also discusses implementing the `getLow` and `getHigh` stats functions.
+11. These functions return the minimum and maximum prices in the book.
+12. The video emphasizes the importance of understanding time in trading simulations.
+13. It encourages viewers to practice working with time and experimenting with different scenarios.
+14. The video aims to provide a comprehensive introduction to implementing time windows in a simulation.
+15. It covers setting up the initial state, navigating through different points in time, and viewing orders at those times.
+16. The video discusses the importance of considering time in trading simulations.
+17. It encourages viewers to think about how time affects the behavior of the system.
+18. The transcript provides a detailed explanation of the `getEarliestTime` function.
+19. It demonstrates how to use the function to set up the earliest time for the simulation.
+20. The video also discusses implementing the constructor and integrating it with the `MerkelMain` class.
+21. This involves setting up the initial state of the orderBook and connecting it to the rest of the system.
+22. Additionally, the video touches on implementing the `getOrders` function.
+23. This function returns a list of all orders in the book.
+24. The transcript also discusses implementing the `getLow` and `getHigh` stats functions.
+25. These functions return the minimum and maximum prices in the book.
+
+Note that this summary is based on the provided text and may not be an exhaustive list of all the points discussed in the video.

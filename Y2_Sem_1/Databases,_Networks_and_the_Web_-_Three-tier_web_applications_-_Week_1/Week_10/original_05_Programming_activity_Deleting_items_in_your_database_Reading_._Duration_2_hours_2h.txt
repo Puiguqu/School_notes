@@ -1,0 +1,8 @@
+# Programming activity: Deleting items in your database
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/xjAMU/programming-activity-deleting-items-in-your-database
+
+In this lab activity you will explore how to delete items in an existing database. Please download the following PDF and follow the instructions for this lab activity: 14_Deleting-items-in-your-database.pdf PDF File Programming activity: Deleting items in your database In this lab activity you will explore how to delete items in an existing database. Please download the following PDF and follow the instructions for this lab activity: 14_Deleting-items-in-your-database.pdf PDF File Mark as completed Dislike Report an issue

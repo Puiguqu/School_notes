@@ -1,0 +1,45 @@
+# Module syllabus
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/onBWX/module-syllabus
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. Object-oriented programming (OOP) is a crucial programming paradigm used in large software projects to integrate data and processes.
+2. Learning about OOP will enable students to develop more modularized, complex software designs.
+3. OOP allows for the creation of discrete software modules that can be reused and modified easily.
+4. The module aims to provide students with an object-oriented programming skill set.
+5. Students will learn what objects and classes are, how to write classes, and how to interact between them.
+6. Objects can interact with each other through defining and implementing interfaces.
+7. Inheritance is used to extend functionality from parent classes.
+8. Formal code documentation and style guidelines will be taught.
+9. The course covers various topics including text I/O, functions, file I/O, exception handling, algorithms, object interactions, libraries, event-driven programming, inheritance, refactoring, class design, initialiser lists, constructors, threads, and advanced class and user interfaces.
+
+10. Upon successful completion of the course, students will be able to:
+
+11. Understand and explain the key principles of OOP.
+12. Choose appropriate basic data types to represent different data.
+13. Write classes with data and functions.
+14. Explain the purpose of interfaces and write classes that implement specific interfaces.
+15. Use inheritance to implement a hierarchy of classes.
+16. Write formal code documentation and follow style guidelines.
+
+17. The course aims to equip students with practical skills in OOP, enabling them to develop complex software designs.
+
+18. By learning about OOP, students will understand how existing software libraries and systems have been designed.
+
+19. OOP is widely used in software development, especially for large projects.
+
+20. The module will provide a comprehensive understanding of OOP principles and concepts.
+
+21. Students will learn how to model data using classes and variables.
+
+22. File I/O, exception handling, and algorithms will be covered in the course.
+
+23. Writing and testing an algorithm is also part of the course curriculum.
+
+24. Object interactions, libraries, toolkits, frameworks, and widgets are other key topics covered in the module.
+
+25. The course aims to provide students with a solid foundation in OOP, enabling them to develop complex software systems and understand existing software libraries and systems.

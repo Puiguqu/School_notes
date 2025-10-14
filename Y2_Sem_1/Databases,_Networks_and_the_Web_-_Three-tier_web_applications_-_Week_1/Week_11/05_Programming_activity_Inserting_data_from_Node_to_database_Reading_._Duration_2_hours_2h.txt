@@ -1,0 +1,10 @@
+# Programming activity: Inserting data from Node to database
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/2Ox21/programming-activity-inserting-data-from-node-to-database
+
+I don't see any text provided for me to summarize. The text you provided appears to be a link or a message related to a lab activity, but it does not contain any actual information to summarize.
+
+If you could provide the text of the document (17_Inserting-data-from-node-to-database.pdf) that is being referenced, I would be happy to assist you in summarizing its contents in 25 sentences.

@@ -1,0 +1,8 @@
+# 3.003 Reading for Topic 3
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/4m0DT/3-003-reading-for-topic-3
+
+Your Essential reading textbook is: Horton, I. and P. Van Weert Beginning C++17: From novice to professional. (Berkeley, CA: Apress, 2018) 5th edition [9781484233665]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you to the Online Library where you can search for the books. We will point you towards various sections from the textbook in the worksheets but for reference, here is a list of sections mentioned in this topic's workshee...

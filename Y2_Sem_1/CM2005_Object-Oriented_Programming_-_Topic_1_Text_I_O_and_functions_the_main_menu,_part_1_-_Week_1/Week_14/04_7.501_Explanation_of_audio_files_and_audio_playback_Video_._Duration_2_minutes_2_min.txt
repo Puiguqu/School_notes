@@ -1,0 +1,56 @@
+# 7.501 Explanation of audio files and audio playback
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/qYYoB/7-501-explanation-of-audio-files-and-audio-playback
+
+Here is a summary of the text in 25 sentences:
+
+1. The video discusses the basics of audio files and how to work with them in JUCE.
+2. The program Audacity is used as an example of a tool for loading and viewing audio files.
+3. Audio files are represented by two plots, one for each channel (left and right).
+4. Each channel is a list of numbers that define the displacement of the speaker at different times.
+5. When playing back an audio file, the values in these lists are sent to the audio system at the correct speed.
+
+6. The problem with audio files is that there are many formats, making it difficult to read and write them manually.
+
+7. JUCE provides a set of components that make it easier to work with different audio formats, including MP3, WAV, AIFF, and MPEG-4.
+
+8. These components can be used to get the raw data from an audio file without having to implement complex parsing code.
+
+9. In this video, the author explains why JUCE is useful for working with audio files and demonstrates how to use its components.
+
+10. The main menu in Audacity is used as an example of a user interface that can be created using JUCE's classes and functions.
+
+11. The author explains the basics of text input/output (I/O) and functions, including the main menu, part 1.
+
+12. The video covers various topics related to I/O and functions, including exception handling and algorithms.
+
+13. The author introduces the DJ application and the JUCE toolkit, explaining how they are used together.
+
+14. The video discusses event-driven programming and inheritance in JUCE, using buttons, sliders, and audio as examples.
+
+15. The author explains how to send audio samples to the audio system using a hard-coded audio file.
+
+16. The video covers various topics related to audio playback, including explaining audio files and playing back audio files.
+
+17. The author provides a summary of the main points covered in the video.
+
+18. The video covers advanced topics related to class design and user interfaces, including TableListBox and TableListBoxModel.
+
+19. The author explains how to refactor and improve the design of classes and user interfaces using JUCE's tools.
+
+20. The video discusses various topics related to initialiser lists, constructors, and threads in JUCE.
+
+21. The author provides a lesson worksheet on basic synthesis reading and listening skills.
+
+22. The video covers various topics related to audio files, including downloading and loading audio files.
+
+23. The author explains how to implement audio file playback using a hard-coded audio file.
+
+24. The video discusses the importance of reviewing library classes and user interfaces in JUCE.
+
+25. The author provides a summary of the main points covered in the video, along with a list of skills to be learned.
+
+Note: This summary is based on the provided text and may not be exhaustive or comprehensive.

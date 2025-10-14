@@ -1,0 +1,43 @@
+# Iterating over vectors and memory
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/zKw18/iterating-over-vectors-and-memory
+
+Here is a summary of the text:
+
+The text appears to be an outline or a course schedule for a computer science or programming class, specifically focused on building a DJ application.
+
+**Topics and Assignments**
+
+1. Introduction to Separating Orders by Type, Product and Time
+2. Setting up the OrderBook class
+3. Basic OrderBook class implementation
+4. Implementing constructor, getKnownProducts with a map, getOrders, get low and high stats, and summarizing work on order book
+5. Iterating over vectors and memory (practical assignment)
+6. Writing a statistical function (graded assignment)
+7. Assessment (Test)
+8. Introduction to DJ application and JUCE toolkit
+9. Event-driven programming and inheritance: buttons, sliders and audio
+10. Refactoring and class design: DeckGUI and DJAudioPlayer classes
+11. Initialiser lists, constructors and threads: WaveformDisplay class
+12. Advanced class and user interfaces: TableListBox and TableListBoxModel
+
+**Practical Assignments**
+
+* Practice Assignment 1-3
+* Simulation and time quiz
+* Lesson worksheet: separating orders into bids and asks
+* Working with time (practical assignment)
+* Iterating over vectors and memory (practical assignment)
+
+**Graded Assignments**
+
+* Graded assignment #2
+
+**Assessment**
+
+* Written assessment at the end of the course.
+
+This outline seems to be a mix of theoretical concepts, practical assignments, and projects that students will work on throughout the course.

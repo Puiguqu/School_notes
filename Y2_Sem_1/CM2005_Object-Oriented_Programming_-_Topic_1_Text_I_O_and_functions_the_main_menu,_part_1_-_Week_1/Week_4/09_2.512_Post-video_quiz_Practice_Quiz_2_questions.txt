@@ -1,0 +1,34 @@
+# 2.512 Post-video quiz
+Practice Quiz•2 questions - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/quiz/UIo0N/2-512-post-video-quiz
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The course consists of 20 weeks, covering various topics in programming, including input/output, classes, file I/O, exception handling, algorithms, object interactions, event-driven programming, inheritance, refactoring, and class design.
+
+Weeks 1-4 cover the basics of C++ programming, including input/output and functions, using classes and variables to model data.
+
+The OrderBookEntry class is introduced in weeks 3-4, and students are asked to convert it to a header file and compile it (2.501).
+
+The Merkelmain class is created in week 5, and students must implement its init function (2.512).
+
+In weeks 6-8, the CSVReader class is introduced, covering file I/O, exception handling, and algorithms.
+
+Weeks 9-11 introduce object interactions, including the wallet class and the JUCE toolkit.
+
+The DJ application and its components, such as buttons, sliders, and audio, are covered in weeks 12-14.
+
+In weeks 15-18, refactoring and class design are covered, with a focus on the DeckGUI and DJAudioPlayer classes.
+
+Weeks 19-20 cover advanced topics, including initialiser lists, constructors, threads, and user interfaces using TableListBox and TableListBoxModel.
+
+The course includes quizzes, practice assignments, and discussions throughout each week.
+
+Students are asked to submit coursework and receive grades for their assignments (2.512).
+
+A post-video quiz is also included at the end of the course.
+
+There is no explicit formula or link provided in the text.
+
+Overall, the course covers a wide range of programming topics and technologies, including C++, classes, file I/O, algorithms, object interactions, event-driven programming, inheritance, refactoring, and user interfaces.

@@ -1,0 +1,27 @@
+# 9.109 Hook up the load button to trigger the AudioThumbnail load
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/zJO4f/9-109-hook-up-the-load-button-to-trigger-the-audiothumbnail-load
+
+It appears that this is a transcript of an interactive lecture or tutorial on coding and computer programming, specifically focusing on topics related to audio processing and GUI design.
+
+The script begins by introducing itself as "Topic 9" and outlines the scope of the video series, which will cover various aspects of audio processing, GUI design, and class-based programming.
+
+The next section is an introduction to JUCE, a popular C++ framework for building cross-platform applications. The lecture then dives into the specifics of the WaveformDisplay class, exploring its implementation and testing process.
+
+Later in the script, there are references to various video topics, including:
+
+* Topic 9 (initialiser lists, constructors, and threads)
+* Topic 10 (advanced class and user interfaces: using TableListBox and TableListBoxModel)
+
+The transcript also includes sections on practice assignments and quizzes, designed to help students reinforce their understanding of the material.
+
+Some notable features of this script include:
+
+* Use of JUCE-specific terminology and frameworks
+* Emphasis on coding practices and testing methodologies
+* Visual references to GUI design and audio processing concepts
+
+Overall, this script provides a structured learning path for programming and software development, with a focus on practical application and hands-on experience.

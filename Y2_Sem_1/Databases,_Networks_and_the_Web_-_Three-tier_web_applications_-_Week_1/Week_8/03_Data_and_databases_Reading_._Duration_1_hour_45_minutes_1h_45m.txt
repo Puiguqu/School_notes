@@ -1,0 +1,20 @@
+# Data and databases
+Reading•
+. Duration: 1 hour 45 minutes
+1h 45m - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/FLAIK/data-and-databases
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The provided readings will provide context on the significance of data and information in the world and the role of databases in organizing it. The readings cover the basics of database management and its applications.
+
+The first reading, "Modern Database Management" by Hoffer, R., Venkataraman, and Topi (2020), focuses on Chapter 1: The database environment and development process. It explores how databases help organize data and provides an overview of traditional file processing systems and the range of database applications.
+
+The second reading, "Fundamentals of Database Systems" by Elmasri and Navathe (2017), covers Chapter 1: Databases and data users. It introduces the characteristics of the database approach and provides context on who uses databases.
+
+These readings are available in the Online Library and ProQuest Collection for "Modern Database Management" and the VLeBooks Collection for "Fundamentals of Database Systems". To search for these readings, follow the provided links.
+
+The readings will provide an understanding of data and information in the world and how databases help organize it. They will also cover how to use databases and who uses them.
+
+Overall, these readings aim to provide a solid foundation in database management and its applications.

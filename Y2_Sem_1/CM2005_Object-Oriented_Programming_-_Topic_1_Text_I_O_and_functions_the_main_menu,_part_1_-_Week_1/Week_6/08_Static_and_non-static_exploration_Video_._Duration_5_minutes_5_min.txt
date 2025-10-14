@@ -1,0 +1,42 @@
+# Static and non-static exploration
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/dCYKo/static-and-non-static-exploration
+
+The provided text is a transcript of a video on programming concepts, specifically discussing the difference between stateful and non-stateful things, and static and non-static functions.
+
+**Summary**
+
+The video covers several topics related to programming, including:
+
+1. **Text I/O and functions**: The main menu is discussed, covering topics such as file input/output and exception handling.
+2. **Using classes and variables to model data**: The OrderBookEntry class is introduced, which models a basic order book entry.
+3. **File I/O, exception handling, and algorithms**: The CSVReader class is implemented, which reads CSV files and parses them into a format suitable for use in the program.
+4. **Object interactions**: The wallet class is discussed, highlighting how objects interact with each other to perform tasks such as taking orders.
+5. **Event-driven programming and inheritance**: Buttons, sliders, and audio are introduced, demonstrating how to create event-driven interfaces using inheritance.
+6. **Refactoring and class design**: The DeckGUI and DJAudioPlayer classes are refactored to improve their design and organization.
+
+**Key Concepts**
+
+The video covers several key concepts, including:
+
+* **Statefulness**: An object's state refers to its internal data and how it changes over time.
+* **Static functions**: Static functions belong to a class or module and do not have access to an object's state. They are essentially self-contained blocks of code that perform specific tasks.
+* **Non-stateful things**: Non-stateful things, on the other hand, do not maintain internal data and exist solely for their intended purpose.
+
+**Practical Applications**
+
+The video provides practical examples and demonstrations of these concepts in real-world programming scenarios. The OrderBookEntry class is used to model a basic order book entry, while the CSVReader class reads CSV files and parses them into a suitable format for use in the program. These examples illustrate how to apply statefulness and static functions in practice.
+
+**Takeaways**
+
+The video provides several takeaways, including:
+
+* Understanding the difference between stateful and non-stateful things.
+* Recognizing the importance of static functions in self-contained blocks of code.
+* Applying class design principles to create efficient and organized codebases.
+* Using event-driven programming and inheritance to create interactive user interfaces.
+
+Overall, the video provides a comprehensive overview of key programming concepts and their practical applications.

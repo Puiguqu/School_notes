@@ -1,0 +1,64 @@
+# Write a print menu function and a processOption function
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/FTP3C/write-a-print-menu-function-and-a-processoption-function
+
+Here is a step-by-step solution to the problem:
+
+**Write a print menu function and a processOption function**
+
+## Step 1: Define the `printMenu` function
+The `printMenu` function should take no arguments and return nothing. It will print the main menu of the program to the console.
+
+```c
+void printMenu() {
+    printf("Main Menu\n");
+    printf("---------\n");
+    printf("1. Take Order\n");
+    printf("2. Process Order\n");
+    printf("3. Exit\n");
+}
+```
+
+## Step 2: Define the `processOption` function
+The `processOption` function should take one argument, `option`, which is an integer representing the selected menu option.
+
+```c
+void processOption(int option) {
+    switch (option) {
+        case 1:
+            printf("Taking order...\n");
+            // Code to take an order goes here
+            break;
+        case 2:
+            printf("Processing order...\n");
+            // Code to process an order goes here
+            break;
+        case 3:
+            printf("Exiting program...\n");
+            exit(0);
+        default:
+            printf("Invalid option. Please try again.\n");
+    }
+}
+```
+
+## Step 3: Call the `printMenu` function in the main loop of your program
+
+```c
+int main() {
+    while (true) {
+        printMenu();
+        int option;
+        scanf("%d", &option);
+        processOption(option);
+    }
+    return 0;
+}
+```
+
+This will create a simple menu-driven program that repeatedly prints the main menu, asks for user input, and calls the corresponding function based on the selected option.
+
+The final answer is: There is no numerical answer to this problem. The solution involves writing two functions, `printMenu` and `processOption`, which are used in a simple menu-driven program.

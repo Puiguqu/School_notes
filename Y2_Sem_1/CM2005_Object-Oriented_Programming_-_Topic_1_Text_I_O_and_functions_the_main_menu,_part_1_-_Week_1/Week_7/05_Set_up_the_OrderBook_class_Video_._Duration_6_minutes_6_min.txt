@@ -1,0 +1,106 @@
+# Set up the OrderBook class
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/DGBWQ/set-up-the-orderbook-class
+
+Here is a step-by-step guide to setting up the OrderBook class:
+
+**Step 1: Create a new class**
+
+Create a new C++ file called `OrderBook.h` and add the following code:
+```cpp
+#ifndef ORDERBOOK_H
+#define ORDERBOOK_H
+
+#include <map>
+#include <vector>
+
+class Order;
+class Account;
+
+class OrderBook {
+public:
+    // Constructor
+    OrderBook();
+
+    // Destructor
+    ~OrderBook();
+
+    // Get known products
+    std::map<std::string, double> getKnownProducts();
+
+    // Get orders by product and time
+    std::map<std::string, std::vector<Order>> getOrdersByProductAndTime(const std::string& product);
+
+    // Add an order to the book
+    void addOrder(Order* order);
+
+private:
+    std::map<std::string, double> products_;
+    std::map<std::string, std::vector<Order>> orders_;
+};
+
+#endif  // ORDERBOOK_H
+```
+**Step 2: Define the constructor**
+
+In `OrderBook.cpp`, define the constructor:
+```cpp
+#include "OrderBook.h"
+
+OrderBook::OrderBook() {
+    products_.clear();
+    orders_.clear();
+}
+
+// ... rest of the code ...
+```
+**Step 3: Define the destructor**
+
+Define the destructor to free any dynamically allocated memory:
+```cpp
+~OrderBook() {
+    // Free any dynamically allocated memory here...
+}
+```
+**Step 4: Implement getKnownProducts**
+
+Implement the `getKnownProducts` function to return a map of known products:
+```cpp
+std::map<std::string, double> OrderBook::getKnownProducts() {
+    std::map<std::string, double> result;
+    for (const auto& product : products_) {
+        result[product.first] = product.second;
+    }
+    return result;
+}
+```
+**Step 5: Implement getOrdersByProductAndTime**
+
+Implement the `getOrdersByProductAndTime` function to return a map of orders by product and time:
+```cpp
+std::map<std::string, std::vector<Order>> OrderBook::getOrdersByProductAndTime(const std::string& product) {
+    std::map<std::string, std::vector<Order>> result;
+    for (const auto& order : orders_) {
+        if (order.first == product && !order.second.empty()) {
+            result[product] = order.second;
+        }
+    }
+    return result;
+}
+```
+**Step 6: Implement addOrder**
+
+Implement the `addOrder` function to add an order to the book:
+```cpp
+void OrderBook::addOrder(Order* order) {
+    std::string product = order->getProduct();
+    if (products_.find(product) == products_.end()) {
+        products_[product] = 0.0;
+    }
+    orders_[product].push_back(order);
+}
+```
+That's it! You have now set up the basic OrderBook class.

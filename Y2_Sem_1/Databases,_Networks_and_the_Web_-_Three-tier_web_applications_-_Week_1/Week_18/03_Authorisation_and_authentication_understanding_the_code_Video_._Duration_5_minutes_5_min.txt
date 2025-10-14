@@ -1,0 +1,36 @@
+# Authorisation and authentication – understanding the code
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/lecture/0uJAr/authorisation-and-authentication-understanding-the-code
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The transcript explains how to add functionality to log in and log out of a web application.
+2. A POST request is sent to the web application when a user fills in the login form and presses the login button.
+3. The route handler for the slash logged in route checks the users table in the database to see if the username and password match.
+4. If they do, the user can be logged in; otherwise, an error message is displayed.
+5. Because hash passwords are stored in the database, the password entered by the user needs to be hashed before comparison.
+6. The middleware function sets up a query to select the ID and hashed password from the database for the matching username.
+7. When the query is run, it retrieves the row matching the provided username, containing the ID and hashed password.
+8. From the database results, the hashed password and user ID can be extracted.
+9. The plain text password from the request body is compared to the hashed password using the bcrypt compare function.
+10. If they match, the user can log in; otherwise, an error message is displayed.
+11. After a successful login, the user ID is stored in the session object, which can be accessed by root handlers.
+12. The presence of a user ID indicates that the user has already logged in.
+13. To protect roots that only want logged-in users to access, middleware must check for the user ID in the session object.
+14. If the user ID is present, the user can access the protected page; otherwise, they are redirected to the login page.
+15. The code for handling the slash adbook root renders the adbook.ejs page and checks for a logged-in user using middleware.
+16. To protect the adbook root, another middleware root handler called redirect login is added before the existing middleware root handler that renders adbook.ejs.
+17. When node.js handles a call to the slash adbook root, it calls redirect login first, which checks for the user ID in the session object.
+18. If the user ID is not present, the user is redirected to the login page; if it is present, node.js calls the next root handler.
+19. The next root handler is the anonymous function that renders the adbook.ejs page.
+20. This concept of authorization and authentication is important for web applications to ensure only authorized users can access sensitive data.
+21. Authorisation and authentication are crucial for web security, as they prevent unauthorized access to user accounts and data.
+22. The bcrypt compare function is a secure method for comparing passwords, ensuring that hashed passwords are not easily guessable.
+23. Sanitization is the process of removing or modifying malicious code from input data to ensure it cannot be executed by the application.
+24. Validation is the process of checking input data to ensure it conforms to expected formats and patterns.
+25. Understanding authentication and authorization concepts, as well as implementing them correctly in web applications, is essential for ensuring the security and integrity of user data.
+
+Note: The provided text does not contain specific formulas or links, so I've focused on summarizing the key points and explanations provided in the transcript.

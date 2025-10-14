@@ -1,0 +1,10 @@
+# Programming activity: Adding HTML to your Express server
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/Tmqag/programming-activity-adding-html-to-your-express-server
+
+I don't see any text provided for me to summarize. The provided text appears to be a prompt for a lab activity related to adding HTML pages to an Express web application, but it does not contain any relevant information or content that can be summarized.
+
+If you provide the actual text from the PDF document, I would be happy to assist you in summarizing its contents into 25 sentences, preserving key information, formulae, links, and technical details.

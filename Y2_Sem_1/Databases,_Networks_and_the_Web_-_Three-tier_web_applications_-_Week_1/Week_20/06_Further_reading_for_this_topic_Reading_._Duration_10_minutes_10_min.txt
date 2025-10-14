@@ -1,0 +1,19 @@
+# Further reading for this topic
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/6l4WB/further-reading-for-this-topic
+
+There is no text to summarize. The provided text appears to be a placeholder or an error message, and it does not contain any information about internet architecture, transport layer protocols, IPV6, or security.
+
+The text does mention some recommended readings for further information on these topics, including:
+
+* Chapter 3: Internet architecture
+* Chapters 2.1-2.2: Transmission control protocol
+* Chapter 11: IP version 6
+* Chapter 13: IP network security
+
+However, the text does not provide any specific details or findings about these topics.
+
+If you could provide the actual text to summarize, I would be happy to assist you in preserving key information, formulae, links, and technical details in a summary of 25 sentences.

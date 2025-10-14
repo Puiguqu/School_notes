@@ -1,0 +1,36 @@
+# Make it compile
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/gdkqX/make-it-compile
+
+Here is a summary of the provided text in 25 sentences, focusing on the most important concepts and findings:
+
+1. The video transcript discusses implementing a CSVReader class in C++.
+2. The author starts by copying code from a test file into the appropriate places in the functions of the CSVReader class.
+3. The first function to implement is the constructor, which requires minimal implementation.
+4. The next function to implement is the `CSV` function, which can be copied directly from the test file.
+5. The author notes that since the `CSV` function is static within the class definition, it does not require explicit declaration.
+6. They proceed to add namespace prefixing to the functions and implement the necessary edits.
+7. To ensure compilability, they add basic implementations for each function.
+8. The first function to implement returns a vector of OrderBookEntry objects.
+9. The next function requires returning a vector of strings.
+10. A separate function is required to return a single OrderBookEntry object.
+11. Since OrderBookEntry does not have a constructor, the author must call it properly using a double and string parameters.
+12. An empty string is used for the timestamp parameter.
+13. The next step is to include the CSVReader class in the main CPP file.
+14. The author creates a companion file called CSVReader.cpp.
+15. They compile the files using g++ with standard C++ flags, ensuring compatibility.
+16. The compilation process involves integrating the file reading code into the main program.
+17. Static and non-static exploration is discussed to clarify the differences between these concepts.
+18. The author emphasizes the importance of proper namespace prefixing when implementing class functions.
+19. They note that the CSVReader class will be used for reading and parsing files in the DJ application.
+20. The video transcript also covers writing and testing algorithms, object interactions, event-driven programming, inheritance, refactoring, and advanced user interfaces.
+21. However, these topics are not directly related to the implementation of the CSVReader class.
+22. The author mentions integrating the file reading code into the MerkleMain init function and computing statistics in a later video.
+23. They also provide an interactive transcript for practice assignments, quizzes, and exercises.
+24. These resources aim to reinforce understanding and skills gained from the video content.
+25. Overall, the video transcript aims to provide step-by-step guidance on implementing a CSVReader class in C++.
+
+Note: The provided text is a summary of the original transcript, and some information may be missing or condensed for brevity.

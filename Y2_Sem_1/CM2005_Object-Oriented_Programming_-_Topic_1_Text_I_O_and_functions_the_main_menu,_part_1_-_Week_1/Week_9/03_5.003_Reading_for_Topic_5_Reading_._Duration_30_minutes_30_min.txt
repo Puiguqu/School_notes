@@ -1,0 +1,21 @@
+# 5.003 Reading for Topic 5
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/B8KdT/5-003-reading-for-topic-5
+
+I don't see any text to summarize in your prompt. The provided text appears to be a summary of course materials and references, but it doesn't contain any specific information or concepts that need summarization.
+
+However, I can provide some general information about the textbook "Beginning CC++17: From novice to professional" by Ian Horton and Perry Van Weert.
+
+This textbook is a 5th edition publication from Apress, covering various topics in C++17 programming. The relevant chapters mentioned include:
+
+* Chapter 15 (p.573): throwing exceptions
+* Chapter 11 (p.411): friend functions
+* Chapter 12 (p.449): operator overloading
+* Chapter 8 (p.283): setting default parameter values
+
+The textbook is available for purchase on the Apress website, and a link to access it through an online library has been provided.
+
+If you could provide more context or specific information about the text you would like me to summarize, I would be happy to assist you further.

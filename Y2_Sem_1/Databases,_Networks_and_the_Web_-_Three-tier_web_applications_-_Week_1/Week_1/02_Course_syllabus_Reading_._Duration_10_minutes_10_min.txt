@@ -1,0 +1,36 @@
+# Course syllabus
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/UxADw/course-syllabus
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The CM2040 module, "Databases, Networks and the Web," teaches practical and theoretical skills for working with networked systems.
+2. These systems involve networks of computers interacting to deliver integrated services like banking, shopping, and social media.
+3. Data representation, storage, and access are crucial aspects of these services.
+4. The module builds on earlier computing and web fundamentals and prepares students for more advanced data and web systems later in the program.
+5. Students will learn theory and practical skills focused on modern web, internet, and client-server applications.
+6. Relational database systems are a key topic, with an emphasis on development aspects and issues related to data modeling and SQL implementation.
+7. Students will learn how to model data in a database, retrieve data from the database, and provide access through dynamic web applications.
+8. The Relational Model is covered in detail, along with query processing and networking concepts for communication.
+9. Upon successful completion of the course, students will be able to explain the context behind the relational model and schema development.
+10. Students will also devise, explain, and implement an appropriate representation of data in an SQL RDBMS.
+11. The importance of dynamic web-based applications and their interaction with database servers will be explained.
+12. Students will learn how to perform queries on databases using multiple related tables.
+13. They will develop web-based applications that run in a web browser and interact with a database server.
+14. The course covers the basics of computer networking, including what a network is, its uses, and characterization.
+15. Networking concepts are essential for enabling communication between client-server applications.
+16. Students will learn how to characterize networks and understand their importance in modern computing systems.
+17. The module focuses on relational database systems, which are widely used in various industries and applications.
+18. SQL (Structured Query Language) is a key language used in relational databases, and students will learn about its implementation.
+19. Data modeling is an essential aspect of relational databases, and students will learn how to model data effectively.
+20. Retrieving data from databases and providing access through web applications are critical skills covered in the module.
+21. Students will learn how to design and implement a database schema that meets specific requirements.
+22. The course emphasizes the importance of dynamic web-based applications in modern computing systems.
+23. These applications interact with database servers to provide seamless user experiences.
+24. Students will learn about query processing and networking concepts to enable communication between client-server applications.
+25. Overall, the CM2040 module provides a comprehensive foundation for working with databases, networks, and web applications in modern computing systems.
+
+Note: There are no links or formulae mentioned in the original text, so I did not include any of these in the summary.

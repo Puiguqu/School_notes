@@ -1,0 +1,56 @@
+# 6.401 Inheritance
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/tYGnq/6-401-inheritance
+
+It appears that the transcript is a video lecture on programming and computer science, specifically on object-oriented programming (OOP) concepts using the JUCE toolkit.
+
+The lecturer begins by explaining the concept of inheritance, which is a fundamental principle in OOP. They provide an analogy to help illustrate the idea: "Imagine you have a class called 'Vehicle'. You can create a new class that inherits from 'Vehicle' and adds additional features or properties specific to that type of vehicle, such as 'Car' or 'Truck'."
+
+The lecturer then provides a programming example in C++ to demonstrate inheritance. They define two classes: `Vehicle` and `Car`, where `Car` inherits from `Vehicle`. The `Car` class has its own implementation for the `display()` method, which overrides the one inherited from `Vehicle`.
+
+The code snippet provided shows:
+```cpp
+// Vehicle.h
+
+class Vehicle {
+public:
+    virtual void display() = 0;
+};
+
+// Car.h
+
+class Car : public Vehicle {
+public:
+    void display() override {
+        std::cout << "This is a car." << std::endl;
+    }
+};
+```
+The `display()` method in the `Car` class overrides the one inherited from `Vehicle`, allowing it to provide its own implementation.
+
+The lecturer then explains that when we create an instance of `Car`, we can call its `display()` method, which will execute the overridden version. This demonstrates how inheritance allows us to build upon existing classes and add new functionality.
+
+Throughout the lecture, the lecturer emphasizes the importance of understanding inheritance in OOP and provides examples to illustrate its applications.
+
+## Step-by-step explanation:
+
+1. The lecturer introduces the concept of inheritance as a way to create a new class that builds upon an existing one.
+2. They provide an analogy to help understand the idea: creating a `Car` class that inherits from a `Vehicle` class.
+3. The code snippet is provided to demonstrate the concept in C++.
+4. The lecturer explains how the `display()` method in the `Car` class overrides the one inherited from `Vehicle`.
+5. They illustrate how we can create an instance of `Car` and call its `display()` method, which will execute the overridden version.
+
+## Key concepts:
+
+* Inheritance: a fundamental principle in OOP that allows us to create a new class that builds upon an existing one.
+* Polymorphism: the ability of an object to take on multiple forms, as demonstrated by the `display()` method in the `Car` class.
+* Overriding: providing a new implementation for a method inherited from a parent class.
+
+## Practice assignment:
+
+1. Create a new class that inherits from `Vehicle`, such as `Truck`.
+2. Add additional features or properties specific to `Truck` and override any inherited methods if necessary.
+3. Test your implementation by creating an instance of the new class and calling its methods.

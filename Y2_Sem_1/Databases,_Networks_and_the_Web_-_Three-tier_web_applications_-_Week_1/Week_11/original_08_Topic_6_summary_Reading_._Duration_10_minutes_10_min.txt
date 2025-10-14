@@ -1,0 +1,8 @@
+# Topic 6 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/fHbig/topic-6-summary
+
+Summary In this topic you have learned about: how to access a database from middleware in Node.js passing data from the database to EJS templates passing variables to backend and inserting them into the database. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic6_eval.pdf PDF File Topic 6 summary Summary In this topic you have learned about: how to access a database from middleware in Node.js passing data from the database to EJS templates passing variables to backend and inserting them into the database. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2040_topic6_eval.pdf PDF File Mark as completed Dislike Report an issue

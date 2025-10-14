@@ -1,0 +1,8 @@
+# Database security
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-databases-networks-and-the-web/supplement/IpthD/database-security
+
+Keeping data safe is of critical importance. Read the following sections for a deeper understanding of the issues and solutions around database security: Elmasri and Navathe, Chapter 30, Database security : section 30.1 Introduction to database security issues section 30.7 Encryption and public key infrastructure section 30.8 Privacy issues and preservation section 30.9 Challenges to maintaining database security. Database security Keeping data safe is of critical importance. Read the following sections for a deeper understanding of the issues and solutions around database security: Elmasri and Navathe, Chapter 30, Database security : section 30.1 Introduction to database security issues section 30.7 Encryption and public key infrastructure section 30.8 Privacy issues and preservation section 30.9 Challenges to maintaining database security. Mark as completed Dislike Report an issue

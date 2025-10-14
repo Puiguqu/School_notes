@@ -1,0 +1,8 @@
+# 8.003 Reading for Topic 8
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/supplement/wwE7x/8-003-reading-for-topic-8
+
+In this module, we are doing some refactoring. This leads to the concept of module coupling, which considers the level of interaction and integration between modules in a computer program. Here is a starter article about module coupling: 'Low coupling', Principles Wiki (updated 2014) https://web.archive.org/web/20191009061733/http://principles-wiki.net/principles:low_coupling accessed 17 April 2020. Another concept is module cohesion, which considers what is an appropriate set of functionality t...

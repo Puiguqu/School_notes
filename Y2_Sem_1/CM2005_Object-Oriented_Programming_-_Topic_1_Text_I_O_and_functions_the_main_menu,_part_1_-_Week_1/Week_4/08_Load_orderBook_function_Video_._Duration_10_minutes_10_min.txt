@@ -1,0 +1,22 @@
+# Load orderBook function
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/E117c/load-orderbook-function
+
+It appears that this is a transcript of an online course or tutorial on object-oriented programming, likely in C++ or a similar language. The transcript describes a specific issue encountered during development and provides step-by-step instructions to resolve it.
+
+The issue described is related to including the `OrderBookEntry` header file twice in the `Merkelmain` class definition, which leads to compilation errors. To fix this issue, the author suggests adding the `#pragma once` directive at the top of all header files to ensure they are only included once. This prevents multiple inclusions of the same header file, which is a common source of compilation errors.
+
+The transcript also mentions various other topics and exercises that were covered in previous lessons, including:
+
+1. Introduction to classes and variables
+2. Using `#pragma once` directives with header files
+3. Creating and using the `OrderBookEntry` class
+4. Implementing the `init` function
+5. Limiting exposure ( likely related to debugging or logging)
+6. Loading an order book function
+7. Various exercises and quizzes to practice and reinforce learning
+
+Overall, this transcript appears to be a tutorial or guide for learning object-oriented programming concepts in C++.

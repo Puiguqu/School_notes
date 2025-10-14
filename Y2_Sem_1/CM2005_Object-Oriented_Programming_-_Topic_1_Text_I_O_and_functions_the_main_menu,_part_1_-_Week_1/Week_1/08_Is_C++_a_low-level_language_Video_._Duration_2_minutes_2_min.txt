@@ -1,0 +1,54 @@
+# Is C++ a low-level language?
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/1fOdv/is-c-a-low-level-language
+
+Here is a summary of the text in 25 sentences:
+
+C++ is a low-level language, meaning it deals with lower-level features of the operating system and computer hardware.
+
+High-level languages are highly abstracted, not necessarily knowing how the underlying hardware functions.
+
+Low-level languages have access to the underlying hardware and require more consideration of its operation.
+
+C++ fits into the category of low-level language due to its ability to control the machine's operations.
+
+Working in a high-level language means less concern for the underlying machineries' execution, but more freedom in expressing ideas.
+
+On the other hand, working in a low-level language provides more control over how the hardware operates.
+
+C++ is often used for critical systems and real-time applications due to its ability to design code aware of the hardware's capabilities.
+
+It allows designers to create programs that run efficiently on specific hardware platforms.
+
+High-level languages can be useful for rapid prototyping, but may not provide the same level of control as low-level languages like C++.
+
+C++ is an example of a low-level language due to its focus on the machine's operations and lack of abstraction.
+
+It provides direct access to hardware resources, such as memory and I/O devices.
+
+This allows developers to optimize their code for specific hardware architectures.
+
+However, working in a low-level language requires more manual management of memory and other resources.
+
+High-level languages like C++ provide features like garbage collection to automate these tasks.
+
+But, they may also introduce performance overhead due to the abstraction layer.
+
+C++ is not without its challenges, such as managing memory and dealing with system calls.
+
+However, its flexibility and control make it a popular choice for systems programming and game development.
+
+High-level languages are often preferred in certain domains like web development or scripting.
+
+But for applications requiring direct hardware interaction, low-level languages like C++ may be more suitable.
+
+C++ is a versatile language that can be used for both performance-critical and high-level tasks.
+
+Its ability to model complex systems and data structures makes it useful for many applications.
+
+The JUCE toolkit provides a framework for building GUI applications in C++, including the DJ application.
+
+This demonstrates the versatility of C++ in building a wide range of software applications.

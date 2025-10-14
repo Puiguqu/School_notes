@@ -1,0 +1,42 @@
+# 3.105 Testing tokenise
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-object-oriented-programming/lecture/O00Re/3-105-testing-tokenise
+
+Here is a breakdown of the transcript:
+
+**Section 1: Introduction**
+
+* The instructor introduces themselves and welcomes students to the course.
+* They explain that this is an interactive tutorial, where they will be guiding the student through various topics related to programming.
+
+**Section 2: Starter Code**
+
+* The instructor provides starter code for Topic 3, which is about reading files.
+* They ask the student to run the program and explore the output.
+
+**Section 3: Reading Files**
+
+* The instructor explains how to read a file using `getline` in C++.
+* They provide examples of how to handle exceptions when reading files.
+
+**Section 4: Tokenising Files**
+
+* The instructor introduces the tokenise algorithm, which is used to split text into individual words or tokens.
+* They provide pseudocode for the algorithm and ask the student to implement it in C++.
+* They offer a solution and then asks the student to write their own implementation.
+
+**Section 5: Testing Tokenise**
+
+* The instructor explains how to test the tokenise function using unit tests.
+* They provide example tests and ask the student to run them.
+* They discuss common pitfalls when testing algorithms.
+
+**Section 6: Conclusion**
+
+* The instructor summarizes the key takeaways from the tutorial.
+* They encourage students to practice implementing the tokenise algorithm in their own projects.
+
+Overall, this transcript appears to be a tutorial on reading files and implementing an algorithm in C++. It covers topics such as handling exceptions, testing algorithms, and providing guidance for implementation.

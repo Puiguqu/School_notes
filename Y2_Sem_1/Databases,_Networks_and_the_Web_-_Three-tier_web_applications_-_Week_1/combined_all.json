@@ -1,0 +1,703 @@
+{
+  "files": [
+    {
+      "filename": "course_summary.json",
+      "path": "Y2_sem_1/Databases,_Networks_and_the_Web_-_Three-tier_web_applications_-_Week_1\\course_summary.json",
+      "content": {
+        "course_title": "Databases, Networks and the Web - Three-tier web applications - Week 1",
+        "modules": {
+          "Module_1": {
+            "Week_1": {
+              "display_name": "Week 1",
+              "lessons": [
+                {
+                  "name": "01_Module_introduction_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "01_Module_introduction_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "02_Course_syllabus_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "02_Course_syllabus_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "03_The_programming_assignment_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "03_The_programming_assignment_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "04_Getting_started_on_this_module_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "04_Getting_started_on_this_module_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "05_Careers_video_Video_._Duration_1_minute_1_min",
+                  "summary_file": "05_Careers_video_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "06_What_is_a_web_application_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "06_What_is_a_web_application_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "07_Further_reading_about_static_versus_dynamic_web_applications_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "07_Further_reading_about_static_versus_dynamic_web_applications_Reading_._Duration_30_minutes_30_min.txt"
+                },
+                {
+                  "name": "08_The_life_and_times_of_a_web_request_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "08_The_life_and_times_of_a_web_request_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "09_Accessing_remote_resources,_HTTP_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "09_Accessing_remote_resources,_HTTP_Reading_._Duration_30_minutes_30_min.txt"
+                },
+                {
+                  "name": "10_Three-tier_web_application_architecture_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "10_Three-tier_web_application_architecture_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "11_Three-tier_architecture_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "11_Three-tier_architecture_Reading_._Duration_30_minutes_30_min.txt"
+                },
+                {
+                  "name": "12_Restaurant_analogy_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "12_Restaurant_analogy_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "13_Topic_1_summary_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "13_Topic_1_summary_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "14_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "14_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 1
+            },
+            "Week_2": {
+              "display_name": "Week 2",
+              "lessons": [
+                {
+                  "name": "01_Introduction_to_the_labs_Video_._Duration_3_minutes_3_min",
+                  "summary_file": "01_Introduction_to_the_labs_Video_._Duration_3_minutes_3_min.txt"
+                },
+                {
+                  "name": "02_Set_up_a_local_development_environment_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "02_Set_up_a_local_development_environment_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "03_Introduction_to_Node.js_and_Express_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "03_Introduction_to_Node.js_and_Express_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "04_Web_servers_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "04_Web_servers_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "05_What_is_a_web_server_Reading_._Duration_40_minutes_40_min",
+                  "summary_file": "05_What_is_a_web_server_Reading_._Duration_40_minutes_40_min.txt"
+                },
+                {
+                  "name": "06_Web_server_architecture_Video_._Duration_3_minutes_3_min",
+                  "summary_file": "06_Web_server_architecture_Video_._Duration_3_minutes_3_min.txt"
+                },
+                {
+                  "name": "07_Web_server_architecture_Reading_._Duration_55_minutes_55_min",
+                  "summary_file": "07_Web_server_architecture_Reading_._Duration_55_minutes_55_min.txt"
+                },
+                {
+                  "name": "08_Introduction_to_Node.js_and_Express_Video_._Duration_9_minutes_9_min",
+                  "summary_file": "08_Introduction_to_Node.js_and_Express_Video_._Duration_9_minutes_9_min.txt"
+                },
+                {
+                  "name": "09_Further_reading_about_Node.js_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "09_Further_reading_about_Node.js_Reading_._Duration_30_minutes_30_min.txt"
+                }
+              ],
+              "module": 1
+            },
+            "Week_3": {
+              "display_name": "Week 3",
+              "lessons": [
+                {
+                  "name": "01_Programming_activity_Create,_modify_and_run_Node_files_Reading_._Duration_2_hours_2h",
+                  "summary_file": "01_Programming_activity_Create,_modify_and_run_Node_files_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Creating_my_first_Node.js_web_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Creating_my_first_Node.js_web_server_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_Creating_my_first_Node.js_web_server_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "03_Creating_my_first_Node.js_web_server_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "04_Programming_activity_Creating_and_importing_modules_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_Creating_and_importing_modules_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_Programming_activity_My_first_Express_web_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Programming_activity_My_first_Express_web_server_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "06_Express_Reading_._Duration_1_hour_35_minutes_1h_35m",
+                  "summary_file": "06_Express_Reading_._Duration_1_hour_35_minutes_1h_35m.txt"
+                }
+              ],
+              "module": 1
+            },
+            "Week_4": {
+              "display_name": "Week 4",
+              "lessons": [
+                {
+                  "name": "01_Introduction_to_routing_and_separation_of_concerns_(SoC)_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "01_Introduction_to_routing_and_separation_of_concerns_(SoC)_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "02_Routes_and_HTML_files_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "02_Routes_and_HTML_files_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "03_Programming_activity_Adding_routes_to_your_web_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "03_Programming_activity_Adding_routes_to_your_web_server_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "04_Adding_routes_to_your_server_Video_._Duration_5_minutes_5_min",
+                  "summary_file": "04_Adding_routes_to_your_server_Video_._Duration_5_minutes_5_min.txt"
+                },
+                {
+                  "name": "05_Separation_of_concerns_(SoC)_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "05_Separation_of_concerns_(SoC)_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "06_SoC_in_your_programming_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "06_SoC_in_your_programming_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "07_Topic_2_summary_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "07_Topic_2_summary_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "08_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "08_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 1
+            }
+          },
+          "Module_2": {
+            "Week_5": {
+              "display_name": "Week 5",
+              "lessons": [
+                {
+                  "name": "01_Programming_activity_Adding_HTML_to_your_Express_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "01_Programming_activity_Adding_HTML_to_your_Express_server_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "02_Adding_HTML_to_your_Express_server_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "02_Adding_HTML_to_your_Express_server_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "03_Templating_engines_Video_._Duration_9_minutes_9_min",
+                  "summary_file": "03_Templating_engines_Video_._Duration_9_minutes_9_min.txt"
+                },
+                {
+                  "name": "04_Programming_activity_Adding_dynamic_HTML_to_your_Express_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_Adding_dynamic_HTML_to_your_Express_server_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_Adding_dynamic_HTML_to_your_Express_server_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "05_Adding_dynamic_HTML_to_your_Express_server_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "06_Topic_3_summary_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "06_Topic_3_summary_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "07_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "07_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 2
+            },
+            "Week_6": {
+              "display_name": "Week 6",
+              "lessons": [
+                {
+                  "name": "01_Topic_4_introduction_Video_._Duration_1_minute_1_min",
+                  "summary_file": "01_Topic_4_introduction_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Adding_forms_to_your_Express_server_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Adding_forms_to_your_Express_server_Reading_._Duration_2_hours_2h.txt"
+                }
+              ],
+              "module": 2
+            },
+            "Week_7": {
+              "display_name": "Week 7",
+              "lessons": [
+                {
+                  "name": "01_GET_and_POST_request_methods_Video_._Duration_9_minutes_9_min",
+                  "summary_file": "01_GET_and_POST_request_methods_Video_._Duration_9_minutes_9_min.txt"
+                },
+                {
+                  "name": "02_HTTP_methods_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "02_HTTP_methods_Reading_._Duration_30_minutes_30_min.txt"
+                },
+                {
+                  "name": "03_Programming_activity_GET_collecting_form_data_Reading_._Duration_2_hours_2h",
+                  "summary_file": "03_Programming_activity_GET_collecting_form_data_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "04_Programming_activity_POST_collecting_form_data_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_POST_collecting_form_data_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_GET_and_POST_collecting_form_data_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "05_GET_and_POST_collecting_form_data_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "06_Topic_4_summary_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "06_Topic_4_summary_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "07_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "07_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 2
+            },
+            "Week_8": {
+              "display_name": "Week 8",
+              "lessons": [
+                {
+                  "name": "01_Topic_5_introduction_Video_._Duration_1_minute_1_min",
+                  "summary_file": "01_Topic_5_introduction_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "02_Introduction_to_databases_Video_._Duration_5_minutes_5_min",
+                  "summary_file": "02_Introduction_to_databases_Video_._Duration_5_minutes_5_min.txt"
+                },
+                {
+                  "name": "03_Data_and_databases_Reading_._Duration_1_hour_45_minutes_1h_45m",
+                  "summary_file": "03_Data_and_databases_Reading_._Duration_1_hour_45_minutes_1h_45m.txt"
+                },
+                {
+                  "name": "04_Lists_of_data_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "04_Lists_of_data_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "05_Introduction_to_relational_databases_Video_._Duration_5_minutes_5_min",
+                  "summary_file": "05_Introduction_to_relational_databases_Video_._Duration_5_minutes_5_min.txt"
+                }
+              ],
+              "module": 2
+            }
+          },
+          "Module_3": {
+            "Week_9": {
+              "display_name": "Week 9",
+              "lessons": [
+                {
+                  "name": "01_Install_MySQL_locally_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "01_Install_MySQL_locally_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "02_Install_MySQL_on_a_Mac_Video_._Duration_11_minutes_11_min",
+                  "summary_file": "02_Install_MySQL_on_a_Mac_Video_._Duration_11_minutes_11_min.txt"
+                },
+                {
+                  "name": "03_Install_MySQL_on_Windows_Video_._Duration_17_minutes_17_min",
+                  "summary_file": "03_Install_MySQL_on_Windows_Video_._Duration_17_minutes_17_min.txt"
+                },
+                {
+                  "name": "04_Programming_activity_Create_a_database_and_a_table;_insert_and_retrieve_some_data_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_Create_a_database_and_a_table;_insert_and_retrieve_some_data_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_Create_a_database_and_a_table;_insert_and_retrieve_some_data_Video_._Duration_10_minutes_10_min",
+                  "summary_file": "05_Create_a_database_and_a_table;_insert_and_retrieve_some_data_Video_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "06_SQL_Reading_._Duration_2_hours_10_minutes_2h_10m",
+                  "summary_file": "06_SQL_Reading_._Duration_2_hours_10_minutes_2h_10m.txt"
+                },
+                {
+                  "name": "07_Topic_5_summary_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "07_Topic_5_summary_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "08_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "08_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 3
+            },
+            "Week_10": {
+              "display_name": "Week 10",
+              "lessons": [
+                {
+                  "name": "01_Topic_6_introduction_Video_._Duration_1_minute_1_min",
+                  "summary_file": "01_Topic_6_introduction_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Review_the_database_operations_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Review_the_database_operations_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_CREATE,_SELECT_and_INSERT_in_SQL_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "03_CREATE,_SELECT_and_INSERT_in_SQL_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "04_Programming_activity_Updating_your_database_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_Updating_your_database_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_Programming_activity_Deleting_items_in_your_database_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Programming_activity_Deleting_items_in_your_database_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "06_Updating_and_deleting_items_in_your_database_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "06_Updating_and_deleting_items_in_your_database_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "07_Basic_database_operations_in_SQL_Reading_._Duration_1_hour_35_minutes_1h_35m",
+                  "summary_file": "07_Basic_database_operations_in_SQL_Reading_._Duration_1_hour_35_minutes_1h_35m.txt"
+                }
+              ],
+              "module": 3
+            },
+            "Week_11": {
+              "display_name": "Week 11",
+              "lessons": [
+                {
+                  "name": "01_PK_(primary_keys)_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "01_PK_(primary_keys)_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Accessing_the_database_from_Node_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Accessing_the_database_from_Node_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_Programming_activity_Passing_database_data_to_EJS_templates_Reading_._Duration_2_hours_2h",
+                  "summary_file": "03_Programming_activity_Passing_database_data_to_EJS_templates_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "04_Accessing_the_database_from_Node_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "04_Accessing_the_database_from_Node_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "05_Programming_activity_Inserting_data_from_Node_to_database_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Programming_activity_Inserting_data_from_Node_to_database_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "06_Programming_activity_Database_search_from_Node_Reading_._Duration_2_hours_2h",
+                  "summary_file": "06_Programming_activity_Database_search_from_Node_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "07_Inserting_data_and_searching_Video_._Duration_5_minutes_5_min",
+                  "summary_file": "07_Inserting_data_and_searching_Video_._Duration_5_minutes_5_min.txt"
+                },
+                {
+                  "name": "08_Topic_6_summary_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "08_Topic_6_summary_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 3
+            },
+            "Week_12": {
+              "display_name": "Week 12",
+              "lessons": [
+                {
+                  "name": "01_Topic_7_introduction_Video_._Duration_1_minute_1_min",
+                  "summary_file": "01_Topic_7_introduction_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "02_Developing_dynamic_web_applications_Video_._Duration_11_minutes_11_min",
+                  "summary_file": "02_Developing_dynamic_web_applications_Video_._Duration_11_minutes_11_min.txt"
+                },
+                {
+                  "name": "03_Database_design_Reading_._Duration_1_hour_15_minutes_1h_15m",
+                  "summary_file": "03_Database_design_Reading_._Duration_1_hour_15_minutes_1h_15m.txt"
+                },
+                {
+                  "name": "04_Entity_relationship_diagrams_and_junction_tables_Video_._Duration_9_minutes_9_min",
+                  "summary_file": "04_Entity_relationship_diagrams_and_junction_tables_Video_._Duration_9_minutes_9_min.txt"
+                },
+                {
+                  "name": "05_Programming_activity_Entity_relationship_diagram_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Programming_activity_Entity_relationship_diagram_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "06_Entity_relationship_diagram_Video_._Duration_8_minutes_8_min",
+                  "summary_file": "06_Entity_relationship_diagram_Video_._Duration_8_minutes_8_min.txt"
+                }
+              ],
+              "module": 3
+            }
+          },
+          "Module_4": {
+            "Week_13": {
+              "display_name": "Week 13",
+              "lessons": [
+                {
+                  "name": "01_Foreign_keys_and_SQL_JOIN_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "01_Foreign_keys_and_SQL_JOIN_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_JOIN_in_SQL_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_JOIN_in_SQL_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_Foreign_keys_and_SQL_JOIN_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "03_Foreign_keys_and_SQL_JOIN_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "04_Topic_7_summary_Reading_._Duration_30_minutes_30_min",
+                  "summary_file": "04_Topic_7_summary_Reading_._Duration_30_minutes_30_min.txt"
+                },
+                {
+                  "name": "05_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "05_Further_reading_on_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 4
+            },
+            "Week_14": {
+              "display_name": "Week 14",
+              "lessons": [
+                {
+                  "name": "01_Preparing_for_the_mid-term_assessment_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "01_Preparing_for_the_mid-term_assessment_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "02_Midterm_Preparation_Code_template_and_SQLite_Video_._Duration_18_minutes_18_min_Resume_._Click_to_resume",
+                  "summary_file": "02_Midterm_Preparation_Code_template_and_SQLite_Video_._Duration_18_minutes_18_min_Resume_._Click_to_resume.txt"
+                },
+                {
+                  "name": "03_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "03_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "04_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "04_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "05_New_Video_Video_._Duration_1_minute_1_min",
+                  "summary_file": "05_New_Video_Video_._Duration_1_minute_1_min.txt"
+                }
+              ],
+              "module": 4
+            },
+            "Week_15": {
+              "display_name": "Week 15",
+              "lessons": [
+                {
+                  "name": "01_Topic_8_introduction_Video_._Duration_1_minute_1_min",
+                  "summary_file": "01_Topic_8_introduction_Video_._Duration_1_minute_1_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Aggregation_in_SQL_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Aggregation_in_SQL_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_Aggregation_in_SQL_Video_._Duration_3_minutes_3_min",
+                  "summary_file": "03_Aggregation_in_SQL_Video_._Duration_3_minutes_3_min.txt"
+                },
+                {
+                  "name": "04_Aggregate_functions_Reading_._Duration_45_minutes_45_min",
+                  "summary_file": "04_Aggregate_functions_Reading_._Duration_45_minutes_45_min.txt"
+                }
+              ],
+              "module": 4
+            },
+            "Week_16": {
+              "display_name": "Week 16",
+              "lessons": [
+                {
+                  "name": "01_SQL_LEFT_and_RIGHT_JOINS_Video_._Duration_8_minutes_8_min",
+                  "summary_file": "01_SQL_LEFT_and_RIGHT_JOINS_Video_._Duration_8_minutes_8_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_LEFT_and_RIGHT_JOINS_in_SQL_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_LEFT_and_RIGHT_JOINS_in_SQL_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_LEFT_and_RIGHT_JOIN_in_SQL_Video_._Duration_3_minutes_3_min",
+                  "summary_file": "03_LEFT_and_RIGHT_JOIN_in_SQL_Video_._Duration_3_minutes_3_min.txt"
+                },
+                {
+                  "name": "04_Programming_activity_Nested_SELECT_in_SQL_Reading_._Duration_2_hours_2h",
+                  "summary_file": "04_Programming_activity_Nested_SELECT_in_SQL_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "05_Nested_SELECT_in_SQL_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "05_Nested_SELECT_in_SQL_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "06_Getting_ready_for_the_next_quiz_Reading_._Duration_15_minutes_15_min",
+                  "summary_file": "06_Getting_ready_for_the_next_quiz_Reading_._Duration_15_minutes_15_min.txt"
+                },
+                {
+                  "name": "07_Topic_8_summary_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "07_Topic_8_summary_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "08_Further_reading_in_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "08_Further_reading_in_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 4
+            }
+          },
+          "Module_5": {
+            "Week_17": {
+              "display_name": "Week 17",
+              "lessons": [
+                {
+                  "name": "01_Security_of_data_in_storage_Video_._Duration_14_minutes_14_min",
+                  "summary_file": "01_Security_of_data_in_storage_Video_._Duration_14_minutes_14_min.txt"
+                },
+                {
+                  "name": "02_Security_of_data_in_transit_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "02_Security_of_data_in_transit_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "03_Programming_activity_Password_hashing_Reading_._Duration_1_hour_1h",
+                  "summary_file": "03_Programming_activity_Password_hashing_Reading_._Duration_1_hour_1h.txt"
+                },
+                {
+                  "name": "04_Password_hashing_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "04_Password_hashing_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "05_Database_security_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Database_security_Reading_._Duration_2_hours_2h.txt"
+                }
+              ],
+              "module": 5
+            },
+            "Week_18": {
+              "display_name": "Week 18",
+              "lessons": [
+                {
+                  "name": "01_Authorisation_and_authentication_Video_._Duration_8_minutes_8_min",
+                  "summary_file": "01_Authorisation_and_authentication_Video_._Duration_8_minutes_8_min.txt"
+                },
+                {
+                  "name": "02_Programming_activity_Authentication_and_authorisation_Reading_._Duration_2_hours_2h",
+                  "summary_file": "02_Programming_activity_Authentication_and_authorisation_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "03_Authorisation_and_authentication_understanding_the_code_Video_._Duration_5_minutes_5_min",
+                  "summary_file": "03_Authorisation_and_authentication_understanding_the_code_Video_._Duration_5_minutes_5_min.txt"
+                },
+                {
+                  "name": "04_Validation_and_sanitisation_Video_._Duration_8_minutes_8_min",
+                  "summary_file": "04_Validation_and_sanitisation_Video_._Duration_8_minutes_8_min.txt"
+                },
+                {
+                  "name": "05_Programming_activity_Validation_Reading_._Duration_2_hours_2h",
+                  "summary_file": "05_Programming_activity_Validation_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "06_Programming_activity_Sanitisation_Reading_._Duration_2_hours_2h",
+                  "summary_file": "06_Programming_activity_Sanitisation_Reading_._Duration_2_hours_2h.txt"
+                },
+                {
+                  "name": "07_Validation_and_sanitisation_understanding_the_code_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "07_Validation_and_sanitisation_understanding_the_code_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "08_Topic_9_summary_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "08_Topic_9_summary_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "09_Further_reading_for_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "09_Further_reading_for_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 5
+            },
+            "Week_19": {
+              "display_name": "Week 19",
+              "lessons": [
+                {
+                  "name": "01_Topic_10_introduction_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "01_Topic_10_introduction_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "02_Packet_switching_Video_._Duration_6_minutes_6_min",
+                  "summary_file": "02_Packet_switching_Video_._Duration_6_minutes_6_min.txt"
+                },
+                {
+                  "name": "03_Introduction_to_the_TCP_IP_model_Video_._Duration_10_minutes_10_min",
+                  "summary_file": "03_Introduction_to_the_TCP_IP_model_Video_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "04_The_application_layer_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "04_The_application_layer_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "05_The_TCP_IP_model_Reading_._Duration_50_minutes_50_min",
+                  "summary_file": "05_The_TCP_IP_model_Reading_._Duration_50_minutes_50_min.txt"
+                },
+                {
+                  "name": "06_The_transport_layer_Video_._Duration_7_minutes_7_min",
+                  "summary_file": "06_The_transport_layer_Video_._Duration_7_minutes_7_min.txt"
+                },
+                {
+                  "name": "07_The_transport_layer_Reading_._Duration_1_hour_1h",
+                  "summary_file": "07_The_transport_layer_Reading_._Duration_1_hour_1h.txt"
+                }
+              ],
+              "module": 5
+            },
+            "Week_20": {
+              "display_name": "Week 20",
+              "lessons": [
+                {
+                  "name": "01_The_network_layer_Video_._Duration_4_minutes_4_min",
+                  "summary_file": "01_The_network_layer_Video_._Duration_4_minutes_4_min.txt"
+                },
+                {
+                  "name": "02_The_network_layer_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "02_The_network_layer_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "03_The_link_layer_Video_._Duration_2_minutes_2_min",
+                  "summary_file": "03_The_link_layer_Video_._Duration_2_minutes_2_min.txt"
+                },
+                {
+                  "name": "04_The_link_layer_Reading_._Duration_1_hour_1h",
+                  "summary_file": "04_The_link_layer_Reading_._Duration_1_hour_1h.txt"
+                },
+                {
+                  "name": "05_Topic_10_summary_Reading_._Duration_20_minutes_20_min",
+                  "summary_file": "05_Topic_10_summary_Reading_._Duration_20_minutes_20_min.txt"
+                },
+                {
+                  "name": "06_Further_reading_for_this_topic_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "06_Further_reading_for_this_topic_Reading_._Duration_10_minutes_10_min.txt"
+                },
+                {
+                  "name": "07_Congratulations_on_completing_this_module!_Reading_._Duration_5_minutes_5_min",
+                  "summary_file": "07_Congratulations_on_completing_this_module!_Reading_._Duration_5_minutes_5_min.txt"
+                }
+              ],
+              "module": 5
+            }
+          },
+          "Module_6": {
+            "Week_21": {
+              "display_name": "Week 21",
+              "lessons": [
+                {
+                  "name": "01_Study_guide_Reading_._Duration_10_minutes_10_min",
+                  "summary_file": "01_Study_guide_Reading_._Duration_10_minutes_10_min.txt"
+                }
+              ],
+              "module": 6
+            }
+          }
+        }
+      }
+    }
+  ]
+}

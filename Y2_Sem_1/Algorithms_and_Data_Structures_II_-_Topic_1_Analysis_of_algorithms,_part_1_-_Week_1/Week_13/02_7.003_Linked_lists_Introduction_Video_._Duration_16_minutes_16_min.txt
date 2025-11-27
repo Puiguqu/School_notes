@@ -1,0 +1,17 @@
+# 7.003 Linked lists: Introduction
+Video•
+. Duration: 16 minutes
+16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/x4QaZ/7-003-linked-lists-introduction
+
+It appears that this is not a problem to be solved, but rather an introduction to data structures and algorithms, specifically linked lists. The text provides a transcript of a lecture on linked lists, including explanations of how they work, their representation in memory, and common operations such as insertion and deletion.
+
+There is no specific problem or question presented in the text that requires step-by-step reasoning or solution. However, I can provide a summary of the key points covered in the lecture:
+
+1. Introduction to linked lists: A linked list is a data structure where each element points to the next element in the sequence.
+2. Representation in memory: Each element in a linked list is stored in memory, and each element points to the address of the next element in the sequence.
+3. Insertion operation: To insert an element into a linked list, we need to allocate new memory for the element and update the pointers of the previous elements to point to the new element.
+4. Delete operation: To delete an element from a linked list, we need to update the pointers of the previous elements to point to the next element in the sequence.
+
+If you have any specific questions or topics related to linked lists that you would like me to help with, please let me know!

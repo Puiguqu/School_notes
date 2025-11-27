@@ -1,0 +1,56 @@
+# Week 4 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/UqZMq/week-4-self-evaluation-and-reflection
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The course requires regular assessment of understanding and capabilities against learning outcomes.
+2. This exercise helps reflect on the learning journey, identify areas for improvement, and develop a plan.
+3. The checklist evaluates understanding of lessons covered in Week 4.
+
+The key concepts and skills assessed include:
+4. Understanding Recursive Algorithms: Identifying and explaining recursive algorithms, tracing execution step-by-step, and distinguishing between iterative and recursive approaches.
+5. Writing Recursive Algorithms: Creating recursive algorithms from scratch, converting iterative algorithms to pseudocode, and ensuring correctness through base and recursive case analysis.
+6. Master Theorem and Recurrence Relations: Explaining recurrence equations, applying the Master Theorem, determining time complexity using recurrence relations, and evaluating efficiency.
+7. Application and Analysis: Calculating time complexity, comparing recursive and iterative solutions, identifying scenarios where recursion is more effective.
+
+8. Reflection: Articulating how the Master Theorem simplifies analysis of recursive algorithms and feeling confident in applying learned skills to new problems.
+
+9. Regular assessment is crucial for course progress and improvement.
+
+10. This exercise helps identify areas needing further knowledge or skill development.
+
+11. Revisiting relevant lecture videos, readings, and activities can help consolidate knowledge.
+
+12. Understanding recursive algorithms involves recognizing the concept of recursive functions and tracing their execution.
+
+13. Iterative and recursive approaches differ in their use of loops and function calls.
+
+14. Writing recursive algorithms requires creating a clear and concise function definition.
+
+15. Converting iterative algorithms to pseudocode involves identifying the recursive structure.
+
+16. Analyzing base and recursive cases ensures correctness and efficiency.
+
+17. The Master Theorem provides a simplified approach to solving recurrence relations.
+
+18. Recurrence equations describe recursive algorithms using mathematical formulas.
+
+19. Time complexity determines the efficiency of recursive algorithms.
+
+20. Comparing recursive and iterative solutions helps identify the most effective approach.
+
+21. Recursion is more effective than iteration in certain scenarios, such as tree traversals or dynamic programming.
+
+22. Iteration is more efficient in other scenarios, such as array processing or graph algorithms.
+
+23. The Master Theorem simplifies analysis of recursive algorithms by providing a systematic approach.
+
+24. Regular reflection on learning journey and skills development is essential for course success.
+
+25. This exercise serves as a self-assessment tool to evaluate understanding and identify areas for improvement.
+
+Note that the text does not provide explicit links or formulae, but I have attempted to preserve key concepts and technical details in the summary.

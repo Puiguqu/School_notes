@@ -1,0 +1,40 @@
+# 4.101 Counting sort: Introduction
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/waIVp/4-101-counting-sort-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture introduces counting sort, a non-comparison sorting algorithm with linear worst-case running time.
+2. The input to counting sort is an unsorted array A containing integer numbers.
+3. Array C represents the frequency of each number in the set to be sorted, using its indices to represent the numbers and their content to represent the count of each number.
+4. Each element in array C stores the frequency at which a number appears in the original set.
+5. The goal is to find the resulting sorted array R from array A using information stored in array C.
+6. To do this, we create array C with the correct number of elements, where the size of C is equal to the maximum number in the set plus 1.
+7. We then iterate through each element in array C and perform the following steps:
+	* If the current element in C is non-zero, copy the corresponding number from A to R, repeating it as many times as specified by C's value.
+	* Otherwise, move on to the next element in C.
+8. The process of copying numbers from A to R continues until all elements in array C have been processed.
+9. After processing all elements in array C, the resulting sorted array R is obtained.
+10. Counting sort has two main drawbacks:
+	* It can only sort integer numbers because array C uses integers as indices.
+	* The extra memory used by array C can be significant if the maximum number in the set to be sorted is large.
+11. Pseudocode for counting sort is needed, which will be reviewed in a future lecture.
+12. Counting sort is an efficient sorting algorithm with linear worst-case running time.
+13. It works by utilizing the frequency of each number in the input array to determine the order of the elements in the output array.
+14. The algorithm has low overhead and makes only one pass through the input data.
+15. Counting sort is suitable for small to medium-sized datasets, where memory efficiency is a concern.
+16. However, it may not be practical for large datasets due to its high memory requirements.
+17. Counting sort is often used in applications where integer sorting is required, such as in databases or financial systems.
+18. The algorithm's performance degrades linearly with the size of the input array.
+19. It has a time complexity of O(n + k), where n is the number of elements in the input array and k is the range of input values.
+20. This makes it suitable for datasets with relatively small ranges of integer values.
+21. Counting sort can be implemented using various techniques, such as radix sort or bucket sort.
+22. It has a low constant factor, making it efficient for many use cases.
+23. The algorithm's simplicity and efficiency make it a popular choice in many applications.
+24. However, its high memory requirements may limit its use in certain situations.
+25. Counting sort is an essential algorithm to understand when working with integer sorting problems.
+
+Please note that this summary provides a brief overview of the text, and some details may have been omitted or simplified for brevity.

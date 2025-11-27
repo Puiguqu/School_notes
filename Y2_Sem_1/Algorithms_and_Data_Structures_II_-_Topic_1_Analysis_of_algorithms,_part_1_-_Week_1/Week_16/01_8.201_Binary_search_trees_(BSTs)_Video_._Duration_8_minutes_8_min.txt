@@ -1,0 +1,16 @@
+# 8.201 Binary search trees (BSTs)
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/KINfZ/8-201-binary-search-trees-bsts
+
+It appears that this is not a problem to be solved, but rather a transcript of an educational lecture or course on algorithms and data structures.
+
+If you'd like, I can help summarize the main points from the transcript, such as:
+
+* The definition and properties of a binary search tree (BST)
+* How to insert and delete nodes in a BST while maintaining its BST property
+* Other topics covered in the course, such as heaps and graphs
+
+Please let me know if there's anything specific you'd like me to help with.

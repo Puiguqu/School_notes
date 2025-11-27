@@ -1,0 +1,44 @@
+# 2.203 Solving recurrence equations
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/WMyXe/2-203-solving-recurrence-equations
+
+Here is a summary of the provided text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The problem with recurrence equations is that we don't have an explicit expression for the running time, making it difficult to analyze.
+2. To solve a recurrence equation, we need to find a value of N for which T(N) is known, usually by analyzing the best-case scenario.
+3. In the best case, when N is equal to 1, the algorithm evaluates a constant condition and returns immediately, resulting in a running time of C (a constant).
+4. The recurrence equation for the recursive algorithm computing the factorial of N can be expanded until we cannot replace T(N) with its known value.
+5. To start expanding the equation, we use the definition of T(N), which is equal to C*5 + T(N-1).
+6. By applying the same method recursively, we expand the expression for T(N-2), resulting in a pattern emerging.
+7. Each expansion decreases the argument of T(N) by k units, where k represents the number of recursive calls made.
+8. When k is equal to N-1, we know that the right side of the recurrence equation becomes T(1).
+9. At this point, we have solved the recurrence equation and can express T(N) in a simplified form.
+10. The simplified expression shows that T(N) grows linearly with N, making it easy to perform an asymptotic analysis.
+
+11. Asymptotic analysis involves comparing the growth rates of different functions.
+12. In this case, we can conclude that T(N) is O(N), O(N^2), and O(all functions growing faster than N).
+13. Additionally, we know that T(N) is omega (Ω) of N, ω (ω) of log N, and Ω of all functions growing slower than N.
+14. The running time can also be expressed as θ(n), where n represents the input size.
+
+15. To analyze a recursive algorithm in terms of its running time, we need to find the recurrence equation that describes the running time.
+16. We then solve this equation to find an explicit expression for the running time.
+17. Finally, we perform asymptotic analysis on this explicit expression to understand how the function grows as N increases.
+
+18. The given lectures cover topics such as analysis of algorithms, recursive algorithms, and solving recurrence equations.
+
+19. The video transcript is available online, and some sections have interactive elements that can be enabled using special keys.
+
+20. Additional resources, including practice assignments and study materials, are also provided to support students in their learning.
+
+21. The course covers comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, graphs, and preparation for the final exam.
+
+22. Each week of the course includes a new topic or module, with accompanying video lectures, interactive transcripts, practice assignments, and peer-graded assessments.
+
+23. Students can use these resources to learn about different data structures and algorithms, as well as how to analyze their running times.
+
+24. The course aims to provide students with a comprehensive understanding of computer science concepts, including algorithm analysis and implementation.
+
+25. By the end of the course, students will be able to apply their knowledge to solve problems in computer science and prepare for more advanced courses or careers in the field.

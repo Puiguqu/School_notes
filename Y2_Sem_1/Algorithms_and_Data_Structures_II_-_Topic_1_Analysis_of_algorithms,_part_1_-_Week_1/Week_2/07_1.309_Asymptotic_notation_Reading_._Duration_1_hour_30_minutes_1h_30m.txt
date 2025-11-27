@@ -1,0 +1,10 @@
+# 1.309 Asymptotic notation
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/8nP2x/1-309-asymptotic-notation
+
+I don't see a text for me to summarize. The provided text appears to be a link to an online resource, including a guide book and a library access link, but it does not contain any specific information that needs summarization.
+
+If you could provide the actual text from Section 3.1 of Cormen's "Introduction to Algorithms" (MIT Press, 2009), I would be happy to assist you in summarizing it into 25 sentences while preserving key information, formulae, links, and technical details.

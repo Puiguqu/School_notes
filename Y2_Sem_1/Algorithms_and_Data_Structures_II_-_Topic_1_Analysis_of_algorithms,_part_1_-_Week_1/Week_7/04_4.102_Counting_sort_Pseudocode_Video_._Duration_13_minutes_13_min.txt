@@ -1,0 +1,52 @@
+# 4.102 Counting sort: Pseudocode
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/2lFX9/4-102-counting-sort-pseudocode
+
+The algorithm implemented is Counting Sort.
+
+**Step-by-Step Explanation**
+
+1. Initialize a count array `C` of size `n`, where `n` is the number of elements in the input array `A`. The counts are initialized to 0, i.e., `C[i] = 0` for all `i = 0, 1, ..., n-1`.
+2. Iterate through each element `a_i` in the input array `A`. For each `a_i`, increment the corresponding count in the `C` array by 1. This is done using the formula `C[a_i]++`, where `C[a_i]` represents the index of the current count.
+3. Initialize an output array `L` of size `n`, which will store the sorted elements.
+4. Iterate through each element `c_k` in the count array `C`. For each `c_k`, place the corresponding element from the input array `A` at its correct position in the output array `L`. This is done by iterating from `k=0` to `n-1` and placing the element `a_i` in the output array `L` at index `i = k * b + c_k`, where `b` is the base of the count representation.
+5. The sorted elements are stored in the output array `L`.
+
+**Pseudocode**
+```python
+Function CountingSort(A):
+    n = length(A)
+    C = array(n, 0) // count array
+    L = array(n, 0) // output array
+
+    For i from 1 to n:
+        c_k = C[i-1]
+        a_i = A[i-1]
+
+        k = floor(a_i / b)
+        c_k += 1
+        C[k] = c_k
+
+        i = i + 1
+
+    j = 0
+    For c_k from 0 to n-1:
+        k = C[c_k]
+        For i from k * b to (k+1) * b - 1:
+            L[j] = A[i-1]
+            j += 1
+
+    Return L
+```
+**Time Complexity**
+
+The time complexity of Counting Sort is O(n + k), where `n` is the number of elements in the input array and `k` is the range of values in the input array. The reason for this is that we iterate through each element in the input array once, and then iterate through each count in the count array once to place the corresponding elements in the output array.
+
+**Space Complexity**
+
+The space complexity of Counting Sort is O(n + k), where `n` is the number of elements in the input array and `k` is the range of values in the input array. We need two additional arrays: one for the count representation and one for the output array.
+
+Overall, Counting Sort is a stable sorting algorithm with good time complexity for small to moderate-sized datasets. However, it may not be suitable for large datasets or datasets with a very large range of values due to its high space complexity.

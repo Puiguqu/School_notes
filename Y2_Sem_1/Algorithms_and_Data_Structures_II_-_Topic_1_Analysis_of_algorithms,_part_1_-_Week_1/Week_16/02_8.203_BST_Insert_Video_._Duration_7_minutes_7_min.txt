@@ -1,0 +1,38 @@
+# 8.203 BST: Insert
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/3n0W0/8-203-bst-insert
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. In this lecture, we will study how to implement the operation insert in a binary search tree.
+2. A binary search tree (BST) is a data structure that stores values in a hierarchical way following two rules: nodes in the left subtree store values less than the value of the root, and nodes in the right subtree store values greater than the value of the root.
+3. The main operations on a BST are insert, search, and delete.
+4. The pseudocode for the insert function is as follows:
+	* Check if the tree is empty or not.
+	* If the tree is empty, create a new node and make it the root.
+5. If the tree is not empty, check if the value to be inserted is less than the value stored in the root.
+6. If the value is less than the root, recursively call the insert function on the left subtree.
+7. If the value is greater than or equal to the root, create a new node and make it the right child of the root.
+8. The worst-case time complexity for inserting a node into a BST is O(h), where h is the height of the tree.
+9. When the tree is balanced (i.e., every node has at most two children), the worst-case time complexity is O(log n), where n is the number of nodes in the tree.
+10. However, when the tree is skewed (i.e., one side of the tree is much taller than the other), the worst-case time complexity can be O(n).
+11. The goal of a BST is to ensure that all values in the left subtree are less than the root and all values in the right subtree are greater than the root.
+12. To achieve this, we need to balance the tree after every insertion.
+13. One way to balance the tree is by using an AVL tree or a red-black tree.
+14. AVL trees have a balanced property that ensures that the height of the left and right subtrees of any node differs by at most one.
+15. Red-black trees are another type of BST that maintains a balance property but allows for more flexibility in the structure of the tree.
+16. The insert function on an AVL or red-black tree is more complex than the simple recursive approach used earlier.
+17. To implement the insert function, we need to update the height of the tree and rebalance it if necessary.
+18. This involves calculating the balance factor of each node and determining whether the tree needs to be rotated or rebalanced.
+19. The insert function on an AVL or red-black tree has a time complexity of O(log n) in the average case, but can be O(n) in the worst case when the tree is skewed.
+20. The goal of a BST is not only to store values efficiently but also to provide fast search and delete operations.
+21. Search and delete operations on a BST have an average time complexity of O(log n), making them efficient for large datasets.
+22. However, the exact time complexity depends on the structure of the tree and how well it is balanced.
+23. In general, a well-balanced BST can provide fast search, insert, and delete operations with an average time complexity of O(log n).
+24. The BST data structure has many applications in computer science, including databases, file systems, and web search engines.
+25. Understanding how to implement the insert function on a BST is crucial for building efficient and scalable data structures.
+
+Note: I've tried to condense the information into 25 sentences while maintaining the key points and concepts from the original text. If you'd like me to expand or clarify any of these points, please let me know!

@@ -1,0 +1,8 @@
+# 3.104 Insertion sort
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/ccJlt/3-104-insertion-sort
+
+Please read Sections 2.1 (pp.16–22) and 2.2 (pp.23–29) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 3.104 Insertion sort Please read Sections 2.1 (pp.16–22) and 2.2 (pp.23–29) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 Mark as completed Dislike Report an issue

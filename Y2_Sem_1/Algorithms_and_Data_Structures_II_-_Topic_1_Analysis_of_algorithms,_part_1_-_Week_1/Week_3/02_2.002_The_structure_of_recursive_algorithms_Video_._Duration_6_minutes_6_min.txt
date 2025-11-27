@@ -1,0 +1,36 @@
+# 2.002 The structure of recursive algorithms
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/cfvNi/2-002-the-structure-of-recursive-algorithms
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture discusses the structure of a well-built recursive algorithm that executes a finite number of recursive calls.
+2. A modified version of the recursive printing algorithm is presented, which receives an integer value as input.
+3. The function includes a base case that stops recursion when n equals zero.
+4. Having at least one base case in a recursive algorithm is crucial to avoid infinite recursion.
+5. The algorithm uses a recursive call with an input argument getting closer to the base case.
+6. The function is simulated by executing instructions on the screen, showing the matching content on the right.
+7. The initial function call is made with the number two as the input argument.
+8. The first instruction checks if n equals zero; since it's not true, the condition is false, and the next instruction prints "hello" on the screen.
+9. A recursive call is made with one as the input argument.
+10. The new function starts executing its instructions, printing "hello" again.
+11. Another recursive call is made with zero as the input argument.
+12. This time, n equals zero, so the condition is true, and the execution stops at the base case.
+13. The return instruction is executed, deleting the current copy of the function from memory.
+14. Since there are no further instructions to execute after "hello" has finished, the execution of both recursive calls finishes.
+15. The original function is restored, and the final result is the word "hello" printed twice on the screen.
+16. This demonstrates that the algorithm prints the word "hello" as many times as the initial argument.
+17. Implementing this algorithm and modifying its conditions can help understand recursion better.
+18. The lecture series covers topics such as analysis of algorithms, recursion, hashing, trees, heaps, graphs, and more.
+19. Each topic has a corresponding video, practice assignment, and reading material for further learning.
+20. The course is structured into weekly topics, with mid-term coursework submission and preparation for the final exam.
+21. Understanding recursion is essential for analyzing and solving problems efficiently in computer science.
+22. Recursive algorithms can be used to solve problems that have a recursive structure or can be broken down into smaller sub-problems.
+23. A well-structured recursive algorithm should have a clear base case, recursive call, and termination condition.
+24. Practice assignments and exercises are provided throughout the course to help students reinforce their understanding of recursion.
+25. The course covers both comparison sorting algorithms and non-comparison sorting algorithms, providing a comprehensive overview of data structures and algorithms.
+
+Note: There is no explicit content in the provided text that can be summarized into 25 sentences, as it appears to be a list of topics, videos, and readings for an online course or lecture series.

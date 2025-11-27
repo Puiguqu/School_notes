@@ -1,0 +1,34 @@
+# 3.101 Insertion sort: Demonstration
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/T7BxC/3-101-insertion-sort-demonstration
+
+Here is a summary of the text in 25 sentences:
+
+1. The lecture discusses the concept of insertion sort, which involves inserting each element into its correct position within a sorted array.
+2. Insertion sort assumes that the first element in the array is already sorted, so no action is taken with it initially.
+3. The algorithm starts by selecting the next element to be inserted into the sorted part of the array.
+4. In this example, the first element is 12, which is compared with the previous elements in the sorted part of the array (31).
+5. Since 12 is lower than 31, it is moved to its correct position in the array.
+6. A copy of the original element is made to ensure that it can be safely inserted into the array without losing data.
+7. The next element to be inserted is 3, which is compared with the previous elements in the sorted part of the array (31).
+8. Since 3 is lower than 31, it is moved to its correct position in the array.
+9. A copy of the original element is made to ensure that it can be safely inserted into the array without losing data.
+10. The next element to be inserted is 23, which is compared with the previous elements in the sorted part of the array (31).
+11. Since 23 is lower than 31, but not lower than 12, it is moved to its correct position in the array.
+12. A copy of the original element is made to ensure that it can be safely inserted into the array without losing data.
+13. The next element to be inserted is 17, which is compared with the previous elements in the sorted part of the array (31).
+14. Since 17 is lower than 23 but not lower than 12, it is moved to its correct position in the array.
+15. A copy of the original element is made to ensure that it can be safely inserted into the array without losing data.
+16. After inserting all elements, the sorted array is complete and no further action is needed.
+17. The time complexity of insertion sort depends on the number of comparisons and swaps performed during the sorting process.
+18. In the worst-case scenario, insertion sort performs O(n^2) comparisons and swaps.
+19. However, in the best-case scenario (already sorted array), insertion sort performs O(n) comparisons and swaps.
+20. The space complexity of insertion sort is O(1) because only a single extra element is needed to store the temporary copy of each original element.
+21. Insertion sort has a simple implementation and is suitable for small datasets.
+22. However, it can be inefficient for large datasets due to its quadratic time complexity.
+23. The lecture also mentions other comparison sorting algorithms, such as selection sort and mergesort.
+24. Non-comparison sorting algorithms, such as hashing and linked lists, are discussed in later weeks of the course.
+25. The course covers a range of topics, including data structures, algorithms, and software engineering principles.

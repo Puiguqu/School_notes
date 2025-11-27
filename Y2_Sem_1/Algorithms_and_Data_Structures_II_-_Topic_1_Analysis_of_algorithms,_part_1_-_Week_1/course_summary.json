@@ -1,0 +1,673 @@
+{
+  "course_title": "Algorithms and Data Structures II - Topic 1: Analysis of algorithms, part 1 - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Course_syllabus_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Course_syllabus_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Module_step-by-step_guide_Reading_._Duration_20_minutes_20_min",
+            "summary_file": "02_Module_step-by-step_guide_Reading_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "03_Planning_your_study_time_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Planning_your_study_time_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_What_is_analysis_of_algorithms_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_What_is_analysis_of_algorithms_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_What_is_analysis_of_algorithms_Reading_._Duration_35_minutes_35_min",
+            "summary_file": "05_What_is_analysis_of_algorithms_Reading_._Duration_35_minutes_35_min.txt"
+          },
+          {
+            "name": "06_How_to_measure_estimate_time_and_space_requirements_Video_._Duration_9_minutes_9_min",
+            "summary_file": "06_How_to_measure_estimate_time_and_space_requirements_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "07_The_RAM_model_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_The_RAM_model_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_The_RAM_model_Reading_._Duration_40_minutes_40_min",
+            "summary_file": "08_The_RAM_model_Reading_._Duration_40_minutes_40_min.txt"
+          },
+          {
+            "name": "09_1.009_Counting_up_time_and_space_units,_part_1_Video_._Duration_3_minutes_3_min",
+            "summary_file": "09_1.009_Counting_up_time_and_space_units,_part_1_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "10_1.010_Counting_up_time_and_space_units,_part_2_Video_._Duration_5_minutes_5_min",
+            "summary_file": "10_1.010_Counting_up_time_and_space_units,_part_2_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "11_Counting_up_time_and_space_units_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "11_Counting_up_time_and_space_units_Reading_._Duration_50_minutes_50_min.txt"
+          },
+          {
+            "name": "12_Growth_of_functions,_part_1_Video_._Duration_10_minutes_10_min",
+            "summary_file": "12_Growth_of_functions,_part_1_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "13_1.103_Growth_of_functions,_part_2_Video_._Duration_4_minutes_4_min",
+            "summary_file": "13_1.103_Growth_of_functions,_part_2_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "14_1.105_Growth_of_functions_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "14_1.105_Growth_of_functions_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "15_1.106_Faster_computer_versus_faster_algorithm_Video_._Duration_5_minutes_5_min",
+            "summary_file": "15_1.106_Faster_computer_versus_faster_algorithm_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "16_1.108_Faster_computer_versus_faster_algorithm_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "16_1.108_Faster_computer_versus_faster_algorithm_Reading_._Duration_50_minutes_50_min.txt"
+          },
+          {
+            "name": "17_Week_1_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "17_Week_1_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "18_Week_1_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "18_Week_1_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_1.201_Worst_and_best_cases_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_1.201_Worst_and_best_cases_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_1.202_Worst_and_average_cases_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_1.202_Worst_and_average_cases_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_1.301_Introduction_to_asymptotic_analysis_Video_._Duration_4_minutes_4_min",
+            "summary_file": "03_1.301_Introduction_to_asymptotic_analysis_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "04_1.303_Big-O_notation_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_1.303_Big-O_notation_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_1.305_Omega_notation_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_1.305_Omega_notation_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_1.307_Theta_notation_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_1.307_Theta_notation_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_1.309_Asymptotic_notation_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "07_1.309_Asymptotic_notation_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "08_Week_2_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Week_2_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "09_1.401_End_of_Topic_1_Video_._Duration_2_minutes_2_min",
+            "summary_file": "09_1.401_End_of_Topic_1_Video_._Duration_2_minutes_2_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_2.001_Introduction_to_recursion_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_2.001_Introduction_to_recursion_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_2.002_The_structure_of_recursive_algorithms_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_2.002_The_structure_of_recursive_algorithms_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_2.004_Tracing_a_recursive_algorithm_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_2.004_Tracing_a_recursive_algorithm_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_2.101_From_iteration_to_recursion_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_2.101_From_iteration_to_recursion_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_2.103_Writing_a_recursive_algorithm,_part_1_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_2.103_Writing_a_recursive_algorithm,_part_1_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_2.104_Writing_a_recursive_algorithm,_part_2_Video_._Duration_3_minutes_3_min",
+            "summary_file": "06_2.104_Writing_a_recursive_algorithm,_part_2_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "07_Week_3_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Week_3_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Week_3_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Week_3_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_2.201_Time_complexity_of_recursive_algorithms_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_2.201_Time_complexity_of_recursive_algorithms_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_2.203_Solving_recurrence_equations_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_2.203_Solving_recurrence_equations_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_2.301_The_master_theorem_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_2.301_The_master_theorem_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_2.303_Recursive_algorithms_and_their_analysis_Reading_._Duration_2_hours_30_minutes_2h_30m",
+            "summary_file": "04_2.303_Recursive_algorithms_and_their_analysis_Reading_._Duration_2_hours_30_minutes_2h_30m.txt"
+          },
+          {
+            "name": "05_Week_4_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "05_Week_4_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "06_2.401_End_of_Topic_2_Video_._Duration_1_minute_1_min",
+            "summary_file": "06_2.401_End_of_Topic_2_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_3.001_Comparison_and_non_comparison_sorting_algorithms_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_3.001_Comparison_and_non_comparison_sorting_algorithms_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_3.003_Bubble_sort_Demonstration_Video_._Duration_2_minutes_2_min",
+            "summary_file": "02_3.003_Bubble_sort_Demonstration_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "03_3.004_Bubble_sort_Pseudocode_Video_._Duration_12_minutes_12_min",
+            "summary_file": "03_3.004_Bubble_sort_Pseudocode_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "04_3.006_Bubble_sort_Time_complexity_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_3.006_Bubble_sort_Time_complexity_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_3.101_Insertion_sort_Demonstration_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_3.101_Insertion_sort_Demonstration_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_3.102_Insertion_sort_Pseudocode_Video_._Duration_12_minutes_12_min",
+            "summary_file": "06_3.102_Insertion_sort_Pseudocode_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "07_3.104_Insertion_sort_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_3.104_Insertion_sort_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_3.105_Selection_sort_Demonstration_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_3.105_Selection_sort_Demonstration_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_3.106_Selection_sort_Pseudocode_Video_._Duration_7_minutes_7_min",
+            "summary_file": "09_3.106_Selection_sort_Pseudocode_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "10_Week_5_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_Week_5_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "11_Week_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "11_Week_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_3.201_Quicksort_Demonstration_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_3.201_Quicksort_Demonstration_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_3.202_Quicksort_Pseudocode_Video_._Duration_13_minutes_13_min",
+            "summary_file": "02_3.202_Quicksort_Pseudocode_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "03_3.204_Quicksort_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_3.204_Quicksort_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_3.301_Mergesort_Demonstration_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_3.301_Mergesort_Demonstration_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_3.302_Mergesort_Pseudocode_Video_._Duration_7_minutes_7_min",
+            "summary_file": "05_3.302_Mergesort_Pseudocode_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "06_3.303_Mergesort_Step-by-step_execution_Video_._Duration_13_minutes_13_min",
+            "summary_file": "06_3.303_Mergesort_Step-by-step_execution_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "07_3.305_Mergesort_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "07_3.305_Mergesort_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "08_Week_6_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Week_6_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "09_3.401_End_of_Topic_3_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_3.401_End_of_Topic_3_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_4.001_The_limits_of_comparison_sorts_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_4.001_The_limits_of_comparison_sorts_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_4.002_Lower_bounds_for_comparison_sorts_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_4.002_Lower_bounds_for_comparison_sorts_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_4.101_Counting_sort_Introduction_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_4.101_Counting_sort_Introduction_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_4.102_Counting_sort_Pseudocode_Video_._Duration_13_minutes_13_min",
+            "summary_file": "04_4.102_Counting_sort_Pseudocode_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "05_4.104_Counting_sort_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_4.104_Counting_sort_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Week_7_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Week_7_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Week_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "07_Week_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_4.201_Radix_sort_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_4.201_Radix_sort_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_4.203_Radix_sort_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_4.203_Radix_sort_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_4.301_Bucket_sort_Video_._Duration_14_minutes_14_min",
+            "summary_file": "03_4.301_Bucket_sort_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "04_4.303_Bucket_sort_Reading_._Duration_1_hour_1h",
+            "summary_file": "04_4.303_Bucket_sort_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "05_Week_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "05_Week_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "06_4.401_End_of_Topic_4_Video_._Duration_3_minutes_3_min",
+            "summary_file": "06_4.401_End_of_Topic_4_Video_._Duration_3_minutes_3_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_5.001_What_is_hashing_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_5.001_What_is_hashing_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_5.003_Hash_tables_Video_._Duration_17_minutes_17_min",
+            "summary_file": "02_5.003_Hash_tables_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "03_5.101_Collisions_in_hash_tables_Video_._Duration_11_minutes_11_min",
+            "summary_file": "03_5.101_Collisions_in_hash_tables_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "04_5.103_Hashing_Reading_._Duration_2_hours_2h",
+            "summary_file": "04_5.103_Hashing_Reading_._Duration_2_hours_2h.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_5.301_End_of_Topic_5_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_5.301_End_of_Topic_5_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_End_of_Topic_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_End_of_Topic_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "03_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Studiosity_walkthrough_video_Video_._Duration_1_minute_1_min",
+            "summary_file": "05_Studiosity_walkthrough_video_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Checklist_of_required_skills_and_knowledge_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Checklist_of_required_skills_and_knowledge_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_7.001_Introduction_to_data_structures_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_7.001_Introduction_to_data_structures_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_7.003_Linked_lists_Introduction_Video_._Duration_16_minutes_16_min",
+            "summary_file": "02_7.003_Linked_lists_Introduction_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "03_7.101_Linked_lists_Insert_operation_Video_._Duration_9_minutes_9_min",
+            "summary_file": "03_7.101_Linked_lists_Insert_operation_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "04_7.103_Linked_lists_Delete_operation_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_7.103_Linked_lists_Delete_operation_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_7.105_Linked_lists_Summary_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_7.105_Linked_lists_Summary_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_7.108_Linked_lists_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_7.108_Linked_lists_Reading_._Duration_1_hour_1h.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_7.201_Stacks_Introduction_Video_._Duration_5_minutes_5_min",
+            "summary_file": "01_7.201_Stacks_Introduction_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "02_7.203_Stacks_Implementation_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_7.203_Stacks_Implementation_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_7.301_Queues_Introduction_Video_._Duration_2_minutes_2_min",
+            "summary_file": "03_7.301_Queues_Introduction_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "04_7.303_Queues_Array-based_implementation_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_7.303_Queues_Array-based_implementation_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_7.305_Queues_List-based_implementation_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_7.305_Queues_List-based_implementation_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_7.307_Stacks_and_queues_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_7.307_Stacks_and_queues_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "07_7.401_End_of_Topic_7_Video_._Duration_59_seconds_59_sec",
+            "summary_file": "07_7.401_End_of_Topic_7_Video_._Duration_59_seconds_59_sec.txt"
+          },
+          {
+            "name": "08_End_of_Topic_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_End_of_Topic_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_8.001_Trees_Introduction_Video_._Duration_5_minutes_5_min",
+            "summary_file": "01_8.001_Trees_Introduction_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "02_8.003_Binary_trees_Implementation_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_8.003_Binary_trees_Implementation_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_8.101Binary_tree_traversal_Introduction_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_8.101Binary_tree_traversal_Introduction_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_8.102_Depth-first_traversal_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_8.102_Depth-first_traversal_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_8.104_Breadth-first_traversal_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_8.104_Breadth-first_traversal_Video_._Duration_8_minutes_8_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_8.201_Binary_search_trees_(BSTs)_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_8.201_Binary_search_trees_(BSTs)_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_8.203_BST_Insert_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_8.203_BST_Insert_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_8.301_BST_Search_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_8.301_BST_Search_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_8.303_BST_Delete_Video_._Duration_11_minutes_11_min",
+            "summary_file": "04_8.303_BST_Delete_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "05_8.305_Binary_search_trees_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_8.305_Binary_search_trees_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_8.401_End_of_Topic_8_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_8.401_End_of_Topic_8_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_End_of_Topic_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "07_End_of_Topic_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_9.001_Heaps_Introduction_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_9.001_Heaps_Introduction_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_9.003_Heaps_Implementation_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_9.003_Heaps_Implementation_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Heaps_Insert_(element_by_element)_Video_._Duration_10_minutes_10_min",
+            "summary_file": "03_Heaps_Insert_(element_by_element)_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_9.007_Heaps_deletion_(extract_maximum)_Video_._Duration_11_minutes_11_min",
+            "summary_file": "04_9.007_Heaps_deletion_(extract_maximum)_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "05_9.101_Heaps_Build_in_place_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_9.101_Heaps_Build_in_place_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_9.103_Heapsort_Video_._Duration_5_minutes_5_min",
+            "summary_file": "06_9.103_Heapsort_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "07_9.105_Heapsort's_complexity_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_9.105_Heapsort's_complexity_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_9.107_Heaps,_heapsort_and_priority_queues_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "08_9.107_Heaps,_heapsort_and_priority_queues_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_9.301_End_of_Topic_9_Video_._Duration_38_seconds_38_sec",
+            "summary_file": "01_9.301_End_of_Topic_9_Video_._Duration_38_seconds_38_sec.txt"
+          },
+          {
+            "name": "02_End_of_Topic_9_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_End_of_Topic_9_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_10.001_Graphs_Introduction_Video_._Duration_10_minutes_10_min",
+            "summary_file": "01_10.001_Graphs_Introduction_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_10.003_Graphs_Representations_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_10.003_Graphs_Representations_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_10.005_Minimum_spanning_tree_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_10.005_Minimum_spanning_tree_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_10.007_Prim's_algorithm_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_10.007_Prim's_algorithm_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Kruskal's_algorithm_Video_._Duration_10_minutes_10_min",
+            "summary_file": "05_Kruskal's_algorithm_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_10.103_Dijkstra's_algorithm_Video_._Duration_17_minutes_17_min",
+            "summary_file": "06_10.103_Dijkstra's_algorithm_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "07_10.104_Dijkstra's_algorithm_pseudocode_Video_._Duration_7_minutes_7_min",
+            "summary_file": "07_10.104_Dijkstra's_algorithm_pseudocode_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "08_10.106_Graph_representation,_MST_and_Dijkstra_Reading_._Duration_2_hours_2h",
+            "summary_file": "08_10.106_Graph_representation,_MST_and_Dijkstra_Reading_._Duration_2_hours_2h.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_10.301_End_of_Topic_10_Video_._Duration_53_seconds_53_sec",
+            "summary_file": "01_10.301_End_of_Topic_10_Video_._Duration_53_seconds_53_sec.txt"
+          },
+          {
+            "name": "02_End_of_Topic_10_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_End_of_Topic_10_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    },
+    "Module_6": {
+      "Week_21": {
+        "display_name": "Week 21",
+        "lessons": [
+          {
+            "name": "01_Key_concepts_review_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Key_concepts_review_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Mock_Exam_Reading_._Duration_3_hours_3h",
+            "summary_file": "02_Mock_Exam_Reading_._Duration_3_hours_3h.txt"
+          },
+          {
+            "name": "03_Mock_Exam_Answers_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Mock_Exam_Answers_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_2020_Past_Exam_Reading_._Duration_3_hours_3h",
+            "summary_file": "04_2020_Past_Exam_Reading_._Duration_3_hours_3h.txt"
+          }
+        ],
+        "module": 6
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+# 9.101 Heaps: Build in place
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/CYvar/9-101-heaps-build-in-place
+
+It appears that this is a transcript of a video lecture on computer science, specifically on algorithms and data structures.
+
+The lecture covers various topics, including analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks, queues, trees, and heaps. The lecturer also provides examples and practice assignments for each topic.
+
+Here are the main points covered in this video:
+
+* Analysis of algorithms:
+	+ Introduction to analysis of algorithms
+	+ Big O notation
+	+ Time complexity
+* Recursive algorithms:
+	+ Introduction to recursive algorithms
+	+ Types of recursive algorithms (divide-and-conquer, etc.)
+* Comparison sorting algorithms:
+	+ Introduction to comparison sorting algorithms
+	+ Examples: bubble sort, selection sort, insertion sort, merge sort, quicksort
+* Non-comparison sorting algorithms:
+	+ Introduction to non-comparison sorting algorithms
+	+ Examples: counting sort, radix sort, bucket sort
+* Hashing:
+	+ Introduction to hashing
+	+ Types of hashing (open addressing, separate chaining)
+* Linked lists, stacks, and queues:
+	+ Introduction to linked lists, stacks, and queues
+	+ Operations on these data structures
+* Trees:
+	+ Introduction to trees
+	+ Types of trees (binary search trees, AVL trees)
+* Heaps:
+	+ Introduction to heaps
+	+ Types of heaps (min-heaps, max-heaps)
+* Heapsort:
+	+ Introduction to heapsort
+	+ Time complexity
+
+The lecture also covers various practice assignments and exercises for each topic.
+
+Note that this transcript appears to be a collection of lecture notes and may not be a complete or final version of the material.

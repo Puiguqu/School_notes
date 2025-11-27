@@ -1,0 +1,37 @@
+# 3.105 Selection sort: Demonstration
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/P8I5I/3-105-selection-sort-demonstration
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture discusses the concept of selection sort, a comparison sorting algorithm.
+2. Selection sort works by finding the smallest number in an unsorted array and swapping it with the first element.
+3. This process is repeated until the entire array is sorted.
+4. The algorithm has a time complexity of O(n^2) in the worst case, making it less efficient than other comparison sorting algorithms like quicksort or mergesort.
+5. Despite its inefficiency, selection sort is simple to understand and implement.
+6. The lecture provides an interactive demonstration of the selection sort algorithm using a visual interface.
+7. The demonstration shows how the algorithm works by finding the smallest number in each pass through the array.
+8. The algorithm uses a single loop to iterate through the array, comparing each element with the current smallest element.
+9. Once the smallest element is found, it is swapped with the first element of the unsorted portion of the array.
+10. This process is repeated until the entire array is sorted.
+11. The lecture notes that selection sort can be used as a teaching tool due to its simplicity and ease of implementation.
+12. However, it is not suitable for large datasets due to its high time complexity.
+13. The lecture covers various comparison sorting algorithms, including bubble sort, insertion sort, quicksort, and mergesort.
+14. It also discusses non-comparison sorting algorithms, such as hashing and graph algorithms.
+
+15. Hashing is a technique used to store and retrieve data efficiently by using a hash function to map keys to indices in an array.
+16. Graph algorithms are used to solve problems related to networks and relationships between nodes.
+17. Linked lists, stacks, and queues are data structures commonly used in computer science.
+18. Heaps are specialized trees that satisfy the heap property, which is used for sorting and priority queuing.
+19. The lecture provides practice assignments and readings for each topic covered.
+20. These materials cover a range of topics from analysis of algorithms to graph algorithms.
+21. They are designed to help students understand and implement various data structures and algorithms.
+22. The interactive transcript feature allows viewers to navigate through the material using tab navigation and keyboard shortcuts.
+23. The lecture notes mention that some screen readers may require using CTRL in conjunction with the alt key for certain features.
+24. The materials cover topics from week 1 to week 21, providing a comprehensive overview of computer science concepts.
+25. Overall, the lecture and accompanying materials provide a solid foundation for students to learn and implement various algorithms and data structures.
+
+Note: I removed some extraneous content (e.g., "Hello.") and focused on preserving the key information and technical details from the original text.

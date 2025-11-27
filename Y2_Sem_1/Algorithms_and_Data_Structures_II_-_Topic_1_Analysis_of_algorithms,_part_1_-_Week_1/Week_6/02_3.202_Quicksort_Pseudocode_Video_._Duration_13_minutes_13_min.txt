@@ -1,0 +1,59 @@
+# 3.202 Quicksort: Pseudocode
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/qr49f/3-202-quicksort-pseudocode
+
+I'll provide a step-by-step guide on how to implement Quicksort algorithm.
+
+## Step 1: Define the Quicksort Algorithm
+Quicksort is a divide-and-conquer algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted.
+
+## Step 2: Select the Pivot Element
+The pivot element can be any element in the array, but it's often chosen as the first element (also known as the "first element" or "leftmost element") for simplicity.
+
+## Step 3: Partition the Array
+Partitioning involves rearranging the elements in the array so that all elements less than the pivot are on the left of the pivot and all elements greater than the pivot are on the right. This can be done using a loop that iterates through the array, comparing each element to the pivot.
+
+## Step 4: Recursively Sort the Sub-arrays
+Once the pivot is in its final position, recursively apply the Quicksort algorithm to the sub-array of elements less than the pivot and the sub-array of elements greater than the pivot.
+
+## Step 5: Implement the Quicksort Algorithm
+
+Here's a sample implementation of the Quicksort algorithm in Python:
+
+```
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[0]
+    less_than_pivot = [x for x in arr[1:] if x <= pivot]
+    greater_than_pivot = [x for x in arr[1:] if x > pivot]
+    return quicksort(less_than_pivot) + [pivot] + quicksort(greater_than_pivot)
+
+# Example usage:
+arr = [3, 6, 8, 10, 1, 4, 2, 5]
+sorted_arr = quicksort(arr)
+print(sorted_arr)  # Output: [1, 2, 3, 4, 5, 6, 8, 10]
+```
+
+## Step 6: Analyze the Time Complexity
+The average-case time complexity of Quicksort is O(n log n), although it can be O(n^2) in the worst case if the pivot is chosen poorly.
+
+## Step 7: Apply the Master Theorem
+To analyze the time complexity of Quicksort, we can apply the master theorem. Let's assume that the recurrence relation for Quicksort is:
+
+T(n) = T(k) + O(n)
+
+where k is the number of elements in the pivot partition and n is the total length of the array.
+
+Using the master theorem, we can show that the time complexity of Quicksort is O(n log n).
+
+## Step 8: Calculate the Worst-Case Time Complexity
+The worst-case time complexity of Quicksort occurs when the pivot is chosen poorly, resulting in a sequence of recursively called sub-problems with very small sizes. In this case, the time complexity can be as bad as O(n^2), although this is rare.
+
+## Step 9: Calculate the Best-Case Time Complexity
+The best-case time complexity of Quicksort occurs when the pivot is chosen such that it divides the array into two parts of roughly equal size. In this case, the time complexity is O(n log n).
+
+The final answer is: $\boxed{O(n log n)}$

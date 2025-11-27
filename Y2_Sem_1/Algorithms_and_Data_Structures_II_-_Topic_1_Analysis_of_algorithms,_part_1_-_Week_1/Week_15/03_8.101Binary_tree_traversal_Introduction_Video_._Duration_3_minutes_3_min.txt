@@ -1,0 +1,24 @@
+# 8.101Binary tree traversal: Introduction
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/PsCQi/8-101binary-tree-traversal-introduction
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The lecture will cover traversing binary trees, which is an important operation for inserting, deleting, or searching nodes.
+2. Traversal involves visiting all nodes in the tree.
+3. There are two main approaches to traversal: breadth-first (BFS) and depth-first (DFS).
+4. BFS traverses the tree horizontally, from top to bottom, left to right, level by level.
+5. The first node visited is the root, followed by nodes in level one, then level two, and so on.
+6. In contrast, DFS traverses the tree vertically, like diving into the tree.
+7. There are three types of DFS: pre-order, in-order, and post-order.
+8. Pre-order traversal visits the root node first, followed by the left sub-tree, and then the right sub-tree.
+9. In-order traversal visits the left sub-tree, then the root node, and finally the right sub-tree.
+10. Post-order traversal visits all nodes of the left sub-tree, then all nodes of the right sub-tree, and finally the root node.
+11. The prefix for each type of DFS gives information about the order in which the nodes are visited: pre (before), in (into), post (after).
+12. To implement BFS and DFS, lecture materials will be provided in future lectures.
+13. There are additional lecture topics on analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks, queues, trees, heaps, graphs, and more.
+
+Note: The original text appears to be a transcript of a lecture, with timestamps for each section. I've condensed the information into 25 sentences while preserving the key concepts and technical details.

@@ -1,0 +1,49 @@
+# Module step-by-step guide
+Reading•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/2Aril/module-step-by-step-guide
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The module welcomes students to start familiarizing themselves with the module and tasks for the upcoming weeks.
+2. Students should read the module syllabus to understand the content and objectives.
+3. Reviewing learning outcomes will help students identify key knowledge and skills required after completion.
+4. Assessing the assessment part of the syllabus will provide information on how to pass the module.
+
+5. For first-time students or those wanting to deepen Coursera understanding, checking out the Orientation course is recommended.
+6. Students will use three essential communication tools: discussion forums, Slack, and Zoom.
+7. The Orientation course provides resources for using these tools effectively.
+8. Introducing oneself in the 'Introduce yourself' discussion forum is a good starting point.
+
+9. Reviewing guidelines on how to use discussion forums before participating is advised.
+10. Information about live webinars can be found in the Orientation course.
+11. The Online Library tutorial offers a wealth of information and resources for studying.
+12. Studiosity, an online service piloted by the University, provides additional support for academic writing.
+
+13. The University of London Careers Service supports students at all stages of their career journey.
+
+14. Enhancing career prospects is crucial for success in this module.
+
+15. Students can explore the Careers Connect platform and attend BSc Computer Science careers webinars.
+
+16. A video shares insights on developing work experience as a career starter.
+
+17. Career starter resources are available for further exploration.
+
+18. Understanding the module's objectives and learning outcomes will keep students motivated.
+
+19. Aligning study with career goals is essential for success in this module.
+
+20. The Careers Connect platform provides targeted support for BSc Computer Science students.
+
+21. Attending live webinars will help students stay on track and develop their skills.
+
+22. Developing work experience as a career starter requires careful planning and execution.
+
+23. Utilizing online resources, such as Studiosity and the Online Library, can provide additional support.
+
+24. The University of London Careers Service offers guidance and support for students at all stages.
+
+25. Students are encouraged to explore the resources provided and contribute to the module's discussions.

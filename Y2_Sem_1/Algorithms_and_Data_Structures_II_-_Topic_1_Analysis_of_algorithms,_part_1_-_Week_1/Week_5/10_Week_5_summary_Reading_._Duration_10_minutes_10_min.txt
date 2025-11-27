@@ -1,0 +1,10 @@
+# Week 5 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/PMe5C/week-5-summary
+
+Unfortunately, it appears that there is no text to summarize. The provided text seems to be a placeholder or a summary of a course outline, but it does not contain any specific information about comparison sorting algorithms or their techniques.
+
+If you could provide the actual text, I would be happy to assist you in summarizing it into 25 sentences, preserving key information, formulae, links, and technical details.

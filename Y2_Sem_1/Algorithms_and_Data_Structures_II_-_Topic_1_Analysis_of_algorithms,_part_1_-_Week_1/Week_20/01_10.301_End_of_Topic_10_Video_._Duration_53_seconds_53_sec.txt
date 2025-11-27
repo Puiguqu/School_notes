@@ -1,0 +1,26 @@
+# 10.301 End of Topic 10
+Video•
+. Duration: 53 seconds
+53 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/75cTK/10-301-end-of-topic-10
+
+There is no text provided to summarize. The given text appears to be a transcript of an educational video or lecture series, outlining a course structure and topics covered in each week. It does not contain any specific information, formulae, links, or technical details that can be summarized.
+
+However, I can provide a summary of the overall course structure and topics:
+
+The course covers various algorithms and data structures, including analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, and graphs. The course is divided into several modules, with each module covering specific topics and having associated practice exercises, quizzes, and self-evaluation assignments.
+
+The course also includes mid-term coursework, formative programming exercises, and a final exam. Throughout the course, students are encouraged to build their own one-page mind map on graph concepts and develop their algorithmic thinking and programming skills.
+
+Key dates and milestones in the course include:
+
+* Week 1-4: Analysis of algorithms
+* Week 5-8: Recursive algorithms
+* Week 9-12: Sorting algorithms
+* Week 13-16: Hashing, linked lists, stacks and queues, trees
+* Week 17-20: Heaps, graphs, practice programming exercises, quizzes, and self-evaluation assignments
+* Week 21: Preparation for the exam
+* Week 22: Exam week
+
+Overall, the course aims to provide a comprehensive education in algorithms and data structures, with a focus on practical application and problem-solving skills.

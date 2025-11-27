@@ -1,0 +1,8 @@
+# What is analysis of algorithms?
+Reading•
+. Duration: 35 minutes
+35 min
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/NmPzq/what-is-analysis-of-algorithms
+
+Please read p.23 in Section 2.2 from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms . (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. What is analysis of algorithms? Please read p.23 in Section 2.2 from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms . (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Mark as completed Dislike Report an issue

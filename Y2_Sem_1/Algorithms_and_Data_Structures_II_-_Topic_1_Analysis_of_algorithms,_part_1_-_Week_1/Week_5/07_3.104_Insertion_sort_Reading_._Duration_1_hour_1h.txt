@@ -1,0 +1,10 @@
+# 3.104 Insertion sort
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/ccJlt/3-104-insertion-sort
+
+I don't see any text to summarize. The provided text appears to be a notification about accessing a guide book and an online library, but it does not contain any relevant information to summarize.
+
+If you could provide the actual text from the guide book or another source, I would be happy to help summarize it in 25 sentences, preserving key information, formulae, links, and technical details.

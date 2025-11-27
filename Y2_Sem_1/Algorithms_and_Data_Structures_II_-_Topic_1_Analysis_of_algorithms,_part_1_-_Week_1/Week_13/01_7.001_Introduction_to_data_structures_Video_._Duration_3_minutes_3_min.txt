@@ -1,0 +1,25 @@
+# 7.001 Introduction to data structures
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/Viqja/7-001-introduction-to-data-structures
+
+Unfortunately, there is no text to summarize. The provided text appears to be a transcript of a video lecture or course material, and it does not contain any specific information that needs to be summarized.
+
+However, I can provide a summary of the topics and structure of the course material:
+
+The course material covers two main topics: algorithms and data structures. The first half of the module focuses on algorithms, including analysis, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, and mid-term coursework. The second half of the module focuses on data structures, including linear data structures such as linked lists, stacks, queues, trees, heaps, and graphs.
+
+The course material is structured into 21 weeks, with each week covering a specific topic or set of topics. There are also various practice assignments, video lectures, and interactive transcripts throughout the course material.
+
+Some key concepts and formulas in the data structures section include:
+
+* Linked lists: insertion, deletion, and summary
+* Stacks: push, pop, and peek
+* Queues: enqueue, dequeue, and peek
+* Trees: insertion, deletion, and search
+* Heaps: heapify, insert, and extract-min
+* Graphs: adjacency matrix representation, edge list representation, and graph traversal algorithms
+
+Please let me know if you have any specific questions or if there is any further information I can provide.

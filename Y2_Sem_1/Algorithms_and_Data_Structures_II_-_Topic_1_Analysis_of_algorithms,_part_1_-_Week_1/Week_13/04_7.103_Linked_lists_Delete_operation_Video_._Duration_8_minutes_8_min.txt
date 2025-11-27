@@ -1,0 +1,12 @@
+# 7.103 Linked lists: Delete operation
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/USi44/7-103-linked-lists-delete-operation
+
+Unfortunately, it appears that the text provided is not a traditional problem to be solved, but rather an excerpt from a course syllabus or lecture notes. It outlines a series of topics and assignments for a computer science course, including analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, graphs, and preparation for an exam.
+
+If you'd like, I can provide a general outline or structure for how to approach these topics, or help with specific questions or problems related to the material. However, there doesn't appear to be a specific problem or question that needs to be solved in this text.
+
+Please let me know if there's anything else I can assist you with!

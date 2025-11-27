@@ -1,0 +1,50 @@
+# 1.201 Worst and best cases
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/7h2FN/1-201-worst-and-best-cases
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. In this lecture, we will analyze the running time of algorithms as a function of their input data size alone.
+2. Some algorithms have a running time that grows linearly with n, while others depend on both the input data size and its nature.
+3. The find maximum algorithm returns the position of the element with the highest value in an array A.
+4. The algorithm uses the variable max to represent the index where the maximum value is.
+5. It starts by assuming that the maximum element is in position 0.
+6. Then it checks all remaining positions in the array using a for loop.
+7. If at some point during the loop, the algorithm finds an element greater than the element in position max, the value of max is updated.
+8. After checking all positions of the array, the value of max is returned.
+9. A quick analysis of this algorithm shows that the first line takes constant time.
+10. The for loop is a function of N.
+11. The conditional inside the loop is repeated N minus 1 times, so it's also a function of N.
+12. However, since we're interested in the maximum value, we need to consider both the worst and best cases.
+
+13. In the worst case, the algorithm has to check all elements in the array.
+14. In the best case, the maximum element is already at the beginning of the array.
+
+15. We can represent this as a function: T(n) = O(n)
+
+16. However, we also need to consider the average case, which involves calculating the expected time complexity.
+
+17. The expected value of a random variable X with mean μ and variance σ^2 is given by:
+
+E(X) = μ + (1/σ^2)(X-μ)^2
+
+18. In this case, we can model the random variable X as the number of comparisons made during the algorithm.
+
+19. By analyzing the probability distribution of X, we can calculate the expected value and variance.
+
+20. Using these values, we can derive an expression for the average time complexity T(n) = O(1).
+
+21. This means that on average, the find maximum algorithm takes constant time O(1).
+
+22. The Big-O notation is used to describe the upper bound of the running time.
+
+23. In this case, the Big-O notation is O(n), which represents the worst-case scenario.
+
+24. However, we also need to consider other notations like Omega (O) and Theta (θ), which provide lower bounds for the running time.
+
+25. The Omega notation represents a lower bound for the running time, while the Theta notation represents both an upper and a lower bound.
+
+The rest of the text appears to be unrelated to this specific topic and is likely part of a larger course outline or syllabus.

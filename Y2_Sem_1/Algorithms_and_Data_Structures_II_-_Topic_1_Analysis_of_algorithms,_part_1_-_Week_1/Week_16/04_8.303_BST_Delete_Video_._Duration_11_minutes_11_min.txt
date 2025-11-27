@@ -1,0 +1,55 @@
+# 8.303 BST: Delete
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/EvJTi/8-303-bst-delete
+
+It seems like you've provided a transcript of an interactive lecture on computer science, specifically covering the topic of Binary Search Trees (BSTs). I'll provide a summary of the key points from the transcript:
+
+**Topic: Binary Search Trees**
+
+**Part 1: Analysis of Algorithms**
+
+* Binary Search Trees are used to store data in a way that allows for efficient searching, inserting, and deleting.
+* The BST is analyzed using various algorithms, including traversal, insertion, deletion, and search.
+
+**Part 2: Recursive Algorithms**
+
+* Recursion is a programming technique where a function calls itself repeatedly until it reaches a base case.
+* In the context of BSTs, recursive algorithms are used to perform operations such as insertion, deletion, and traversal.
+
+**Comparison Sorting Algorithms**
+
+* Comparison sorting algorithms sort data by comparing elements and rearranging them in order.
+* Examples include Bubble Sort, Selection Sort, and Merge Sort.
+
+**Non-Comparison Sorting Algorithms**
+
+* Non-comparison sorting algorithms sort data without directly comparing elements.
+* Examples include Hashing, Radix Sort, and Bucket Sort.
+
+**Hashing**
+
+* Hashing is a technique used to store data in an array using a hash function.
+* The hash function maps keys to indices of the array.
+
+**Linked Lists, Stacks, and Queues**
+
+* Linked lists are data structures that store elements in linked nodes.
+* Stacks and queues are data structures that follow Last-In-First-Out (LIFO) and First-In-First-Out (FIFO) principles, respectively.
+
+**Trees**
+
+* Trees are data structures composed of nodes with edges connecting them.
+* BSTs are a specific type of tree where each node has a comparable value.
+
+The transcript also mentions the following topics:
+
+* **8.201 Binary Search Trees (BSTs)**: A video lecture on BSTs, including insertion and search operations.
+* **8.202 Binary Search Trees (BSTs) Practice Assignment**: A practice assignment for students to complete exercises on BSTs.
+* **8.203 BST: Insert**: A video lecture on inserting elements into a BST.
+* **8.204 BST: Insert Practice Assignment**: A practice assignment for students to complete exercises on BST insertion.
+* **8.301 BST**: A brief overview of BSTs, including key concepts and terminology.
+
+Overall, the transcript provides a comprehensive introduction to Binary Search Trees, covering their analysis, recursive algorithms, and various operations such as insertion, deletion, and search.

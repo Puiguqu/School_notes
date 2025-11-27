@@ -1,0 +1,33 @@
+# 8.102 Depth-first traversal
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/qMItV/8-102-depth-first-traversal
+
+It appears that this is a transcript of a lecture on computer science, specifically focusing on algorithms and data structures.
+
+The lecture covers various topics, including:
+
+1. Analysis of algorithms
+2. Recursive algorithms
+3. Comparison sorting algorithms
+4. Non-comparison sorting algorithms (hashing)
+5. Linked lists, stacks, queues
+6. Trees (binary trees, tree traversal)
+7. Heaps
+8. Graphs
+
+The transcript includes interactive elements, such as:
+
+* Video lectures with duration information
+* Practice assignments with duration information
+* Exam week preparation
+
+Some of the specific topics covered in the transcript include:
+
+* 8.102 Depth-first traversal: This topic is further broken down into a video lecture and practice assignment.
+	+ The video lecture has a duration of 9 minutes.
+	+ The practice assignment has a duration of 30 minutes.
+
+The transcript also includes a list of topics for each week, which suggests that the lecture follows a structured format. However, without more context or information about the specific course or instructor, it is difficult to provide further details or insights.

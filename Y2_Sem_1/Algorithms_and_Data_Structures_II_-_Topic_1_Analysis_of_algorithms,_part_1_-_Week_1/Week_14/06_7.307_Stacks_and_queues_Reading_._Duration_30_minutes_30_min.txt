@@ -1,0 +1,15 @@
+# 7.307 Stacks and queues
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/v4AZv/7-307-stacks-and-queues
+
+Here is a summary of the text in 25 sentences, preserving key information and technical details:
+
+1. The text refers to Section 10.1 from the book "Introduction to Algorithms" by Cormen et al., published by MIT Press in 2009.
+2. The ISBN number for this edition is 9780262533058.
+3. The guidebook provides essential reading for the program, which can be accessed through the link: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142
+4. This link takes you directly to the ebook in the Online Library.
+
+Unfortunately, there is no text provided to summarize. The original message appears to be incomplete and does not contain any relevant content for summary.

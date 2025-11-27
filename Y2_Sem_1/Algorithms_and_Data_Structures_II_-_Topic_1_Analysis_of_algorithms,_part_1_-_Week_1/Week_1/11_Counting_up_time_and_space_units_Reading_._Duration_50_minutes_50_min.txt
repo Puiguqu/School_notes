@@ -1,0 +1,10 @@
+# Counting up time and space units
+Reading•
+. Duration: 50 minutes
+50 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/0yy02/counting-up-time-and-space-units
+
+I don't see any text provided for me to summarize. The text appears to be a fragment of an email or chat conversation, mentioning a book and providing an ISBN number, but it doesn't contain any specific information or content to summarize.
+
+If you could provide the actual text, I'd be happy to assist you in summarizing it into 25 sentences, preserving key information, formulae, links, and technical details.

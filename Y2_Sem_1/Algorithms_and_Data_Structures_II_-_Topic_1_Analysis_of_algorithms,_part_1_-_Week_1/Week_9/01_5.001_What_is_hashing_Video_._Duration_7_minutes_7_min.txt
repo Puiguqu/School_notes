@@ -1,0 +1,46 @@
+# 5.001 What is hashing?
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/IgEdu/5-001-what-is-hashing
+
+Here is a summary of the provided text in 25 sentences:
+
+Hashing is the process of transforming a sequence of alphanumeric characters to a value.
+The algorithm used for hashing is called a hash function, which receives as an input a sequence of characters and returns a hash value.
+
+A simple example of a hash function is the sum of the ASCII values of the characters in the sequence.
+This hash function transforms the sequence "cat1" into the value 361.
+Hash functions have various applications, including password security and information searches.
+
+Password security involves applying a hash function to a password to encrypt it.
+The idea behind this is that it's difficult to discover the original password from its hashed value.
+However, simple hash functions like the one using ASCII values are not suitable for securing passwords due to potential collisions and ease of guessing.
+
+Hashing is used to verify the integrity of content by applying a hash function to the information and sending the hash value along with the data.
+If the file has been tampered with, the received information's hash value will not match its original hash value, alerting the receiver to potential issues.
+
+In computer science, arrays using a hash function to determine their position are called hash tables.
+Hash tables are used extensively in computer science and will be explored further in future lectures.
+
+Hash functions can also assist in linear search by preprocessing numbers to store them in specific positions based on the hash value.
+This allows for quick checking of whether a number is present in the array or not.
+
+When numbers are stored in an array using a hash function, it's called a hash table.
+The main goal of this technique is to reduce time complexity for search operations.
+
+Hash tables can be used to improve efficiency in searching and storing data.
+
+In the context of algorithms and computer science, hashing is used as a fundamental technique.
+
+Different types of data structures like arrays, linked lists, trees, and graphs all utilize various concepts related to hashing.
+
+Understanding hashing is essential for efficient data storage and retrieval.
+It's also crucial for sorting algorithms, particularly comparison-based sorting algorithms.
+
+The provided transcript outlines the topics covered in the course, including analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, linked lists, stacks and queues, trees, heaps, graphs, and hashing.
+
+Each topic builds upon previous concepts to provide a comprehensive understanding of data structures and algorithms.
+
+For students enrolled in this course, mastering these topics will be essential for success.

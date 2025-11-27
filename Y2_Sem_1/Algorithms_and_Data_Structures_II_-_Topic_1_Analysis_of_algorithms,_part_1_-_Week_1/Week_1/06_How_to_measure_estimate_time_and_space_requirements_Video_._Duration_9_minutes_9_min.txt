@@ -1,0 +1,46 @@
+# How to measure/estimate time and space requirements
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/KfrRJ/how-to-measure-estimate-time-and-space-requirements
+
+The provided transcript appears to be a course lecture or textbook on algorithms and computer science, specifically covering the topic of analyzing algorithms and estimating time and space requirements.
+
+To provide a better understanding of the content, I will summarize the main points from the transcript:
+
+**Topic 1: Analysis of algorithms**
+
+* The importance of analysis in algorithms
+* Estimating time complexity (Big O notation)
+* Space complexity
+
+The lecture covers various methods for analyzing algorithms, including:
+
+* Counting up time and space units
+* Growth of functions
+* Comparing algorithms with respect to the speed of computers (faster computer vs. faster algorithm)
+
+**Topic 2: Recursive algorithms**
+
+* Introduction to recursive algorithms
+* Types of recursion (e.g., tail recursion)
+* Examples of recursive algorithms
+
+**Topic 3-10: Various algorithm topics**
+
+These sections cover more specific topics in algorithms, such as:
+
+* Sorting algorithms (comparison and non-comparison)
+* Data structures like linked lists, stacks, queues, trees, heaps, and graphs
+* Hashing and its applications
+
+The lecture also touches on the importance of understanding time and space complexity in algorithm design.
+
+**Additional topics**
+
+* The RAM model (an abstraction for modeling memory)
+* Estimating time and space requirements
+* Exam preparation
+
+Overall, the transcript provides an overview of various algorithm topics, emphasizing the importance of analyzing algorithms to determine their efficiency.

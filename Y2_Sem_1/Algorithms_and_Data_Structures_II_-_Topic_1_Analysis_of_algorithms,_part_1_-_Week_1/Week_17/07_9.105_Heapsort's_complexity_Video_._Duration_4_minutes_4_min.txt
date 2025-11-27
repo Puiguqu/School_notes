@@ -1,0 +1,16 @@
+# 9.105 Heapsort's complexity
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/QQ206/9-105-heapsorts-complexity
+
+Unfortunately, it is not possible to summarize this text as there are no technical details or key information provided within it. The provided text appears to be a video transcript of a lecture about heaps and heapsort algorithm.
+
+However, I can provide a summary of the content that can be inferred from the outline:
+
+1. The lecture covers four heap operations: Insert, Extract-max, Max-heapify, and Build-heap.
+2. Heapsort is an algorithm based on these operations.
+3. To analyze the time complexity of heapsort, the pseudocode of build-max-heap and extract-max are discussed.
+
+Unfortunately, no specific formulae or links can be provided as there is limited information available in the text.

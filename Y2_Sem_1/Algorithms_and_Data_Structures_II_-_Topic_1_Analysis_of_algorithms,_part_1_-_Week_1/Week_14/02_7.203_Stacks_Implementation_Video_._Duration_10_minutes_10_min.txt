@@ -1,0 +1,46 @@
+# 7.203: Stacks: Implementation
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/gTs0l/7-203-stacks-implementation
+
+It appears to be a transcript of an online lecture or course on computer science and algorithms. The text is divided into topics and weeks, and each topic has a corresponding video, practice assignment, and reading.
+
+Here's a summary of the content:
+
+**Topic 7: Linked Lists, Stacks, and Queues**
+
+* Week 13: Introduction to linked lists
+	+ Video: "Linked Lists, Stacks, and Queues: Introduction" (5 minutes)
+	+ Practice Assignment: "Linked Lists, Stacks, and Queues: Introduction Practice"
+* Week 14: Implementation of linked list stacks and queues
+	+ Video: "Linked Lists, Stacks and Queues, part 2 - Stack implementation" (10 minutes)
+	+ Practice Assignment: "Linked Lists, Stacks and Queues, part 2 - Stack implementation Practice"
+* Week 15-21: Additional topics on linked lists, stacks, queues, trees, heaps, graphs, and review for the exam
+
+**Practice Assignments**
+
+There are several practice assignments assigned throughout the course, including:
+
+* "Linked Lists, Stacks, and Queues: Introduction Practice" (Week 13)
+* "Linked Lists, Stacks and Queues, part 2 - Stack implementation Practice" (Week 14)
+* "Queues: Array-based implementation Practice" (Week 15)
+* "Queues: List-based implementation Practice" (Week 16)
+
+**Reading**
+
+There is a recommended reading list throughout the course, including:
+
+* "7.203 Stacks: Implementation"
+* "7.301 Queues: Introduction"
+* "7.303 Queues: Array-based implementation"
+* "7.305 Queues: List-based implementation"
+
+**Mind Map and Peer Grading**
+
+There are also practice assignments that involve creating a mind map and peer-grading, including:
+
+* "Mind map Practice Peer-graded Assignment" (Week 17)
+
+Overall, the course appears to be covering the basics of data structures in computer science, including linked lists, stacks, queues, trees, heaps, graphs, and more.

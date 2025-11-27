@@ -1,0 +1,46 @@
+# 1.010 Counting up time and space units, part 2
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/ivfWH/1-010-counting-up-time-and-space-units-part-2
+
+Here is a summary of the text in 25 sentences:
+
+The RAM model assumes that time units and instructions are executed sequentially.
+
+Simple operations take one time unit, while loops and functions do not.
+
+Memory access takes one time unit as well.
+
+A variable takes one space unit.
+
+An algorithm that searches for a number in an array is analyzed.
+
+The search function takes three input arguments: A (array), N (number of elements in the array), and x (the number to search for).
+
+The function starts by checking if the first element of the array is equal to x, then moves on to the second element, and so on.
+
+If any element matches x, the function returns 1; otherwise, it returns 0.
+
+To analyze the time complexity of the algorithm, the professor discusses the RAM model.
+
+The professor explains that time complexity refers to the amount of time an algorithm takes as the input size increases.
+
+For example, if an algorithm's running time is proportional to n^2, its time complexity is O(n^2).
+
+In contrast, algorithms with a constant time complexity take the same amount of time regardless of the input size.
+
+To calculate the space complexity of an algorithm, the professor discusses Big O notation.
+
+Big O notation gives an upper bound on the number of steps in an algorithm.
+
+For example, if an algorithm's running time is proportional to n^2, its space complexity is also O(n^2).
+
+The professor provides examples and explanations for various algorithms and data structures.
+
+These include recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing algorithms, linked lists, stacks and queues, trees, heaps, graphs, and more.
+
+The professor explains the time and space complexity of each algorithm using Big O notation.
+
+This analysis helps students understand how to optimize algorithms for performance and memory usage.

@@ -1,0 +1,38 @@
+# 7.303 Queues: Array-based implementation
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/bky8K/7-303-queues-array-based-implementation
+
+It appears that this is a transcript of an online lecture or video, possibly from a computer science course. The transcript discusses the implementation of a queue data structure using an array-based approach.
+
+Here's a summary of the main points covered in the transcript:
+
+1. Introduction to queues: A queue is a First-In-First-Out (FIFO) data structure that allows elements to be added to the end and removed from the front.
+2. Implementation using arrays: The lecturer explains how to implement a queue using an array-based approach, which involves allocating an array of fixed size and managing indices to track the position of elements.
+3. Handling array fullness: When the next available index is equal to the front index, it means that the array is full, and the user should be notified not to enqueue any more elements.
+4. Handling empty queue: The lecturer explains how to implement a peek operation that returns the element at the front of the queue by accessing the array using the front index.
+
+The time complexity of all operations in this implementation is θ(1), meaning they take constant time regardless of the size of the array.
+
+The transcript also mentions the following topics:
+
+* Analysis of algorithms
+* Recursive algorithms
+* Comparison sorting algorithms
+* Non-comparison sorting algorithms
+* Hashing
+* Linked lists, stacks, and queues
+* Trees
+* Heaps
+* Graphs
+
+It appears that this is just one topic in a larger course, and the lecturer provides a brief overview of each topic before moving on to the next one.
+
+Some possible questions or discussion topics related to this transcript could include:
+
+* How does the array-based approach compare to other data structures, such as linked lists or vectors?
+* What are some common use cases for queues in computer science?
+* How can you optimize the implementation of a queue to reduce its time complexity?
+* Can you think of any scenarios where a queue might not be the best choice of data structure?

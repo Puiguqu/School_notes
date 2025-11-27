@@ -1,0 +1,36 @@
+# Course syllabus
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/p6BMR/course-syllabus
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The course "Algorithms and Data Structures II" aims to answer fundamental questions about algorithms, data structures, and programming.
+2. The course builds on previously learned topics from Algorithms and Data Structures I.
+3. The first part of the course focuses on algorithms, covering analysis, recursive algorithms, sorting, and searching techniques.
+4. Students will learn how to estimate memory consumption and optimize algorithm performance for big data processing.
+5. Key concepts include choosing the best algorithm for a specific problem, analyzing time and space complexities using Big-O notation.
+6. The second part of the course focuses on data structures, including dynamic linear data structures, hierarchical ones (trees and heaps), and graphs.
+7. Students will learn how to organize data for fast access and modification.
+8. Dynamic linear data structures are studied first, followed by hierarchical ones.
+9. Trees and heaps are explored in more detail, with an emphasis on implementation choices and their consequences.
+10. Graphs are the final topic of study in the second part of the course.
+11. The course has a strong focus on automatically evaluated programming exercises, but students should still code as much as possible to gain deep knowledge.
+12. Upon successful completion, students will be able to choose and justify appropriate data structures and algorithms for specific problems.
+13. They will also express time and space complexities using Big-O notation.
+14. Students will implement standard searching, sorting, and path finding algorithms.
+15. Trees and hash tables are implemented, with an emphasis on implementation choices and their consequences.
+16. Recursive and iterative expressions of solutions to problems are compared and contrasted.
+17. The abstraction of collections is described, relating it to linear collections and recalling basic operations supported by each abstraction.
+18. Students will learn about the art of organizing data for fast access and modification.
+19. The course syllabus covers topics such as algorithm analysis, recursive algorithms, sorting, searching, trees, heaps, graphs, and data structures.
+20. The course aims to provide students with a deep understanding of algorithms and data structures, enabling them to make informed decisions when solving problems.
+21. The course is designed to be challenging, but rewarding for those who are willing to learn and code extensively.
+22. Students should expect to work on a range of problems, from basic to advanced, to develop their skills in algorithmic thinking and problem-solving.
+23. The course will cover a wide range of topics, including data structures, algorithms, and programming techniques.
+24. By the end of the course, students will be able to apply their knowledge to real-world problems and develop effective solutions.
+25. Overall, the course aims to equip students with the skills and knowledge needed to succeed in computer science and related fields.
+
+Note: The original text was a long and dense description of the course content, but I condensed it into 25 sentences while preserving the key information and technical details.

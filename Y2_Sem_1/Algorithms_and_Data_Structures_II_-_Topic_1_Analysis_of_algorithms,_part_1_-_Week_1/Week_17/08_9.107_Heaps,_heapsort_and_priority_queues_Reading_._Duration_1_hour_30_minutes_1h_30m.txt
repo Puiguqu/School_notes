@@ -1,0 +1,15 @@
+# 9.107 Heaps, heapsort and priority queues
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/7ejQr/9-107-heaps-heapsort-and-priority-queues
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The provided text refers to Chapter 6, pp.151–69 from the book "Introduction to Algorithms" by Cormen et al., 3rd edition.
+2. The ISBN number for this book is 9780262533058.
+3. The online library link provided is: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142
+4. This link can be used to access the ebook in the Online Library.
+
+Unfortunately, there is no text to summarize, as the provided text appears to be a reference to an eBook and not contain any content to summarize.

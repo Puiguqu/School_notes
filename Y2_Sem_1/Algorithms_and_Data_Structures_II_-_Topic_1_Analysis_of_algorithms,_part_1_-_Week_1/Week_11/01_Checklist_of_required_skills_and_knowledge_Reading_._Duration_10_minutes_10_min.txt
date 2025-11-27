@@ -1,0 +1,36 @@
+# Checklist of required skills and knowledge
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/hfWQY/checklist-of-required-skills-and-knowledge
+
+Here is a summary of the text in 25 sentences:
+
+1. To complete Coursework 1 Assignment, one needs to develop skills and knowledge in algorithms, recursion, sorting, and hashing.
+2. General skills required for Coursework 1 include pseudocode writing and interpretation, complexity analysis, and problem-solving.
+3. Learning outcomes for Coursework 1 include calculating time complexity, recommending the best algorithm, and creating an algorithm based on hash concepts.
+4. Analysis of Algorithms requires knowledge of Big-O, Omega, and Theta notations, as well as understanding constant, linear, logarithmic, quadratic, and exponential time complexities.
+5. Algorithm analysis techniques involve theoretical (analytical) and empirical (experimental) analysis, analyzing design and testing performance.
+6. Pseudocode interpretation involves reading and interpreting pseudocode to analyze time and space complexity.
+7. Time and space complexity calculation involves calculating how much time and memory an algorithm will consume based on its pseudocode structure.
+8. Growth functions describe how resource needs increase with input size.
+9. Recursive Algorithms require knowledge of base and recursive cases, recurrence relations, and methods like the Master Theorem.
+10. Basic examples of recursion include factorial and Fibonacci sequences.
+11. Understanding recursion involves recognizing when recursion is suitable for a problem.
+12. Tracing recursive algorithms involves understanding how algorithm executes through recursive calls.
+13. Converting iterative to recursive algorithms involves writing recursive equivalent in pseudocode.
+14. Time complexity analysis involves calculating best, worst, and average time complexities of each sorting algorithm.
+15. Comparison Sorting Algorithms require knowledge of fundamentals, strengths, and weaknesses of each algorithm.
+16. Understanding non-comparison Sorting Algorithms involves recognizing optimal use cases for counting sort, radix sort, and bucket sort.
+17. Non-Comparison Sorting requires knowledge of constraints and assumptions, such as range limitations in counting sort.
+18. Hashing requires knowledge of basics of hash functions, including what makes a function good for hashing.
+19. Linear probing and other collision resolution techniques have advantages and trade-offs.
+20. Understanding hashing involves recognizing concept of hashing, hash functions, and their applications in data storage and retrieval.
+21. Collision resolution methods involve different techniques such as linear probing, chaining, and quadratic probing.
+22. Implementing non-comparison sorting algorithms involves writing implementations for counting sort, radix sort, and bucket sort.
+23. Analyzing time complexity for non-comparison sorts involves considering constraints and characteristics of each algorithm.
+24. Coursework 1 requires developing skills in pseudocode writing and interpretation, complexity analysis, and problem-solving.
+25. By completing these requirements, one can successfully complete the Coursework 1 Assignment.
+
+Note: I condensed the original text to fit into 25 sentences while maintaining the key points and information.

@@ -1,0 +1,23 @@
+# Week 3 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/9HdtZ/week-3-summary
+
+Unfortunately, there is no text to summarize. The original text appears to be a summary of a course outline or study plan for Week 3, but it does not contain any specific content that can be summarized.
+
+However, I can provide a general overview of the key concepts and findings from recursive algorithms:
+
+Recursive algorithms are a type of algorithmic design that involves a function calling itself to solve smaller instances of a problem. This approach is often used in programming languages and computer science.
+
+To understand and debug recursive processes effectively, one should be able to:
+
+1. Trace and write recursive algorithms
+2. Convert iterative algorithms into their recursive counterparts using pseudocode
+
+Calculating the time complexity of recursive algorithms can provide insight into their efficiency and performance compared to iterative solutions.
+
+The combination of theoretical and practical skills in understanding recursion is essential for comprehensive algorithm design.
+
+If you have any further information or text, I would be happy to help with summarization.

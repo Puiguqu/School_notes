@@ -1,0 +1,27 @@
+# Kruskal's algorithm
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/NYXdS/kruskals-algorithm
+
+I can provide a summary of the text in the format you requested.
+
+**Kruskal's Algorithm**
+
+## Step 1: Introduction to Kruskal's Algorithm
+Kruskal's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, undirected, and weighted graph. It was developed by Jaroslav Kruskal in 1956.
+
+## Step 2: How Kruskal's Algorithm Works
+The algorithm works by sorting all the edges of the graph in non-decreasing order of their weight. Then, it iterates over each edge in the sorted list and adds an edge to the MST if the edge does not form a cycle with the edges already included in the MST.
+
+## Step 3: Example of Kruskal's Algorithm
+Consider a graph with five vertices (A, B, C, D, E) and six edges with weights 1, 2, 2, 4, 5, and 6. The sorted list of edges is [2, 2, 4, 5, 6, 1]. The MST will include the edges with weights 2, 2, and 1.
+
+## Step 4: Time Complexity
+The time complexity of Kruskal's algorithm is O(E log E), where E is the number of edges in the graph.
+
+## Step 5: Space Complexity
+The space complexity of Kruskal's algorithm is O(E), where E is the number of edges in the graph.
+
+The final answer is: $\boxed{1}$

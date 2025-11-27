@@ -1,0 +1,50 @@
+# Week 3 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/5ynwY/week-3-self-evaluation-and-reflection
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. As you progress through your course, it's essential to regularly assess your understanding and capabilities against the learning outcomes.
+2. This exercise is designed to help you reflect on your learning journey, identify areas for improvement, and develop a plan for growth.
+
+3. To evaluate your understanding of Week 3's lessons, use this checklist to assess your knowledge of recursion.
+4. Recursion refers to algorithmic procedures that call themselves repeatedly until a base case is reached.
+5. Understanding recursion is crucial for solving problems in computer science and programming.
+
+6. You can explain the concept of algorithmic recursion using the provided checklist.
+7. A recursive function calls itself, and termination occurs with a base case.
+8. Problems well-suited for recursive solutions often involve partitioning or tree-like structures.
+
+9. Writing recursive algorithms requires understanding the problem's structure and creating a sequence of recursive calls.
+10. You can write a recursive algorithm from scratch using pseudocode or actual code.
+11. Converting an iterative algorithm to its recursive version is also possible with practice.
+
+12. Analyzing recursive algorithms involves calculating time complexity using methods like the Master Theorem or recurrence relations.
+13. Recursion and iteration have trade-offs, including differences in time complexity and memory usage.
+
+14. Identifying common pitfalls in recursive algorithms, such as infinite recursion or inefficient overlapping subproblems, is essential for improvement.
+
+15. The checklist provides a framework for evaluating your understanding of Week 3's lessons.
+16. If you're unsure about any concepts, revisit relevant lecture videos, readings, and activities to reinforce your knowledge.
+
+17. Understanding recursion enables you to apply it confidently to new problems.
+18. This exercise helps you develop a plan for improvement by identifying areas where you need more practice or review.
+
+19. Regular assessments like this one ensure you stay on track with the course material.
+
+20. By completing this exercise, you demonstrate your mastery of recursive algorithms and their applications.
+
+21. You can use this experience to tailor your learning strategy and focus on improving specific skills.
+
+22. The checklist provides a comprehensive overview of the key concepts and skills covered in Week 3.
+
+23. Understanding recursion is critical for tackling complex problems in computer science and programming.
+
+24. This exercise encourages active learning, self-assessment, and reflection on your learning journey.
+
+25. By regularly evaluating your understanding against the learning outcomes, you can refine your knowledge and develop a growth mindset.
+
+Note: There are 25 sentences as requested, but some of them may be similar or repetitive, and not all of them have direct links to specific formulae, technical details, or concepts mentioned in the original text.

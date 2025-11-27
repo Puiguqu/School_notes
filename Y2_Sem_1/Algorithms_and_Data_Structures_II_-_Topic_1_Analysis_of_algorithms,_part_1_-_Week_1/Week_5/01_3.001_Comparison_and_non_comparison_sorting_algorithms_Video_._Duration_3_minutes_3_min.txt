@@ -1,0 +1,54 @@
+# 3.001 Comparison and non comparison sorting algorithms
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/pJpW7/3-001-comparison-and-non-comparison-sorting-algorithms
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The topic of this lecture is sorting, which is arranging data in ascending or descending order.
+2. Sorting algorithms can be classified into two main categories: comparison and non-comparison sorts.
+3. Comparison sorts compare pairs of elements to determine the sorting order.
+4. There are five well-known comparison sorts: Bubble sort, Insertion sort, Selection sort, Quick sort, and Merge sort.
+5. The main characteristic of comparison sorts is that they have a limit to their running time, which cannot be faster than n times log n in the worst case.
+
+6. In contrast, non-comparison sorting algorithms can beat the lower bound of n times log n for comparison sorts.
+
+7. The lecture will focus on three non-comparison sorting algorithms: Counting sort, Radix sort, and Bucket sort.
+
+8. Each of these algorithms has its own strengths and weaknesses.
+
+9. Comparison sorts are not suitable for sorting large volumes of data due to their quadratic running time in the worst case.
+
+10. Recursive Quicksort does not improve on the worst-case performance of comparison sorts.
+
+11. Merge sort is one of the fastest comparison sorts with a running time that grows with n times log n.
+
+12. The lecture will review each of the five well-known comparison sorts before moving to the non-comparison sorting algorithms.
+
+13. The first non-comparison sorting algorithm will be Counting sort, which works by counting the number of occurrences of each element in the array.
+
+14. Radix sort is another non-comparison sorting algorithm that works by sorting elements based on their digits.
+
+15. Bucket sort is a non-comparison sorting algorithm that works by distributing elements into buckets and then sorting them within those buckets.
+
+16. Non-comparison sorting algorithms can run faster than n times log n in the worst case, making them suitable for large datasets.
+
+17. The lecture will also cover hashing, linked lists, stacks and queues, trees, heaps, graphs, and other topics related to sorting algorithms.
+
+18. Each topic will be covered in detail, including examples, practice assignments, and readings.
+
+19. The goal of the lecture is to provide a comprehensive understanding of sorting algorithms and their applications.
+
+20. By the end of the course, students should be able to design and implement efficient sorting algorithms for various use cases.
+
+21. The lecture will cover both theoretical aspects of sorting algorithms and practical implementation details.
+
+22. Students will learn how to analyze the time and space complexity of different sorting algorithms.
+
+23. They will also learn how to compare the performance of different sorting algorithms on real-world datasets.
+
+24. The course will prepare students for more advanced topics in computer science, such as data structures and algorithms.
+
+25. By the end of the course, students should have a solid foundation in sorting algorithms and be able to apply them to solve complex problems.

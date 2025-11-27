@@ -1,0 +1,25 @@
+# 3.201 Quicksort: Demonstration
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/83Uwy/3-201-quicksort-demonstration
+
+Unfortunately, there is no text to summarize as the provided content appears to be a transcript of a lecture on computer science algorithms, specifically Quicksort. The text consists of a video transcript and additional page content that includes links to videos, pseudocode, practice assignments, readings, and more.
+
+However, I can provide a general summary of the key concepts and findings related to Quicksort:
+
+Quicksort is a recursive comparison sorting algorithm that chooses a pivot element from the array and partitions the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted.
+
+The key steps of Quicksort include:
+
+1. Choosing a pivot element from the array.
+2. Partitioning the array into two sub-arrays, one containing elements less than the pivot and one containing elements greater than the pivot.
+3. Recursively sorting the sub-arrays.
+4. Combining the sorted sub-arrays to produce the final sorted array.
+
+The algorithm has an average time complexity of O(n log n), but it can be O(n^2) in the worst case if the pivot is chosen poorly.
+
+There are also links to other algorithms and topics related to sorting, such as Mergesort, Hashing, Linked lists, Trees, Heaps, and Graphs.
+
+If you would like to know more about Quicksort or any of these other algorithms, I can provide more information.

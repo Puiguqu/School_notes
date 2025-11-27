@@ -1,0 +1,92 @@
+# 3.303 Mergesort: Step-by-step execution
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/UlSHV/3-303-mergesort-step-by-step-execution
+
+I'll provide a step-by-step solution to write the pseudocode of the function merge.
+
+## Step 1: Analyze the input arguments of the merge function
+The merge function takes two arrays, `l` and `r`, as its input. These arrays contain already sorted elements from the original array `a`.
+
+## Step 2: Identify the three tasks performed by the merge function
+The three tasks are:
+
+* Copying the already sorted elements between `l` and `mid` to a new array called `l`.
+* Copying the already sorted elements between `mid + 1` and `h`, to a new array called `r`.
+* Comparing the first element of `l` to the first element of `r`, whichever is lowest, gets copied back in the corresponding position in the original array `a`.
+
+## Step 3: Write the pseudocode for each task
+Task 1:
+```
+CREATE a new array l
+l = [ ]
+FOR i FROM 0 TO mid-1 DO
+  l.append(a[i])
+END FOR
+```
+
+Task 2:
+```
+CREATE a new array r
+r = [ ]
+FOR i FROM mid+1 TO h DO
+  r.append(a[i])
+END FOR
+```
+
+Task 3:
+```
+IF a[l[0]] < a[r[0]]
+THEN
+  a[mid] = a[l[0]]
+ELSE
+  a[mid] = a[r[0]]
+END IF
+FOR i FROM 1 TO min(mid, length(r))-1 DO
+  IF l[i] <= r[i]
+  THEN
+    a[mid+i] = l[i]
+  ELSE
+    a[mid+i] = r[i]
+  END IF
+END FOR
+```
+
+## Step 4: Combine the pseudocode for all tasks
+Here is the complete pseudocode:
+```
+FUNCTION merge(l, mid, h)
+  CREATE a new array r
+  r = [ ]
+  FOR i FROM mid+1 TO h DO
+    r.append(a[i])
+  END FOR
+  
+  IF length(r) > 0 THEN
+    a[mid+1] = merge(l, mid, length(r)-1)
+  ELSE
+    a[mid+1] = NULL
+  END IF
+  
+  CREATE a new array l2
+  l2 = [ ]
+  FOR i FROM 0 TO mid-1 DO
+    l2.append(a[i])
+  END FOR
+  FOR i FROM 0 TO min(length(l), length(r)) DO
+    IF l2[i] <= r[i]
+    THEN
+      a[mid+i+1] = l2[i]
+    ELSE
+      a[mid+i+1] = r[i]
+    END IF
+  END FOR
+  
+  RETURN
+END FUNCTION
+```
+
+The final answer is: 
+(There is no numerical answer for this problem. The solution is the pseudocode written above.)

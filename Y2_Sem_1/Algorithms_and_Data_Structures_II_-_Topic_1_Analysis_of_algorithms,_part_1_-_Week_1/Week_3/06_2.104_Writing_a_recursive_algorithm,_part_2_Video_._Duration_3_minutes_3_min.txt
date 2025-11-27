@@ -1,0 +1,22 @@
+# 2.104 Writing a recursive algorithm, part 2
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/qCGaC/2-104-writing-a-recursive-algorithm-part-2
+
+Unfortunately, this text does not provide a specific problem or algorithm to be summarized. The transcript appears to be an outline of a course syllabus and lecture notes, covering various topics related to algorithms and computer science.
+
+However, I can summarize the general structure and content of the lecture:
+
+The lecture covers the basics of recursive algorithms, including the concept of delegation, base cases, and tracing algorithms. It explains how to write a recursive linear search algorithm to determine if a number is present in an array.
+
+Key concepts and formulas mentioned include:
+
+* Delegation: breaking down a problem into smaller sub-problems
+* Base case: a condition that stops the recursion when no further action is needed
+* Recursive call: delegating the rest of the work to someone else (in this case, another instance of the algorithm)
+
+No specific mathematical formulas or links are mentioned in the transcript.
+
+If you could provide more context or clarify which specific problem or algorithm you would like me to summarize, I'd be happy to assist you further.

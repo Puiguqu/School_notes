@@ -1,0 +1,15 @@
+# 5.103 Hashing
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/auZNs/5-103-hashing
+
+I'm happy to help you with summarizing the text, but I notice that there is no text provided. The message appears to be a reminder about accessing an ebook from the Online Library and completing reading assignments.
+
+However, I can suggest an alternative approach:
+
+1. You could provide the text from Chapter 11 of "Introduction to Algorithms" by Cormen et al. (2009) and I can assist you in summarizing it.
+2. If you don't have access to the ebook, I can try to find a publicly available version or summary of the relevant chapter.
+
+Please let me know how I can proceed.

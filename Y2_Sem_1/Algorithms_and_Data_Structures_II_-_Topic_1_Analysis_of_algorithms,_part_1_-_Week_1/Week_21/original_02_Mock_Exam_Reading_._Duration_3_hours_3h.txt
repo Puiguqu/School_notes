@@ -1,0 +1,8 @@
+# Mock Exam
+Reading•
+. Duration: 3 hours
+3h
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/gcWb6/mock-exam
+
+### Week 1 Topic 1: Analysis of algorithms, part 1 ### Week 2 Topic 1: Analysis of algorithms, part 2 ### Week 3 Topic 2: Recursive algorithms, part 1 ### Week 4 Topic 2: Recursive algorithms, part 2 ### Week 5 Topic 3: Comparison sorting algorithms, part 1 ### Week 6 Topic 3: Comparison sorting algorithms, part 2 ### Week 7 Topic 4: Non comparison sorting algorithms, part 1 ### Week 8 Topic 4: Non comparison sorting algorithms, part 2 ### Week 9 Topic 5: Hashing, part 1 ### Week 10 Topic 5: Hashing, part 2 ### Week 11 Topic 6: Mid-term coursework time ### Week 12 Mid-term coursework time and submission ### Week 13 Topic 7: Linked lists, stacks and queues, part 1 ### Week 14 Topic 7: Linked lists, stacks and queues, part 2 ### Week 15 Topic 8: Trees, part 1 ### Week 16 Topic 8: Trees, part 2 ### Week 17 Topic 9: Heaps, part 1 ### Week 18 Topic 9: Heaps, part 2 ### Week 19 Topic 10: Graphs, part 1 ### Week 20 Topic 10: Graphs, part 2 ### Week 21 Preparation to the exam - Key concepts review Reading . Duration: 10 minutes 10 min - Mock Exam Reading . Duration: 3 hours 3h - Mock Exam Answers Reading . Duration: 10 minutes 10 min - 2020 Past Exam Reading . Duration: 3 hours 3h - End of course discussion Discussion Prompt . Duration: 20 minutes 20 min ### Week 22 Exam week

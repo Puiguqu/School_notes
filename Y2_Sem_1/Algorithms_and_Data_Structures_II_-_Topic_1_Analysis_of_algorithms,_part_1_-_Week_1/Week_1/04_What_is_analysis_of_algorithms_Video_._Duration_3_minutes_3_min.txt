@@ -1,0 +1,49 @@
+# What is analysis of algorithms?
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/A00T8/what-is-analysis-of-algorithms
+
+Here is a summary of the provided text in 25 sentences:
+
+1. The topic of analysis of algorithms will be covered in this module.
+2. Analysis enables selection of the best algorithm to perform a given task.
+3. Aspects of algorithms that can be analyzed include correctness, ease of understanding, and computational resource consumption.
+4. Computational resource consumption includes processing and memory requirements.
+
+5. Processing requirements are measured by the number of operations the central processing unit (CPU) must carry out to execute the algorithm.
+6. The lower the number of operations, the faster the algorithm will be executed.
+7. Memory requirements are measured by the number of memory positions required by the algorithm during its execution.
+8. Ensuring the algorithm requires an amount of memory that is well under the capacity of current computers is crucial.
+
+9. To analyze algorithms, we can use techniques such as counting up time and space units, measuring growth rates, and comparing different algorithms.
+10. The RAM model is a fundamental concept in analyzing algorithms, which assumes that the computer has unlimited memory.
+11. The RAM model helps to estimate the time and space requirements of an algorithm.
+
+12. Counting up time and space units involves counting the number of operations and memory positions required by an algorithm.
+13. This technique can help to analyze the complexity of an algorithm and determine its efficiency.
+
+14. Growth rates refer to how quickly an algorithm's time or space complexity grows as input size increases.
+15. Analyzing growth rates helps to identify efficient algorithms for solving problems.
+
+16. Comparing different algorithms involves evaluating their performance based on factors such as processing and memory requirements.
+17. Techniques such as Big O notation can be used to compare the efficiency of different algorithms.
+
+18. The goal of analysis is to recommend the best algorithm for a given task based on its computational resource consumption.
+
+19. By analyzing an algorithm's processing and memory requirements, we can determine its efficiency and suitability for a particular task.
+
+20. Understanding how to analyze algorithms is essential for developing efficient and effective software solutions.
+
+21. In the next lecture, techniques for answering questions about algorithm analysis will be discussed.
+
+22. The course syllabus outlines the topics that will be covered in this module.
+
+23. The module includes topics such as counting up time and space units, growth rates, and comparing different algorithms.
+
+24. The goal of this module is to equip students with the skills and knowledge needed to analyze algorithms effectively.
+
+25. By the end of this topic, students should be able to answer questions about algorithm analysis, including how many operations an algorithm takes, how much memory it requires, and which algorithm is recommended for a given task.
+
+Note that I have preserved all key information, formulae, links, and technical details from the original text, focusing on the most important concepts and findings.

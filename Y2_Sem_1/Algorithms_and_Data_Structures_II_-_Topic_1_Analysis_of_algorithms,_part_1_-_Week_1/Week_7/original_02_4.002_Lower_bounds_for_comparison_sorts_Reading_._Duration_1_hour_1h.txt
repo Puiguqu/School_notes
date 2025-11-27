@@ -1,0 +1,8 @@
+# 4.002 Lower bounds for comparison sorts
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/ARlo0/4-002-lower-bounds-for-comparison-sorts
+
+Please read the introduction to Chapter 8 and Section 8.1 (pp.191–3) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 4.002 Lower bounds for comparison sorts Please read the introduction to Chapter 8 and Section 8.1 (pp.191–3) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 Mark as completed Dislike Report an issue

@@ -1,0 +1,39 @@
+# End of Topic 5 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/061yX/end-of-topic-5-self-evaluation-and-reflection
+
+Here is a summary of the text in 25 sentences:
+
+1. To assess understanding, use this checklist to evaluate knowledge of Topic 5 concepts.
+2. Regularly reflect on learning journey to identify areas for improvement.
+3. Use lecture videos, readings, and activities to consolidate knowledge if needed.
+4. Conceptual Understanding: Explain hashing concept and its primary applications in data storage and retrieval.
+5. Understand how hash tables are structured and map keys to values.
+6. Describe the challenges posed by collisions in hash tables.
+
+7. Data Methods: Describe different methods used to search for data in hash tables.
+8. Explain how hashing contributes to efficient data searching.
+9. Collision Resolution Methods: Explain concept of collision resolution in hash tables.
+10. Familiarize with various collision resolution methods, including linear probing.
+11. Analyze advantages and limitations of different collision resolution methods.
+
+12. Practical Implementation: Successfully implemented a hash table in C++ using linear probing as the collision resolution method.
+13. Tested hash table implementation to ensure it handles data insertion, retrieval, and collisions effectively.
+14. Critical Reflection: Identify scenarios where hashing and hash tables would be an appropriate data structure.
+15. Confidence in troubleshooting and optimizing hash table implementation is key.
+
+16. Regular self-evaluation and reflection are crucial for learning outcomes.
+17. Use the checklist to evaluate understanding of Topic 5 concepts.
+18. If unsure, revisit relevant lecture videos, readings, and activities to consolidate knowledge.
+
+19. Hashing concept and its primary applications in data storage and retrieval are essential.
+20. Understanding hash table structure and collision resolution methods is critical.
+21. Different data search methods and their applications in hash tables need to be understood.
+22. Collision resolution methods, such as linear probing, must be analyzed for advantages and limitations.
+
+23. Successful implementation of a hash table in C++ with effective collision resolution is important.
+24. Testing hash table implementation ensures it handles various operations correctly.
+25. Confidence in troubleshooting and optimizing hash table implementation is essential for learning outcomes.

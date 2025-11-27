@@ -1,0 +1,52 @@
+# Week 1 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/rIxmo/week-1-self-evaluation-and-reflection
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. Regularly assessing understanding against learning outcomes is crucial for course progress.
+2. The self-evaluation exercise helps reflect on learning journey, identify areas for improvement, and develop a plan for improvement.
+
+3. Understanding theoretical vs. empirical algorithm analysis is essential.
+4. Theoretical analysis examines algorithms' worst-case scenarios, while empirical analysis considers real-world performance.
+
+5. Time complexity analysis determines an algorithm's running time based on its pseudocode.
+6. Memory consumption analysis identifies the memory required by an algorithm given its pseudocode.
+7. Bottlenecks in time and memory usage can be identified for a given algorithm.
+
+8. Growth functions describe how an algorithm's time or memory consumption grows as input size increases.
+9. Deriving growth functions for running time and memory usage is essential for analyzing algorithms' efficiency.
+
+10. Big-O notation describes the upper bound of an algorithm's running time or memory consumption.
+11. Omega notation describes the lower bound of an algorithm's running time or memory consumption.
+12. Theta notation describes the tight bound of an algorithm's running time or memory consumption.
+
+13. Applying these concepts to analyze and compare different algorithms' efficiency is crucial.
+14. Confidently explaining and justifying findings to others is essential for problem-solving.
+
+15. The self-evaluation exercise uses a checklist to evaluate understanding of lessons covered in Week 1.
+
+16. If unsure about any concept or task, revisit relevant lecture videos, readings, and activities to consolidate knowledge.
+
+17. Understanding theoretical vs. empirical algorithm analysis helps identify areas for improvement.
+
+18. Time complexity analysis is essential for determining an algorithm's running time based on its pseudocode.
+
+19. Memory consumption analysis identifies bottlenecks in time and memory usage for a given algorithm.
+
+20. Growth functions describe the growth of an algorithm's time or memory consumption as input size increases.
+
+21. Deriving growth functions for running time and memory usage is essential for analyzing algorithms' efficiency.
+
+22. Big-O notation, Omega notation, and Theta notation are used to describe upper, lower, and tight bounds of an algorithm's running time or memory consumption.
+
+23. Applying these concepts to analyze different algorithms' efficiency requires confident explanation and justification of findings.
+
+24. Regularly assessing understanding against learning outcomes is crucial for course progress and development.
+
+25. The self-evaluation exercise helps identify areas for improvement and develop a plan for improvement, ensuring continued growth and development throughout the course.
+
+Note that there are no links or technical details provided in the original text, so I have not included any of those in this summary.

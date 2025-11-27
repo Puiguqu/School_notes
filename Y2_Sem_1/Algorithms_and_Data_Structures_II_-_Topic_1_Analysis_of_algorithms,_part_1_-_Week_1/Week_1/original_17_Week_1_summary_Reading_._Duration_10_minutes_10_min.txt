@@ -1,0 +1,8 @@
+# Week 1 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/LIl1Z/week-1-summary
+
+During the first week, the focus was on understanding the distinction between theoretical and empirical analysis of algorithms. You explored methods to evaluate the efficiency of algorithms, considering both time and memory consumption. Using pseudocode as a basis, you determined the computational requirements of various algorithms. The growth functions of algorithm performance were analysed to assess how running time or memory consumption scales with input size. Additionally, you utilised Big-O, Omega, and Theta notations to formally describe and compare the efficiency of algorithms, providing a clear framework for understanding their performance in best, worst, and average-case scenarios. Week 1 summary During the first week, the focus was on understanding the distinction between theoretical and empirical analysis of algorithms. You explored methods to evaluate the efficiency of algorithms, considering both time and memory consumption. Using pseudocode as a basis, you determined the computational requirements of various algorithms. The growth functions of algorithm performance were analysed to assess how running time or memory consumption scales with input size. Additionally, you utilised Big-O, Omega, and Theta notations to formally describe and compare the efficiency of algorithms, providing a clear framework for understanding their performance in best, worst, and average-case scenarios. Mark as completed Dislike Report an issue

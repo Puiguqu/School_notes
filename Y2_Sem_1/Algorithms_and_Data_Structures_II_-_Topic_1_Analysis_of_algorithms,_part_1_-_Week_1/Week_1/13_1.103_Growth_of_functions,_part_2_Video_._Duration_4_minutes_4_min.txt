@@ -1,0 +1,36 @@
+# 1.103 Growth of functions, part 2
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/IAB1F/1-103-growth-of-functions-part-2
+
+Here is a summary of the provided text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses how to calculate the growth of an algorithm's running time without counting every single time unit.
+2. A generic constant, C, is used to refer to the time units taken by simple operations.
+3. An example algorithm is presented that calculates the sum of elements in the diagonal of a square matrix with n rows and columns.
+4. The algorithm has four main parts: an initialization phase, a loop phase, a calculation phase, and a return phase.
+5. In the loop phase, there are C0 instructions that take constant time, C1 instructions that take constant time plus another constant multiplied by m, C2 instructions that take constant time plus another constant multiplied by n, and C3 instructions that take constant time plus another constant multiplied by n^2.
+6. The total time complexity of the algorithm is calculated as O(n^2) using Big O notation.
+7. The video transcript also discusses how to measure and estimate the time and space requirements of an algorithm.
+8. The RAM (Random Access Machine) model is used to analyze the time and space complexity of algorithms.
+9. The counting up time and space units exercise helps students understand the concept of big O notation.
+10. Growth functions are a type of function that grows at a certain rate as the input variable increases.
+11. In part 1, the student is asked to identify the growth function for an example function.
+12. In part 2, the student is asked to analyze the time complexity of an algorithm using Big O notation.
+13. The video transcript also covers comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, graphs, and graph theory.
+14. Each topic has a corresponding lecture video, reading material, practice assignments, and quizzes to help students learn and review the material.
+15. The course includes mid-term coursework and an exam at the end of week 10.
+16. The final exam is used to assess the student's understanding of the material covered in the course.
+17. The growth of functions exercise helps students understand how to analyze time complexity using Big O notation.
+18. Recursive algorithms are a type of algorithm that uses recursion to solve problems.
+19. Non-comparison sorting algorithms are a type of sorting algorithm that do not rely on comparisons between elements.
+20. Hashing is a data structure that maps keys to indices in an array for efficient storage and retrieval of data.
+21. Linked lists, stacks, and queues are basic data structures used in computer science.
+22. Trees are a data structure used to store and manipulate large amounts of data efficiently.
+23. Heaps are a specialized tree-based data structure used for efficient sorting and priority queuing.
+24. Graphs are a non-linear data structure used to represent relationships between objects or nodes.
+25. The course provides students with a comprehensive understanding of algorithms, data structures, and computer science concepts, preparing them for a career in software engineering or related fields.
+
+Note: Some sentences were merged or rephrased to fit the 25-sentence limit while preserving the original content and meaning.

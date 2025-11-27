@@ -1,0 +1,54 @@
+# 2.201 Time complexity of recursive algorithms
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/b9SEO/2-201-time-complexity-of-recursive-algorithms
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+The topic begins with an introduction to analyzing recursive algorithms in terms of their running time.
+
+* The time complexity of an algorithm is the asymptotic number of simple operations executed by the algorithm.
+* The Big O, omega, and theta notations are used to express the time complexity of non-recursive algorithms.
+* Now, it's time to apply the same analysis to recursive algorithms using a recursive implementation of the factorial function as an example.
+
+The recursive definition of the factorial function is provided:
+
+* The factorial of n is equal to n times the factorial of (n-1)
+* The factorial of (n-1) is equal to (n-1) times the factorial of (n-2)
+* The factorial of 0 is 1
+
+An algorithmic representation of the recursive algorithm in pseudo-code is provided:
+
+* A constant time instruction
+* A return instruction that escapes the recursion analysis
+* A line with a recursive call, which takes a constant time to execute and involves calculating the factorial of n-1.
+
+To analyze the running time of the recursive algorithm, the following recurrence equation is defined:
+
+t(n) = c4 + t(n-1)
+
+where c4 is a constant.
+
+The recurrence equation describes the running time of the problem of size n in terms of the running time of a smaller input (n-1).
+
+This type of equation appears every time we need to calculate the running time of a recursive algorithm, and it's essential to learn how to solve them.
+
+The master theorem is mentioned as a tool for solving recurrence equations.
+
+In the next lecture, the topic will continue with analyzing algorithms, part 2, and then move on to recursive algorithms, part 1.
+
+The practice assignment for week 2.201 is provided, which covers time complexity of recursive algorithms.
+
+A video on solving recurrence equations is available.
+
+A practice assignment for solving recurrence equations is also provided.
+
+Later in the topic, there are more videos, practice assignments, and readings related to recursive algorithms and their analysis.
+
+There's also a summative assessment [001] for Topic 2.
+
+The topic concludes with a mind map practice peer-graded assignment and the end of Topic 2 video.
+
+Overall, this topic covers time complexity of recursive algorithms, recurrence equations, and solving them using the master theorem.

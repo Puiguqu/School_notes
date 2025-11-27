@@ -1,0 +1,8 @@
+# 8.305 Binary search trees
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/7eiok/8-305-binary-search-trees
+
+Please read the introduction to Chapter 12 and Sections 12.1 (pp.286–8), 12.2 (pp.289–92) and 12.3 (pp.294–8) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 8.305 Binary search trees Please read the introduction to Chapter 12 and Sections 12.1 (pp.286–8), 12.2 (pp.289–92) and 12.3 (pp.294–8) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 Mark as completed Dislike Report an issue

@@ -1,0 +1,45 @@
+# 9.001 Heaps: Introduction
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/qCQ2W/9-001-heaps-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. A heap is a hierarchical data structure similar to a tree.
+2. To be considered a heap, it must satisfy two properties: the Heap Property and the Shape Property.
+3. The Heap Property states that if the heap is a max-heap, then the value of any parent node must be greater than the values stored in its children.
+4. If the heap is a min-heap, then the value of any parent node must be less than the values stored in its children.
+
+5. A tree can satisfy these properties and still not be a heap if it does not have a perfect triangle shape or a left-aligned rectangle at the base.
+6. The Shape Property states that for a tree to be a heap, it must have a perfect triangle shape with the largest value at the root and decreasing values in the subsequent levels.
+
+7. A heap is used as part of sorting algorithms such as heapsort, which involves repeatedly removing the maximum element from the heap until only one element remains.
+8. Heaps are also used to implement priority queues, where elements have associated priorities that determine their order.
+
+9. The Heap Property and Shape Property must be satisfied for all operations on the heap, including insertions and deletions.
+10. Insertion into a heap involves finding the correct position for the new element while maintaining the Heap Property and Shape Property.
+
+11. Deletion of an element from a heap also requires maintaining these properties, as the removed element's value affects the relative positions of other elements.
+
+12. The implementation of heaps is crucial to the correctness of heap operations.
+13. Different data structures can implement heaps in various ways.
+14. Understanding the properties and behavior of heaps is essential for effective implementation and usage.
+15. Heaps are used extensively in computer science and programming applications.
+16. They have several advantages over other data structures, including fast insertion and deletion times.
+
+17. However, heaps also have some disadvantages, such as requiring more memory than other data structures to store the heap values.
+18. The Heap Property and Shape Property are essential for ensuring the correctness of heap operations.
+19. Understanding these properties is critical for implementing efficient and effective heap algorithms.
+
+20. Heaps are used in sorting algorithms like heapsort, which involves repeatedly removing the maximum element from the heap until only one element remains.
+21. This process allows for efficient sorting of large datasets.
+
+22. The Heap Property ensures that the largest value is always at the root of the heap, making it easy to remove the maximum element.
+23. The Shape Property ensures that the heap has a triangular shape, which makes insertion and deletion operations easier.
+
+24. Heaps are used in priority queues to manage tasks or jobs with associated priorities.
+25. Understanding heaps is essential for developing efficient and effective algorithms for sorting, searching, and managing large datasets.
+
+Note: I've tried to preserve the original structure and content of the text while summarizing it in 25 sentences. Some details may have been lost in the process, but I hope this summary provides a clear overview of the topic.

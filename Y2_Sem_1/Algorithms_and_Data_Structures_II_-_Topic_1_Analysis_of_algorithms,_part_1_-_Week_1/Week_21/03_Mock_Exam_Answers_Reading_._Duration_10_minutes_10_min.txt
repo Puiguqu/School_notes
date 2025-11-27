@@ -1,0 +1,16 @@
+# Mock Exam Answers
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/YCjHd/mock-exam-answers
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The mock exam answers are a PDF file that provides solutions to questions on algorithms and data structures. The document has 25 pages, covering various topics such as analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, graphs, and more.
+
+The mock exam covers a range of topics from weeks 1-21, with each week having a specific topic. The document includes answers to questions on algorithms, data structures, and programming concepts.
+
+The duration for reading the mock exam answers is 10 minutes, while the duration for taking the mock exam itself is 3 hours. Additionally, there are links to other resources, such as past exams and course discussions, that can be used for review and preparation.
+
+The document includes a discussion prompt with a duration of 20 minutes, which encourages students to discuss key concepts and share their thoughts on the material covered in the mock exam.

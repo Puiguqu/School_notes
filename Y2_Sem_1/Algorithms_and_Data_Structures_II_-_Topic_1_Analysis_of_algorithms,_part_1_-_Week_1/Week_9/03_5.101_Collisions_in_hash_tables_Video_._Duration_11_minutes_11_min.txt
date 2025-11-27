@@ -1,0 +1,33 @@
+# 5.101 Collisions in hash tables
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/oMJ3i/5-101-collisions-in-hash-tables
+
+To calculate the time complexity of the other two collision resolution techniques, we need to analyze their worst-case scenarios.
+
+**Separate Chaining**
+
+* Best case: O(1) for insertion, search, and deletion when all numbers hash to different buckets.
+* Worst case: O(N) for search and deletion when all numbers hash to the same bucket. This is because we have to traverse the entire linked list in the worst case.
+
+**Chaining with Collisions**
+
+* Best case: O(1) for insertion, search, and deletion when there are no collisions.
+* Worst case: The time complexity depends on the method used to handle collisions. One common approach is to use a linear probe, where we search for an empty slot in a contiguous range of buckets. In this case, the worst-case scenario is O(N) for search and deletion, as we have to traverse the entire linked list in the worst case.
+
+**Hash Table with Chaining**
+
+* Best case: O(1) for insertion, search, and deletion when there are no collisions.
+* Worst case: The time complexity depends on the method used to handle collisions. One common approach is to use a linear probe, where we search for an empty slot in a contiguous range of buckets. In this case, the worst-case scenario is O(N) for search and deletion, as we have to traverse the entire linked list in the worst case.
+
+In summary:
+
+| Collision Resolution Technique | Best Case | Worst Case |
+| --- | --- | --- |
+| Separate Chaining | O(1) | O(N) |
+| Chaining with Collisions | O(1) | O(N) |
+| Hash Table with Chaining | O(1) | O(N) |
+
+Note that these are simplified analyses and there may be additional considerations in practice.

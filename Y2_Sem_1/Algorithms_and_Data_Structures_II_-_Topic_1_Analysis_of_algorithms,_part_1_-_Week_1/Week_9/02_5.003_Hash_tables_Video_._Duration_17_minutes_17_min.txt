@@ -1,0 +1,28 @@
+# 5.003 Hash tables
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/AyFES/5-003-hash-tables
+
+This appears to be a transcript of a lecture on computer science, specifically an introduction to algorithms and data structures. The lecture covers various topics, including:
+
+1. Analysis of algorithms (part 1)
+2. Comparison sorting algorithms (part 1)
+3. Non-comparison sorting algorithms (part 1)
+4. Hashing (part 1)
+5. Hash tables
+6. Linked lists, stacks, and queues (part 1)
+7. Trees (part 1)
+8. Heaps (part 1)
+9. Graphs (part 1)
+
+The transcript also mentions mid-term coursework and preparation for an exam.
+
+Some notable sections of the transcript include:
+
+* The introduction to hashing, including what it is and how it works
+* A discussion on collisions in hash tables and how they are handled
+* An explanation of linked lists, stacks, queues, trees, heaps, and graphs
+
+The lecture appears to be a comprehensive introduction to algorithms and data structures, covering both fundamental concepts and more advanced topics.

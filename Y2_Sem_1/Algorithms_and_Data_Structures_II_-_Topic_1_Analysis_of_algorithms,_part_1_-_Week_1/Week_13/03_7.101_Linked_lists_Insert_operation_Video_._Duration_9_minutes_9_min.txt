@@ -1,0 +1,33 @@
+# 7.101 Linked lists: Insert operation
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/uOdTj/7-101-linked-lists-insert-operation
+
+It appears that the text is a transcript of an online lecture or course on computer science, specifically covering the topic of data structures.
+
+The lecture appears to be discussing linked lists, including:
+
+1. Introduction to linked lists
+2. Insertion operation (7.101)
+3. Delete operation (7.103)
+4. Summary (7.105)
+
+There is also a formative exercise (7.107) and a practice assignment (7.104).
+
+The lecture also mentions other topics, such as:
+
+1. Trees (8.1-8.2)
+2. Heaps (9.1-9.2)
+3. Graphs (10.1-10.2)
+
+Additionally, there is a week-by-week schedule of topics and exercises.
+
+Some key points mentioned in the transcript include:
+
+* Linked lists have a time complexity of O(1) for insertion and deletion operations.
+* The insertion operation involves creating a new node and updating the pointers of adjacent nodes.
+* The delete operation involves finding the node to be deleted, removing it from the list, and updating the pointers of adjacent nodes.
+
+Overall, this transcript appears to provide an overview of linked lists, including their structure, operations, and relationships to other data structures.

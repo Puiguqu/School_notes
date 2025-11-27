@@ -1,0 +1,38 @@
+# 3.102 Insertion sort: Pseudocode
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/TdS3B/3-102-insertion-sort-pseudocode
+
+Here is a transcript of an analysis of the time complexity of insertion sort:
+
+**Time Complexity Analysis of Insertion Sort**
+
+Insertion sort is a simple sorting algorithm that works by iterating through a list one element at a time, inserting each element into its proper position within the previously sorted portion of the list.
+
+To analyze the time complexity of insertion sort, we need to consider both the best-case and worst-case scenarios.
+
+**Best-Case Scenario**
+
+In the best case, the list is already sorted, and we only need to iterate through it once. In this scenario, the time complexity of insertion sort is O(n), where n is the number of elements in the list. This is because we are essentially just copying the existing elements into their correct positions.
+
+**Worst-Case Scenario**
+
+In the worst case, the list is sorted in reverse order, and we need to iterate through it from the beginning and end simultaneously. In this scenario, the time complexity of insertion sort is O(n^2), where n is the number of elements in the list. This is because for each element, we have to find its proper position within the rest of the list, which takes O(n) time.
+
+**Average-Case Scenario**
+
+In the average case, the list is partially sorted, and we need to iterate through it multiple times to achieve optimal performance. In this scenario, the time complexity of insertion sort is still O(n^2), but with a smaller constant factor than in the worst-case scenario.
+
+**Comparison to Other Sorting Algorithms**
+
+Insertion sort has a relatively simple implementation and is suitable for small datasets or nearly sorted lists. However, it performs poorly on large datasets or lists that are highly unsorted. In comparison to other sorting algorithms like quicksort or mergesort, insertion sort has a lower average-case time complexity but a higher worst-case time complexity.
+
+**Conclusion**
+
+In conclusion, the time complexity of insertion sort depends on the specific scenario, ranging from O(n) in the best case to O(n^2) in the worst and average cases. While it is not as efficient as other sorting algorithms for large datasets or highly unsorted lists, insertion sort can be a good choice for small datasets or nearly sorted lists due to its simplicity and ease of implementation.
+
+**END TRANSCRIPT**
+
+Note: The transcript provided is an interactive transcript, and some formatting may have been altered for readability.

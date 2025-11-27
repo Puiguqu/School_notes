@@ -1,0 +1,8 @@
+# Mock Exam
+Reading•
+. Duration: 3 hours
+3h - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/gcWb6/mock-exam
+
+### Week 1 Topic 1: Analysis of algorithms, part 1 ### Week 2 Topic 1: Analysis of algorithms, part 2 ### Week 3 Topic 2: Recursive algorithms, part 1 ### Week 4 Topic 2: Recursive algorithms, part 2 ### Week 5 Topic 3: Comparison sorting algorithms, part 1 ### Week 6 Topic 3: Comparison sorting algorithms, part 2 ### Week 7 Topic 4: Non comparison sorting algorithms, part 1 ### Week 8 Topic 4: Non comparison sorting algorithms, part 2 ### Week 9 Topic 5: Hashing, part 1 ### Week 10 Topic 5: Has...

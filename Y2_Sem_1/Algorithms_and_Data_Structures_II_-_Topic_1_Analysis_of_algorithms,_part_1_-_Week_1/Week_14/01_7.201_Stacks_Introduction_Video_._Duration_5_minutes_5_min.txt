@@ -1,0 +1,36 @@
+# 7.201 Stacks: Introduction
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/XXilp/7-201-stacks-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture will study the second linear data structure, the stack.
+2. A stack data structure works like a physical stack, where objects can only be inserted at the top.
+3. Unlike linked lists, stacks have constraints to access data stored in them.
+4. The insertion operation in a stack is called a push, and objects can only be removed from the top of the stack.
+5. The removal operation is called pop, and the peek operation returns the value of the element at the top of the stack.
+6. A stack is a linear data structure with important constraints to access the data stored in it.
+7. Two typical uses of stacks are verifying balanced pairs of elements (e.g., parentheses) and undoing actions in inverse chronological order.
+8. For verification, every time an opening parenthesis is found, an element is pushed into the stack, and every time a closing parenthesis is found, an element is removed from the stack.
+9. If the parentheses were balanced, executing the operation empty on the stack would return true; otherwise, it would signal that there's a missing closing parenthesis.
+10. Another use of stacks is undoing actions in inverse chronological order, like pressing "Control-set" in text editors to undo changes.
+11. The system keeps a stack where actions are stored and executes each action by popping them from the stack in reverse chronological order.
+12. To implement a stack, we can use an array or a linked list data structure.
+13. An array-based implementation of a stack is more efficient than a linked list-based implementation for large datasets.
+14. The array-based implementation uses fixed-size arrays to store elements, whereas linked lists use dynamic memory allocation.
+15. A linked list-based implementation of a stack uses nodes to represent elements, where each node has a reference to the next element in the sequence.
+16. Stacks are useful for implementing recursive algorithms, but they also have some limitations due to their LIFO (Last-In-First-Out) ordering.
+17. Heaps are data structures that maintain a balance between tree height and edge weights, making them suitable for priority queues and sorting algorithms.
+18. Graphs are non-linear data structures consisting of vertices connected by edges, which represent relationships between objects.
+19. Trees are a specific type of graph with a single root node and a hierarchical structure, used in data storage, indexing, and searching algorithms.
+20. The lecture will cover trees, heaps, graphs, and other advanced data structures in the next few weeks.
+21. To prepare for the exam, students should review the basics of stacks, queues, trees, heaps, and graphs.
+22. Practice assignments and quizzes are provided to help students reinforce their understanding of these data structures.
+23. The interactive transcript mode allows students to navigate through the lecture materials using basic shortcuts (e.g., pressing the escape key).
+24. The practice assignment section provides a chance for students to complete exercises and get feedback from peers and instructors.
+25. The self-evaluation and reflection section encourages students to reflect on their learning and set goals for improvement.
+
+Note: Some sections, such as the interactive transcript mode, links, and videos, are not included in this summary due to format limitations.

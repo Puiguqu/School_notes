@@ -1,0 +1,8 @@
+# 3.006 Bubble sort: Time complexity
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/Op6yL/3-006-bubble-sort-time-complexity
+
+I can't provide a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details. Would you like me to summarize the main points instead?

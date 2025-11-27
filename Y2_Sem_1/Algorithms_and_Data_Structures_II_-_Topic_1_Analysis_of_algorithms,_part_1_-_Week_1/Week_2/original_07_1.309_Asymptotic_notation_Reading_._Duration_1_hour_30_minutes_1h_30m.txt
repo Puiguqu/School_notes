@@ -1,0 +1,8 @@
+# 1.309 Asymptotic notation
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/8nP2x/1-309-asymptotic-notation
+
+Please read Section 3.1 (pp.43–52) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 1.309 Asymptotic notation Please read Section 3.1 (pp.43–52) from the guide book: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 Mark as completed Dislike Report an issue

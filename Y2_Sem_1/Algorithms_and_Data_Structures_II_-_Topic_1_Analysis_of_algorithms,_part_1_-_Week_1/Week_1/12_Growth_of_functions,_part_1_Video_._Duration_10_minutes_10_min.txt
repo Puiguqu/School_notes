@@ -1,0 +1,26 @@
+# Growth of functions, part 1
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/E352N/growth-of-functions-part-1
+
+This appears to be a transcript of an online course or lecture on computer science, specifically on analysis of algorithms.
+
+The topics covered in this transcript include:
+
+1. Analysis of algorithms, including how to measure and estimate time and space requirements.
+2. The RAM model, which is used to analyze the memory requirements of algorithms.
+3. Growth of functions, which includes understanding how functions grow with input size.
+4. Recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, and graphs.
+
+The course appears to be structured into weekly topics, with a mix of lectures, readings, practice assignments, and quizzes. The lecturer provides explanations, examples, and exercises to help students understand the concepts.
+
+Some key takeaways from this transcript include:
+
+* Analysis of algorithms is crucial in computer science, as it helps determine the computational complexity of an algorithm.
+* Understanding how functions grow with input size is essential for analyzing the time and space requirements of algorithms.
+* The RAM model provides a useful framework for understanding memory requirements and optimizing algorithms.
+* Different sorting algorithms have different strengths and weaknesses, and choosing the right one depends on the specific problem.
+
+Overall, this transcript provides a comprehensive overview of analysis of algorithms, which is a fundamental topic in computer science.

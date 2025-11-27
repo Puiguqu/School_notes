@@ -1,0 +1,33 @@
+# 9.003 Heaps: Implementation
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/54YS5/9-003-heaps-implementation
+
+This text appears to be a lecture transcript or course syllabus for a computer science course, specifically a programming languages course, with a focus on data structures and algorithms.
+
+The transcript mentions several topics that will be covered throughout the course, including:
+
+* Analysis of algorithms
+* Recursive algorithms
+* Comparison sorting algorithms
+* Non-comparison sorting algorithms (hashing)
+* Linked lists, stacks, and queues
+* Trees
+* Heaps
+* Graphs
+
+The course also includes a midterm exam and an optional practice assignment for each topic.
+
+There are several video lectures included in the transcript, which cover topics such as:
+
+* Introduction to heaps
+* Implementing heaps (multiple videos)
+* Insertion and deletion operations on heaps
+* Heapsort algorithm
+* Complexity analysis of Heapsort
+
+The transcript also includes a reading assignment for Week 7, which covers the basics of heaps.
+
+Overall, this course appears to be designed to teach students about data structures and algorithms, including how to implement common data structures such as heaps, and how to analyze the complexity of algorithms.

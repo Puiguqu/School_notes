@@ -1,0 +1,74 @@
+# Heaps: Insert (element by element)
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/4K3kG/heaps-insert-element-by-element
+
+Here is a summary of the topic: Heaps
+
+## 9.005 Heaps: Introduction Video . Duration: 6 minutes
+
+* Introduction to Heaps
+* Definition and types of Heaps (Binary Heap, MinHeap, MaxHeap)
+* Properties of Heaps
+* Time complexity of Heapsort algorithm
+* Space complexity of Heapsort algorithm
+
+## 9.006 Heaps: Insert (element by element) Video . Duration: 10 minutes
+
+* Insertion into a Binary Heap
+* Introduction to the `insert` operation in a MinHeap
+* Step-by-step solution for inserting an element into a MinHeap
+* Time complexity of the `insert` operation
+
+## 9.007 Heaps: Deletion (extract maximum) Video . Duration: 11 minutes
+
+* Extraction of Maximum element from a MinHeap
+* Introduction to the `delete` operation in a MinHeap
+* Step-by-step solution for extracting the maximum element from a MinHeap
+* Time complexity of the `delete` operation
+
+## 9.008 Heaps: Build in place Video . Duration: 8 minutes
+
+* Building a Heap from an array
+* Introduction to the `build-in-place` operation
+* Step-by-step solution for building a MinHeap from an array
+* Time complexity of the `build-in-place` operation
+
+## 9.101 Heaps: Build in place Video . Duration: 8 minutes
+
+* Rebuilding a Heap after deletion
+* Introduction to the concept of rebuilding a Heap
+* Step-by-step solution for rebuilding a MinHeap after extraction of maximum element
+* Time complexity of the `rebuild-in-place` operation
+
+## 9.102 Heaps: Build in place Practice Assignment . Duration: 30 minutes
+
+* Rebuilding a Heap after deletion (practice assignment)
+
+## 9.103 Heapsort Video . Duration: 5 minutes
+
+* Heapsort algorithm
+* Introduction to the Heapsort algorithm
+* Step-by-step solution for sorting using Heapsort
+
+## 9.104 Heapsort Practice Assignment . Duration: 30 minutes
+
+* Heapsort (practice assignment)
+
+## 9.105 Heapsort's complexity Video . Duration: 4 minutes
+
+* Time and space complexity of the Heapsort algorithm
+* Introduction to Big O notation
+* Explanation of time and space complexity of Heapsort
+
+## 9.106 Heapsort's complexity Practice Assignment . Duration: 30 minutes
+
+* Time and space complexity of the Heapsort algorithm (practice assignment)
+
+## 9.107 Heaps, heapsort and priority queues Reading . Duration: 1 hour 30 minutes
+
+* Heaps, Heapsort, and Priority Queues
+* Introduction to the concepts of Heaps, Heapsort, and Priority Queues
+* Discussion on the applications of Heaps, Heapsort, and Priority Queues

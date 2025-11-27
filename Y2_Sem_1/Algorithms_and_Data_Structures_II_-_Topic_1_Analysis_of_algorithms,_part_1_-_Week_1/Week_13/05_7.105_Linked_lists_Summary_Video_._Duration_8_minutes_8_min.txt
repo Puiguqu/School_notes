@@ -1,0 +1,107 @@
+# 7.105 Linked lists: Summary
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/aikxO/7-105-linked-lists-summary
+
+Here is a summary of the course material:
+
+**Introduction**
+
+* The course covers algorithms and data structures.
+* The first topic is analysis of algorithms.
+
+**Analysis of Algorithms, Part 1**
+
+* Analysis of algorithms involves understanding how to analyze the time and space complexity of an algorithm.
+* This includes breaking down an algorithm into smaller sub-problems and analyzing their solutions.
+
+**Analysis of Algorithms, Part 2**
+
+* This part of the course covers more advanced topics in analysis of algorithms.
+* It includes techniques such as divide-and-conquer, dynamic programming, and greedy algorithms.
+
+**Recursive Algorithms, Part 1**
+
+* Recursive algorithms are a type of algorithm that uses recursion to solve a problem.
+* In this part of the course, we will learn about recursive algorithms and how to analyze their time and space complexity.
+
+**Recursive Algorithms, Part 2**
+
+* This part of the course covers more advanced topics in recursive algorithms.
+* It includes techniques such as memoization and dynamic programming.
+
+**Comparison Sorting Algorithms, Part 1**
+
+* Comparison sorting algorithms are a type of algorithm that sorts an array by comparing elements.
+* In this part of the course, we will learn about different comparison sorting algorithms and how to analyze their time complexity.
+
+**Comparison Sorting Algorithms, Part 2**
+
+* This part of the course covers more advanced topics in comparison sorting algorithms.
+* It includes techniques such as merge sort and quicksort.
+
+**Non-Comparison Sorting Algorithms, Part 1**
+
+* Non-comparison sorting algorithms are a type of algorithm that sorts an array without comparing elements.
+* In this part of the course, we will learn about different non-comparison sorting algorithms and how to analyze their time complexity.
+
+**Non-Comparison Sorting Algorithms, Part 2**
+
+* This part of the course covers more advanced topics in non-comparison sorting algorithms.
+* It includes techniques such as heap sort and bucket sort.
+
+**Hashing, Part 1**
+
+* Hashing is a type of algorithm that uses a hash function to map keys to indices of an array.
+* In this part of the course, we will learn about different hashing algorithms and how to analyze their time complexity.
+
+**Hashing, Part 2**
+
+* This part of the course covers more advanced topics in hashing.
+* It includes techniques such as resizing and collision resolution.
+
+**Linked Lists, Stacks, and Queues**
+
+* Linked lists are a type of data structure that consists of nodes with pointers to other nodes.
+* In this part of the course, we will learn about linked lists, stacks, and queues and how to analyze their time complexity.
+
+* Topics include:
+	+ Introduction to linked lists
+	+ Insertion and deletion operations on linked lists
+	+ Stacks and queues
+
+**Trees**
+
+* Trees are a type of data structure that consists of nodes with child nodes.
+* In this part of the course, we will learn about different types of trees and how to analyze their time complexity.
+
+* Topics include:
+	+ Introduction to trees
+	+ Binary search trees (BSTs)
+	+ Heaps
+
+**Heaps**
+
+* Heaps are a type of data structure that consists of nodes with child nodes.
+* In this part of the course, we will learn about different types of heaps and how to analyze their time complexity.
+
+* Topics include:
+	+ Introduction to heaps
+	+ Binary heaps
+	+ Heapsort
+
+**Graphs**
+
+* Graphs are a type of data structure that consists of nodes with edges.
+* In this part of the course, we will learn about different types of graphs and how to analyze their time complexity.
+
+* Topics include:
+	+ Introduction to graphs
+	+ Graph traversal algorithms (DFS and BFS)
+	+ Shortest paths
+
+**Preparation for the Exam**
+
+* This week is review week before the final exam.

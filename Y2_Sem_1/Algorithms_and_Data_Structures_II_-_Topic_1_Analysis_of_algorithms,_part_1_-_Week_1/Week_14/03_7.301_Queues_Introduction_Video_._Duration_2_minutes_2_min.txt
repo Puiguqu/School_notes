@@ -1,0 +1,45 @@
+# 7.301 Queues: Introduction
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/jxrPq/7-301-queues-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+1. The lecture will study the queue data structure, which is the final linear data structure to be studied in this topic.
+2. A queue works like a real-life queue, where people join at the tail and leave from the front, following a First-In-First-Out (FIFO) principle.
+3. The horizontal arrows represent the direction of elements moving through the queue.
+4. The insertion of a new element into the queue is called enqueue, which adds the element to the end of the queue.
+5. The removal of an element from the queue is called dequeue, which removes the front element.
+6. To look at the content of a queue, you can only examine the element at the front (using the peek operation).
+7. The isempty operation returns true if the queue is empty and false otherwise.
+
+8. A queue is a linear data structure with an important rule: elements are inserted at one end and removed from the other end.
+9. This rule makes queues suitable for applications where processes need to wait in line (e.g., printer servers, web servers, or email servers).
+10. The lecture will study how to implement queues using arrays or linked lists.
+
+11. Arrays are a simple way to implement queues, but may not be efficient for large queues.
+12. Linked lists can be more efficient than arrays for large queues, as they only require updating the front pointer when inserting or removing elements.
+13. There are different types of queue implementations, including array-based and list-based.
+
+14. Array-based implementation is simpler to implement and understand but may be slower due to the need to shift all elements after insertion or removal.
+15. List-based implementation can be more efficient by only updating the front pointer when inserting or removing elements.
+
+16. The lecture will cover the basics of queue operations, including enqueue, dequeue, peek, and isempty.
+
+17. Understanding how queues work is crucial for solving problems involving concurrent processes or jobs that need to wait in line.
+18. Queues are widely used in computer science and programming applications.
+
+19. The lecture will also cover the basics of stacks, which are another fundamental data structure in computer science.
+
+20. Stacks follow a Last-In-First-Out (LIFO) principle, where elements are added and removed from the top of the stack.
+21. Both queues and stacks have applications in real-life scenarios, such as job scheduling or printing documents.
+
+22. The lecture will provide practice assignments and quizzes to help students reinforce their understanding of queue data structures.
+
+23. Students are encouraged to create a mind map to visualize how queues work and identify key concepts.
+
+24. At the end of this topic, students should have a solid understanding of queue data structures, including their applications and implementation details.
+
+25. The lecture will be followed by other topics in computer science, including trees, heaps, and graphs, which build upon the foundation of linear data structures like queues and stacks.

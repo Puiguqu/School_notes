@@ -1,0 +1,41 @@
+# 4.001 The limits of comparison sorts
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/juXVa/4-001-the-limits-of-comparison-sorts
+
+Here is a summary of the text in 25 points:
+
+1. The limits of comparison sorts
+2. Analysis of algorithms
+3. Analysis of algorithms, part 1
+4. Analysis of algorithms, part 2
+5. Recursive algorithms, part 1
+6. Recursive algorithms, part 2
+7. Comparison sorting algorithms, part 1
+8. Comparison sorting algorithms, part 2
+9. Non-comparison sorting algorithms, part 1
+10. Non-comparison sorting algorithms, part 2
+11. Hashing, part 1
+12. Hashing, part 2
+13. Mid-term coursework time
+14. Mid-term coursework time and submission
+15. Linked lists, stacks, and queues, part 1
+16. Linked lists, stacks, and queues, part 2
+17. Trees, part 1
+18. Trees, part 2
+19. Heaps, part 1
+20. Heaps, part 2
+21. Graphs, part 1
+22. Graphs, part 2
+23. Preparation to the exam
+24. Exam week
+
+Additionally, here is a summary of the main points:
+
+* The limits of comparison sorts are analyzed.
+* No comparison sort algorithm can be better than O(n log n) in the worst case.
+* Counting sort, radix sort, and bucket sort are non-comparison sorting algorithms that get linear running times in the worst case.
+
+Note: The provided text appears to be a transcript of a lecture or course material, and it is not possible to condense it into a single summary. The above points summarize the main topics and concepts covered in the text.

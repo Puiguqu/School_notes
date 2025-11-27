@@ -1,0 +1,22 @@
+# 2.401 End of Topic 2
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/wLbcB/2-401-end-of-topic-2
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The course has ended topic 2 on recursion, which covers key concepts in computer science. To review what was covered, create a one-page mind map of the main ideas using free online platforms or paper/ digital tools. The goal is to have a clear summary for exam preparation.
+
+Topic 1: Analysis of algorithms, part 1 and part 2 were covered in weeks 1-2. 
+
+Week 3 introduced recursive algorithms, which included solving recurrence equations (Video 2.201) and practice assignments. 
+
+The master theorem (Video 2.301) was also covered for analyzing the time complexity of recursive algorithms.
+
+After week 4, students reflected on what they learned and received feedback to improve their mind map (Week 4 self-evaluation).
+
+Next topic: comparison sorting algorithms (weeks 5-6), non-comparison sorting algorithms (weeks 7-8), hashing (weeks 9-10), mid-term coursework time (week 11), linked lists, stacks, queues, trees, heaps, and graphs.
+
+The course also included interactive video lectures and practice assignments for each topic.

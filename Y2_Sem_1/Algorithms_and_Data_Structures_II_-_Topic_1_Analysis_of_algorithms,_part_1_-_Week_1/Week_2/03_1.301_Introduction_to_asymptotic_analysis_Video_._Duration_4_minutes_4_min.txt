@@ -1,0 +1,55 @@
+# 1.301 Introduction to asymptotic analysis
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/SCaGm/1-301-introduction-to-asymptotic-analysis
+
+Here is a summary of the text in 25 sentences:
+
+1. The lecture discusses an alternative way of describing the time or memory requirements of an algorithm called asymptotic analysis.
+2. Asymptotic analysis was originally developed by mathematicians to describe functions, but it has been applied to analyze computational requirements of algorithms since its introduction into computer science by Donald Knuth in 1970.
+3. The three notations used in asymptotic analysis are Big-O, Omega, and Theta.
+4. These notations were introduced to study the behavior of a function as its argument tends to infinity.
+5. Asymptotic analysis is used to analyze algorithms when the input data is large.
+
+6. There are two types of algorithms: one that depends only on the input size, and another that depends on both the input size and content.
+
+7. In the first type, the algorithm grows linearly with the input size regardless of its content.
+8. In the second type, we get different expressions for worst, best, and average cases.
+
+9. After analyzing these cases, we realize that constant terms are not significant for large inputs.
+
+10. The Big-O notation is used to describe an upper bound on the growth rate of a function.
+
+11. The Omega notation is used to describe a lower bound on the growth rate of a function.
+
+12. The Theta notation is used to describe both the upper and lower bounds on the growth rate of a function.
+
+13. Asymptotic analysis helps us compare algorithms based on their growth rates.
+
+14. In asymptotic analysis, we ignore constant terms and lower-order terms when analyzing the growth rate of an algorithm.
+
+15. The Big-O notation is used to describe the worst-case scenario for an algorithm.
+
+16. The Omega notation is used to describe the best-case scenario for an algorithm.
+
+17. Theta notation is used to describe both the upper and lower bounds on the growth rate of a function.
+
+18. Asymptotic analysis can be used to analyze the time or memory requirements of an algorithm.
+
+19. In asymptotic analysis, we ignore constant terms and lower-order terms when analyzing the growth rate of an algorithm.
+
+20. The Big-O notation is used to describe the upper bound on the growth rate of a function.
+
+21. The Omega notation is used to describe the lower bound on the growth rate of a function.
+
+22. Theta notation is used to describe both the upper and lower bounds on the growth rate of a function.
+
+23. Asymptotic analysis can be applied to various types of algorithms, including recursive, sorting, hashing, linked lists, trees, graphs, etc.
+
+24. The use of Big-O, Omega, and Theta notations allows us to compare the efficiency of different algorithms.
+
+25. Asymptotic analysis is a crucial tool in computer science for analyzing the efficiency and scalability of algorithms.
+
+Note: I condensed the original text into 25 sentences while trying to maintain the main points and ideas presented in the lecture.

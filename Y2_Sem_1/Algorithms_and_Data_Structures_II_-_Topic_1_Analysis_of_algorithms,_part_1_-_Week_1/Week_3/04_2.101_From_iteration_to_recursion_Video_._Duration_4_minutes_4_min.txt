@@ -1,0 +1,47 @@
+# 2.101 From iteration to recursion
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/QPe1P/2-101-from-iteration-to-recursion
+
+Here is a summary of the provided text in 25 sentences:
+
+1. The lecture discusses the relationship between iterative and recursive algorithms.
+2. An iterative algorithm uses loops to repeat a set of instructions.
+3. A recursive algorithm repeats a set of instructions by calling itself.
+4. Two examples are given: an iterative algorithm printing numbers from n to 0, and a recursive algorithm doing the same.
+
+5. The objective of both algorithms is to repeatedly display or print information on a screen.
+6. Both algorithms must determine an initial condition and when to stop the repetition of code.
+7. The iterative algorithm determines its initial condition by initializing a control variable.
+8. The recursive algorithm determines its initial condition by entering an input argument.
+
+9. Both algorithms verify a condition to continue or stop the repetition of code.
+10. The iterative algorithm uses a control variable to get closer to the value where the repetition stops.
+11. The recursive algorithm updates the values used in the condition by calling itself with a different value.
+
+12. Both algorithms update the number being displayed on the screen.
+13. The choice between iteration and recursion depends on the problem being solved.
+14. Initial conditions, stopping conditions, and updating values are necessary for both algorithms.
+
+15. Recursive solutions can offer a more concise implementation than iterative solutions.
+16. However, recursive solutions are also more difficult to understand and more memory-consuming.
+
+17. Infinite loops or infinite recursion occur when the repetition is not stopped correctly.
+
+18. The structure of recursive algorithms involves a base case and recursive calls.
+
+19. Tracing a recursive algorithm involves analyzing its steps and identifying the base case.
+
+20. Writing a recursive algorithm requires understanding the problem, defining the base case, and implementing the recursive calls.
+
+21. Non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, and graphs are topics covered later in the course.
+
+22. The course includes interactive lectures, videos, practice assignments, and reading materials to help students understand and learn about these topics.
+
+23. Students will have time to reflect on their learning and self-evaluate at the end of each week.
+
+24. A mid-term coursework submission is scheduled, after which the course will focus on preparing for an exam.
+
+25. The course aims to provide a comprehensive understanding of algorithms, including iterative and recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, and more.

@@ -1,0 +1,31 @@
+# 10.103 Dijkstra's algorithm
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/2zcKK/10-103-dijkstras-algorithm
+
+It appears that this is not a transcript of an interactive lecture or conversation, but rather a page content from a textbook or course materials.
+
+However, I can provide a summary of what it seems to be:
+
+This page appears to be part of a computer science course, specifically a section on graph algorithms. It includes information on Dijkstra's algorithm, including:
+
+* A step-by-step explanation of the algorithm
+* An interactive transcript that allows users to navigate through the text using tab and press CTRL + S to save notes
+* Additional pages with topics such as:
+	+ Analysis of algorithms (parts 1 and 2)
+	+ Recursive algorithms (parts 1 and 2)
+	+ Comparison sorting algorithms (parts 1 and 2)
+	+ Non-comparison sorting algorithms (parts 1 and 2)
+	+ Hashing (parts 1 and 2)
+	+ Linked lists, stacks, and queues (part 1 and 2)
+	+ Trees (part 1 and 2)
+	+ Heaps (part 1 and 2)
+	+ Graphs (part 1 and 2)
+	+ Minimum spanning tree
+	+ Kruskal's algorithm
+
+The page also includes information on the exam schedule, with an upcoming exam scheduled for Week 22.
+
+If you'd like to know more about Dijkstra's algorithm or any of the other topics mentioned, feel free to ask!

@@ -1,0 +1,46 @@
+# 2.103 Writing a recursive algorithm, part 1
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/RJC7x/2-103-writing-a-recursive-algorithm-part-1
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The lecture discusses the ideation of recursive algorithms from scratch.
+2. Recursive algorithms can be traced by simulating the execution of each call, but writing them requires a different approach.
+3. A successful approach to ideating recursive algorithms involves ignoring the details of the recursive processing.
+4. This approach is similar to delegating tasks, where one only cares about the result and not how it's achieved.
+
+5. The marble counting problem is used as an example to illustrate this idea.
+6. In this problem, a person takes one marble out of the bag and then delegates the task of counting the remaining marbles to another person.
+7. The delegate does not care about how the task is solved, only that they receive the result.
+
+8. This process continues until the person receiving the task receives an empty bag as input.
+9. At this point, they can simply return the answer "1" as the number of marbles in the bag.
+
+10. To write a recursive algorithm for this problem, one would take the small part of the job (taking one marble out) and delegate the rest (counting the remaining marbles).
+11. The final algorithm would look like this: input bag with marbles, take one marble out, wait for someone else to solve the problem given them the bag with the remaining marbles, return one plus that answer.
+
+12. This recursive algorithm is missing a base case, which occurs when the person receiving the bag receives an empty bag.
+13. The base case would involve returning "1" as the number of marbles in the bag.
+
+14. Another important concept discussed in this lecture is the structure of recursive algorithms.
+15. Recursive algorithms can be represented using a tree-like structure, where each node represents a function call.
+
+16. This structure allows us to visualize how the algorithm executes and understand its behavior.
+
+17. The lecture also discusses tracing recursive algorithms, which involves simulating the execution of each function call.
+18. Tracing recursive algorithms helps us understand how they work and identify any potential issues or inefficiencies.
+
+19. Additionally, the lecture covers writing a recursive algorithm from scratch, including how to handle base cases and recursive calls.
+
+20. It also discusses comparison sorting algorithms, which involve comparing elements in an array to determine their order.
+21. The lecture covers various aspects of comparison sorting algorithms, including time complexity and space complexity.
+
+22. Another topic covered in the lecture is non-comparison sorting algorithms, which do not rely on comparisons to sort data.
+23. This includes algorithms such as hash-based sorting and merging algorithms.
+
+24. The lecture also touches on other topics, including hashing, linked lists, stacks and queues, trees, heaps, graphs, and graph traversal algorithms.
+
+25. Overall, the lecture provides a comprehensive overview of recursive algorithms and their applications in computer science.

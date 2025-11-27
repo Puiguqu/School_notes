@@ -1,0 +1,8 @@
+# 10.106 Graph representation, MST and Dijkstra
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/ZR5i9/10-106-graph-representation-mst-and-dijkstra
+
+Please read: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Chapter 22, pp.589–92, Section 22.1 Representations of graphs Chapter 23, pp.624–42 Chapter 24, pp.658–66, Section 24.3 Dijkstra's algorithm Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 10.106 Graph representation, MST and Dijkstra Please read: Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058]. Chapter 22, pp.589–92, Section 22.1 Representations of graphs Chapter 23, pp.624–42 Chapter 24, pp.658–66, Section 24.3 Dijkstra's algorithm Remember that all the Essential reading for this programme is provided for you. Click the link which will take you directly to the ebook in the Online Library: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142 Mark as completed Dislike Report an issue

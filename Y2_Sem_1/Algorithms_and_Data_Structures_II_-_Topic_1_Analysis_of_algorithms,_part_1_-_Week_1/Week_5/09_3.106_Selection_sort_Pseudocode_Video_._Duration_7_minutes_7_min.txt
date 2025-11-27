@@ -1,0 +1,26 @@
+# 3.106 Selection sort: Pseudocode
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/okM59/3-106-selection-sort-pseudocode
+
+Here is a summary of the transcript:
+
+The speaker is explaining how to analyze the time complexity of algorithms, specifically selection sort.
+
+**Selection Sort**
+
+The speaker demonstrates the pseudocode for selection sort and explains how it works. They show that during the execution of the algorithm, comparisons are performed inside the `inner` loop.
+
+**Time Complexity**
+
+The speaker discusses the worst-case and best-case time complexity of selection sort. The worst-case scenario occurs when the input is in reverse order, resulting in a time complexity of O(n^2). However, if the input is already sorted, the algorithm can perform much better, with a time complexity of O(n).
+
+**Practice Assignments**
+
+The speaker mentions several practice assignments related to algorithms, including bubble sort, insertion sort, and selection sort.
+
+**Mid-term Coursework**
+
+The speaker reminds students that there will be a mid-term coursework assessment in Week 12.

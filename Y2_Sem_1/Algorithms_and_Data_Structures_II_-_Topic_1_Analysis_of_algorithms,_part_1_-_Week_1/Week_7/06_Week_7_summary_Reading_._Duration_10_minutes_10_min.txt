@@ -1,0 +1,18 @@
+# Week 7 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/16oYY/week-7-summary
+
+I'm happy to help you with summarizing the text in 25 sentences. However, I notice that the provided text is quite short and lacks specific details about the key concepts, algorithms, and findings. Nevertheless, I'll attempt to provide a summary based on the general information provided.
+
+1. The week's focus was on exploring the limitations of comparison-based sorting algorithms.
+2. Three non-comparison sorting techniques were introduced: counting sort, radix sort, and bucket sort.
+3. Each algorithm has unique approaches that were identified through practice implementation and analysis.
+4. Comparison-based sorting methods have inherent limits that are not surpassed by non-comparison sorting algorithms.
+5. Non-comparison sorting algorithms can achieve better time complexities than O(n log n) under certain conditions.
+
+Unfortunately, the provided text does not contain any specific information about the algorithms, formulas, links, or technical details. Therefore, I was unable to extract and preserve these details in the summary.
+
+If you could provide more context or clarify what aspects of the algorithms and findings you would like me to focus on, I'll be happy to assist you further.

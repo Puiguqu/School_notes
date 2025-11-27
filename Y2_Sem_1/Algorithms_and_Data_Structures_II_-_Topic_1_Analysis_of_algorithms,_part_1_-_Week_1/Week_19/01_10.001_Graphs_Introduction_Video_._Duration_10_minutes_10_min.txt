@@ -1,0 +1,24 @@
+# 10.001 Graphs: Introduction
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/WAfEK/10-001-graphs-introduction
+
+This is a transcript of an interactive lecture on graph data structures, covering topics such as:
+
+* Introduction to graphs and their types (directed, undirected, weighted, unweighted)
+* Representation of graphs
+* Topologies of graphs (bus, ring, tree, Manhattan, mesh)
+* Analysis of algorithms for graphs (minimum spanning tree, Kruskal's algorithm, Dijkstra's algorithm)
+
+The lecture is structured into 20 weeks, with each week covering a specific topic. The transcript includes interactive elements, such as:
+
+* Pressing the escape key to enable basic transcript mode
+* Using tab to navigate through the transcript
+* Pressing CTRL + S to save notes for a section of text
+* Using CTRL + arrow keys or H J K L keys to expand or contract selections (for screen readers that are incompatible with using arrow keys)
+
+The lecture also includes practice assignments, videos, and pseudocode for Dijkstra's algorithm. The transcript ends with a mention of the upcoming exam on graph representation, MST, and Dijkstra's algorithm.
+
+No specific question is asked in this transcript, but it appears to be a lecture on graph data structures, and the content can be used as a study guide or resource for learning about graphs and their algorithms.

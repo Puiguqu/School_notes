@@ -1,0 +1,39 @@
+# 9.007 Heaps:deletion (extract maximum)
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/0Cb58/9-007-heaps-deletion-extract-maximum
+
+It appears that this is a transcript of a lecture on algorithms and data structures, specifically covering heaps and graph algorithms. The transcript includes a video presentation, practice assignments, and additional materials for each topic.
+
+The topics covered in the lecture include:
+
+* Analysis of algorithms
+* Recursive algorithms
+* Comparison sorting algorithms
+* Non-comparison sorting algorithms (hashing)
+* Linked lists, stacks, and queues
+* Trees
+* Heaps (introduction, implementation, insertion, deletion, building in place)
+* Graphs (part 1 and part 2)
+
+The lecture also includes practice assignments for each topic, which are designed to help students learn and apply the concepts.
+
+Some of the specific topics covered in the transcript include:
+
+* How to implement a heap using an array
+* How to insert elements into a heap
+* How to delete (extract maximum) elements from a heap
+* How to build a heap in place
+* How to implement heapsort
+* The time complexity of heapsort
+
+The lecture also includes some general tips and best practices for solving algorithmic problems, such as:
+
+* Understanding the problem and breaking it down into smaller sub-problems
+* Choosing the right data structure or algorithm for the problem
+* Analyzing the time and space complexity of an algorithm
+* Writing efficient code
+
+Overall, this transcript appears to be a comprehensive lecture on algorithms and data structures, covering a range of topics from basic analysis to advanced data structures.

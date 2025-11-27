@@ -1,0 +1,43 @@
+# Week 2 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/QI6d1/week-2-self-evaluation-and-reflection
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. Regularly assessing understanding and capabilities against learning outcomes is crucial for progress.
+2. This exercise helps reflect on the learning journey, identifies areas for improvement, and develops a plan.
+3. The checklist evaluates understanding of lessons covered in Week 2.
+4. If unsure about concepts or tasks, revisit relevant lecture videos, readings, and activities to consolidate knowledge.
+
+5. Understanding Memory and Time Requirements is crucial, with skills including analyzing pseudocode for time complexity and memory consumption.
+6. Factors affecting time and memory requirements need to be distinguished.
+7. Growth Functions represent an algorithm's performance, and growth functions can be determined for running time and memory consumption.
+
+8. Asymptotic Notation is used to describe upper bounds of an algorithm's running time or memory consumption.
+9. Big-O notation describes the upper bound, Omega notation the lower bound, and Theta notation the tight bound.
+10. Distinguishing between Big-O, Omega, and Theta notations is essential.
+
+11. Applying worst-case analysis can represent algorithms using asymptotic notation.
+12. Best-case analysis also uses asymptotic notation.
+13. Comparing algorithms based on time and memory efficiency can be done using asymptotic analysis.
+
+14. Identifying and analyzing algorithm performance using pseudocode is a skill.
+15. Communicating performance characteristics of an algorithm using asymptotic notation is effective.
+
+16. Regularly assessing understanding and capabilities against learning outcomes helps develop a growth mindset.
+17. This exercise encourages reflection on the learning journey and identifies areas for improvement.
+18. Developing a plan for improvement ensures continuous progress and growth.
+19. Understanding Memory and Time Requirements is essential for optimizing algorithm performance.
+20. Growth Functions are crucial for analyzing an algorithm's performance.
+
+21. Asymptotic Notation provides a framework for describing upper bounds of an algorithm's running time or memory consumption.
+22. Big-O notation is used to describe the worst-case scenario, Omega notation the best-case scenario, and Theta notation the average case.
+23. Distinguishing between these notations ensures accurate analysis and communication.
+
+24. Applying worst-case and best-case analysis allows for comparison of algorithms based on their time and memory efficiency.
+25. Regularly assessing understanding and capabilities against learning outcomes helps develop a growth mindset and ensures continuous progress and growth.
+
+Note: There is no explicit formula, link, or technical detail provided in the text. The summary focuses on summarizing key concepts, skills, and findings related to algorithm analysis and performance evaluation.

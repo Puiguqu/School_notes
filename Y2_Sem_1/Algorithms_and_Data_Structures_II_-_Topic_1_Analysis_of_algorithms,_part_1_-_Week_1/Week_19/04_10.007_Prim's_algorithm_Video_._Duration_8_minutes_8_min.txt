@@ -1,0 +1,44 @@
+# 10.007 Prim's algorithm
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/uvWvU/10-007-prims-algorithm
+
+Here is a condensed version of the provided text:
+
+**Prim's Algorithm**
+
+Prim's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a graph. The MST of a graph is the subgraph that connects all vertices together with the minimum total edge weight.
+
+The algorithm works as follows:
+
+1. Start at an arbitrary vertex v in the graph.
+2. Initialize an empty set S containing only v.
+3. Create an empty list L to store the edges of the MST.
+4. While |S| < V (where V is the number of vertices in the graph):
+   - Find the minimum-weight edge e = (u, w) such that u is in S and w is not in S.
+   - Add e to L.
+   - Add w to S.
+
+**Pseudocode**
+
+Here is the pseudocode for Prim's algorithm:
+
+1. INPUT: Graph G = (V, E), where V is a set of vertices and E is a set of edges.
+2. Choose an arbitrary vertex v in V.
+3. Initialize an empty set S containing only v.
+4. Create an empty list L to store the edges of the MST.
+5. While |S| < V:
+   - Find the minimum-weight edge e = (u, w) such that u is in S and w is not in S.
+   - Add e to L.
+   - Add w to S.
+
+**Implementation**
+
+The implementation of Prim's algorithm depends on the representation used to store the graph. The pseudocode provided is very general and can be applied to different graph representations.
+
+**Notes**
+
+* The pseudocode is more abstract than previous algorithms because the representation used to store the graph affects the specific way you code your algorithms.
+* This lecture will review the pseudocode of Kruskal's algorithm in the next week.

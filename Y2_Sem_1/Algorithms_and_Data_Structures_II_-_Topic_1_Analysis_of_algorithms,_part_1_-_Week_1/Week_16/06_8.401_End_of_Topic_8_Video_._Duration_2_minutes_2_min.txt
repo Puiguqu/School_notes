@@ -1,0 +1,26 @@
+# 8.401 End of Topic 8
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/Jo24j/8-401-end-of-topic-8
+
+Unfortunately, the provided text is not a specific article or passage that needs summarization. Instead, it appears to be an outline of a course structure and topics covered in a series of video lectures.
+
+However, I can provide a summary of the course topics in 25 sentences:
+
+The course covers various topics in computer science, starting with analysis of algorithms, which is divided into two parts (Weeks 1-2).
+
+Next, recursive algorithms are studied in two parts (Weeks 3-4), followed by comparison sorting algorithms in two parts (Weeks 5-6).
+
+Non-comparison sorting algorithms are covered in two parts (Weeks 7-8), and then the topic shifts to hashing, which is also divided into two parts (Weeks 9-10).
+
+The course takes a break for mid-term coursework and submission (Weeks 11-12).
+
+After that, linked lists, stacks, and queues are studied in two parts (Weeks 13-14), followed by trees in two parts (Weeks 15-16), which includes the study of binary search trees (BSTs).
+
+Specifically, BSTs are covered through a series of videos, practice assignments, and readings (Weeks 15-17). The course also provides a mind map practice peer-graded assignment (Week 17) and an end-of-topic quiz (Week 18).
+
+The course then moves on to the study of heaps in two parts (Weeks 19-20), graphs in two parts (Weeks 21-22), and finally, preparation for the exam takes place.
+
+The final week is designated as "Exam week" (Week 22).

@@ -1,0 +1,29 @@
+# The RAM model
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/PnWTq/the-ram-model
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+The Random Access Machine (RAM) model is used to represent a machine on which algorithms will be executed. The RAM model is a simplified representation of reality, capturing essential aspects of a computer but ignoring unnecessary details.
+
+The central processing unit (CPU) can read and write data from the external environment, such as user input or display output. The CPU also has access to a storage unit, where it can store and retrieve data.
+
+There are four assumptions made in the RAM model:
+
+1. A machine with a single CPU, where instructions are executed sequentially.
+2. Each simple operation takes exactly one unit of time, including numerical operations (e.g., subtraction, sum, multiplication) and control instructions (e.g., conditional branching, function calls).
+3. Loops and functions take longer to execute because they are composed of multiple simple operations.
+4. Memory is unlimited, with no memory hierarchy or different types of storage units.
+
+In the RAM model, every simple variable uses one memory position, regardless of its type. This means an integer value takes only one memory position, while an array of N elements requires N memory positions.
+
+The RAM model provides a framework for analyzing the running time and memory requirements of algorithms. It is used to estimate the number of operations and space required by an algorithm, allowing developers to optimize their code for performance.
+
+The course will cover various topics in computer science, including analysis of algorithms, recursive algorithms, comparison sorting algorithms, non-comparison sorting algorithms, hashing, linked lists, stacks and queues, trees, heaps, graphs, and graph theory.
+
+Throughout the course, students will work on practice assignments and participate in mid-term coursework to assess their understanding of the material. The final exam will be held at the end of the course.
+
+Overall, the RAM model provides a practical framework for analyzing algorithms and optimizing code for performance, making it an essential tool for computer science developers and researchers.

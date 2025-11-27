@@ -1,0 +1,71 @@
+# 4.301 Bucket sort
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/dyso6/4-301-bucket-sort
+
+Based on the provided transcript, here is a summary of the main topics covered in the course:
+
+**Weeks 1-3: Analysis of Algorithms**
+
+* Introduction to analysis of algorithms
+* Worst-case and average-case complexity
+* Big O notation
+
+**Weeks 4-6: Comparison Sorting Algorithms**
+
+* Overview of comparison sorting algorithms (e.g. Bubble Sort, Selection Sort)
+* Time and space complexity analysis for each algorithm
+* Trade-offs between time and space complexity
+
+**Weeks 7-8: Non-Comparison Sorting Algorithms**
+
+* Introduction to non-comparison sorting algorithms (e.g. Radix Sort, Bucket Sort)
+* Overview of Radix Sort and its implementation details
+* Worst-case and average-case complexity analysis for Radix Sort
+* Trade-offs between time and space complexity
+
+**Weeks 9-10: Hashing**
+
+* Introduction to hashing and its applications
+* Overview of hash functions and collision resolution techniques
+* Time and space complexity analysis for hashing algorithms
+
+**Weeks 11-12: Mid-term Coursework and Review**
+
+* Mid-term coursework submission and feedback
+* Review of previous topics and practice problems
+
+**Weeks 13-14: Linked Lists, Stacks, and Queues**
+
+* Introduction to linked lists, stacks, and queues
+* Implementation details and use cases for each data structure
+* Time and space complexity analysis for algorithms on these data structures
+
+**Weeks 15-16: Trees**
+
+* Overview of tree data structures (e.g. binary search trees)
+* Implementation details and use cases for each type of tree
+* Time and space complexity analysis for algorithms on trees
+
+**Weeks 17-18: Heaps**
+
+* Introduction to heap data structures
+* Implementation details and use cases for heaps
+* Time and space complexity analysis for algorithms on heaps
+
+**Weeks 19-20: Graphs**
+
+* Overview of graph data structures (e.g. adjacency matrices, adjacency lists)
+* Implementation details and use cases for each type of graph
+* Time and space complexity analysis for algorithms on graphs
+
+**Week 21: Preparation for the Exam**
+
+* Review of previous topics and practice problems
+* Tips for performing well on the exam
+
+**Exam Week**: The final exam will be held during this week, and it will cover all the topics covered in the course.
+
+Note that this summary is based on the transcript provided and may not be exhaustive or entirely accurate.

@@ -1,0 +1,36 @@
+# 8.001 Trees: Introduction
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/mGEgO/8-001-trees-introduction
+
+Here is a summary of the text in 25 sentences, preserving key information and technical details:
+
+1. The topic begins with an introduction to nonlinear data structures, specifically hierarchical data structures known as trees.
+2. A tree data structure has a root node that points to the first element of the tree, similar to how a linked list has a pointer called head.
+3. In real trees, the root is at the bottom of the tree, making the tree an upside-down tree.
+4. The nodes at the end of the tree are called leaves, and the arrows coming out from one node to another are sometimes called branches.
+5. The analogy of a family tree is used to refer to some nodes in the tree data structure, with the parent node being the node at the beginning of an arrow and the child node being the node at the end.
+6. All nodes on the way back from a node to the root are called ancestors, while all nodes on the way down from a node are called descendants.
+7. Every node in the tree has a depth, which is the number of branches between the root and the node itself.
+8. The depth of children increases by one as you move deeper into the tree (e.g., grandchildren have a depth of 2).
+9. Nodes with the same depth belong to the same level of the tree, with the root belonging to level 0.
+10. The height of the tree is measured by the number of branches from the root to the deepest leaf.
+11. Depending on the problem, every node in a generic tree can have as many children as necessary.
+12. A binary tree is a special type of tree where every node has exactly two children except for nodes in the last level.
+13. Binary trees are drawn with one child to the left of its parent and the other to the right, making them easy to traverse.
+14. The concept of left and right sub-trees applies to binary trees as well.
+15. Inside a sub-tree, you can find other sub-trees, which is reminiscent of recursion.
+16. Recursive algorithms are particularly well-suited for solving problems on binary trees due to their tree-like structure.
+17. The next topic will focus on binary trees in more detail, including traversal methods and implementation.
+18. Depth-first traversal involves visiting a node and then recursively traversing its children before backtracking.
+19. Breadth-first traversal involves visiting all nodes at the current level before moving on to the next level.
+20. There are practice assignments available for both depth-first and breadth-first traversal.
+21. The next topic will cover heaps, which are specialized trees used for efficient sorting and priority queuing.
+22. Heaps have a unique structure that allows them to maintain the property of "heap-ness" (i.e., the smallest element is always at the root).
+23. Graphs are another important data structure in computer science, representing collections of nodes connected by edges.
+24. The course will cover various topics related to graphs, including traversal methods and algorithms for finding paths and connections.
+25. The final weeks will include preparation for the exam and a review of all previous topics covered throughout the course.
+
+Note that I've condensed some information and excluded certain details to fit within the 25-sentence limit.

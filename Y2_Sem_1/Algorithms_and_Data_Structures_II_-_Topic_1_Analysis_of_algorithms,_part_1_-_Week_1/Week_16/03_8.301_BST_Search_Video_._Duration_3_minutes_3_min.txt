@@ -1,0 +1,54 @@
+# 8.301 BST: Search
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/xT6Sq/8-301-bst-search
+
+Here is a summary of the text in 25 sentences:
+
+1. The lecture discusses implementing the operation search in a binary search tree.
+2. The search operation takes advantage of the fact that all numbers less than the root are stored in the left sub-tree, and all numbers greater than the root are stored in the right sub-tree.
+3. This knowledge allows for efficient searching without visiting all nodes in the tree.
+
+4. The lecture uses an example to demonstrate the search process, assuming a search for number 29.
+5. Starting with the root node, it checks if 29 is stored in the root and decides whether to go left or right.
+6. Since 29 is greater than 8, it goes right and repeats the process.
+7. Repeating this process, 29 is found in a leaf node of the sub-tree.
+
+8. The pseudocode for search in a binary search tree is presented.
+9. The code first checks if the tree is empty, returning False if so.
+
+10. If the tree is not empty, the code considers three cases:
+   - If the number being searched for is stored in the root, it returns True.
+   - If the number being searched for is not in the root and less than the root, it searches on the left sub-tree.
+   - If the number being searched for is not in the root and greater than the root, it searches on the right sub-tree.
+
+11. The time complexity of the search operation should be Theta log n due to binary search applied to a tree.
+
+12. However, this condition may not always be met by all binary search trees.
+13. A specific requirement must be met for the binary search tree in order to achieve Theta log n time complexity.
+
+14. This lecture focuses on analyzing algorithms and implementing operations such as search.
+
+15. It is part of an overall topic series covering various algorithmic topics.
+
+16. The lecture series includes analysis, recursive algorithms, sorting algorithms, hashing, linked lists, stacks, queues, trees, heaps, and graphs.
+
+17. Each week covers a specific topic in-depth.
+
+18. Topics include binary search trees, comparison and non-comparison sorting algorithms, hashing, linked lists, stacks, queues, and graph theory.
+
+19. The lecture series includes practice assignments, quizzes, self-evaluation, and reflection exercises.
+
+20. The goal is to equip students with a comprehensive understanding of algorithmic concepts.
+
+21. Throughout the course, students will work on implementing various operations using pseudocode.
+
+22. They will analyze the time complexity of each operation and identify specific requirements for binary search trees.
+
+23. This knowledge will be applied in solving problems related to searching algorithms.
+
+24. Understanding these concepts is crucial for tackling more complex algorithmic challenges.
+
+25. The lecture series aims to provide a solid foundation in algorithms, enabling students to approach programming problems with confidence.

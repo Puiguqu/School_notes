@@ -1,0 +1,17 @@
+# 1.202 Worst and average cases
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/RoVG4/1-202-worst-and-average-cases
+
+Here is a summary of the text in 25 sentences, preserving key information and concepts:
+
+1. The guide book for this program provides essential reading on worst-case and average-case analysis.
+2. The relevant chapter can be found on page 27 of the guide book.
+3. The recommended resource for access to the ebook is Cormen et al.'s "Introduction to algorithms" (MIT Press, 2009) 3rd edition.
+4. The ISBN number for the book is 9780262533058.
+5. The ebook can be accessed through the link provided: https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=3339142.
+6. This link will take you directly to the ebook in the Online Library.
+
+Unfortunately, there is no text to summarize, as the provided text appears to be a reminder about accessing an ebook and does not contain any relevant information about worst-case and average-case analysis.

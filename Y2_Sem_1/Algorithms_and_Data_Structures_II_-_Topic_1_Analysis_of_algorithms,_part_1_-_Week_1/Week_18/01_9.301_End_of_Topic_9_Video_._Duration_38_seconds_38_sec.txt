@@ -1,0 +1,28 @@
+# 9.301 End of Topic 9
+Video•
+. Duration: 38 seconds
+38 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/1jhOi/9-301-end-of-topic-9
+
+There is no text to summarize. The provided text appears to be a transcript of an educational video or lecture, outlining a course schedule and topics to be covered in each week. It does not contain any specific information, formulas, links, or technical details that can be summarized.
+
+However, I can provide a summary of the course structure:
+
+The course consists of 21 weeks, covering various topics in computer science, including:
+
+* Analysis of algorithms (2 weeks)
+* Recursive algorithms (2 weeks)
+* Sorting algorithms (2 weeks)
+* Non-comparison sorting algorithms (2 weeks)
+* Hashing (2 weeks)
+* Linked lists, stacks, and queues (2 weeks)
+* Trees (2 weeks)
+* Heaps (2 weeks)
+* Graphs (2 weeks)
+* A mid-term coursework review week
+* Practice assignments, quizzes, and self-evaluation
+
+The course culminates in a final exam.
+
+If you provide the actual text or information that needs to be summarized, I'd be happy to assist you further.

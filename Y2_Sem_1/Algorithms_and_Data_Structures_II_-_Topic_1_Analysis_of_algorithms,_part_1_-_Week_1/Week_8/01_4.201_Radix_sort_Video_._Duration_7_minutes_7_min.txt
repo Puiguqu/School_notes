@@ -1,0 +1,52 @@
+# 4.201 Radix sort
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/lecture/iryzy/4-201-radix-sort
+
+Here is a summary of the provided text in 25 sentences:
+
+Radix sort is a non-comparison sorting algorithm with a linear worst-case running time.
+
+The algorithm treats numbers as whole and divides them into their digits to sort.
+
+Radix sort starts by sorting the numbers according to the least significant digit, then the second significant digit, and so on.
+
+The algorithm uses a stable sort, which means that if two numbers are repeated, they must appear in the original order.
+
+Counting sort is an example of a stable sort that can be used with Radix sort.
+
+Radix sort makes multiple passes through the array to ensure accurate sorting.
+
+In each pass, the numbers are sorted according to the current digit being considered.
+
+The number of passes required depends on the number of digits in the largest number.
+
+For example, if a number has three digits, Radix sort will make three passes.
+
+After the final pass, the array is sorted and stable.
+
+Radix sort can be used with integer numbers and also with decimal numbers.
+
+The time complexity of Radix sort is O(nk), where n is the number of elements and k is the number of digits in the largest element.
+
+This makes Radix sort efficient for sorting large datasets.
+
+Radix sort is not limited to integers; it can also be used with floating-point numbers.
+
+The algorithm works by distributing the elements into buckets based on their digit values.
+
+Each bucket is then sorted individually using a different sorting algorithm, such as counting sort or insertion sort.
+
+Radix sort has several advantages over other sorting algorithms, including its efficiency and stability.
+
+However, Radix sort may not be suitable for all use cases, particularly those that require exact equality comparisons.
+
+The pseudocode for Radix sort is available online and can be used to implement the algorithm.
+
+To modify counting sort to work with different digits, one must adjust the comparison logic to consider each digit individually.
+
+Radix sort requires careful consideration of its implementation to ensure accurate sorting and stability.
+
+Understanding the trade-offs between Radix sort's efficiency and stability is crucial for selecting an appropriate sorting algorithm.

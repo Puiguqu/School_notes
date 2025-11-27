@@ -1,0 +1,8 @@
+# Week 5 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-algorithms-and-data-structures-2/supplement/PMe5C/week-5-summary
+
+In this week we focused on learning about the underlying approaches and techniques of comparison sorting algorithms. You gained foundational knowledge and skills necessary for evaluating and applying sorting techniques in computational problems. You learned to identify the distinct methods employed by each sorting algorithm, recognising their strengths, weaknesses, and scenarios of optimal use. Practical implementation of the algorithms was also undertaken, enabling a hands-on understanding of their functioning. Furthermore, the concept of time complexity was analysed in detail, allowing you to calculate and compare the efficiency of these sorting methods in terms of their performance across best, worst, and average cases. Week 5 summary In this week we focused on learning about the underlying approaches and techniques of comparison sorting algorithms. You gained foundational knowledge and skills necessary for evaluating and applying sorting techniques in computational problems. You learned to identify the distinct methods employed by each sorting algorithm, recognising their strengths, weaknesses, and scenarios of optimal use. Practical implementation of the algorithms was also undertaken, enabling a hands-on understanding of their functioning. Furthermore, the concept of time complexity was analysed in detail, allowing you to calculate and compare the efficiency of these sorting methods in terms of their performance across best, worst, and average cases. Mark as completed Dislike Report an issue

@@ -1,0 +1,8 @@
+# Two short articles about testing taxonomies
+Reading•
+. Duration: 40 minutes
+40 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/VLAn1/two-short-articles-about-testing-taxonomies
+
+Below you will find links to a series of two short articles discussing a taxonomy of testing. These articles will set you thinking about the different types of testing that are out there. R. L. Glass ' An ancient (but still valid?) look at the classification of testing ', IEEE Software 2(6) Nov-Dec 2008, pp.112-112. R. L. Glass ' A classification system for testing, part 2 ', IEEE Software 26(1) Jan-Feb 2009, pp.104-104. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Two short articles about testing taxonomies Below you will find links to a series of two short articles discussing a taxonomy of testing. These articles will set you thinking about the different types of testing that are out there. R. L. Glass ' An ancient (but still valid?) look at the classification of testing ', IEEE Software 2(6) Nov-Dec 2008, pp.112-112. R. L. Glass ' A classification system for testing, part 2 ', IEEE Software 26(1) Jan-Feb 2009, pp.104-104. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

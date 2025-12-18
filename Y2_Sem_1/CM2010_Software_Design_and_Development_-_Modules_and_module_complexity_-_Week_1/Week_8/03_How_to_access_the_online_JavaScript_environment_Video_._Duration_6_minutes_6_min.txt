@@ -1,0 +1,22 @@
+# How to access the online JavaScript environment
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eZG1g/how-to-access-the-online-javascript-environment
+
+This transcript appears to be a course or tutorial on JavaScript unit testing and testing in general, with a focus on online environments and command-line interfaces. Here's a breakdown of the content:
+
+**Initial section**: The transcript introduces the online JavaScript environment and explains how to access it.
+
+**Practice assignments**: Throughout the course, there are several practice assignments that ask students to try out different concepts and techniques, such as writing unit tests using Mocha with es6 syntax or setting up a node package installer.
+
+**Lab sections**: There are also lab sections where students can try out different tasks, such as testing a web API or working with Git.
+
+**Video lessons**: Each week has a corresponding video lesson that provides additional explanations and examples. These videos cover topics such as defensive coding, debugging, exception handling, secure programming, usability testing, accessibility testing, and more.
+
+**Summary videos**: There are also summary videos at the end of each week that provide an overview of the key takeaways from the lessons.
+
+**Reading materials**: Throughout the course, there are reading materials available that provide additional information on topics such as Git design goals, basic git operations, and GitHub profiles.
+
+The course appears to be structured into 22 weeks, with a mix of video lectures, practice assignments, lab sections, and summary videos. The goal of the course is to teach students how to write unit tests and test software in JavaScript using an online environment.

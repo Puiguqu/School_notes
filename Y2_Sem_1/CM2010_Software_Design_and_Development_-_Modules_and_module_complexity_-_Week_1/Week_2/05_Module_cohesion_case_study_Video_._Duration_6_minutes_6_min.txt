@@ -1,0 +1,28 @@
+# Module cohesion case study
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/1TTth/module-cohesion-case-study
+
+Here is a summary of the module cohesion case study:
+
+**Objective:** To analyze the cohesion within a specific module and identify different types of cohesion present.
+
+**Module:** The module analyzed was a part of a program related to a paint application, specifically handling the 'Toolbar'.
+
+**Types of Cohesion:**
+
+1. **Class Cohesion:** The functions inside the module were related to the dataset of tools in the 'Toolbar', indicating strong class cohesion.
+2. **Logical Cohesion:** Although not explicitly stated as an issue, it was mentioned that some functions could be considered logically similar due to their functionality.
+3. **Consequential Cohesion:** There was a clear relationship between the functions, with each function building upon the previous one (e.g., 'addTool' calling 'addToolIcon').
+
+**Reasoning:**
+
+* The module was well-structured and focused on 'Toolbar' related functionality.
+* All functions within the module were related to the dataset of tools in the 'Toolbar', indicating strong cohesion.
+* There was a clear logical flow between the functions, with each function building upon the previous one.
+
+**Conclusion:**
+
+The module exhibited good cohesion due to its well-defined purpose and consistent structure. The functions within the module worked together logically and sequentially, resulting in a cohesive class. This example demonstrates how to analyze module cohesion and identify different types of cohesion present in a specific module.

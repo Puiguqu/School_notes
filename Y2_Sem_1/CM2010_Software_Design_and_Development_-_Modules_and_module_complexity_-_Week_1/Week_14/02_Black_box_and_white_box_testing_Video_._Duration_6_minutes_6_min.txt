@@ -1,0 +1,36 @@
+# Black box and white box testing
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/ndwod/black-box-and-white-box-testing
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video discusses the difference between black-box testing (also known as glass box or white box testing) and unit testing.
+2. Black-box testing involves treating the system as an unknown entity, where inputs and outputs are known but internal workings are not.
+3. White-box testing, on the other hand, involves knowing the internal contents or implementation of the system.
+4. The video asks if unit testing is an example of black box or white box testing, with a poll to determine the answer.
+5. Unit testing is actually related to both black box and white box testing, as it can be used for both purposes.
+6. Requirements can be specified for both black box and white box testing, although they may differ in scope and detail.
+7. Black-box testing focuses on step-by-step approaches, usability testing, and accessibility testing.
+8. The course is currently focusing on black box testing approaches, including step-by-step testing and usability testing.
+9. The video aims to provide an introduction to the difference between black box and white box testing.
+10. Black-box testing involves identifying inputs, outputs, and potential failure points in a system.
+11. White-box testing involves analyzing the internal structure of a system and its components.
+12. The video emphasizes that understanding requirements is crucial for both black box and white box testing.
+13. Requirements can be shared between black box and white box testing, depending on their scope and detail.
+14. Black-box testing approaches focus on identifying potential issues in a system's inputs, outputs, or interactions.
+15. White-box testing approaches focus on analyzing the internal structure of a system's components and modules.
+16. The video aims to provide an overview of black box and white box testing concepts.
+17. Step-by-step testing involves testing a system by executing its steps in order.
+18. Usability testing involves evaluating a system's user interface and interaction with users.
+19. Accessibility testing involves ensuring a system is accessible to users with disabilities.
+20. The video discusses the importance of understanding requirements for effective black box and white box testing.
+21. Requirements can be used to inform black box testing approaches, such as identifying potential failure points.
+22. White-box testing approaches can also inform requirements specification, such as analyzing internal components and modules.
+23. The video aims to provide an introduction to key concepts in black box and white box testing.
+24. Automated black box testing involves using tools or scripts to automate testing of a system's inputs, outputs, or interactions.
+25. The course will continue to explore the topics of black box and white box testing in future modules.
+
+Note: This summary is based on the provided transcript and may not be an exhaustive list of all key points discussed in the video.

@@ -1,0 +1,36 @@
+# Throw in javascript
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/lY2JW/throw-in-javascript
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses how to throw an exception in JavaScript.
+2. In the previous video, exceptions were handled automatically by the interpreter.
+3. Now, we want to manually throw an exception because something went wrong in our function.
+4. We have a verifyUser function that takes a username and password as parameters.
+5. The function tries to connect to a database, but encounters a problem.
+6. We decide to stop executing the normal flow of the program and throw an exception instead.
+7. To do this, we create a dictionary with a name field and a message field.
+8. The name field is set to "database error" and the message field contains the error message.
+9. This dictionary represents our custom exception type.
+10. We use the "throw" keyword to throw the exception.
+11. Unlike returning an error flag, we're actually stopping the execution of the program.
+12. If we don't explicitly throw the exception, nothing happens, and the function continues as usual.
+13. However, when we do throw the exception, it's caught by the interpreter and handled accordingly.
+14. This demonstrates how manually throwing exceptions can be used to handle errors in our code.
+15. The video transcript also mentions ES6 and its impact on JavaScript exception handling.
+16. Although ES6 may be a bit outdated, it provides good techniques for manual exception handling.
+17. We can also choose to throw built-in exceptions if we're unsure what type of error occurred.
+18. In general, throwing exceptions allows us to handle errors in a more explicit and controlled way.
+19. This is an important aspect of JavaScript programming, as it enables us to write more robust and fault-tolerant code.
+20. The video transcript concludes by emphasizing the importance of understanding exception handling in JavaScript.
+21. By mastering this concept, we can write better software that's less prone to errors and more reliable overall.
+22. Additionally, throwing exceptions allows us to add custom error messages and names to our exceptions.
+23. This enables us to provide more informative error messages to users and diagnose problems more efficiently.
+24. The video transcript also covers other topics related to exception handling, such as debugging and defensive coding.
+25. However, the main focus of this particular video is on manually throwing exceptions in JavaScript.
+
+Note that I've omitted some of the additional page content, links, and technical details from the original text to keep the summary concise.

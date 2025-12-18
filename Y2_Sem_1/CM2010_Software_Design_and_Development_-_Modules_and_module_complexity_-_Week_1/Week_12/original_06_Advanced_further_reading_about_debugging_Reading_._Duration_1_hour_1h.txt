@@ -1,0 +1,8 @@
+# Advanced further reading about debugging
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/pMxD9/advanced-further-reading-about-debugging
+
+This reading is optional, but I hope you find it interesting! Here is an advanced article which summarises some of the state of the art work circa 2016 regarding debugging: Wong, W.E., R. Gao, Y. Li, R. Abreu and F. Wotawa ' A survey on software fault localization ', IEEE Transactions on Software Engineering 42(8) 2016, pp. 707-740. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Advanced further reading about debugging This reading is optional, but I hope you find it interesting! Here is an advanced article which summarises some of the state of the art work circa 2016 regarding debugging: Wong, W.E., R. Gao, Y. Li, R. Abreu and F. Wotawa ' A survey on software fault localization ', IEEE Transactions on Software Engineering 42(8) 2016, pp. 707-740. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

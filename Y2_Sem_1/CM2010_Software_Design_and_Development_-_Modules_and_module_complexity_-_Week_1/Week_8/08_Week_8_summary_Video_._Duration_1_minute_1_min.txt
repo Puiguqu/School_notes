@@ -1,0 +1,20 @@
+# Week 8 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/S5O9Q/week-8-summary
+
+Unfortunately, there is no text provided to summarize. The given text appears to be a video transcript of a learning module on Test-Driven Development (TDD), which includes various topics such as unit testing, web APIs, JavaScript, C++, and Git.
+
+However, I can provide a summary of the TDD topic set in 25 sentences:
+
+The learning objectives covered in Week 8 include setting up a load server, running tests against it, and understanding the elements of the unit testing framework. The focus was on writing unit tests using JavaScript, Mocha, and Chai packages.
+
+The test-driven development workflow was explained, specifically for RESTful Web APIs. The course covered various topics, including learning about Python and C++ software development.
+
+Additionally, the learning module included content on module cohesion, coupling, testing frameworks, and debugging techniques. The video transcript also provided links to practice assignments, labs, and videos on using the online JavaScript environment.
+
+The reading materials for Week 8 include information on accessing the online JavaScript environment, unit testing in Python and C++, and considering factors when testing a web API. There are also practice assignments and lab exercises available for each topic.
+
+Overall, the learning module provided an introduction to Test-Driven Development, covering various programming languages and technologies.

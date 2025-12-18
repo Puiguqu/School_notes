@@ -1,0 +1,33 @@
+# Introduction to unittest in Python
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/rfdMz/introduction-to-unittest-in-python
+
+This is an interactive transcript of a video on "Introduction to unittest in Python". The instructor provides an overview of the unittest module and its usage.
+
+**Section 1: Introduction**
+
+The instructor introduces the topic of unit testing in Python, explaining that it's a way to test individual units of code to ensure they work as expected. They explain that the unittest module is a built-in module in Python that provides a lot of functionality for writing unit tests.
+
+**Section 2: Basic Example**
+
+The instructor shows an example of how to use the unittest module to write two simple unit tests:
+
+1. `test_arithmetic_pass`: This test checks if adding 2 + 2 returns 4.
+2. `test_arithmetic_fail`: This test checks if adding 2 + 2 returns 3 (which it should not).
+
+The instructor explains how to use the `self.assertEqual` method to check for equality between two values.
+
+**Section 3: Running the Tests**
+
+The instructor runs the tests using the `unittest.main()` function, which automatically discovers and runs all test cases in the module. The output shows that `test_arithmetic_pass` passes while `test_arithmetic_fail` fails.
+
+**Section 4: Output Analysis**
+
+The instructor analyzes the output of the tests, highlighting how it provides a clear report on which tests passed or failed, as well as which line(s) of code caused the failure.
+
+**Conclusion**
+
+The instructor summarizes the key points of using the unittest module in Python, including its benefits (e.g., automating testing, providing detailed error reports), and encourages viewers to explore further resources for learning more about unit testing in Python.

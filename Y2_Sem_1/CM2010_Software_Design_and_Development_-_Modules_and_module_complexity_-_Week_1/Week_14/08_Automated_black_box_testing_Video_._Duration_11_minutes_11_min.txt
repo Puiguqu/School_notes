@@ -1,0 +1,28 @@
+# Automated black box testing
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/kGP0M/automated-black-box-testing
+
+This is a transcript of a video lecture on automated black box testing of video games. Here's a summary of the main points:
+
+**Introduction**
+
+* The video introduces the concept of automated black box testing, which involves using software to test video game software without knowing its internal implementation details.
+* Automated testing can be used to ensure that video games meet certain quality standards and identify issues before they are released.
+
+**Case Study: Sims Mobile**
+
+* The video presents a case study on how Electronic Arts uses automated black box testing to test the Sims mobile game.
+* The team creates a simple game-playing bot using an algorithm (A*) to fully explore all possible game paths and identify any flaws or problems with the gameplay experience.
+
+**Key Takeaways**
+
+* Automated black box testing can be used to test video games more efficiently and effectively than human testers alone.
+* The use of A* algorithm allows for exhaustive exploration of all game paths, which would be difficult or impossible for humans to do manually.
+* The results of automated black box testing can inform the development team on areas where further work is needed to improve the gameplay experience.
+
+**Conclusion**
+
+* The video concludes by highlighting the importance of using automated black box testing in the video game industry and how it can help ensure that games meet quality standards.

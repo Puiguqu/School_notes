@@ -1,0 +1,39 @@
+# Introduction to test-driven development
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/WFKh2/introduction-to-test-driven-development
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The topic for week five is test-driven development (TDD), which is not as simple as it seems.
+2. TDD is a dogmatic approach to developing software that involves writing tests before writing code.
+3. The learning objectives for this week are to define what TDD means, identify the process involved in TDD, and critically analyze examples of TDD.
+4. To start with TDD, one needs to understand the concept of unit testing and test-driven development cycles.
+5. Uncle Bob's Three Laws of Test-Driven Development (TDD) are discussed in this week's topic introduction video.
+6. The Three Laws are:
+   - Law 1: "The best way to get started is to write a test that fails."
+   - Law 2: "Write code from the tests."
+   - Law 3: "Refactor mercilessly."
+7. TDD involves writing tests, running them, and then writing code to pass those tests.
+8. The workflow for test-driven development includes writing a simple test-code-test cycle.
+9. To start with TDD, one needs to identify what should be tested in the first place.
+10. The concept of unit testing is discussed, including how it differs from integration testing and system testing.
+11. Unit testing involves testing individual units of code, such as functions or methods.
+12. The duration of each video session for this week's topic introduction is given as 2 minutes, 1 hour, 1 minute, 4 minutes, 30 minutes, 10 minutes, 14 minutes, and 55 seconds.
+13. The practice assignments for this week include writing a short definition of test-driven development, reading on TDD, and performing unit testing in Python.
+14. The practice assignment for this week also includes writing out a simple test-code-test cycle.
+15. To start with TDD, one needs to have a basic understanding of programming concepts such as variables, data types, and control structures.
+16. The concept of defensive coding is discussed, including how it can help prevent common programming errors.
+17. Defensive coding involves writing code that anticipates potential errors or edge cases.
+18. The duration of each video session for the next week's topic introduction is given as 11 minutes.
+19. To start with unit testing in Python, one needs to have a basic understanding of Python programming concepts such as data types, control structures, and functions.
+20. Unit testing in Python involves using libraries such as unittest or pytest to write and run tests.
+21. The practice assignment for this week includes writing a short definition of test-driven development.
+22. To start with unit testing in C++, one needs to have a basic understanding of C++ programming concepts such as data types, control structures, and functions.
+23. Unit testing in C++ involves using libraries such as Google Test or Boost.Test to write and run tests.
+24. The practice assignment for this week includes writing out a simple test-code-test cycle.
+25. To start with TDD, one needs to have a basic understanding of software development concepts such as design patterns, object-oriented programming, and testing frameworks.
+
+Note: Some details, such as the specific links or formulas mentioned in the text, were not preserved due to their format (e.g., they were not provided in a format that could be easily copied and pasted).

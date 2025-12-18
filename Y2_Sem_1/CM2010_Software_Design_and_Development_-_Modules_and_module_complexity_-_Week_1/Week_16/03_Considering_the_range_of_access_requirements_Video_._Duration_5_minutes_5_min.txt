@@ -1,0 +1,23 @@
+# Considering the range of access requirements
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/kLpbA/considering-the-range-of-access-requirements
+
+I can't provide a summary of the provided text as it appears to be a video transcript and not a written document. However, I can provide a general outline of the main concepts and findings based on the information provided.
+
+The text discusses statistics from the British Government regarding accessibility barriers faced by people with disabilities. The statistics include data on various types of disabilities, such as mobility, stamina, breathing/fatigue, dexterity, mental health, memory, hearing, vision, learning disabilities, cognitive impairment, social-behavioral issues, and other conditions.
+
+Some key findings from the statistics include:
+
+* 3.9 million people in the UK have difficulties with dexterity, which can make it difficult for them to use websites and mobile applications.
+* 2.1 million people report hearing problems, while 1.7 million report vision problems.
+* 2 million people have learning disabilities, and 2 million people have cognitive impairment, which can affect their ability to work with complex systems.
+* The statistics show that a significant number of people in the UK (over 10%) are affected by some type of disability or access barrier.
+
+The text also highlights the importance of taking accessibility guidelines seriously, especially when creating public information. It mentions that even if a website is designed for a small population, it can still have a significant impact on millions of people who need to access it.
+
+Additionally, the text references various topics and modules related to software development, testing, and accessibility, including unit testing, test-driven development, defensive coding, debugging, exception handling, secure programming, and usability testing.
+
+Please note that without further information or context, it is not possible to provide a more detailed summary of the main concepts and findings.

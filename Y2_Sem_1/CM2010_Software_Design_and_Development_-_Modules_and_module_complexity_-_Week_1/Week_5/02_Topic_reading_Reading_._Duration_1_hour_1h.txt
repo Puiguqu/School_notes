@@ -1,0 +1,8 @@
+# Topic reading
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/xzzBN/topic-reading
+
+We will direct you to read and work with various texts as the topic progresses, but here are some readings that you can consider at this stage. Click on the links below. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the readings. Basics Three laws of unit-testing: Martin, R.C. 'Professionalism and test-driven development' , IEEE Software 24(3) 2007, pp.32–36. The following special issu...

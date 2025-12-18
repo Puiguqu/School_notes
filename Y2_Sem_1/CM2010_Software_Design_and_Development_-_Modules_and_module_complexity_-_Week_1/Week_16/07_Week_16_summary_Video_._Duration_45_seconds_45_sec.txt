@@ -1,0 +1,22 @@
+# Week 16 summary
+Video•
+. Duration: 45 seconds
+45 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/xAcpt/week-16-summary
+
+There is no text provided to summarize. The provided text appears to be a transcript of a video lecture on accessibility and software development topics, covering various modules and weeks from a course or tutorial series.
+
+However, I can provide a summary of the topics mentioned in the transcript:
+
+1. Accessibility vs. Usability: The instructor explains that accessibility refers to making products usable by people with disabilities, while usability focuses on overall user experience.
+2. Legal and Statistical Aspects of Accessibility Requirements in the UK: The instructor touches upon some legal and statistical aspects of accessibility requirements in the UK.
+3. Module Cohesion and Coupling: The instructor discusses module cohesion and coupling, which are concepts related to software design and development.
+4. Unit Testing: The instructor covers various topics related to unit testing, including Python and C++.
+5. Defensive Coding, Debugging, and Exception Handling: The instructor explains defensive coding, debugging, and exception handling techniques for secure programming.
+6. User Stories: The instructor discusses user stories, which are a way to describe what a product should be able to do.
+7. Black Box and White Box Testing: The instructor covers black box and white box testing methods.
+8. Usability Testing: The instructor explains usability testing as a method to evaluate product usability.
+9. Accessibility Testing: The instructor discusses accessibility testing, including a screen-reader demonstration and legal aspects of accessibility.
+
+There is no specific formulae or technical details mentioned in the transcript. If you have any further questions or would like me to clarify anything, please feel free to ask!

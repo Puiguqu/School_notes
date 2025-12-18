@@ -1,0 +1,62 @@
+# Branching and merging
+Video•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/AhBXG/branching-and-merging
+
+Here is the transcript of the video:
+
+**Basic Git Operations**
+
+[0:00]
+Narrator: "Welcome to our course on git. In this module, we will cover some basic git operations that you can perform in a local repository."
+
+[0:10]
+Narrator: "First, let's create a new git repository. We'll do this by running the command 'git init' in our terminal or command prompt."
+
+[1:00]
+Narrator: "Now, we've created a new repository. Let's add some files to it using the 'git add' command."
+
+[2:00]
+Narrator: "Next, let's commit those changes using the 'git commit' command. We'll specify a message for our commit, like this: 'Initial commit'."
+
+**Branching and Merging**
+
+[5:00]
+Narrator: "Now that we've got our repository set up, let's talk about branching and merging. Branching is a way to create a new line of development in your repository without affecting the main branch."
+
+[6:00]
+Narrator: "To create a new branch, we'll use the 'git branch' command. For example, if we want to create a new branch called 'feature/new-feature', we would run 'git branch feature/new-feature'."
+
+[7:00]
+Narrator: "Now that we've created our new branch, let's switch to it using the 'git checkout' command. We'll run 'git checkout feature/new-feature' to switch to our new branch."
+
+[8:00]
+Narrator: "While on this branch, we can make changes and commit them as usual. Let's say we want to add a new file called 'new-file.txt'. We would add it using 'git add new-file.txt', and then commit it using 'git commit -m 'Added new file'"."
+
+[9:00]
+Narrator: "Now, let's switch back to our main branch using the 'git checkout' command. We'll run 'git checkout master' to switch back to our main branch."
+
+[10:00]
+Narrator: "If we want to merge our changes from the new branch into the main branch, we can use the 'git merge' command. Let's say we want to merge our changes from the 'feature/new-feature' branch into the 'master' branch. We would run 'git merge feature/new-feature'."
+
+[11:00]
+Narrator: "Now that we've merged our changes, let's commit the merge using the 'git commit' command. We'll specify a message for our commit, like this: 'Merged feature/new-feature into master'."
+
+**Clashing Edits**
+
+[12:00]
+Narrator: "Sometimes, when you're working on a branch, you might make changes that conflict with someone else's changes in the main branch. This is called a clashing edit."
+
+[13:00]
+Narrator: "To resolve a clashing edit, we'll need to manually fix the merge. Let's say we've made some changes to a file, and another developer has also made some changes to that same file."
+
+[14:00]
+Narrator: "We can see the conflicting edits by running 'git status'. This will show us which files have conflicts."
+
+[15:00]
+Narrator: "To resolve the conflict, we'll need to edit the file manually and add the non-conflicting parts of our changes. We'll run 'git checkout --theirs feature/new-feature/file.txt' to get the conflicting version of the file."
+
+[16:00]
+Narrator: "Now that we've resolved the conflict, let's commit the merge using the 'git commit' command. We'll specify a message for our commit, like this: 'Resolved clashing edit in feature/new-feature'."

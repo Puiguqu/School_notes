@@ -1,0 +1,19 @@
+# Week 8 reading
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/RALwy/week-8-reading
+
+Here is a summary of the text in 25 sentences:
+
+1. This week's topic involves working with various tools.
+2. A browser-based JavaScript environment will be used for this task.
+3. No installation is required to use the browser-based environment.
+4. If working on a personal machine, instructions on installing necessary tools will be provided later.
+5. Node.js version 12 LTS is recommended for installation.
+6. Mocha and Chai will be used for unit testing.
+7. Full instructions on using these packages will be provided later in the course.
+8. The links to additional resources may be broken; if so, please notify via the Student Portal.
+
+There are no key information, formulae, links, or technical details to summarize as the text appears to be a general announcement of upcoming coursework activities rather than a technical description of specific tools or concepts.

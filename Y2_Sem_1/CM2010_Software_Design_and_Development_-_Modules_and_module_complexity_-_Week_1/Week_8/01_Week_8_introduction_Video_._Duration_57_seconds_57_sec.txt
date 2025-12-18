@@ -1,0 +1,8 @@
+# Week 8 introduction
+Video•
+. Duration: 57 seconds
+57 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/uloCU/week-8-introduction
+
+## VIDEO TRANSCRIPT ## You may navigate through the transcript using tab. To save a note for a section of text press CTRL + S. To expand your selection you may use CTRL + arrow key. You may contract your selection using shift + CTRL + arrow key. For screen readers that are incompatible with using arrow keys for shortcuts, you can replace them with the H J K L keys. Some screen readers may require using CTRL in conjunction with the alt key Welcome to week eight. In this week what we're going to b...

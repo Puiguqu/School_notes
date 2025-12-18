@@ -1,0 +1,16 @@
+# Introduction to assertions
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Rq7gH/introduction-to-assertions
+
+This appears to be a transcript of an online course or lecture on software development and testing. The topic is "Assertions" and it covers the concept of assertions, their purpose, types, examples, and best practices for using them.
+
+The transcript mentions that assertions are used to test the state of a program while it's running, and they can help prevent errors by detecting problems early in the development process. It also discusses different ways to handle assertion failures, such as terminating the program, continuing to run with warnings or errors, or catching and handling exceptions.
+
+Throughout the transcript, there are references to various modules and topics that will be covered later in the course, including unit testing, defensive coding, debugging, exception handling, user stories, black box and white box testing, usability testing, accessibility testing, Git design goals, basic Git operations, analyzing Git repositories, GitHub profiles, and FLOSS (Free, Libre, and Open-Source Software).
+
+The transcript also mentions that there will be practice assignments and readings assigned to each topic, and that students are encouraged to find examples of famous public software failures and discuss whether assertions could have prevented them.
+
+Overall, this course appears to be teaching software development and testing best practices, with a focus on using assertions effectively in the development process.

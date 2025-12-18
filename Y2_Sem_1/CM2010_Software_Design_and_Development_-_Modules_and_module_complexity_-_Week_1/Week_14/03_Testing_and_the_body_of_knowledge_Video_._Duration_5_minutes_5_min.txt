@@ -1,0 +1,36 @@
+# Testing and the body of knowledge
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/306Tn/testing-and-the-body-of-knowledge
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript introduces testing and defines it as an activity where a system or component is executed under specified conditions.
+2. The definition of testing comes from the IEEE ISO systems software engineering vocabulary.
+3. Testing is essential to establish whether a software system does what it's supposed to do.
+4. The first part of establishing this is specifying what the system should do, and then testing ensures it meets these requirements.
+5. A key document for testing is the test case specification, which specifies inputs, predicted results, and execution conditions for a test item.
+6. The definition of a test case specification is similar to that of a requirement, as both specify expected outcomes.
+7. Another important document for testing is the test procedure specification, which outlines a sequence of actions for executing a test.
+8. There are ISO standards for software testing documentation, including guidelines for specifying test cases and procedures.
+9. The video transcript provides an Excel file template for writing test procedure specifications, based on these ISO standards.
+10. Testing fits into the software engineering body of knowledge as a key aspect of ensuring software quality.
+11. The body of knowledge includes various sub-areas related to testing, such as unit testing, integration testing, and user acceptance testing.
+12. The video transcript introduces some of these topics in future videos, including unit testing, test-driven development, and exception handling.
+13. Testing is crucial for ensuring the reliability and stability of software systems.
+14. Automated testing can be used to reduce manual testing time and increase test coverage.
+15. Black box and white box testing are two types of testing approaches that differ in their levels of interaction with the system being tested.
+16. White box testing involves examining the internal workings of a system, while black box testing focuses on external inputs and outputs.
+17. Testing can be categorized into various types, including unit testing, integration testing, and acceptance testing.
+18. Test procedure specification templates are available for download, allowing developers to create their own tests.
+19. The video transcript provides links to additional resources, including articles about testing taxonomies and reading materials on software testing.
+20. Factors affecting test effectiveness include the complexity of the system being tested, the skill level of the tester, and the amount of time allocated for testing.
+21. Test procedure specifications can be created using various tools and techniques, including Excel templates and coding languages like Python or C++.
+22. Automated black box testing is used to reduce manual testing effort and increase test coverage.
+23. Testing in video games involves creating automated tests to ensure game stability and performance.
+24. The video transcript provides a summary of the topics covered in previous videos, including testing practice assignments and online exam preparation.
+25. Overall, testing is an essential aspect of software development that ensures the quality and reliability of software systems.
+
+Note: I condensed some of the information from the original text to make it more concise while still preserving the main points.

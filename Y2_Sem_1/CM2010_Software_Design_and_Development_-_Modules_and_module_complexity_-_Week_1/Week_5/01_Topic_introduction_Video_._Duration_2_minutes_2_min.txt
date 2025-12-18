@@ -1,0 +1,20 @@
+# Topic introduction
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/YiMHN/topic-introduction
+
+Unfortunately, I am unable to provide a summary of this text as it appears to be a transcript from an online course and does not contain any specific formulae or technical details. The text is primarily focused on introducing test-driven development (TDD) and its application in various programming languages, including Python, C++, and JavaScript.
+
+Here are the key concepts and findings:
+
+* Test-driven development (TDD) is a software development process that relies on the repetitive cycle of writing automated tests before writing the actual code.
+* The course covers five topics, with this topic being the second one, covering weeks 5-8.
+* The course introduces TDD in three different languages: Python, C++, and JavaScript.
+* Week 1 focuses on introducing TDD and its principles, including the three laws of TDD according to Uncle Bob.
+* Weeks 2-4 cover specific topics related to each language, such as module cohesion and coupling.
+* Weeks 5-9 cover unit testing and test-driven development in various contexts, including Python, C++, JavaScript, defensive coding, debugging, exception handling, and more.
+* Weeks 10-21 cover additional topics related to software development, including Git design goals, basic git operations, analyzing git repositories, GitHub profiles, and FLOSS.
+
+Overall, the course aims to provide a comprehensive introduction to TDD and its application in various programming languages and contexts.

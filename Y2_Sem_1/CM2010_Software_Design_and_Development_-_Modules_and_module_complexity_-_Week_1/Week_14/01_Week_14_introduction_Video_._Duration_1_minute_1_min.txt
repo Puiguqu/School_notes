@@ -1,0 +1,46 @@
+# Week 14 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/XKPE7/week-14-introduction
+
+Here is a summary of the text in 25 sentences:
+
+1. The subject of this week's video (Week 14) is testing, specifically black box testing.
+2. Black box testing involves testing a system or application without knowledge of its internal workings or structure.
+3. Testing can be categorized into two types: white box testing and black box testing.
+4. White box testing involves testing a system with full knowledge of its internal workings or structure.
+5. Glass box testing, also known as clear box testing, is a variation of white box testing where the tester has access to the codebase but may not fully understand it.
+6. Black box testing is often used in situations where the system's internal workings are unknown or proprietary.
+
+7. The video covers standard ways of documenting testing procedures and methods.
+8. It also discusses how to differentiate between black box testing and glass/white box testing.
+9. Examples of each type of testing will be provided throughout the week.
+10. One focus area is automated black box testing, which uses AI and machine learning algorithms to simulate interactions with a system or application.
+
+11. The video introduces an interesting diagram that highlights the difference between style and skill in automated game playing agents.
+12. This topic is related to black box testing and will be explored in more detail this week.
+
+13. Testing involves writing out step-by-step procedures for testing, which can be done using matrix-style documentation.
+14. Test procedure specification is a crucial aspect of testing, as it outlines the steps to be taken during testing.
+
+15. A test procedure template file can be used to organize and structure testing procedures.
+16. The video also discusses factors that affect test effectiveness, such as module complexity and cohesion.
+
+17. Automated black box testing involves using AI and machine learning algorithms to simulate interactions with a system or application.
+18. This type of testing is becoming increasingly important in the field of software development and testing.
+
+19. Black box testing can be used to test web APIs, among other systems and applications.
+
+20. The video discusses the importance of defensive coding, debugging, and exception handling in testing.
+
+21. Secure programming practices are also discussed throughout the week, including secure coding guidelines.
+
+22. The difference between catching and throwing exceptions is a topic that will be explored this week.
+
+23. A debugger can be used to identify and fix issues during testing.
+
+24. User stories should outline what a system or application should be able to do, as outlined in the Agile methodology.
+
+25. This week's video covers all aspects of black box testing, including standard procedures, examples, automated testing, and more.

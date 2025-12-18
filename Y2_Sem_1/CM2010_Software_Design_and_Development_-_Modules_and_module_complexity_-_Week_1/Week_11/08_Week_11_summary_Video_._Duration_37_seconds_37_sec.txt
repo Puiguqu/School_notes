@@ -1,0 +1,18 @@
+# Week 11 summary
+Video•
+. Duration: 37 seconds
+37 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/sSrlt/week-11-summary
+
+Unfortunately, this text is a transcript of a video lecture and does not provide any mathematical or technical information. The content appears to be related to software development and programming concepts.
+
+However, I can summarize the main topics covered in the Week 11 lesson plan:
+
+1. Introduction to exceptions: The instructor introduces the concept of exceptions and their importance in error handling.
+2. Types of errors: The instructor discusses different types of errors that can occur in a program, such as runtime errors and syntax errors.
+3. Try-catch pattern: The instructor explains the try-catch pattern, which is used to handle exceptions in a program.
+4. Pathway for exceptions: The instructor shows how exceptions can be passed from one function to another using the throw keyword.
+5. Exception handling in JavaScript: The instructor discusses exception handling in JavaScript and provides examples of how to use it.
+
+There are no mathematical or technical formulas, links, or technical details mentioned in this text. If you're looking for information on a specific programming topic, I'd be happy to help you find resources or provide guidance.

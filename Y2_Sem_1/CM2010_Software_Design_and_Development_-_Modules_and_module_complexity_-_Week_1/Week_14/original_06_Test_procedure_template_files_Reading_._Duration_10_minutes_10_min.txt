@@ -1,0 +1,8 @@
+# Test procedure template files
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/CDKIu/test-procedure-template-files
+
+Please find below two test procedure templates. There is a matrix and a step-by-step style sheet. You will use these in the discussion prompt coming next. iso_test_procedure_template_matrix XLSX File iso_test_procedure_template_step_by_step XLSX File Test procedure template files Please find below two test procedure templates. There is a matrix and a step-by-step style sheet. You will use these in the discussion prompt coming next. iso_test_procedure_template_matrix XLSX File iso_test_procedure_template_step_by_step XLSX File Mark as completed Dislike Report an issue

@@ -1,0 +1,36 @@
+# Replacing functions dynamically and const
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/9q0Qd/replacing-functions-dynamically-and-const
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript discusses pathological coupling in JavaScript, which occurs when one module changes the inner workings of another.
+2. Pathological coupling can lead to unexpected behavior and crashes.
+3. To prevent pathological coupling, a language feature called "constant" was introduced, which prevents reassignment of constants.
+4. In JavaScript, using `const` with functions (e.g., `const addition = function(x, y) { ... }`) prevents reassignment of that constant.
+5. The interpreter crashes when trying to assign a new value to a previously declared constant.
+6. This is an example of how a language feature can be used to prevent certain types of coupling from happening.
+7. Other languages (e.g., C) also have features that allow control over what people can do with variables and functions.
+8. In the context of programming, it's essential to understand how to design and implement modules to avoid pathological coupling.
+9. Module cohesion refers to the degree to which a module is focused on a single task or responsibility.
+10. Understanding module complexity and cohesion is crucial for designing maintainable and scalable software systems.
+11. There are four types of coupling: weak, tight, content, and structural.
+12. Weak coupling occurs when modules do not depend on each other directly.
+13. Tight coupling occurs when two modules are highly interconnected and dependent on each other.
+14. Content coupling refers to the degree to which a module's contents affect its behavior.
+15. Structural coupling occurs when a module's internal structure affects its behavior.
+16. To avoid pathological coupling, it's essential to understand how to design and implement modules that have low cohesion and high separation of concerns.
+17. One way to achieve this is by using interfaces or abstract classes to define the behavior of modules without exposing their implementation details.
+18. Another approach is to use dependency injection frameworks to manage dependencies between modules.
+19. Unit testing is a crucial technique for ensuring that individual modules are working correctly and do not introduce pathological coupling.
+20. Test-driven development (TDD) involves writing unit tests before implementing the code, which helps ensure that the module is designed with low cohesion and high separation of concerns.
+21. Defensive programming techniques, such as null checks and bounds checking, can help prevent crashes and unexpected behavior due to pathological coupling.
+22. Debugging tools, such as debuggers or print statements, can be used to identify and fix issues caused by pathological coupling.
+23. Exception handling techniques, such as try-catch blocks or error codes, can be used to handle errors caused by pathological coupling.
+24. Secure programming practices, such as input validation and secure coding guidelines, can help prevent security vulnerabilities related to pathological coupling.
+25. Understanding how to design and implement modules with low cohesion and high separation of concerns is essential for writing maintainable, scalable, and secure software systems.
+
+Note that this summary focuses on the key points from the video transcript and provides a concise overview of the topics discussed.

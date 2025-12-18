@@ -1,0 +1,52 @@
+# Reasoning about scope
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Nbiol/reasoning-about-scope
+
+This is an interactive transcript of a video on "Reasoning about Scope" from a course on software design principles.
+
+**Video Transcript**
+
+In this video, we're going to explore how we can use the concept of scope to improve our understanding of modules and their behavior.
+
+So, let's start with what scope means. In programming, scope refers to the visibility and accessibility of variables, functions, and other program elements. When a variable or function is defined in one part of a program, its scope determines where it can be accessed from.
+
+Now, let's talk about how scope affects module coupling and cohesion.
+
+**Coupling**
+
+When a module has global state, it's tightly coupled to other modules that rely on that state. This makes it harder to change or replace the module without affecting other parts of the system.
+
+On the other hand, when a module has no global state, it's decoupled from other modules. This makes it easier to test, maintain, and reuse the module independently.
+
+**Cohesion**
+
+Module cohesion refers to how well a module is designed to perform its intended function. When a module is highly cohesive, it means that all the functions and variables within the module are closely related and work together seamlessly.
+
+When we use scope to design modules, we can create more cohesive modules by organizing our code into clear and logical sections.
+
+**Improving Coupling and Cohesion**
+
+So, how can we improve coupling and cohesion in our code?
+
+One way is to use functions as a way to encapsulate behavior. By defining a function with its own scope, we can keep its implementation details private and make it easier to reuse the function in other parts of the program.
+
+Another way is to avoid global state by using variables that are only accessible within a specific module or function.
+
+**Practice Exercise**
+
+Now, let's try out some practice exercises to reinforce our understanding of scope, coupling, and cohesion.
+
+Can you think of an example where a module has global state? How would you refactor this code to make it more decoupled?
+
+Do you have any questions about the video so far?
+
+...
+
+**Additional Transcript Content**
+
+...and that's why reasoning in that way is a useful tool for us.
+
+## END TRANSCRIPT

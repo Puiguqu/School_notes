@@ -1,0 +1,36 @@
+# Topic 1 self-evaluation checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/iI84K/topic-1-self-evaluation-checklist
+
+Here is a summary of the text in 25 sentences:
+
+1. The purpose of this exercise is to help students reflect on their learning journey, identify areas for improvement, and develop a plan for enhancement.
+2. Regularly assessing understanding against learning outcomes is crucial throughout the course.
+3. This exercise is designed to evaluate understanding of the lessons covered in Topic 1.
+4. Students should review relevant lecture videos, readings, and activities if they're unsure about any concepts or tasks.
+5. The concept of module cohesion is essential in software design, and students can explain its importance.
+6. Module cohesion refers to how well modules work together to achieve a common goal.
+7. There are three main types of cohesion: functional, sequential, and communicational.
+8. Functional cohesion refers to the degree to which a program's components depend on each other.
+9. Sequential cohesion refers to the order in which components execute.
+10. Communicational cohesion refers to how well modules communicate with each other through shared data or interfaces.
+11. Module coupling refers to how closely connected two or more modules are.
+12. There are four types of coupling: content, common, control, and data.
+13. Content coupling occurs when two modules share the same data.
+14. Common coupling happens when two modules use the same external resource.
+15. Control coupling occurs when one module controls the behavior of another.
+16. Data coupling refers to how closely linked variables are between two or more modules.
+17. Analyzing a program can help determine its level of cohesion and coupling.
+18. Students should be able to categorize modules based on their cohesion and coupling levels.
+19. Writing programs with high cohesion and low coupling is an essential skill in software design.
+20. Refactoring code to improve cohesion and reduce coupling is also important for maintainability and scalability.
+21. There's a trade-off between coupling and cohesion; reducing one often requires increasing the other.
+22. Coupling and cohesion impact maintainability, scalability, and readability of code.
+23. Understanding these concepts helps software developers create more efficient, effective, and maintainable systems.
+24. Regular self-assessment is crucial for continuous learning and improvement throughout the course.
+25. This exercise will help students develop a plan for improvement based on their understanding of module cohesion and coupling.
+
+Note: I removed links, technical details, and unnecessary information to focus on key concepts and findings.

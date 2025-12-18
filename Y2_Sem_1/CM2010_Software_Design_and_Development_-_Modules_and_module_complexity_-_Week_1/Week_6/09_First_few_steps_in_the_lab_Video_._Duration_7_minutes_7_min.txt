@@ -1,0 +1,41 @@
+# First few steps in the lab
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/6HZfb/first-few-steps-in-the-lab
+
+Here is a summary of the interactive transcript:
+
+**Welcome to the course**
+
+* Press the escape key to enable basic transcript mode
+* Use tab to navigate through the transcript
+* Press CTRL + S to save a note for a section of text
+* Use CTRL + arrow key to expand your selection
+* Use shift + CTRL + arrow key to contract your selection
+
+**Lab Environment**
+
+* To run Python in the lab environment, use the "Kernel" menu or press the corresponding shortcut (e.g. Ctrl+Shift+Enter)
+* To restart the kernel, use the "Kernel" menu or press the corresponding shortcut
+* To reload a module, use the "Kernel" menu or press the corresponding shortcut
+
+**Unit Testing**
+
+* Use the `unittest` library to write and run unit tests
+* Learn about different testing libraries and frameworks (e.g. Pytest)
+* Understand how to write effective test cases
+* Learn about assertion functions in unittest
+
+**Statistics Libraries**
+
+* Learn about basic statistics concepts (e.g. mean, median, standard deviation)
+* Use a statistics library (e.g. NumPy) to perform calculations
+* Practice writing simple programs using these libraries
+
+**Lab Assignment**
+
+* Complete the lab assignment by running and editing Python code
+* Use the `unittest` library to write and run unit tests
+* Understand how to use the `assert` function in unittest

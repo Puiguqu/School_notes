@@ -1,0 +1,26 @@
+# What is module cohesion?
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Ypai0/what-is-module-cohesion
+
+Unfortunately, there is no text to summarize. The provided output appears to be a transcript of a video or lecture on software engineering and module cohesion, but it does not contain any written text for me to summarize.
+
+However, I can provide an outline of the key concepts and findings discussed in the video:
+
+1. Module cohesion: A way to reason about the contents of a module.
+2. Definitions:
+	* The first definition is about the relationship between tasks performed in a single module.
+	* The second definition measures the strength of association between items in a module.
+3. Types of module cohesion:
+	* Communicational cohesion
+	* Functional cohesion
+	* Logical cohesion
+	* Sequential cohesion
+	* Temporal cohesion
+	* Coincidental cohesion
+4. Polls: The audience is asked to decide whether each type of module cohesion is good or bad.
+5. Discussion forum: The instructor invites the audience to discuss their thoughts on the types of module cohesion.
+
+If you provide more text or context, I can try to summarize it for you.

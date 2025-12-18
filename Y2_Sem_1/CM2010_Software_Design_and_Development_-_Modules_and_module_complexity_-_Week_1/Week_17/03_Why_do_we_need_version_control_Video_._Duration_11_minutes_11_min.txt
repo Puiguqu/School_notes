@@ -1,0 +1,20 @@
+# Why do we need version control?
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/VT8eC/why-do-we-need-version-control
+
+Here is a summary of the transcript:
+
+The speaker discusses the need for version control systems in software development. They introduce several scenarios that demonstrate why version control is necessary, including:
+
+1. Managing multiple developers working on different parts of a project.
+2. Bug fixing and merging changes between different versions of code.
+3. Dealing with conflicts between different versions of code.
+
+The speaker also discusses the design goals of Git and introduces the concept of module cohesion and coupling. They explain that version control systems like Git help manage these complexities by allowing developers to track changes, collaborate on code, and maintain a record of project history.
+
+Throughout the transcript, the speaker emphasizes the importance of specialized tools for managing software development projects. They suggest that traditional document management systems are not sufficient for dealing with the complexities of software development.
+
+The final section of the transcript mentions several other topics related to version control, including basic Git operations, analyzing Git repositories, GitHub profiles, and preparation for an online exam.

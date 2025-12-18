@@ -1,0 +1,24 @@
+# Week 13 summary
+Video•
+. Duration: 51 seconds
+51 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/adO0N/week-13-summary
+
+Unfortunately, the provided text does not contain any relevant information about requirements, stakeholders, or methods for writing requirements. It appears to be a video transcript that covers various topics such as modules, unit testing, defensive coding, and Git operations.
+
+However, I can provide a summary of the most important concepts and findings from the previous weeks:
+
+Week 1-12 are not explicitly stated in the provided text, but they likely cover topics such as module design, cohesion, coupling, unit testing, test-driven development, exception handling, secure programming, debugging, and Git operations.
+
+The final section of the text (Week 13) introduces the concept of user stories, which is related to requirements. User stories are a way to describe what a product or system should be able to do, and they often take the form of a sentence or paragraph that describes the desired functionality.
+
+Some key concepts from Week 13 include:
+
+* EARS (Easy Approach to Requirements) is a method for writing requirements that is described as "pretty straightforward"
+* User stories are expected to describe what the product or system should be able to do
+* The EARS method involves using a simple format to write user stories, but the exact details of this method are not specified in the text
+
+Unfortunately, there is no information about stakeholders, methods for writing requirements, or technical details in the provided text.
+
+If you could provide more context or clarify what specific information you are looking for, I would be happy to try and assist you further.

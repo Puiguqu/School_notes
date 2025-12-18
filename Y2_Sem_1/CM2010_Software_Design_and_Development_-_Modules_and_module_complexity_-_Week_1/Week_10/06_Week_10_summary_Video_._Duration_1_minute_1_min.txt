@@ -1,0 +1,36 @@
+# Week 10 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/QpMah/week-10-summary
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript covers the end of Week 10, where students have gained knowledge about secure programming techniques.
+2. The learning objectives for Week 10 include explaining the wider context of secure programming, describing basic secure programming techniques, and providing real-world examples of secure software development processes.
+3. The course aims to develop a deeper understanding of program development lifecycle activities necessary for ensuring program security.
+4. Secure programming is not limited to just checking for buffer overflows; it involves a broader set of activities.
+5. The course covers various topics, including module cohesion, unit testing, defensive coding, and debugging.
+6. Module cohesion refers to the degree to which components work together effectively in a program.
+7. Module coupling refers to the degree to which components interact with each other.
+8. Unit testing is an essential part of software development that ensures individual units of code are correct.
+9. Test-driven development (TDD) is a process where developers write tests before writing code.
+10. The course provides practice assignments for unit testing in Python and C++.
+11. Defensive coding involves designing code to prevent security vulnerabilities.
+12. Debugging is the process of finding and fixing errors in software.
+13. Exception handling is crucial in preventing program crashes and ensuring data integrity.
+14. There are different types of exception handling, including catching and throwing exceptions.
+15. Using a debugger can help identify issues in software.
+16. User stories describe what users should be able to do with a software application.
+17. Black box testing involves testing a system without access to its internal workings.
+18. White box testing involves testing a system with full knowledge of its internal workings.
+19. Usability testing evaluates how easy it is for users to interact with a software application.
+20. Accessibility testing ensures that software applications are accessible to people with disabilities.
+21. Git design goals focus on creating a version control system that is efficient, scalable, and user-friendly.
+22. Basic git operations include creating, cloning, and committing repositories.
+23. Analyzing git repositories involves understanding how changes have been made over time.
+24. The course covers FLOSS (Free, Libre, and Open-Source Software) and GitHub profiles.
+25. Students are prepared for an online exam at the end of Week 10, having reviewed key concepts and completed coursework assignments.
+
+Note that this summary does not include all the technical details, links, or formulae mentioned in the original text, but it preserves the most important information and concepts covered in the video transcript.

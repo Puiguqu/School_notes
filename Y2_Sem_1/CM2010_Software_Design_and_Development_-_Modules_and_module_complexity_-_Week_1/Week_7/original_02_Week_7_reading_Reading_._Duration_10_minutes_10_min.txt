@@ -1,0 +1,8 @@
+# Week 7 reading
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/IS85i/week-7-reading
+
+This week we will be using the C++ language. Here is a link to a beginner's C++ tutorial. You can refer to this later if you need to. cplusplus.com ' Structure of a program ' (2020). If this link is broken, please let us know via the Student Portal. Week 7 reading This week we will be using the C++ language. Here is a link to a beginner's C++ tutorial. You can refer to this later if you need to. cplusplus.com ' Structure of a program ' (2020). If this link is broken, please let us know via the Student Portal. Mark as completed Dislike Report an issue

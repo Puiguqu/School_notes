@@ -1,0 +1,8 @@
+# Assessing accessibility
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/keUfk/assessing-accessibility
+
+Here is a link to the accessibility checker: AChecker https://achecks.ca/achecker If this link is broken, please let us know via the Student Portal . Assessing accessibility Here is a link to the accessibility checker: AChecker https://achecks.ca/achecker If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

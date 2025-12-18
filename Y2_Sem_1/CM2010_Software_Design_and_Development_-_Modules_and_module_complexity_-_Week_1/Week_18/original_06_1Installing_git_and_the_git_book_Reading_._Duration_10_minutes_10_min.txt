@@ -1,0 +1,8 @@
+# 1Installing git and the git book
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/dbhIR/1installing-git-and-the-git-book
+
+Here is a link to the git book, which is a great resource for learning more about git. git ' Book ' (2014). If the direct link fails, you can also try the web archive link . There are git installation instructions in the book. In addition to that, here is a set of instructions on installing git on various platforms: T5_install_git_20201201.pdf PDF File If these links break, please let us know via the Student Portal . 1Installing git and the git book Here is a link to the git book, which is a great resource for learning more about git. git ' Book ' (2014). If the direct link fails, you can also try the web archive link . There are git installation instructions in the book. In addition to that, here is a set of instructions on installing git on various platforms: T5_install_git_20201201.pdf PDF File If these links break, please let us know via the Student Portal . Mark as completed Dislike Report an issue

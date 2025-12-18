@@ -1,0 +1,96 @@
+# TerribleFall: the C++ physics engine
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/QliVj/terriblefall-the-c-physics-engine
+
+Here is a possible script for the video:
+
+**Introduction**
+
+Hi everyone, welcome to week 7 of our C++ course. In this week's video, we're going to explore how to write and run a simple C++ program using the cppunit framework.
+
+**Prerequisites**
+
+Before we start, make sure you have the following installed on your computer: C++, cppunit, and a text editor or IDE.
+
+**Writing our first test**
+
+Let's start by creating a new file called `test.cpp`. We'll use this file to write our first test. Open up a text editor or IDE and create a new file called `test.cpp`.
+
+```cpp
+#include <cppunit/extensions/HelperMacros.h>
+
+class TestMyClass : public CPPUNIT_NS::TestFixture {
+public:
+    void setUp() {}
+    void tearDown() {}
+
+    void testMyMethod() {
+        // We'll use the CPPUNIT_ASSERT macro to assert that my_method returns 10.
+        CPPUNIT_ASSERT(my_method() == 10);
+    }
+
+private:
+    int my_method() { return 10; }
+};
+
+CPPUNIT_TEST_SUITE_REGISTRATION(TestMyClass);
+```
+
+**Running our first test**
+
+Now, let's compile and run our test using cppunit. Create a new file called `Makefile` with the following contents:
+
+```makefile
+cppunit: all
+    g++ -o cppunit test.cpp src/physics.cpp -lcppunit
+
+all:
+    g++ -c -o test.o test.cpp
+    g++ -c -o physics.o src/physics.cpp
+
+clean:
+    rm -f test.o physics.o cppunit
+```
+
+Now, run the following command in your terminal: `make all`. This will compile our test and physics engine code.
+
+**Running our first test (continued)**
+
+Once we've compiled both files, we can run our test using the following command: `./cppunit`. You should see the output of our test, including any assertions that failed.
+
+```bash
+$ ./cppunit
+Run 2 tests.
+1 failed.
+Assertion failed at line 27: aThing.getX() is equivalent to 10. (TestMyClass::testMyMethod)
+```
+
+**Conclusion**
+
+That's it for this week! We've learned how to write and run our first test using cppunit. In the next video, we'll explore how to create more complex tests and use assert functions.
+
+**Additional Page Content**
+
+Week 1: Modules and module complexity
+
+* Read chapter 1 of "Design Patterns" by Erich Gamma et al.
+* Write a short reflection on what you learned from this chapter.
+
+Week 2: Module cohesion
+
+* Read chapters 2-3 of "Design Patterns" by Erich Gamma et al.
+* Think about how to improve the cohesion of your codebase.
+
+Week 3: Module coupling: theory and analysis
+
+* Read chapters 4-5 of "Design Patterns" by Erich Gamma et al.
+* Analyze a piece of code and identify any potential coupling issues.
+
+...
+
+**END TRANSCRIPT**
+
+Note that this script is just a sample and may need to be modified to fit the specific needs of your course.

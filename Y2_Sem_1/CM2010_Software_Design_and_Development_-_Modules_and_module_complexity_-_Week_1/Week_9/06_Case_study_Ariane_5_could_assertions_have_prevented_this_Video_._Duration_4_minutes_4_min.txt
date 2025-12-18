@@ -1,0 +1,20 @@
+# Case study Ariane 5: could assertions have prevented this?
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/vHuQc/case-study-ariane-5-could-assertions-have-prevented-this
+
+Unfortunately, I couldn't find any text to summarize as the provided content appears to be a transcript of a video about the Ariane 5 rocket and its maiden flight in 1996.
+
+However, based on the provided transcript, here is a summary of the most important concepts and findings:
+
+1. The Ariane 5 rocket experienced a catastrophic failure during its maiden flight in 1996, costing approximately $500 million.
+2. The root cause of the failure was attributed to a software bug that caused an exception to be thrown when a computation ran for too long.
+3. The software used a 64-bit floating-point number to represent a high-precision value, but converted it to a 16-bit integer for storage, resulting in a limited range of possible values.
+4. The software was designed to handle this conversion, but only under normal operating conditions, not during the launch process.
+5. On the day of the launch, the software ran for an extended period, causing the exception to be thrown and leading to the rocket's failure.
+
+The transcript also mentions a research paper that investigates the issue and suggests that using assertions could have prevented the failure, as the Ariane 5 team did not anticipate needing to handle this specific scenario during testing.
+
+Furthermore, the transcript provides information on additional topics related to software development, including unit testing, exception handling, defensive coding, and the use of assertions in various programming languages.

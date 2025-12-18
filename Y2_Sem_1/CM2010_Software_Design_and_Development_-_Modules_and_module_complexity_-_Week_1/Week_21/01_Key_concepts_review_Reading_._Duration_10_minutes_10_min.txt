@@ -1,0 +1,53 @@
+# Key concepts review
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/HwnYm/key-concepts-review
+
+Here is a summary of the text in 25 sentences, preserving key information, formulas, links, and technical details:
+
+1. The review provides a comprehensive overview of essential concepts for passing the mid-term exam.
+2. Module complexity refers to the degree of complication within a module's structure and interactions.
+3. Cohesion is the degree to which elements within a module work together as a single, focused unit.
+4. High cohesion indicates a well-defined purpose for the module.
+5. There are several types of cohesion:
+	* Coupling: The level of dependency between modules (low coupling is desirable).
+	* Functional cohesion: The module performs a single, well-defined task.
+	* Sequential cohesion: Actions within the module depend on one another in sequence.
+	* Communicational cohesion: Elements within the module work on the same data set.
+	* Temporal cohesion: Tasks occur together at the same time.
+	* Procedural cohesion: Tasks are related by control flow sequence.
+	* Logical cohesion: Tasks are grouped by similarity in function but not dependency.
+
+6. Test-driven development (TDD) is a development method where tests are written before code, ensuring that code is driven by requirements.
+7. Unit testing verifies that individual components or functions of code work as expected.
+8. The TDD cycle involves:
+	* Writing a test and making it fail (Red).
+	* Writing code to pass the test (Green).
+	* Improving the code through refactoring.
+
+9. Mocking is used in unit tests to simulate dependencies, allowing for isolated testing.
+10. Test isolation ensures that tests do not depend on each other or external systems, producing consistent results.
+11. API testing verifies that application programming interfaces return expected results, often involving endpoint validation and error handling.
+
+12. Robust programming involves writing software that can handle unexpected inputs or errors without crashing.
+13. Secure programming includes coding practices that prevent security vulnerabilities like data leaks, code injection, and unauthorized access.
+14. Assertion is a statement in code that verifies a condition is true, used for debugging or enforcing preconditions.
+15. Parameter checking validates input parameters to ensure they meet expected conditions before processing.
+
+16. Exception handling involves mechanisms for handling runtime errors in code, using structures like try-catch blocks to catch and respond to errors.
+17. Defensive coding anticipates and prevents errors by validating inputs, handling exceptions, and using assertions.
+
+18. Debugging is a tool that helps programmers find and fix errors by allowing them to inspect and control program execution.
+19. Conditional breakpoint is a debugger feature that pauses execution only when a specific condition is met, aiding in targeted troubleshooting.
+
+20. User testing evaluates a program's functionality, usability, and performance from an end-user's perspective.
+21. User story is a description of features from the end-user's perspective, focusing on what they should be able to do.
+22. Black box testing involves testing without knowledge of the internal code, based only on input and expected output.
+
+23. White box testing involves testing with access to the internal workings of the code, focusing on code paths, conditions, and structures.
+24. Usability testing tests the ease with which users can learn and use a program, often focusing on user experience (UX).
+25. Accessibility testing ensures that a program is usable by people with disabilities, including compatibility with assistive technologies.
+
+Let me know if you'd like me to clarify or expand on any of these points!

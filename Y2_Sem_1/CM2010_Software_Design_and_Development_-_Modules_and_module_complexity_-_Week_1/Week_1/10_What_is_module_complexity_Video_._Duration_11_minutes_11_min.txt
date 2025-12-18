@@ -1,0 +1,34 @@
+# What is module complexity?
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/0xnzm/what-is-module-complexity
+
+So, let's dive into what module complexity is.
+
+**What is module complexity?**
+
+Module complexity refers to the degree of internal structure or organization within a module. In other words, it measures how well-organized and cohesive a module is.
+
+Think about it like a team project: you might have individual team members working on separate tasks, but if they all work together seamlessly, that's a good sign of cohesion. On the other hand, if there are a lot of overlapping tasks or conflicting requirements, that's a bad sign of complexity.
+
+In software development, module complexity is often measured by metrics such as:
+
+1. **Cohesion**: How well-defined and focused each module is.
+2. **Coupling**: How closely connected two modules are.
+3. **Tangle**: The degree of interaction between modules.
+
+So, what's the relationship between these concepts? Well, cohesion refers to how much a module "owns" its internal state, whereas coupling refers to how much a module depends on other modules. Tangle is related to coupling as well - when two modules are highly coupled (i.e., interact extensively), they can create complex tangles.
+
+**Why is module complexity important?**
+
+Module complexity matters because it affects the maintainability, scalability, and overall quality of your software system.
+
+When a module is too simple or lacks cohesion, it might not be able to handle changes on its own, making it harder to update or modify. Similarly, if two modules are highly coupled, they can create complex interactions that make debugging more challenging.
+
+On the other hand, when a module has good cohesion and minimal coupling, it becomes easier to maintain and extend. This is because each module is self-contained, reducing the risk of introducing new issues elsewhere in the system.
+
+So, how do you measure module complexity? We'll explore some techniques for assessing module complexity throughout this course!
+
+How's that for an introduction to module complexity? Do you have any questions about it so far?

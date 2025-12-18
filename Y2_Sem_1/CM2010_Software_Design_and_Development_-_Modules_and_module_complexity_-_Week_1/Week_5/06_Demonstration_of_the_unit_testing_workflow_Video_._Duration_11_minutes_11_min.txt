@@ -1,0 +1,54 @@
+# Demonstration of the unit testing workflow
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/i9EUk/demonstration-of-the-unit-testing-workflow
+
+It appears that you're looking at a transcript of an online course or lecture on software testing and development. The speaker is discussing various topics related to test-driven development (TDD), including writing tests, writing code, and debugging.
+
+Here's a summary of what I've taken away from the transcript:
+
+**Test-Driven Development (TDD)**
+
+* TDD is a software development process that relies on the repetitive cycle of writing automated tests before writing the actual code.
+* The three laws of test-driven development are:
+	1. You are not allowed to write any arbitrary code.
+	2. You are not allowed to write code for a feature without having written a corresponding test first.
+	3. You are not allowed to write a new feature without having rewritten some existing broken code.
+
+**Writing Tests**
+
+* The speaker discusses writing tests using a simple format:
+	1. Write a test that expects a certain input and returns a specific output.
+	2. Run the test and see if it fails (i.e., the expected output is not returned).
+	3. Modify the code to make the test pass.
+
+**Writing Code**
+
+* The speaker discusses writing code that passes the tests, rather than writing arbitrary code.
+* They provide an example of how to write a simple function in JavaScript using TDD:
+```javascript
+// Write a test
+test("get highest", function() {
+  expect(getHighest([1, 2, 3])).toBe(3);
+});
+
+// Run the test and see if it fails
+function getHighest(arr) {
+  // Write some code to make the test pass
+  var max = arr[0];
+  for (var i = 1; i < arr.length; i++) {
+    if (arr[i] > max) {
+      max = arr[i];
+    }
+  }
+  return max;
+}
+```
+**Debugging and Exception Handling**
+
+* The speaker discusses the importance of debugging and exception handling in TDD.
+* They provide an example of how to handle exceptions using try-catch blocks.
+
+Overall, it seems like the course is focusing on teaching software developers how to write good unit tests and use them to drive the development process.

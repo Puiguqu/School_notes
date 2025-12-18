@@ -1,0 +1,8 @@
+# Develop your own example
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/8CeAw/develop-your-own-example
+
+Create an example program or code fragment like those you saw in the video that illustrates poor coupling or cohesion. Adapt your example so that it uses a programming technique or language feature to fix that problem. Write a short explanation of what the problem was and how you solved it. For this exercise, you can use any of the teaching languages from the programme – Javascript, C++ or Python. Develop your own example Create an example program or code fragment like those you saw in the video that illustrates poor coupling or cohesion. Adapt your example so that it uses a programming technique or language feature to fix that problem. Write a short explanation of what the problem was and how you solved it. For this exercise, you can use any of the teaching languages from the programme – Javascript, C++ or Python. Mark as completed Dislike Report an issue

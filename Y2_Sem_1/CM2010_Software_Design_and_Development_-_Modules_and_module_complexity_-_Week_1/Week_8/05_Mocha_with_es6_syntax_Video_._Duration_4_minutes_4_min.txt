@@ -1,0 +1,36 @@
+# Mocha with es6 syntax
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/PyIu6/mocha-with-es6-syntax
+
+Here is a summary of the text in 25 sentences, focusing on the most important concepts and findings:
+
+1. The video transcript discusses writing Mocha unit tests using ES6 style syntax.
+2. The author starts by importing the necessary modules: `module` equals `require`, `assert`, and a constant named `s`.
+3. They explain that `describe` is used to describe a set of functions at the top level.
+4. In ES6 style, this becomes `describe('set of functions') { ... }`
+5. The author notes that in old-style JavaScript, this would be written as `function setOfFunctions() { ... }`.
+6. They then demonstrate how to write single tests using the `it` function in Mocha.
+7. In ES6 style, this is `it('single test') { ... }`
+8. The author explains that they can use a constant variable `s` and split it into parts using the `split()` method.
+9. They then demonstrate how to write a test that asserts the length of an array using the `length` property.
+10. The test is written in ES6 style as `it('test with assert') { assert.equal(s.split(' ').length, 3); }`
+11. When run, this test produces the same output as running it in old-style JavaScript.
+12. The author notes that they can use shortcuts such as `CTRL + S` to save a note for a section of text.
+13. They also explain how to expand or contract a selection using `CTRL + arrow keys`.
+14. Some screen readers may require using `CTRL` and the `alt` key in conjunction.
+15. The author discusses the basics of Mocha unit testing, including creating test suites and writing individual tests.
+16. They emphasize the importance of using ES6 style syntax for more readable and maintainable code.
+17. The video transcript covers topics such as module complexity, cohesion, and coupling.
+18. It also touches on unit testing in Python, C++, and web APIs.
+19. Additionally, it covers defensive coding, debugging, exception handling, and secure programming.
+20. The author notes that using a debugger can be an effective way to identify and fix issues.
+21. They also discuss the importance of writing user stories and conducting usability testing.
+22. Furthermore, they cover accessibility testing and Git design goals.
+23. The video transcript concludes with a summary of the key takeaways from the week's material.
+24. It covers topics such as GitHub profiles and FLOSS (Free and Open Source Software) development.
+25. Overall, the author provides an overview of Mocha unit testing and its application in JavaScript programming.
+
+Note that some information has been condensed or omitted to fit within the 25-sentence limit.

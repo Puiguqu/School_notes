@@ -1,0 +1,43 @@
+# Week 1 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/nFsaW/week-1-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The learning objectives for week one include defining terms "module" and "module complexity", identifying modules in computer programs or systems, and analyzing program complexity.
+2. A module is a self-contained component of a larger system that can be easily maintained, updated, or replaced.
+3. The concept of module complexity refers to the difficulty or ease of understanding and maintaining a module.
+4. Module complexity is often measured using cohesion and coupling metrics, which are discussed in more detail later in the course.
+5. Coupling refers to the degree to which two modules interact with each other, while cohesion refers to the degree to which a module is internally consistent.
+6. The course introduces the SWEBOK guide and IEEE vocabulary as reference points for understanding these concepts.
+7. Module complexity is an important aspect of software design, as it can affect the maintainability and scalability of a system.
+8. Measuring module complexity involves analyzing the relationships between modules, identifying areas of high cohesion or low coupling, and determining the level of complexity within each module.
+9. The course includes practice assignments to help students develop their understanding of these concepts.
+
+The subsequent weeks focus on:
+
+10. Module cohesion: understanding how modules interact with each other
+11. Module coupling: analyzing the relationships between modules
+12. Coupling theory and analysis: exploring different approaches to measuring coupling
+13. Defining module complexity: using metrics such as cohesion, coupling, and modularity
+
+14. Unit testing in Python: learning to test software components using Python
+15. Unit testing in C++: applying unit testing techniques to C++ code
+16. Unit testing a web API: testing APIs using unit testing principles
+
+17. Defensive coding, debugging, and exception handling: best practices for writing robust software
+18. Secure programming: understanding the importance of security in software design
+19. Exception handling: catch or throw? exploring different approaches to handling exceptions
+20. Using a debugger: learning how to use debuggers to understand code behavior
+
+21. User stories: what should they be able to do? defining user stories and their role in software development
+22. Black box and white box testing: understanding different types of testing techniques
+23. Usability testing: evaluating the usability of software components
+24. Accessibility testing: ensuring that software is accessible to all users
+
+25. The course concludes with a week dedicated to preparing for an online exam.
+
+Note: There are no specific links or technical details provided in the original text, so I had to assume some general information about modules and module complexity based on common practices in software engineering.

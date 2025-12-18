@@ -1,0 +1,54 @@
+# Practical demonstration of assertions
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/3cEen/practical-demonstration-of-assertions
+
+Here is the transcript of the video on "Assertions" which was divided into several topics:
+
+**Introduction to Assertions**
+
+In this course, we're going to learn about a fundamental concept called assertions. An assertion is a statement that a certain condition must be true. It's a way to ensure that your code behaves as expected and provides useful feedback when something goes wrong.
+
+**Assertions in Code**
+
+Here is an example of how you can use assertions in C++:
+```c
+#include <cassert>
+
+int main() {
+    int x = 5;
+    assert(x == 5);
+    return 0;
+}
+```
+In this example, we're using the `assert` macro to check if `x` is equal to 5. If it's not, the program will crash.
+
+**Assertions Practice Assignment**
+
+Here are some exercises for you to practice writing assertions:
+
+* Write an assertion to check if a certain function returns the correct result.
+* Write an assertion to check if a variable has been initialized correctly.
+* Write an assertion to check if a loop terminates correctly.
+
+**Case Study: Ariane 5**
+
+The Ariane 5 rocket failed during launch in 1996. An investigation found that a faulty guidance computer led to a failure of the rocket's fifth stage. The computer had been designed with a safety feature that would prevent it from functioning incorrectly, but the implementation was flawed. If assertions had been used to check the correctness of the code, they might have caught this error before it caused a disaster.
+
+**Practical Demonstration of Assertions**
+
+Here is an example of how you can use assertions in JavaScript:
+```javascript
+var x = 5;
+assert(x === 5);
+console.log("Assertion passed");
+```
+In this example, we're using the `assert` function to check if `x` is equal to 5. If it's not, the program will throw an error.
+
+**Using Assertions**
+
+Assertions are a powerful tool for ensuring that your code behaves as expected. They can help you catch errors early and prevent crashes or unexpected behavior.
+
+Note: The video also covers some additional topics such as secure programming, exception handling, debugging, and testing, but the above transcript only covers the topic of assertions.

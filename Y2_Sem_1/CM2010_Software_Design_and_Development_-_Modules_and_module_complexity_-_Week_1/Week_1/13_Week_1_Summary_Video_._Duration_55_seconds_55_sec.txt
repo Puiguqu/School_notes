@@ -1,0 +1,27 @@
+# Week 1 Summary
+Video•
+. Duration: 55 seconds
+55 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/F6oV0/week-1-summary
+
+Unfortunately, the provided text does not contain any specific information about programming concepts, formulas, links, or technical details. The text appears to be a transcript of an online course introduction, covering topics such as defining modules and module complexity, identifying modules, analyzing program code complexity, and introducing various concepts related to software development.
+
+However, I can provide a summary of the key concepts mentioned in the transcript:
+
+1. Definition of a module: A module is a self-contained unit of code that performs a specific function or set of functions.
+2. Module complexity: The complexity of a module refers to its size, structure, and relationships with other modules.
+3. Identifying modules: Students should be able to identify modules in a given computer program or system.
+4. Analyzing module complexity: Students should be able to analyze program code to determine its complexity and reason about how complex a given program is.
+
+The transcript also mentions various topics related to software development, such as:
+
+1. Module coupling and cohesion
+2. Unit testing and test-driven development
+3. Defensive coding, debugging, and exception handling
+4. Secure programming
+5. Usability testing and accessibility testing
+
+Unfortunately, the provided text does not contain specific formulas, links, or technical details about these topics.
+
+If you have any further questions or would like me to clarify any of the concepts mentioned in the transcript, please let me know.

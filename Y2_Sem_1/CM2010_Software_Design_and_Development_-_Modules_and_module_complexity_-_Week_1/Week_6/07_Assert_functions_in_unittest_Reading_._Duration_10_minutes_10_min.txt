@@ -1,0 +1,8 @@
+# Assert functions in unittest
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/IG4hv/assert-functions-in-unittest
+
+Here is a link to documentation, covering the list of assert functions in the uniittest package: unittest: classes and functions If this link is broken, let us know via the Student Portal . Assert functions in unittest Here is a link to documentation, covering the list of assert functions in the uniittest package: unittest: classes and functions If this link is broken, let us know via the Student Portal . Mark as completed Dislike Report an issue

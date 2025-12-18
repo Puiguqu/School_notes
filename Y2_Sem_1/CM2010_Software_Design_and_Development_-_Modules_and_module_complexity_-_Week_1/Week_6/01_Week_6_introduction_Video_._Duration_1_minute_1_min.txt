@@ -1,0 +1,21 @@
+# Week 6 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/IZzOJ/week-6-introduction
+
+Unfortunately, I couldn't find any text to summarize as there is no actual content provided. The text appears to be a transcript of a video or interactive presentation that outlines a course schedule and learning objectives for a programming module.
+
+However, based on the context and structure of the transcript, I can provide a summary of the key concepts and findings:
+
+* The course covers unit testing and test-driven development in Python.
+* The course includes hands-on exercises and activities to learn about unit testing frameworks and test-driven development workflows.
+* The learning objectives for week 6 include:
+ + Writing unit tests using the Python unit test package
+ + Describing the elements of a unit testing framework
+ + Carrying out the test-driven development workflow in Python
+* The course assumes prior knowledge of programming concepts, but provides a brief primer on the Python language for those who need it.
+* The course includes supplementary materials such as videos, practice assignments, and labs to support learning.
+
+If you could provide more context or clarify what specific information you would like me to summarize, I'd be happy to try again.

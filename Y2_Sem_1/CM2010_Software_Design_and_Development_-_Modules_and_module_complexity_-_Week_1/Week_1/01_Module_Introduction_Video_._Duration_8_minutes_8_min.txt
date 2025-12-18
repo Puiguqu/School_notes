@@ -1,0 +1,48 @@
+# Module Introduction
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/pe6jm/module-introduction
+
+The provided transcript is an introduction to a Software Design Development course, outlining the learning objectives, topics, and activities that will be covered throughout the course.
+
+**Learning Objectives:**
+
+* Develop software design and development skills
+* Understand module coupling, cohesion, and complexity
+* Learn unit testing and test-driven development
+* Implement defensive coding, debugging, and exception handling techniques
+* Analyze usability, accessibility, and security aspects of software systems
+
+**Course Structure:**
+
+The course is divided into five topics:
+
+1. **Module Introduction**: Understanding the concept of modules, module coupling, cohesion, and complexity.
+2. **Unit Testing and Test-Driven Development**: Learning unit testing techniques in Python and C++.
+3. **Defensive Coding, Debugging, and Exception Handling**: Implementing defensive coding, debugging, and exception handling techniques.
+4. **Usability, Accessibility, and Security**: Analyzing usability, accessibility, and security aspects of software systems.
+5. **Git Design Goals and Best Practices**: Understanding basic git operations, repository analysis, and GitHub profiles.
+
+**Assessment Model:**
+
+The course consists of two main assessments:
+
+1. **Midterm Coursework**: A written assignment that will be published as a separate reading item.
+2. **End-of-Term Exam**: A comprehensive online exam covering all topics covered in the course.
+
+**Activities and Assignments:**
+
+Throughout the course, students will participate in various activities, including:
+
+* Reading assignments
+* Practice assignments (e.g., module complexity case study)
+* Discussion prompts
+* Online quizzes and tests
+
+The transcript provides an overview of the course structure, learning objectives, and assessment model. It also mentions that the instructor will provide a module introduction video and additional resources for each topic.
+
+**Note:**
+
+The provided transcript appears to be incomplete, as it ends abruptly without mentioning the rest of the topics or activities covered in the course. Additionally, some sections are marked as "interactive" but do not seem to contain interactive content.

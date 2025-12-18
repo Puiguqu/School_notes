@@ -1,0 +1,38 @@
+# Using our lab environment to write and run C++
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/4JEE6/using-our-lab-environment-to-write-and-run-c
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript explains how to run a C++ program in the labs environment.
+2. The plan is to show how to launch the lab, create a file, write code, compile, and run it.
+3. The Visual Studio Code environment created for the course has functionality similar to the desktop version but runs in a web browser.
+4. To create a new file, navigate to "File" > "New File" and save it with Ctrl+S.
+5. The C++ program will be written using code completion features available in the editor.
+6. A simple program that prints out a message is created, including a main function.
+7. The program must be compiled before running, which is done in the terminal.
+8. To compile, navigate to "Terminal" > "New Terminal" and type "g++" followed by the file name.
+9. The compiler can be instructed to generate an executable using the "-o" option.
+10. The executable's output will depend on where it is specified to write.
+11. The program cannot be compiled until saved, as it tries to find a main function that doesn't exist in the empty file.
+12. After saving and compiling, the message changes from indicating missing functions to stating that the program has been compiled.
+13. Running the program will execute the code written in the file.
+14. This environment provides access to a full Unix environment for compiling and running C++ programs.
+15. The course covers C++ in detail, but this video is meant as an introduction or refresher for users.
+16. It's suitable for users who want to quickly play around with the C++ unit content without diving into more advanced topics.
+17. There are separate courses covering various aspects of C++, and these videos are supplementary resources.
+18. Module cohesion refers to how well modules work together, while module coupling is about how different parts interact.
+
+19. Unit testing involves writing tests for individual units of code, which ensures that each part functions correctly on its own.
+20. The unit testing framework provides a way to create test cases for C++ programs.
+21. It's essential to use this framework when working with C++ to ensure that your program is robust and reliable.
+22. Defensive coding involves designing the program to prevent errors from occurring, rather than trying to catch them after they happen.
+
+23. Debugging tools are used to identify issues in the code during development.
+24. Exception handling ensures that programs can recover from unexpected situations by catching specific types of errors.
+25. Git is a version control system for tracking changes made to source code and collaborating with others.
+
+Overall, these videos provide an introduction to using the lab environment for C++ programming and offer supplementary resources for more advanced topics in the course.

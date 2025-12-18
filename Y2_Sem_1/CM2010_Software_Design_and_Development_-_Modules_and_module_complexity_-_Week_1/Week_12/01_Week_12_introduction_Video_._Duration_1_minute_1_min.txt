@@ -1,0 +1,29 @@
+# Week 12 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/2nDy6/week-12-introduction
+
+Here is a summary of the provided text in 25 sentences:
+
+The course covers debugging and introduces learning objectives for week 12.
+
+* The main topics will be covered are key operations, stack tracing, stepping, continuing, conditional debugging, breakpoints, and watchpoints.
+* A new debugging tool has been created with a lab environment for practical use.
+* The courses' previous modules have been mentioned (weeks 1-11).
+* Debugging is an essential part of software development and maintenance.
+
+The key operations of a debugger are:
+* Step: allows the execution to pause at the current location
+* Continue: resumes execution from the paused location
+* Stop: stops the execution at the current location
+* Inspect: displays information about the current location
+
+Stack tracing is used to identify the call stack.
+Conditional debugging allows for conditional execution of code.
+
+Breakpoints are used to suspend execution when a specific condition occurs.
+Watchpoints monitor variables and trigger an exception if they change.
+
+The lab environment provides hands-on experience with the new debugging tool.

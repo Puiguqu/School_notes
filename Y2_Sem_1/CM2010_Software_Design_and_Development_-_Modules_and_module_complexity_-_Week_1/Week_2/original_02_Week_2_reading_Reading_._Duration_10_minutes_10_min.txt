@@ -1,0 +1,8 @@
+# Week 2 reading
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/nYqm1/week-2-reading
+
+This document contains the definitions of various types of module cohesion that you will encounter in the videos. We recommend that you download this and keep it to hand while you watch the videos. "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE (E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Week 2 reading This document contains the definitions of various types of module cohesion that you will encounter in the videos. We recommend that you download this and keep it to hand while you watch the videos. "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE (E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

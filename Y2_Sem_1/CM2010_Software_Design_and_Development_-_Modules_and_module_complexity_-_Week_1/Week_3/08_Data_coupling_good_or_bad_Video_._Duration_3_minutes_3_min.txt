@@ -1,0 +1,52 @@
+# Data coupling: good or bad?
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Rad5n/data-coupling-good-or-bad
+
+Here is a summary of the text in 25 sentences:
+
+1. Data coupling is defined as passing data from one module to another module.
+2. It is a straightforward concept where one module sends data to another module.
+3. The example used is Module 1 calling a function Module 2, which averages numbers.
+4. This is different from control coupling, which involves sending flags or instructions to dictate how the second module operates.
+5. Control coupling is considered bad because it implies multiple tasks for a single module.
+6. Data coupling, on the other hand, is simply passing data between modules.
+
+Note that key information is preserved throughout the summary:
+
+* 7. The video transcript explains data coupling and control coupling.
+8. It distinguishes between the two concepts using examples.
+9. Control coupling involves sending flags to dictate how the second module operates.
+10. This can lead to multiple tasks for a single module, making it bad.
+
+Further details are provided:
+
+11. Data coupling is used in many computer programs, but it's different from control coupling.
+12. The video transcript explains data coupling and its differences with other types of coupling.
+13. These include common environment coupling, content coupling, and hybrid coupling.
+14. Each type has its own pros and cons.
+
+More information about the topic is provided:
+
+15. Module cohesion refers to how well-defined a module's tasks are.
+16. The video transcript discusses module cohesion in relation to data coupling.
+17. It highlights the importance of cohesive modules for effective software design.
+
+The text also provides additional resources:
+
+18. The video transcript includes links to various videos and reading materials on the topic.
+19. These resources cover different aspects of module coupling, including theory, analysis, and practice assignments.
+
+Further information about the topics is provided:
+
+20. Unit testing and test-driven development are discussed in later weeks.
+21. Python and C++ unit testing examples are covered in separate modules.
+22. Defensive coding, debugging, and exception handling are also covered.
+
+Security and usability aspects are discussed:
+
+23. Secure programming practices, such as exception handling, are highlighted.
+24. Usability testing and accessibility testing are also emphasized.
+25. Git design goals, basic operations, and repository analysis are covered in later modules.

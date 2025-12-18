@@ -1,0 +1,32 @@
+# Basic debugging with gdb: breakpoint and inspect
+Video•
+. Duration: 16 minutes
+16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/sQx0c/basic-debugging-with-gdb-breakpoint-and-inspect
+
+Here is a summary of the transcript:
+
+The topic of this video is "Using a Debugger - Week 12 introduction". The speaker briefly introduces the concept of debugging and its importance in coding. They explain that nobody writes perfect code, and debugging will be an essential skill for coders to acquire.
+
+The speaker then walks through some basic operations that can be carried out inside a debugger:
+
+1. Launching the debugger with an executable
+2. Setting breakpoints (specific lines of code where the execution should pause)
+3. Inspecting variables (looking at their values and types)
+
+They also explain how to control the execution of the program within the debugger, including stepping through lines of code, jumping into other functions, and inspecting local variables.
+
+Finally, they mention some advanced features that can be used in gdb, such as data breakpoints and conditional breakpoints. However, these are not covered in this video.
+
+The speaker encourages viewers to practice debugging with gdb by trying out some operations in a lab setting.
+
+Some key points mentioned in the transcript include:
+
+* Debugging is an essential skill for coders
+* Nobody writes perfect code
+* Breakpoints can be set to pause execution at specific lines of code
+* Variables can be inspected to understand their values and types
+* Execution can be controlled using stepping, jumping, and inspecting local variables
+
+The speaker provides a brief introduction to the concept of debugging and some basic operations that can be carried out inside a debugger.

@@ -1,0 +1,39 @@
+# Week 2 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/j0f3U/week-2-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+1. Welcome to Week 2, where we will be discussing Module Cohesion in computer program architecture.
+2. The learning objectives for this week are: define module cohesion, explain different levels and types of module cohesion, and discuss how to improve module cohesion through programming techniques.
+3. Module cohesion refers to the degree to which the modules within a computer program work together seamlessly.
+4. There are four levels of module cohesion:
+	* Low cohesion: modules work independently without interacting with each other.
+	* Moderate cohesion: modules interact with each other, but not necessarily in a meaningful way.
+	* High cohesion: modules are highly interdependent and work together to achieve a common goal.
+	* Very high cohesion: modules are extremely interdependent and cannot function without each other.
+5. There are also different types of module cohesion:
+	* Tight coupling: modules are tightly connected and difficult to modify or replace.
+	* Loose coupling: modules are loosely connected and easy to modify or replace.
+	* Content coupling: modules share common content, but do not interact with each other.
+	* Control coupling: modules interact with each other through shared control structures.
+6. High cohesion is desirable because it makes the program more maintainable, scalable, and efficient.
+7. Low cohesion can lead to a fragile program that is difficult to modify or extend.
+8. Tight coupling can make it hard to test individual modules independently.
+9. Loose coupling makes it easier to test individual modules independently.
+10. Content coupling can lead to a tightly coupled program with shared knowledge that is difficult to reuse.
+11. Control coupling can lead to a tightly coupled program with shared control structures that are difficult to modify or replace.
+12. To improve module cohesion, programmers can use techniques such as:
+	* Extracting methods from one module to another.
+	* Creating interfaces or abstractions to decouple modules.
+	* Using dependency injection to reduce coupling between modules.
+13. The first practice assignment is to define module cohesion and explain its importance in computer program architecture.
+14. The second practice assignment asks students to reflect on their own design decisions for module cohesion.
+15. The third practice assignment provides a case study of how module cohesion can be improved through programming techniques.
+16. The fourth practice assignment involves writing code to demonstrate the concepts of tight coupling and loose coupling.
+17. The final practice assignment is to write a discussion prompt on the importance of different types of module cohesion in software design.
+
+Note that there are no links or technical details provided in the original text, so I had to focus on summarizing the main concepts and findings related to module cohesion.

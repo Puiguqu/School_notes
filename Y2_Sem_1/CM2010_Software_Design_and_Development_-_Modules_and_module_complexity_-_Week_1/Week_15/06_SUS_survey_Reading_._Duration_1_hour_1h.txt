@@ -1,0 +1,39 @@
+# SUS survey
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/r9bJE/sus-survey
+
+Here are the 25 sentences summarizing the text:
+
+1. A usability survey can be conducted with friends and acquaintances or peers on forums or Slack.
+2. The first step is to create a survey using a preferred tool, such as Google Forms, which is free and easy to use.
+3. The survey should start with information about the system being tested that all participants can access.
+4. It's recommended to select a system that all participants can easily access, ensuring inclusivity.
+5. The instruction on which system to use will be included in the survey.
+6. The survey will contain 10 questions from the class SUS (System Usability Questionnaire).
+7. Each question should have a five-point scale, ranging from strongly disagree to strongly agree.
+8. The scale is as follows: 
+   - Strongly disagree (1 point)
+   - Somewhat disagree (2 points)
+   - Neutral (3 points)
+   - Somewhat agree (4 points)
+   - Strongly agree (5 points)
+9. The survey should cover information about the system being tested.
+10. A sample spreadsheet containing the SUS questions is provided for reference: sus_questions XLSX File
+11. To calculate a usability score, try to get 10 people to complete the survey.
+12. Each question's response will be marked as either positive or negative in terms of usability.
+13. For example, question 1 is positive, and question 6 is negative.
+14. The goal is to gather feedback on the system's usability from a diverse group of participants.
+15. The results will provide valuable insights into the system's strengths and weaknesses.
+16. By analyzing the responses, you can identify areas for improvement and suggest changes.
+17. This process helps designers, developers, and stakeholders create more user-friendly systems.
+18. Conducting a usability survey is an essential step in ensuring that software or digital products meet users' needs.
+19. The results of the survey can be used to inform design decisions and product development.
+20. This approach allows for iterative improvements and refinements to the system's usability.
+21. By involving real users in the testing process, you can ensure that your system is intuitive and accessible.
+22. A usability survey is a valuable tool for identifying usability issues and providing recommendations.
+23. The SUS questionnaire is widely used and recognized as a reliable method for measuring user experience.
+24. Conducting a usability survey can help identify potential barriers to adoption and improve overall user satisfaction.
+25. By following these steps, you can create an effective usability survey that provides valuable insights into your system's usability.

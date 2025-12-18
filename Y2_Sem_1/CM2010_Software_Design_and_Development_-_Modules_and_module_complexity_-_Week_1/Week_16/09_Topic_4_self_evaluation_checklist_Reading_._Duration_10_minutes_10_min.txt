@@ -1,0 +1,54 @@
+# Topic 4 self evaluation checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/ykevS/topic-4-self-evaluation-checklist
+
+Here is a summary of the text in 25 sentences:
+
+1. Regularly assessing understanding and capabilities against learning outcomes is crucial to progress through the course.
+2. The exercise aims to help reflect on the learning journey, identify areas for improvement, and develop a plan for improvement.
+3. The self-evaluation checklist is designed to evaluate understanding of Topic 4 concepts and tasks.
+4. If unsure about any concepts or tasks, revisit relevant lecture videos, readings, and activities to consolidate knowledge.
+
+5. Understanding user testing in software development is crucial to ensure that software meets user needs and expectations.
+6. User testing helps identify usability issues such as confusing interfaces or poor navigation.
+7. Usability tests evaluate how user-friendly a system is for its target audience.
+8. Accessibility testing ensures software is usable by people with disabilities.
+
+9. Black box testing evaluates system functionality without knowing internal code, while white box testing evaluates behavior based on code structure and logic.
+10. User stories define what users should be able to do with a system and are essential for translating user requirements into actionable steps.
+
+11. Prioritizing user stories is crucial to focus on critical functionalities for testing.
+12. Critical thinking and problem-solving skills are necessary to identify the most appropriate testing methods for different scenarios.
+
+13. Analyzing user testing feedback requires distinguishing between critical issues and minor suggestions.
+14. The value of user testing lies in creating inclusive, user-friendly, and functional software.
+
+15. Carrying out user testing sessions can gather meaningful feedback from participants.
+16. Evaluating results and recommending improvements to the software is essential for iterative improvement.
+
+17. A plan for iterative improvements based on user testing outcomes should be created.
+18. Understanding user stories and user requirements is crucial for developing high-quality software.
+
+19. Accessibility standards such as WCAG (Web Content Accessibility Guidelines) must be evaluated to ensure compliance.
+
+20. Poor color contrast, missing alternative text, or non-intuitive navigation are common accessibility issues that can be addressed.
+
+21. User testing feedback can help identify areas for improvement in usability and accessibility.
+
+22. Critical thinking skills are necessary to distinguish between critical issues and minor suggestions from user testing feedback.
+
+23. The self-evaluation checklist is an essential tool for assessing understanding of Topic 4 concepts and tasks.
+
+24. Regularly reviewing and revising the checklist is crucial to ensure that learning outcomes are met.
+
+25. The importance of user testing in software development cannot be overstated, as it ensures that software meets user needs and expectations.
+
+Key information preserved:
+
+* User testing, usability, accessibility, black box testing, white box testing, user stories
+* Importance of understanding user requirements and translating them into actionable steps
+* Distinguishing between critical issues and minor suggestions from user testing feedback
+* Creating a plan for iterative improvements based on user testing outcomes

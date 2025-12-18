@@ -1,0 +1,8 @@
+# Programming exercise
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/QGcpd/programming-exercise
+
+Here is a reference for the built-in errors in JavaScript: MDN web docs ' JavaScript error reference ' (2020). Can you write an example program that generates one of these errors in Javascript? In a later step, you will be posting your programs in the forum. If this link is broken, please let us know via the Student Portal . Programming exercise Here is a reference for the built-in errors in JavaScript: MDN web docs ' JavaScript error reference ' (2020). Can you write an example program that generates one of these errors in Javascript? In a later step, you will be posting your programs in the forum. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

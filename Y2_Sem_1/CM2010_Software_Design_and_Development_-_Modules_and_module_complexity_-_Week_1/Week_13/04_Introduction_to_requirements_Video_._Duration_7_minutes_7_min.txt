@@ -1,0 +1,27 @@
+# Introduction to requirements
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/HPqbc/introduction-to-requirements
+
+The provided transcript appears to be a course materials or lecture notes on software testing and development, specifically covering topics related to requirements engineering.
+
+The first section of the transcript introduces the concept of requirements, discussing its purpose and importance in software development. The speaker explains that requirements are essential for defining what a system should do and how it should behave, and that there is a large body of knowledge surrounding this topic.
+
+The next section delves into the approach to writing requirements, focusing on who the stakeholders are and what they can understand and find useful. The speaker emphasizes the importance of identifying the target audience for requirements and ensuring that they are written in a way that meets the needs of those users.
+
+The transcript also touches on various techniques and tools used in requirements engineering, including unit testing and test-driven development. Additionally, it covers topics such as exception handling, secure programming, and defensive coding.
+
+Throughout the course, students will learn about different aspects of software development, including testing, debugging, and security. The instructor aims to provide a comprehensive understanding of these topics and help students develop practical skills in software development.
+
+Some key concepts covered in this transcript include:
+
+* Requirements engineering: defining what a system should do and how it should behave
+* Stakeholders: identifying who the requirements are for and what they can understand and find useful
+* Unit testing and test-driven development: writing tests before writing code to ensure quality and reliability
+* Exception handling: managing errors and exceptions in software development
+* Secure programming: designing software that is secure and protects against vulnerabilities
+* Defensive coding: using techniques to prevent vulnerabilities in software
+
+Overall, the course aims to provide students with a solid foundation in software development, including requirements engineering, testing, debugging, security, and other essential topics.

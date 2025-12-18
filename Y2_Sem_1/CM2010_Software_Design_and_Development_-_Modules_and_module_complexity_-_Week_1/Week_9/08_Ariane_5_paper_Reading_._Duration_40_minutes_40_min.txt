@@ -1,0 +1,8 @@
+# Ariane 5 paper
+Reading•
+. Duration: 40 minutes
+40 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/juqJ2/ariane-5-paper
+
+Ariane Rocket explosion: Jazequel, J.-M. and B. Meyer, ' Design by contract: the lessons of Ariane ', Computer 30(1) 1997, pp.129–30. Once on the IEEE page, click on the blue ‘Institutional Sign In’ box at the top of the screen and search for ‘University of London: Online Library’ to access the readings. If any links are broken, please let us know via the Student Portal . Ariane 5 paper Ariane Rocket explosion: Jazequel, J.-M. and B. Meyer, ' Design by contract: the lessons of Ariane ', Computer...

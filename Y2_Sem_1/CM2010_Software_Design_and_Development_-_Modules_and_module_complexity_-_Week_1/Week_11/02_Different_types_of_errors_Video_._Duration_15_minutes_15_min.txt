@@ -1,0 +1,24 @@
+# Different types of errors
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/VH9iB/different-types-of-errors
+
+This appears to be a transcript of an online lecture or video on software development, specifically on exception handling and error types.
+
+The transcript covers several topics, including:
+
+1. Introduction to exceptions
+2. Different types of errors:
+	* Syntax errors
+	* Compiler errors
+	* Link errors
+	* Non-errors (nonsensical uses of functions)
+	* Runtime errors
+3. Practice assignments and exercises to reinforce understanding
+4. Discussion prompts and reading materials for further learning
+
+The transcript also includes links to online resources, such as videos, practice assignments, and discussion forums.
+
+Overall, the purpose of this transcript appears to be educational, providing a comprehensive overview of exception handling and error types in software development, and encouraging learners to engage with the material through practice exercises and discussions.

@@ -1,0 +1,36 @@
+# Pathological coupling: good or bad?
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/tZcao/pathological-coupling-good-or-bad
+
+Here is a summary of the text in 25 sentences:
+
+1. The video transcript discusses pathological coupling and its drawbacks.
+2. Pathological coupling is similar to control coupling, but worse due to its permanent impact on module behavior.
+3. It occurs when one module changes the operational capabilities of another module without warning.
+4. This can lead to unforeseen consequences and make software unreliable.
+5. In contrast, a piece of software with good engineering should be reliable, verifiable, flexible, and comprehensible.
+6. Pathological coupling violates these principles and is generally considered bad practice.
+7. The video provides an example of pathological coupling and explains its impact on module behavior.
+8. Live coding, which involves deliberately changing code at runtime, can be used to create interesting and unpredictable effects.
+9. However, it is not a recommended approach for software development due to the risks associated with pathological coupling.
+10. The video highlights the importance of considering potential consequences when designing software systems.
+11. Pathological coupling can have far-reaching effects on module behavior, making it difficult to predict outcomes.
+12. It can lead to unexpected errors or crashes, compromising the overall stability of the system.
+13. To avoid pathological coupling, developers should prioritize modularity and separation of concerns.
+14. This includes using clear and concise APIs, avoiding deep dependencies between modules.
+15. Modular design enables easier maintenance, updates, and testing of individual components.
+16. A module's behavior should be predictable and consistent, without being influenced by external factors.
+17. Pathological coupling can lead to tightly coupled systems that are difficult to test and maintain.
+18. In contrast, loosely coupled systems are more modular and easier to work with.
+19. The video emphasizes the importance of considering module cohesion when designing software systems.
+20. Cohesion refers to how well a module fits together with other modules in the system.
+21. Well-cohesive modules are more likely to be stable and predictable.
+22. Pathological coupling can also lead to issues with code reusability and maintainability.
+23. A well-designed system should prioritize modularity, separation of concerns, and clear APIs.
+24. These principles help ensure that software systems are reliable, verifiable, flexible, and comprehensible.
+25. By avoiding pathological coupling, developers can create more robust and maintainable software systems.
+
+Note: The text does not contain any formulas, links, or technical details that require summary. It is primarily a discussion of the concept of pathological coupling and its implications for software design.

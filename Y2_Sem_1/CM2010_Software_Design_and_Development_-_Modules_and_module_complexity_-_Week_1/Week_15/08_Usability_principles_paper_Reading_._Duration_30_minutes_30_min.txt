@@ -1,0 +1,27 @@
+# Usability principles paper
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/mvwEI/usability-principles-paper
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+1. The text discusses the 10 Usability Principles/Heuristics for User Interface Design, first introduced by Jakob Nielsen on April 24, 1994.
+2. The principles were updated on January 30, 2024, and can be found on the Web page https://www.nngroup.com/articles/ten-usability-heuristics/.
+3. An archived version of the original article can also be found at https://web.archive.org/web/20250201234017/https://www.nngroup.com/articles/ten-usability-heuristics/.
+4. A reference to an early Nielsen paper is available in the Online Library, titled "Improving a human-computer dialogue", published in Communications of the ACM in March 1990.
+5. The text provides instructions for two activities: extracting the list of principles from the web page and evaluating a piece of software against these principles.
+6. A video on Usability principles can be used as a reference for evaluation.
+
+7. The 10 Usability Heuristics are:
+   -1. Visibility of System Status
+   -2. Match between System and the Real World
+   -3. User Control and Freedom
+   -4. Error Prevention and Recovery
+   -5. Recognition rather than Recall
+   -6. Flexibility and Efficiency of Use
+   -7. Aesthetic and Minimalist Design
+   -8. Consistency and Standards
+   -9. Help Users Recognize, Diagnose, and Recover from Errors
+   -10. Intuitive Footings

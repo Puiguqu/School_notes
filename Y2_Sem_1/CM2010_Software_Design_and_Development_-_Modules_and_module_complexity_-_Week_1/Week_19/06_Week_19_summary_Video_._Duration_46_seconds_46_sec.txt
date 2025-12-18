@@ -1,0 +1,36 @@
+# Week 19 summary
+Video•
+. Duration: 46 seconds
+46 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/nONCt/week-19-summary
+
+Here is a summary of the text in 25 sentences:
+
+1. The video transcript marks the end of Week 19.
+2. The learning objectives reviewed include visualizing information from Git repositories.
+3. Students started by using `git log` in various modes to display different levels of information about commits.
+4. They also used `git log` to visualize branching in their repositories.
+5. The ungit tool was introduced, which allows for interactive and dynamic visualization of Git repositories.
+6. The course has covered a range of topics related to Git and software development.
+7. The modules have included learning objectives on module complexity, cohesion, and coupling.
+8. Students have also learned about unit testing and test-driven development in Python and C++.
+9. They have practiced defensive coding, debugging, and exception handling in various programming languages.
+10. Secure programming and accessibility testing have also been covered in the course.
+11. The importance of understanding Git design goals was emphasized.
+12. Basic Git operations were reviewed in previous weeks.
+13. Week 19 focused on analyzing Git repositories using `git log`.
+14. The video transcript provides a summary of the key concepts learned so far.
+15. The learning objectives are designed to help students visualize information from Git repositories.
+16. The course has used interactive tools such as ungit to facilitate learning.
+17. Students have been able to practice their skills by completing labs and exercises.
+18. The final week of the course is Week 20, which covers GitHub profiles and FLOSS.
+19. Preparation for an online exam is scheduled for Week 21.
+20. The course has covered a range of topics related to software development and Git.
+21. Students have learned about module cohesion, coupling, and unit testing in various programming languages.
+22. Defensive coding, debugging, and exception handling are also important skills.
+23. Secure programming and accessibility testing are essential for modern software development.
+24. The course has emphasized the importance of understanding Git design goals and basic Git operations.
+25. The final week of the course will provide students with a summary of the key concepts learned so far.
+
+Note: There is no formulae, links, or technical details in the original text, so I had to focus on summarizing the most important concepts and findings.

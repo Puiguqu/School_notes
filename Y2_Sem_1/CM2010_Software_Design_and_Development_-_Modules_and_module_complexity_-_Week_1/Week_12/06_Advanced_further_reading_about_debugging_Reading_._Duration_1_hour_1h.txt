@@ -1,0 +1,18 @@
+# Advanced further reading about debugging
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/pMxD9/advanced-further-reading-about-debugging
+
+Here are 25 sentences summarizing the key information:
+
+1. The provided text recommends an optional advanced article on software debugging from 2016.
+2. The article "A survey on software fault localization" was published in IEEE Transactions on Software Engineering volume 42, issue 8.
+3. The authors of the article are W.E. Wong, R. Gao, Y. Li, R. Abreu, and F. Wotawa.
+4. The article is a survey of state-of-the-art work in software fault localization circa 2016.
+5. To access the article on the IEEE page, users need to click on the institutional sign-in box at the top of the screen.
+6. Searching for "University of London: Online Library" should allow access to the article.
+7. If the link is broken, please notify the student portal team.
+
+The original text does not provide any new information or findings beyond this point.

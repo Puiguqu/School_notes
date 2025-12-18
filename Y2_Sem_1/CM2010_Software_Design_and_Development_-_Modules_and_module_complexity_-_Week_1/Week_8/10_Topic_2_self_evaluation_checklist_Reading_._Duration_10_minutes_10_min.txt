@@ -1,0 +1,36 @@
+# Topic 2 self evaluation checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/VNXDu/topic-2-self-evaluation-checklist
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. Regularly assessing understanding against learning outcomes is crucial for progress through a course.
+2. A self-evaluation checklist is provided to reflect on learning journey, identify areas for improvement, and develop a plan.
+3. The exercise helps students reflect on their knowledge and skills in test-driven development (TDD).
+4. TDD is defined as writing automated tests before implementing code.
+5. The 'red-green-refacto' cycle guides software development with testing, refactoring, and repeating the process.
+6. TDD has advantages, including faster development, better quality, and increased confidence.
+7. However, challenges include increased testing time, added complexity, and steep learning curve.
+8. Unit testing in Python uses the unittest framework to write tests for functions and modules.
+9. Assertions in unittest are used with `assertEqual`, `assertTrue`, and `assertFalse` to verify code behavior.
+10. C++ unit testing also uses a testing framework, where assertions can be made using similar methods as in Python.
+11. Web API testing validates endpoint functionality using tools like Postman or pytest with requests in Python.
+12. Writing programs involves variables, control flow, functions, and good coding practices in both Python and C++.
+13. Functions should be modular, reusable, and testable to ensure reliability and maintainability.
+14. The 'red-green-refacto' cycle is iteratively applied during software development.
+15. Handling errors in failed tests effectively is crucial for TDD success.
+16. Edge cases and potential failure points can be identified and tested with critical thinking and problem-solving skills.
+17. Evaluating trade-offs between TDD and other development methodologies is essential.
+18. Unit testing ensures robust software design and implementation.
+19. The self-evaluation checklist provides a framework to evaluate understanding of lessons in Topic 2.
+20. Revisiting relevant lecture videos, readings, and activities can help consolidate knowledge.
+21. Understanding the principles and applications of TDD is crucial for success in software development.
+22. Critical thinking and problem-solving skills are necessary to identify edge cases and potential failure points.
+23. The role of unit testing in ensuring robust software design and implementation cannot be overstated.
+24. Effective use of tools like Postman or pytest with requests in Python can improve API testing efficiency.
+25. Regular self-evaluation and reflection on learning journey is essential for improvement and development in software development.
+
+Note: There are no links, formulae, or technical details mentioned in the original text, so they are not included in this summary.

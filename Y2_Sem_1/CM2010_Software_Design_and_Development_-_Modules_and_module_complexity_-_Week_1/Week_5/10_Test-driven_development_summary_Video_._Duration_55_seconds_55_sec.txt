@@ -1,0 +1,39 @@
+# Test-driven development summary
+Video•
+. Duration: 55 seconds
+55 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Vw1jq/test-driven-development-summary
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The course has reached its end after five weeks, covering the basics of test-driven development (TDD).
+2. Learners should be able to define TDD, identify processes involved, and critically analyze examples.
+3. The process involves writing tests before writing code, followed by refactoring the code to make it better.
+4. The Three Laws of Test-Driven Development were introduced, with Uncle Bob explaining the concept in a video (1 minute).
+5. The Three Laws are:
+   - Law 1: You can write clean code if you take only one test at a time.
+   - Law 2: No two tests should fail simultaneously when they cover the same code.
+   - Law 3: If it's not on the test list, it doesn't belong in the production codebase.
+6. A practice assignment was provided to demonstrate TDD (30 minutes).
+7. The workflow for TDD involves writing a test, running it and seeing it fail, making changes to the code, and then re-running the tests until they pass.
+8. A video demonstration of the unit testing workflow showed how to write a simple test-code-test cycle (11 minutes).
+9. Learners were asked to write out a simple test-code-test cycle as practice (10 minutes).
+10. A GitHub case study was presented in a video, showing how TDD can be applied in real-world projects (4 minutes).
+11. The importance of testing what should be tested was discussed in a video (14 minutes).
+12. Learners were introduced to unit testing and asked to write a short definition of test-driven development as practice (30 minutes).
+13. Readings on test-driven development were provided, covering the basics of TDD.
+14. A summary video on test-driven development covered the key concepts and processes involved.
+15. The course will now move on to more advanced topics in programming, including unit testing in Python and C++.
+16. Learners will learn how to write tests for web APIs and defensive coding techniques.
+17. Exception handling and debugging were discussed as essential skills for developers.
+18. Secure programming practices were introduced, emphasizing the importance of protecting user data.
+19. Accessibility testing was covered, highlighting the need for inclusive software design.
+20. Git basics, including basic operations and repository analysis, will be covered in the coming weeks.
+21. Learners will learn how to use a debugger effectively and write user stories that meet real-world needs.
+22. Black box and white box testing methods were introduced as complementary approaches to unit testing.
+23. Usability testing was discussed as an essential step in ensuring software meets user expectations.
+24. The course concludes with preparation for an online exam, where learners will apply their knowledge of test-driven development.
+25. Learners have completed the course and are now ready to apply their skills in real-world projects.
+
+Note that this summary is based on the provided text and may not include all technical details or formulae, as they were not explicitly mentioned.

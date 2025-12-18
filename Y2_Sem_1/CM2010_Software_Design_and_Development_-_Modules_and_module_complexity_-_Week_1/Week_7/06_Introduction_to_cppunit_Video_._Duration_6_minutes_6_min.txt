@@ -1,0 +1,104 @@
+# Introduction to cppunit
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/9RPcr/introduction-to-cppunit
+
+Here is a possible transcript of an interactive video on "Introduction to cppunit" :
+
+**Intro**
+
+Hello and welcome to our video on Introduction to cppunit! I'm your instructor, [Name], and I'll be guiding you through this tutorial. In this video, we'll cover the basics of cppunit, a popular C++ unit testing framework.
+
+**What is cppunit?**
+
+So, what is cppunit? cppunit is a C++ library that provides a simple and efficient way to write unit tests for your code. It's designed to make it easy to write and run tests, ensuring that your code is reliable and works as expected.
+
+**Installing cppunit**
+
+To start using cppunit, you'll need to install it on your system. You can do this by running the command `sudo apt-get install libcppunit-dev` (for Ubuntu-based systems) or by downloading the pre-built binary from the cppunit website.
+
+**Creating a test suite**
+
+Once installed, let's create a simple test suite using cppunit. We'll start with a basic example that checks if our code returns the correct result for a simple mathematical function.
+
+```cpp
+// math_functions.cpp
+#include <iostream>
+
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    std::cout << "Result: " << add(2, 3) << std::endl;
+    return 0;
+}
+```
+
+**Writing test cases**
+
+Now, let's write some test cases for our `add` function using cppunit. We'll create a separate file called `test_math_functions.cpp`.
+
+```cpp
+// test_math_functions.cpp
+#include <gtest/gtest.h>
+#include "math_functions.h"
+
+TEST(MathFunctionsTest, Add) {
+    EXPECT_EQ(5, add(2, 3));
+}
+
+int main(int argc, char **argv) {
+    ::testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}
+```
+
+**Running the tests**
+
+Now that we have our test cases written, let's run them using cppunit. We'll create a new file called `main.cpp` that includes both our code and our test suite.
+
+```cpp
+// main.cpp
+#include <iostream>
+#include "math_functions.h"
+#include "test_math_functions.h"
+
+int main() {
+    // Run the tests
+    testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}
+```
+
+**Compiling and running**
+
+Finally, let's compile and run our program using `g++`. We'll use the `-lcppunit` flag to link against cppunit.
+
+```bash
+$ g++ main.cpp -o test runner -lcppunit
+$ ./test runner
+```
+
+**Output**
+
+The output of our program should be:
+
+```
+Result: 5
+OK (1 test, 0 assertions failed)
+```
+
+This shows that our `add` function works correctly!
+
+That's it for this video! I hope you learned something new about cppunit and how to use it to write unit tests for your C++ code.
+
+**Practice Assignment**
+
+For your practice assignment, try writing more test cases for the `add` function or implementing a different mathematical function. Don't forget to run your tests using cppunit!
+
+---
+
+Please note that this is just one possible way to present the information in an interactive video, and you can modify it to fit your teaching style and needs.

@@ -1,0 +1,24 @@
+# Readings on test-driven development
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/fONXX/readings-on-test-driven-development
+
+I don't see any text to summarize. The provided text appears to be a list of references and links to articles on test-driven development and unit-testing, but it does not contain any specific information or concepts that can be summarized.
+
+However, I can provide some general information about the topics mentioned in the text:
+
+* Test-driven development (TDD) is an agile software development methodology that involves writing automated tests before writing the actual code.
+* Unit-testing is a type of testing that focuses on individual units of code, such as functions or methods, to ensure they work correctly and meet specific requirements.
+* The three laws of unit-testing are principles that guide the development of unit tests:
+ 1. **Write tests before writing code**: This principle emphasizes the importance of writing tests before starting to write code.
+ 2. **Keep tests simple**: This principle suggests that unit tests should be straightforward and easy to understand, with a clear focus on testing specific functionality.
+ 3. **Automate tests**: This principle advocates for automating as much of the testing process as possible, using tools like unit test frameworks and continuous integration pipelines.
+
+Some key concepts in the field of TDD include:
+
+* Metamorphic testing: This is a type of testing that focuses on analyzing the behavior of existing software systems to identify potential issues or areas for improvement.
+* GitHub: A web-based platform for version control and collaboration, often used by developers to share code repositories and collaborate with others.
+
+If you have any specific questions or topics related to TDD or unit-testing, I'd be happy to help provide more information.

@@ -1,0 +1,45 @@
+# C++ primer
+Video•
+. Duration: 16 minutes
+16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/5SGlA/c-primer
+
+This is a transcript of a video lecture on C++ programming, specifically covering the basics of C++ syntax and design patterns. Here's a summary of the main points:
+
+**Week 1: Modules and module complexity**
+
+* Introduced modules as a fundamental concept in object-oriented programming
+* Discussed the importance of module complexity and how it affects maintainability
+
+**Week 2-5: Unit testing and test-driven development**
+
+* Covered unit testing principles and practices
+* Introduced C++11's `std::cout` streams for printing output
+* Showcased using cppunit framework for C++ unit testing
+
+**Week 6: C++ primer**
+
+* Provided a quick primer on C++ syntax, covering variables, arrays, loops, functions, classes, and inheritance
+* Highlighted the importance of proper naming conventions and code organization
+
+**Week 7: Introduction to physics engines**
+
+* Introduced the concept of physics engines and their role in game development
+* Showcased a simple example of a physics engine using C++ (TerribleFall)
+
+**Weeks 8-11: Defensive coding, debugging, exception handling, and usability testing**
+
+* Covered topics such as defensive coding, debugging techniques, exception handling, and usability testing
+
+**Weeks 12-16: Git operations, GitHub profiles, and FLOSS**
+
+* Introduced basic Git operations, including repository management and version control
+* Discussed the importance of maintaining a professional GitHub profile and following the FLOSS (Free/Libre Open-Source Software) principles
+
+**Weeks 17-20: Preparation for an online exam and accessibility testing**
+
+* Provided guidance on preparing for an online exam
+* Covered accessibility testing best practices for software development
+
+This transcript appears to be a course outline or a study guide for a C++ programming course. The topics covered are a mix of fundamental programming concepts, design patterns, and tools for unit testing, debugging, and version control.

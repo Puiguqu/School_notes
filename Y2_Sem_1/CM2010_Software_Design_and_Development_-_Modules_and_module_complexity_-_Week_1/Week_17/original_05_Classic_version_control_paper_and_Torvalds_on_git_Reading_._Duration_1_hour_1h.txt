@@ -1,0 +1,8 @@
+# Classic version control paper and Torvalds on git
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/9SYPy/classic-version-control-paper-and-torvalds-on-git
+
+Please read the following article: Rochkind, M.J. ' The source code control system ', IEEE Transactions on Software Engineering SE-1(4) Dec. 1975, pp.364-370. Then listen to Linux Torvalds' lecture on git on the Internet Archive. If this link is broken, please let us know via the Student Portal . Classic version control paper and Torvalds on git Please read the following article: Rochkind, M.J. ' The source code control system ', IEEE Transactions on Software Engineering SE-1(4) Dec. 1975, pp.364-370. Then listen to Linux Torvalds' lecture on git on the Internet Archive. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

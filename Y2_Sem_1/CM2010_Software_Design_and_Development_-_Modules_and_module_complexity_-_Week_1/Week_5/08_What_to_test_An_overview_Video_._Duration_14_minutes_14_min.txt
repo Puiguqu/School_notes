@@ -1,0 +1,32 @@
+# What to test? An overview
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/iLKEL/what-to-test-an-overview
+
+This appears to be a transcript of an online course on software testing, specifically on what to test when writing software.
+
+The transcript mentions various topics such as:
+
+1. Interface testing: verifying the programmatic interface that the module presents is correct and operates under different conditions.
+2. Exercise data structures: deliberately sending in tests with different types of data to verify that the module stores it correctly.
+3. Boundary conditions: sending in tests where the input is at the minimum or maximum value, often where errors occur.
+4. Execution paths: testing how a program handles different execution paths and edge cases.
+5. Error handling: testing various aspects of error handling, including whether an error is intelligible, if it reaches the error handling code, etc.
+
+The course also touches on topics such as:
+
+1. Unit testing in Python
+2. Unit testing in C++
+3. Defensive coding, debugging, and exception handling
+4. Secure programming
+5. Usability testing
+6. Accessibility testing
+7. Git design goals, basic git operations, and analyzing git repositories
+
+The course seems to be covering a comprehensive range of topics related to software testing, including theoretical concepts and practical application.
+
+As a reader, I would expect this transcript to include some form of interactive content, such as quizzes or exercises, to help reinforce the learning material. The course may also include videos, readings, and practice assignments to supplement the lectures.
+
+Overall, this transcript appears to be a valuable resource for software testing professionals and developers looking to improve their skills in testing software systems.

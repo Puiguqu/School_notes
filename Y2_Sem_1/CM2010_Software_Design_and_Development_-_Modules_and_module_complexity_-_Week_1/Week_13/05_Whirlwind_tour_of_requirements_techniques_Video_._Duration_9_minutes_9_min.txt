@@ -1,0 +1,28 @@
+# Whirlwind tour of requirements techniques
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/QWWiX/whirlwind-tour-of-requirements-techniques
+
+This appears to be a transcript of a video lecture on software requirements engineering. The speaker covers various topics related to writing and managing software requirements, including different techniques for specifying computer systems, stakeholder considerations, and testing methods.
+
+The lecture is divided into several modules, each covering a specific topic:
+
+1. Introduction to requirements
+2. Module cohesion and coupling
+3. Unit testing and test-driven development
+4. Secure programming
+5. Exception handling
+6. User stories
+7. Whirlwind tour of requirements techniques
+8. Back to basics: EARS (Executable Requirements Language Specification)
+9. Unit tests and requirements
+
+Each module has a corresponding video lecture, practice assignment, or discussion prompt.
+
+The speaker provides examples, illustrations, and references to support their explanations. They also mention specific tools and technologies, such as Git and GitHub.
+
+Throughout the lecture, the speaker emphasizes the importance of considering various stakeholders when writing software requirements, including users, developers, and end-users.
+
+Overall, this appears to be a comprehensive course on software requirements engineering, covering essential topics and techniques for managing and maintaining software systems.

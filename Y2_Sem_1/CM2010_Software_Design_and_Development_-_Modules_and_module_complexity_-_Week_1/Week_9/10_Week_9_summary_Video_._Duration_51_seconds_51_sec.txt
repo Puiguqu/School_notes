@@ -1,0 +1,20 @@
+# Week 9 summary
+Video•
+. Duration: 51 seconds
+51 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/msoMY/week-9-summary
+
+Unfortunately, the provided text does not contain any specific information about assertions, formulae, links, or technical details. The text appears to be a transcript of an online course or lecture series, summarizing various topics in software development.
+
+The transcript mentions several weeks of the course, covering topics such as:
+
+1. Modules and module complexity (Week 1)
+2. Module cohesion (Week 2)
+3. Module coupling: theory and analysis (Week 3)
+4. Unit testing and test-driven development (Week 5-7)
+5. Defensive coding, debugging, and exception handling (Topic 3 introduction, Week 9)
+
+However, there is no specific information about assertions in the provided text.
+
+If you could provide more context or clarify what specific aspects of assertions you would like me to focus on, I'll be happy to help.

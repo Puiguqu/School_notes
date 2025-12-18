@@ -1,0 +1,36 @@
+# Introduction to usability – what does it mean?
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/4hvvp/introduction-to-usability-what-does-it-mean
+
+Here is a summary of the text in 25 sentences:
+
+1. The ISO definition of usability states that it is the extent to which a system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction.
+2. Usability testing involves evaluating a system's performance based on its ability to meet user needs.
+3. To conduct usability testing, researchers typically gather information about the context in which users will use the system.
+4. The context includes factors such as the type of task, location, and physical abilities of the user.
+5. Researchers must consider the specific goals that users aim to achieve when using the system.
+6. Usability testing aims to measure effectiveness, efficiency, and satisfaction in achieving these goals.
+7. Effectiveness refers to whether users can complete tasks successfully.
+8. Efficiency is concerned with how quickly and easily users can perform tasks.
+9. Satisfaction is about the overall emotional response of users to the system.
+10. Measuring user satisfaction is often more challenging than measuring effectiveness or efficiency.
+11. Researchers may use various methods, such as surveys or usability testing, to gather data on user satisfaction.
+12. Effective research designs and methodologies are essential for collecting valid and reliable data.
+13. The introduction of this video provides an overview of the concept of usability and its importance in software development.
+14. Usability is critical in ensuring that software products meet user needs and expectations.
+15. A well-designed system should be easy to use, intuitive, and efficient.
+16. Poorly designed systems can lead to frustration, errors, and decreased productivity.
+17. Researchers must consider various factors when evaluating usability, including the type of task, interface design, and user experience.
+18. Usability testing involves observing users as they interact with a system or performing tasks that require specific skills.
+19. Researchers may also use surveys or questionnaires to gather data on user satisfaction.
+20. The study of usability is an essential aspect of human-computer interaction (HCI) research.
+21. HCI researchers aim to create systems that are intuitive, efficient, and easy to use.
+22. Usability testing provides valuable insights into the strengths and weaknesses of a system.
+23. By conducting thorough usability testing, developers can identify areas for improvement and optimize their products.
+24. The introduction of this video aims to provide an overview of the concept of usability and its importance in software development.
+25. Effective usability research is essential for creating systems that meet user needs and expectations.
+
+Note: The text provided appears to be a transcript from a video or lecture on usability testing, but it does not contain any additional information or context beyond what is listed here.

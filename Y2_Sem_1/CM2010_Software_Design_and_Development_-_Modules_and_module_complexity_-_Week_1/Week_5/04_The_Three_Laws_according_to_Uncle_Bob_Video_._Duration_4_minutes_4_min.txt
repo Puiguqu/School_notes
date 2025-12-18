@@ -1,0 +1,60 @@
+# The Three Laws according to Uncle Bob
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/pxAWR/the-three-laws-according-to-uncle-bob
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript introduces the three laws of test-driven development (TDD), which were first proposed by Uncle Bob.
+2. The first law states that you may not write production code unless you have first written a failing unit test.
+3. This means that writing tests should come before writing actual code.
+4. The focus is on writing enough unit tests to make the thing fail, with no more elaborate tests than necessary.
+5. The second law states that you may not write more production code than is necessary to pass the test.
+6. In other words, the goal is to write just enough code to make the test pass, without over-engineering.
+7. The third law emphasizes that this process should only take two minutes per iteration, with a complete cycle of testing and refactoring.
+8. This fast-paced approach allows developers to quickly iterate on their code and see progress in real-time.
+9. According to Uncle Bob's concept, having a complete specification for the software is achieved through a bank of tests.
+
+The next section references:
+
+10. A special issue of the IEEE Software magazine (2007) that covers TDD philosophy, with an article by Uncle Bob himself.
+11. This issue provides a good introduction to test-driven development and its underlying principles.
+
+To implement these laws, developers can follow a workflow involving unit testing and code refactoring, as demonstrated in:
+
+12. A video on the "unit testing workflow" (11 minutes long).
+13. Practice assignments for writing out a simple test-code-test cycle (10 minutes).
+
+Furthermore, it is recommended to:
+
+14. Take an online quiz after watching the video on TDD.
+15. Apply the concepts learned from Uncle Bob's videos and readings to create one's own GitHub case study.
+
+In terms of testing methodologies, some examples include:
+
+16. Writing tests for Python unit testing (Week 6).
+17. Writing tests for C++ unit testing (Week 7).
+
+Additionally, there are various types of testing techniques that can be used, such as:
+
+18. Black box and white box testing.
+19. Usability testing and accessibility testing.
+
+To navigate the world of open-source software development, it's also essential to understand:
+
+20. Git design goals and basic operations (Weeks 17-18).
+21. Analyzing git repositories for quality and functionality.
+
+Finally, for those preparing for an online exam, there are resources available, such as:
+
+22. Preparation exercises and materials for the online exam week (#22).
+
+It is also worth noting that:
+
+23. There are various tools and frameworks available to support TDD, including GitHub profiles and FLOSS (free and open-source software).
+24. Defensive coding, debugging, and exception handling are all important aspects of writing robust code.
+25. Exception handling: catch or throw? is an ongoing debate in the developer community.
+
+I hope this summary helps!

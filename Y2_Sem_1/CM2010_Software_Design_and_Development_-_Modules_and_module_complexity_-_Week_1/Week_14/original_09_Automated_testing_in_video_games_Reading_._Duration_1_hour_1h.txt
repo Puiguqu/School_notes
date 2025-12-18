@@ -1,0 +1,12 @@
+# Automated testing in video games
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/ccbop/automated-testing-in-video-games
+
+## NOTE: VIDEO CONTENT WITHOUT EXTRACTABLE TRANSCRIPT ##
+
+Title: Automated testing in video games | Coursera
+
+This is the paper describing the Sims Mobile agent: Zhao, Y., I. Borovikov, A. Beirami, J. Harder, J. Kolen, J. Pestrak, J. Pinto, R. Pourabolghasem, H. Chaput, M. Sardari et al. ' Winning isn’t everything: Training agents to playtest modern games ', AAAI Workshop on Reinforcement Learning in Games 2019. Optional reading: This is a very detailed paper describing the state of the art in automated video game testing of video games. Read this if you want to see how one might go about analysing a research field, and also to find out what is possible in the area of automated testing. Albaghajati, A.M. and M.A.K. Ahmed ' Video game automated testing approaches: an assessment framework ', IEEE Transactions on Games. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Automated testing in video games This is the paper describing the Sims Mobile agent: Zhao, Y., I. Borovikov, A. Beirami, J. Harder, J. Kolen, J. Pestrak, J. Pinto, R. Pourabolghasem, H. Chaput, M. Sardari et al. ' Winning isn’t everything: Training agents to playtest modern games ', AAAI Workshop on Reinforcement Learning in Games 2019. Optional reading: This is a very detailed paper describing the state of the art in automated video game testing of video games. Read this if you want to see how one might go about analysing a research field, and also to find out what is possible in the area of automated testing. Albaghajati, A.M. and M.A.K. Ahmed ' Video game automated testing approaches: an assessment framework ', IEEE Transactions on Games. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

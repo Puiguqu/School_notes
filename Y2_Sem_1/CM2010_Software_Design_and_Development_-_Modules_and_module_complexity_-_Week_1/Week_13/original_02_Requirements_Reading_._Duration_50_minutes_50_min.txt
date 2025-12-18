@@ -1,0 +1,8 @@
+# Requirements
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/80nCe/requirements
+
+So now we have seen what the main topic is for the next four weeks. Let's dive into the first sub-topic, which is 'requirements'. Here is an interesting article to get your started thinking about requirements and requirement engineering: Gregory, S. ' The unplanned journey of a requirements engineer in industry: an introduction ', IEEE Software 34(5) 2017, pp.16-19. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Requirements So now we have seen what the main topic is for the next four weeks. Let's dive into the first sub-topic, which is 'requirements'. Here is an interesting article to get your started thinking about requirements and requirement engineering: Gregory, S. ' The unplanned journey of a requirements engineer in industry: an introduction ', IEEE Software 34(5) 2017, pp.16-19. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

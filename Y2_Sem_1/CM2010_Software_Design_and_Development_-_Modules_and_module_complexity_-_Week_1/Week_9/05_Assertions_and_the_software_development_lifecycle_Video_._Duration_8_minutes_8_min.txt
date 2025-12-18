@@ -1,0 +1,28 @@
+# Assertions and the software development lifecycle
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/6SGpr/assertions-and-the-software-development-lifecycle
+
+Here is a summary of the video transcript:
+
+**Title:** Assertions and the Software Development Lifecycle
+
+**Introduction:** The video discusses the concept of assertions in software development and their impact on performance.
+
+**Scene Setting Examples:** Two examples are presented to illustrate the importance of assertions:
+
+1. A program with a slow assertion that prevents it from running on slower machines.
+2. A program where removing assertions would make it work, but leaving them in ensures the code is correct.
+
+**Debug and Release Builds:** The video discusses the common practice of suppressing assertions in release builds but keeping them in debug builds.
+
+**Opposing Opinions:** Two researchers present opposing views on this topic:
+
+1. One researcher argues that assertions should be suppressed in release builds to improve performance.
+2. Another researcher believes that assertions should always be left in, as they are an essential part of the program and removing them can lead to incorrect code.
+
+**Conclusion:** The video concludes by highlighting the importance of considering the impact of assertions on performance when developing software.
+
+Additionally, the transcript mentions several weeks of material related to software development topics such as module cohesion, unit testing, defensive coding, exception handling, usability testing, accessibility testing, and Git design goals.

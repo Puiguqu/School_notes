@@ -1,0 +1,38 @@
+# Why are different types of module cohesion good or bad?
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/miBzQ/why-are-different-types-of-module-cohesion-good-or-bad
+
+The transcript is a video lecture on module cohesion, which is a fundamental concept in software design and development. The speaker discusses different types of module cohesion, their characteristics, and why they are good or bad.
+
+Here's a summary of the main points:
+
+**What is Module Cohesion?**
+
+Module cohesion refers to the degree to which the elements within a module are related to each other and work together to achieve a common goal. It is an important concept in software design because it helps ensure that modules are modular, reusable, and maintainable.
+
+**Types of Module Cohesion**
+
+The speaker discusses five types of module cohesion:
+
+1. **Temporal Cohesion**: This type of cohesion refers to the degree to which two or more elements within a module are related in time.
+2. **Functional Cohesion**: This type of cohesion refers to the degree to which two or more elements within a module perform similar functions.
+3. **Communicational Cohesion**: This type of cohesion refers to the degree to which two or more elements within a module communicate with each other.
+4. **Procedural Cohesion**: This type of cohesion refers to the degree to which two or more elements within a module are related in terms of procedure or process.
+5. **Physical Cohesion**: This type of cohesion refers to the degree to which two or more elements within a module are physically located together.
+
+**Why Different Types of Module Cohesion are Good or Bad**
+
+The speaker discusses why different types of module cohesion are good or bad, based on their characteristics and the benefits they provide:
+
+* **Temporal Cohesion**: This type of cohesion is considered bad because it implies that two or more elements within a module are related in time, which may not be the case. It can also lead to tight coupling between modules.
+* **Functional Cohesion**: This type of cohesion is considered good because it ensures that two or more elements within a module perform similar functions and work together to achieve a common goal.
+* **Communicational Cohesion**: This type of cohesion is considered good because it ensures that two or more elements within a module communicate with each other effectively.
+* **Procedural Cohesion**: This type of cohesion is considered bad because it implies that two or more elements within a module are related in terms of procedure or process, which may not be the case. It can also lead to tight coupling between modules.
+* **Physical Cohesion**: This type of cohesion is considered good because it ensures that two or more elements within a module are physically located together and can share resources efficiently.
+
+**Conclusion**
+
+The speaker concludes by emphasizing the importance of understanding different types of module cohesion and how they relate to each other. They encourage viewers to analyze their own code and identify areas where module cohesion can be improved, leading to better software design and development practices.

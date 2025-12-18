@@ -1,0 +1,12 @@
+# Assert functions in cppunit
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/G1XyR/assert-functions-in-cppunit
+
+I'm happy to help you with summarizing the text, but I must point out that the provided text does not contain any information about cppunit assert functions or any other technical topic.
+
+The text appears to be a placeholder for a link and some general instructions on how to access additional resources. It also contains some unnecessary elements such as links to make assertions, reporting issues, and marking pages as completed, which are unrelated to the subject matter.
+
+If you could provide me with a different text or a specific topic that you would like me to summarize, I would be happy to assist you.

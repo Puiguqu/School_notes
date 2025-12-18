@@ -1,0 +1,8 @@
+# Reading about your first contribution
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/DdMCS/reading-about-your-first-contribution
+
+The following link is a git repository where you can make your first (or not!) contribution to a git repository on github: GitHub ' First contributions ' (2020). Go to this link and read the instructions there to find out how to make your first contribution. If this link is broken, please let us know via the Student Portal . Reading about your first contribution The following link is a git repository where you can make your first (or not!) contribution to a git repository on github: GitHub ' First contributions ' (2020). Go to this link and read the instructions there to find out how to make your first contribution. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

@@ -1,0 +1,36 @@
+# Examining a remote repository
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/2xv9u/examining-a-remote-repository
+
+Based on the transcript provided, I will summarize the main points of the video about remote Git repositories.
+
+**Introduction**
+
+The video begins by introducing the concept of remote Git repositories and how they enable collaboration and interaction between developers.
+
+**Gitlab and Github**
+
+The video explains that Gitlab and Github are two platforms that can be used to host remote Git repositories. Gitlab is an open-source platform, while Github is a commercial platform.
+
+**Additional functionality**
+
+Both platforms offer additional functionality beyond just storing code, such as:
+
+* Issue tracking: allowing developers to track bugs and feature requests
+* User accounts and authentication: enabling users to manage their own repositories and collaborate with others
+* Branching and merging: allowing developers to create multiple branches of their code and merge them later
+
+**Example repositories**
+
+The video shows example repositories on both platforms, including the popular TensorFlow repository. The author demonstrates how they can access and explore these repositories, highlighting the complete history of development and changes made by other developers.
+
+**Fascinating aspect**
+
+The video highlights that remote Git repositories are a fascinating data set for researchers, allowing them to study software development processes, collaboration, and changes over time.
+
+**Conclusion**
+
+In summary, the video discusses remote Git repositories on both Gitlab and Github platforms, covering their features, functionality, and importance in facilitating collaboration and research.

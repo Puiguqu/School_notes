@@ -1,0 +1,42 @@
+# Design goals of git
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/H3hsc/design-goals-of-git
+
+The video transcript discusses the design goals of Git, a version control system used in open-source projects.
+
+**Introduction**
+
+The speaker introduces Linus Torvalds, the creator of Linux and the original versioning system used in the kernel for Linux. They mention that Torvalds had problems with other version control systems, such as SCCS, CVS, and BitKeeper.
+
+**Design Goals of Git**
+
+The speaker explains that Git's design goals include:
+
+1. **Distributed model**: Git is designed to be a distributed system, where every developer has a full copy of the entire project history.
+2. **Democratic meritocracy**: Anyone can commit changes to the repository, but it's up to others to decide whether those changes are good enough to be merged into the main branch.
+3. **Branching and merging**: Git allows developers to create their own branches, work on them independently, and then merge their changes back into the main branch.
+
+The speaker discusses how these design goals aim to create a more democratic and collaborative environment for open-source development.
+
+**Key Features**
+
+The speaker highlights some key features of Git's distributed model:
+
+1. **Branching**: Developers can create their own branches to work on independent projects or to test new ideas.
+2. **Merging**: Changes from one branch can be merged into another branch, allowing developers to integrate their changes with the main branch.
+
+**Philosophical Background**
+
+The speaker touches on the philosophical background of Git's design goals:
+
+1. **Open-source philosophy**: Git is designed to promote collaboration and transparency in open-source development.
+2. **Meritocratic approach**: Git's democratic meritocracy approach allows anyone to contribute to the project, regardless of their expertise or reputation.
+
+**Conclusion**
+
+The speaker concludes by summarizing the key points about Git's design goals and its distributed model.
+
+Note: The transcript is a combination of multiple sources, including lecture notes and video transcripts. It may not be a complete or entirely accurate representation of the original material.

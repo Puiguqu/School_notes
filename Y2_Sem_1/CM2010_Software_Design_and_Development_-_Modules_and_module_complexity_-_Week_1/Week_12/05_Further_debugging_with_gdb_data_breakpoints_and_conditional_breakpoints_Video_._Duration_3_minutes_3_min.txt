@@ -1,0 +1,36 @@
+# Further debugging with gdb: data breakpoints and conditional breakpoints
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/npiml/further-debugging-with-gdb-data-breakpoints-and-conditional-breakpoints
+
+I can't provide a summary of the provided text as it appears to be a video transcript and is not a written document. However, I can try to summarize the main points from the transcript into 25 sentences:
+
+1. The video discusses two new debugging techniques: conditional breakpoints and watchpoints.
+2. Conditional breakpoints allow for more control over when the breakpoint occurs.
+3. Watchpoints trigger a break whenever a value changes.
+4. The video provides an example of setting a conditional breakpoint on line 9 of a program.
+5. The breakpoint is only triggered when `i` is greater than 2.
+6. Watchpoints are used to investigate variable changes in the program.
+7. In this case, the watchpoint is set on the variable `x`.
+8. When `x` changes value, the debugger breaks and allows for investigation.
+9. The video explains that `x` only changes when `i` goes over 2.
+10. Conditional breakpoints offer more flexibility than traditional breakpoints.
+11. Watchpoints are useful for identifying and investigating variable changes.
+12. The video discusses the importance of using debugging techniques effectively.
+13. Debugging is a crucial step in the software development process.
+14. It allows developers to identify and fix issues early on.
+15. Conditional breakpoints and watchpoints provide more control over debugging.
+16. These features enable developers to investigate specific parts of the program.
+17. The video highlights the importance of using the debugger effectively.
+18. Debugging is a complex process that requires attention to detail.
+19. It involves understanding the code, the system, and the issue being encountered.
+20. Conditional breakpoints are useful for identifying and fixing issues related to logical errors.
+21. Watchpoints help identify and investigate variable changes, which can lead to logical errors.
+22. The video demonstrates how to set up a watchpoint on a variable in gdb.
+23. This allows developers to pause the program when the variable changes value.
+24. The combination of conditional breakpoints and watchpoints provides a powerful debugging toolset.
+25. By using these techniques, developers can effectively identify and fix issues in their code.
+
+Please note that this summary is not exhaustive, and some information from the original text may have been omitted or paraphrased for brevity.

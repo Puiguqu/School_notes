@@ -1,0 +1,26 @@
+# Week 11 introduction
+Video•
+. Duration: 45 seconds
+45 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/ORCyX/week-11-introduction
+
+Here is a summary of the text in 25 sentences:
+
+The subject of this week's video is exception handling. The learning objectives include defining terms such as throw, try, and catch, differentiating between exception handling and control flow, and practicing hands-on work at the code level.
+
+Exception handling is an important concept in programming that allows for error handling and recovery from unexpected situations.
+
+There are different types of errors, including syntax errors, runtime errors, and logical errors. Syntax errors occur when there is a problem with the code's syntax, while runtime errors occur during execution of the code. Logical errors occur when the code produces an incorrect result due to a flaw in its logic.
+
+The try-catch pattern is a fundamental concept in exception handling. The try block contains the code that might throw an exception, and the catch block contains the code that will be executed if an exception occurs.
+
+There are two types of exceptions: checked and unchecked. Checked exceptions are those that can be anticipated by the programmer and handled using a try-catch block, while unchecked exceptions are unexpected errors that cannot be handled by the programmer.
+
+The `throw` keyword is used to indicate that an exception will occur, while the `catch` keyword is used to catch an exception when it occurs.
+
+In JavaScript, exceptions can also be thrown using the `throw` keyword. The `try-catch` pattern can be used in conjunction with `try` and `catch` blocks to handle exceptions in JavaScript code.
+
+The final practice assignment for this week involves creating your own exception class and testing its functionality.
+
+Throughout the course of this video series, it is important to reflect on how exceptions are being used in your own coding practices.

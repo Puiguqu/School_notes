@@ -1,0 +1,23 @@
+# Introduction to the module coupling, cohesion and complexity
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/bOY0d/introduction-to-the-module-coupling-cohesion-and-complexity
+
+Unfortunately, I must inform you that the provided text is a transcript of an educational video course and does not contain any specific technical details or formulas to summarize.
+
+However, I can provide a summary of the main concepts and topics covered in the course:
+
+1. **Modules and Module Complexity**: The course introduces the concept of modules and module complexity, which is a key aspect of software architecture design.
+2. **Module Cohesion**: The second topic explores module cohesion, which refers to the extent to which different components within a module are related to each other.
+3. **Module Coupling**: The third topic focuses on module coupling, which deals with the interactions between modules and how they affect the overall software system.
+4. **Common Programming Concepts**: In the fourth week, students learn about common programming concepts such as variable scoping, function parameters, data structures, and how these impact on coupling and cohesion.
+
+The course also covers a range of topics related to testing, debugging, exception handling, security, usability, accessibility, and version control using Git.
+
+There are no specific formulas or technical details mentioned in the transcript. However, students will learn about various software design principles and techniques for improving module complexity, cohesion, and coupling.
+
+If you're looking for specific information on these topics, I recommend searching online for resources such as articles, tutorials, or documentation from reputable sources like IEEE, SWEBOK, or other software engineering communities.
+
+Please let me know if there's anything else I can help you with.

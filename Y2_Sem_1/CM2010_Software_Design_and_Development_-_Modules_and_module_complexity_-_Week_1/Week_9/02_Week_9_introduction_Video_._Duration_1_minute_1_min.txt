@@ -1,0 +1,38 @@
+# Week 9 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/bc7F1/week-9-introduction
+
+Here is a summary of the text in 25 sentences:
+
+The course has reached its new major topic group, which focuses on assertions and parameter checking.
+
+The main learning objectives for Week 9 are to define what an assertion is in a computer program, differentiate between assertions and regular control flow, and understand how assertions fit into the software development lifecycle.
+
+Assertions are used to control how a program works, whereas regular control flow statements like if-else statements serve different purposes.
+
+Assertions can be used to test code before it's executed and can help prevent errors or unexpected behavior.
+
+The course will cover practical capabilities for writing assertion code in different programming languages.
+
+A key concept is that assertions should be enabled when a program is tested and disabled when the program is running, as they may slow down execution time.
+
+This topic group builds upon previous modules on module cohesion, coupling, unit testing, and test-driven development.
+
+Week 9 introduces defensive coding, debugging, exception handling, and the use of assertions in software development.
+
+The course will explore case studies and real-world examples to illustrate the importance of assertions.
+
+One such example is the Ariane 5 rocket failure, where asserting certain conditions may have prevented the error.
+
+The course materials for Week 9 include a video on introduction to assertions, practice assignments, readings, and a practical demonstration.
+
+Students are encouraged to write their own assertions in different programming languages as part of an assignment.
+
+The final task is to find an example of a famous/public software failure and discuss its implications for using assertions.
+
+There will also be a discussion prompt to consider whether assertions should be left in or not.
+
+Overall, the course aims to provide students with practical knowledge and skills on using assertions effectively in software development.

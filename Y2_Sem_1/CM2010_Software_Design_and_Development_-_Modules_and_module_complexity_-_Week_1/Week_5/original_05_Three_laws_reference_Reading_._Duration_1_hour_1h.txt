@@ -1,0 +1,8 @@
+# Three laws reference
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/x18TM/three-laws-reference
+
+The three laws of test-driven development are covered in the following article: Martin, R.C. 'Professionalism and test-driven development' , IEEE Software 24(3) 2007, pp.32–36. To access the IEEE article, click on the blue ‘Institutional Sign In’ box at the top of the screen and search for ‘University of London: Online Library’. Three laws reference The three laws of test-driven development are covered in the following article: Martin, R.C. 'Professionalism and test-driven development' , IEEE Software 24(3) 2007, pp.32–36. To access the IEEE article, click on the blue ‘Institutional Sign In’ box at the top of the screen and search for ‘University of London: Online Library’. Mark as completed Dislike Report an issue

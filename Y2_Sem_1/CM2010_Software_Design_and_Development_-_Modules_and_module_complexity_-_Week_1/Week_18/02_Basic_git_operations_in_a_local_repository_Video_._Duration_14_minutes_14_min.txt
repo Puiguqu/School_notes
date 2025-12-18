@@ -1,0 +1,35 @@
+# Basic git operations in a local repository
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/LktMB/basic-git-operations-in-a-local-repository
+
+Let's break down the transcript into sections and provide a summary of each section.
+
+**Section 1: Introduction to Git Operations**
+
+The instructor introduces the basics of Git operations, including creating a new repository, checking status, staging files, un-staging files, committing changes, and amending commits. They also explain how to use the `git status` command to check the status of the repository and get helpful commands.
+
+**Section 2: Basic Git Commands**
+
+The instructor explains basic Git commands, including:
+
+* `git add`: adds files to the staging area
+* `git commit`: stages changes and creates a new commit
+* `git log`: displays a list of commits made to the repository
+* `git status`: checks the status of the repository
+
+They also explain how to use these commands to carry out basic operations on a local repository.
+
+**Section 3: Undoing Changes**
+
+The instructor explains how to undo changes by un-staging files using the command that gets printed out when they do `git status`. They also explain how to amend commits to make changes to previous commits.
+
+**Section 4: Review and Practice**
+
+The instructor reviews what has been covered so far, including basic Git commands, undoing changes, and amending commits. They then provide a worksheet for the viewer to practice their understanding of these concepts.
+
+**Summary**
+
+This video covers the basics of Git operations in a local repository, including creating a new repository, checking status, staging files, un-staging files, committing changes, and amending commits. The instructor provides an interactive transcript that allows viewers to navigate through the content using tab, save notes for sections of text, and contract their selection using shift + CTRL + arrow key. The video also includes a worksheet for practice, making it a comprehensive resource for learning basic Git operations.

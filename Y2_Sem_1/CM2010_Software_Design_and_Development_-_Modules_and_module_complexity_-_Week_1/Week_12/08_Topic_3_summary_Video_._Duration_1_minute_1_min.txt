@@ -1,0 +1,56 @@
+# Topic 3 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/CZ4OB/topic-3-summary
+
+Here is a summary of the text in 25 sentences:
+
+The course has reached the halfway point, and the topics covered so far have been about secure programming and robust programming techniques.
+
+The first topic discussed assertions, and it highlighted different perspectives on how to use them effectively.
+
+Assertions can help save money by identifying errors early, as seen in a case study that saved $0.5 billion.
+
+The second topic focused on secure programming, which goes beyond coding practices to include wider contexts such as training, validation, testing, and more.
+
+Exception handling is another crucial aspect of robust software development, allowing developers to deal with unexpected circumstances as they occur.
+
+Debuggers are also essential tools for investigating where bugs occur in a program's execution flow.
+
+The course will continue to explore various topics related to secure programming and robust software development.
+
+The next few weeks will cover modules, module complexity, module cohesion, and module coupling theory and analysis.
+
+Module coupling refers to how closely two modules are connected or dependent on each other.
+
+Module cohesion is the degree to which a module's parts work together as a unit.
+
+Module testing is also an essential aspect of robust software development.
+
+The course will cover unit testing in Python and C++.
+
+Unit testing involves writing tests for individual units of code to ensure they function correctly.
+
+Debugging is an important skill that developers need to learn, including using GDB, a popular debugger.
+
+GDB stands for GNU Debugger and provides powerful tools for debugging software.
+
+Debuggers allow developers to step through the execution flow of their program and investigate where bugs occur.
+
+Breakpoints are used in debuggers to pause the program at specific points.
+
+Conditional breakpoints enable developers to apply different actions based on the program's state at a breakpoint.
+
+Data breakpoints allow developers to inspect variables at specific points during execution.
+
+The course will also cover advanced debugging topics, including lab work with GDB.
+
+In addition to debugging, the course will explore other essential topics such as user stories, black box and white box testing, usability testing, accessibility testing, Git design goals, basic Git operations, analyzing Git repositories, GitHub profiles, and FLOSS (Free and Open-Source Software).
+
+The course will also cover preparing for an online exam and completing a self-evaluation checklist.
+
+Throughout the course, there have been various interactive modules, including practice assignments, lab work, and video introductions.
+
+The next topic summary video is available, as well as a transcript enabling basic transcript mode.

@@ -1,0 +1,16 @@
+# Week 17 introduction
+Video•
+. Duration: 55 seconds
+55 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/xlohg/week-17-introduction
+
+There is no text to summarize. The provided text appears to be a video transcript and course outline for a programming or software development course. It lists various topics and learning objectives, but it does not contain any specific information that can be summarized.
+
+However, I can provide an overview of the content:
+
+* The course covers version control systems, with a focus on Git.
+* Learning objectives include naming version control systems, identifying the creator of Git, and describing its design goals.
+* Other topics covered in previous weeks include modules, unit testing, defensive coding, secure programming, and accessibility testing.
+
+If you provide more context or specify which parts of the transcript you would like me to summarize, I can try to assist you further.

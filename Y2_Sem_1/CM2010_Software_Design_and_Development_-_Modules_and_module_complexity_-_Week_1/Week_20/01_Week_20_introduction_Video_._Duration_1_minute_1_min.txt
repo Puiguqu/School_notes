@@ -1,0 +1,36 @@
+# Week 20 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/PL66h/week-20-introduction
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The course has reached its final week, and the topic for Week 20 is "GitHub profiles and FLOSS".
+2. The learning objectives for this week are to discuss issues related to having a public GitHub profile, using Git Tools, and contributing to Free or Libre Open Source Software (FLOSS) projects.
+3. The first objective is to think about what things can be put in a public GitHub profile and how to use Git Tools to do that.
+4. The second objective is to explore the positives of interacting with FLOSS projects and contributing to them.
+5. The third objective is to learn how to access lists on different projects and determine if it's beneficial to get involved.
+6. A preview slide is shown, which includes suggestions for getting involved in a React project.
+7. The course has covered various modules and topics throughout the 20 weeks, including learning objectives related to module cohesion and coupling.
+8. Module cohesion refers to how well different components work together within a module.
+9. Module coupling refers to the relationships between different components within a module.
+10. The course also covers unit testing, test-driven development, defensive coding, debugging, exception handling, secure programming, user stories, black box and white box testing, usability testing, accessibility testing, Git design goals, basic Git operations, analyzing Git repositories, and more.
+11. The course is designed to prepare students for a professional software development career.
+12. In Week 20, the focus is on presenting oneself effectively online through a public GitHub profile.
+13. A practice assignment is given, which requires reading about the student's first contribution to a FLOSS project.
+14. The practice assignment helps students learn how to get involved in a FLOSS project and contribute their code.
+15. The course covers various programming languages, including Python and C++.
+16. Unit testing is an essential concept in software development, as it ensures that individual units of code work correctly.
+17. Defensive coding involves writing code that anticipates potential errors and exceptions.
+18. Exception handling is a critical aspect of debugging, which helps identify and resolve errors in code.
+19. Secure programming practices are essential to prevent vulnerabilities in software.
+20. User stories describe the functionality of a software system from the user's perspective.
+21. Black box testing involves testing a software system without knowing its internal workings.
+22. White box testing involves testing a software system with knowledge of its internal workings.
+23. Usability testing ensures that a software system is easy to use and understand for users.
+24. Accessibility testing ensures that a software system can be accessed by people with disabilities.
+25. The course concludes with a summary video that covers the key topics learned throughout the 20 weeks.
+
+Please note that this summary aims to capture the most important concepts and findings from the text, but some details may have been omitted due to the limitations of the original format.

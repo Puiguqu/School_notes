@@ -1,0 +1,44 @@
+# Screen-reader demonstration
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Vzx9t/screen-reader-demonstration
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript describes an attempt to write a C++ program using only a screen reader.
+2. The narrator uses the screen reader to navigate through the text editor and type out a program.
+3. The screen reader reads out every letter that is typed, making it clear what the user is typing.
+4. The narrator makes a deliberate mistake in the code to demonstrate how to handle compile errors.
+5. The screen reader reads out the error message and provides instructions on how to fix the issue.
+6. After fixing the error, the narrator attempts to save the program using the Ctrl+S keyboard shortcut.
+7. The screen reader announces the action of saving the file and provides options for renaming it.
+8. The narrator uses the window title and prompt to navigate to the desktop where they saved the program.
+9. The screen reader reads out the contents of the program, including syntax errors, making it clear what issues need to be addressed.
+10. The narrator uses the keyboard shortcut to switch between different parts of the terminal.
+11. The screen reader announces each command and provides feedback on its execution.
+12. The narrator's goal is to demonstrate the challenges of writing code using a screen reader and improve accessibility.
+
+13. To improve accessibility, it would be helpful to use large font sizes or high contrast colors for text editors.
+14. Some screen readers may not work well with certain keyboard shortcuts or syntax.
+15. The video transcript highlights the importance of testing accessibility features on different operating systems.
+16. The narrator emphasizes that writing code using a screen reader can be extremely challenging, even for experienced developers.
+
+17. To address this challenge, developers can use various assistive technologies such as screen readers and Braille displays.
+18. Screen readers like NVDA or JAWS provide real-time feedback on user input, making it easier to write code.
+19. The narrator encourages viewers to try out screen readers on their operating systems to better understand the experience.
+
+20. Accessibility is an essential aspect of software development, ensuring that users with disabilities can interact with and use software applications.
+
+21. To improve accessibility, developers should consider factors like font size, color contrast, and keyboard accessibility.
+
+22. Screen readers can provide detailed feedback on user input, making it easier to identify errors or syntax issues.
+
+23. The video transcript demonstrates the importance of testing accessibility features in real-world scenarios.
+
+24. Developers can use tools like GitHub to share their code and collaborate with others while also ensuring accessibility.
+
+25. Accessibility is a critical aspect of software development, and developers should prioritize its implementation to ensure inclusive and usable software applications.
+
+Note: There are no formulae or links in the original text.

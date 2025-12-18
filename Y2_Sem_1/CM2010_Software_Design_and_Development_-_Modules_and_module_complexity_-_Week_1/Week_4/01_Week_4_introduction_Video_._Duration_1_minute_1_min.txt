@@ -1,0 +1,51 @@
+# Week 4 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/G3TLp/week-4-introduction
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The video transcript introduces week four of a course, focusing on module coupling and cohesion concepts.
+2. Learning objectives for this week include explaining the connection between common programming concepts and module concepts.
+3. Module coupling refers to how tightly connected two modules are, while cohesion describes how well a single module achieves its goals.
+4. Function parameters, scope, and data structures will be examined in relation to module coupling and cohesion.
+5. Language features can also improve module coupling and cohesion, with techniques such as function overloading and const correctness being discussed.
+
+6. The course covers the following topics: module complexity, module cohesion, module coupling (theory and analysis), and improving coupling and cohesion.
+
+7. Practitioners will use programming techniques to improve coupling and cohesion.
+8. Techniques include using functions, data structures, and scope to achieve better module cohesion.
+
+9. Language features can also be used to improve coupling and cohesion.
+10. The course differentiates between programming techniques and language features.
+
+11. Week 1 covers modules and module complexity, with a focus on understanding the importance of module coupling and cohesion.
+12. Module cohesion is discussed in more detail, including how to achieve better cohesion through coding practices.
+
+13. Module coupling (theory and analysis) is examined, including the different types of coupling and their impact on system performance.
+
+14. Practitioners are asked to practice improving coupling and cohesion using functions, data structures, and scope.
+
+15. The course includes a reading assignment for week 4, with a focus on understanding module coupling and cohesion concepts.
+
+16. The course also includes practice assignments for each topic, including writing code examples and analyzing existing code.
+
+17. Practitioners are encouraged to develop their own example of improved coupling and cohesion.
+
+18. A discussion prompt is provided for practitioners to present their examples and receive feedback from the instructor.
+
+19. The course covers a range of topics related to software development, including unit testing, defensive coding, debugging, exception handling, and usability testing.
+
+20. Practitioners are asked to analyze git repositories and understand basic git operations.
+
+21. A discussion prompt is provided for practitioners to discuss their understanding of git design goals.
+
+22. The course also covers the importance of security and accessibility in software development.
+
+23. A discussion prompt is provided for practitioners to discuss their understanding of defensive coding, debugging, exception handling, and usability testing.
+
+24. Practitioners are encouraged to use GitHub profiles to manage their projects and share code with others.
+
+25. The course provides a comprehensive overview of software development concepts, including module coupling and cohesion, unit testing, and git design goals.

@@ -1,0 +1,8 @@
+# Assert functions in cppunit
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/G1XyR/assert-functions-in-cppunit
+
+Click on the link below to find the documentation about the cppunit assert functions: cppunit: Making assertions Try writing out and adapting some of the code that you have seen in the videos to use some different assertions. There will be a detailed cppunit worksheet in the next lesson. If this link is broken, let us know via the Student Portal . Assert functions in cppunit Click on the link below to find the documentation about the cppunit assert functions: cppunit: Making assertions Try writing out and adapting some of the code that you have seen in the videos to use some different assertions. There will be a detailed cppunit worksheet in the next lesson. If this link is broken, let us know via the Student Portal . Mark as completed Dislike Report an issue

@@ -1,0 +1,8 @@
+# EARS reference
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/KQtWv/ears-reference
+
+Mavin, A., P. Wilkinson, A. Harwood and M. Novak ' Easy Approach to Requirements Syntax (EARS) ', 2009 17th IEEE International Requirements Engineering Conference (Atlanta, GA: IEEE, 2009), pp.317-322. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . EARS reference Mavin, A., P. Wilkinson, A. Harwood and M. N...

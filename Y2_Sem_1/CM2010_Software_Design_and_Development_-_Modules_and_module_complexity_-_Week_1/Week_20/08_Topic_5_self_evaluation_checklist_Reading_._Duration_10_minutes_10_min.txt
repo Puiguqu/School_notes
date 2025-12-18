@@ -1,0 +1,57 @@
+# Topic 5 self evaluation checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/jFlRO/topic-5-self-evaluation-checklist
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. As you progress through your course, it's essential to regularly assess your understanding and capabilities against the learning outcomes.
+2. This exercise is designed to help you reflect on your learning journey, identify areas where you may need to deepen your knowledge or skills, and develop a plan for improvement.
+3. Use this checklist to evaluate your understanding of the lessons covered in Topic 5.
+4. If you don't feel confident about any of these concepts/tasks, revisit the relevant lecture videos, readings, and activities to help you consolidate your knowledge.
+
+Key Concepts:
+
+5. Version control is crucial in software development as it helps manage changes, track history, and collaborate effectively on projects.
+6. A version control system's basic workflow includes creating, modifying, and managing repositories.
+7. Git is a popular version control system used for managing changes, tracking history, and collaborating on projects.
+
+Git Commands:
+
+8. You can clone an existing repository using `git clone`.
+9. You can create a new repository in Git using `git init`.
+10. You can stage changes using `git add` and commit them using `git commit`.
+11. Meaningful commit messages are essential; you can write descriptive messages for commits.
+
+Branching and Merging:
+
+12. You can create and switch between branches to manage feature development or bug fixes.
+13. You understand how to merge branches and resolve conflicts when merging changes.
+14. Tools like Git's `gitk` command-line tool can help visualise branch histories and ensure a clean workflow.
+
+Gitignore and Configuration Files:
+
+15. You can create and configure a `.gitignore` file to exclude unnecessary or sensitive files from version control.
+16. It's essential not to commit files like configuration files, secrets, or build artifacts.
+
+Bug Reporting and Best Practices:
+
+17. You can create detailed and clear bug reports for public and private repositories.
+18. You understand how to use issue tracking systems to report and monitor bugs.
+19. Follow best practices when reporting bugs, including providing reproduction steps, expected outcomes, and relevant logs or screenshots.
+
+Public GitHub Profile:
+
+20. You can create and maintain a well-organised public GitHub profile.
+21. Structure your repositories with clear documentation (e.g., README files).
+22. Showcase your work effectively by organising public projects and contributing to open-source repositories.
+
+Practical Application of Version Control:
+
+23. You can use Git to collaborate with others on shared repositories.
+24. Resolve merge conflicts effectively and maintain a clean project history.
+25. Optimize your use of version control to improve collaboration, reduce errors, and streamline project development.
+
+Note: The original text does not contain specific links or formulae, so I did not include them in the summary.

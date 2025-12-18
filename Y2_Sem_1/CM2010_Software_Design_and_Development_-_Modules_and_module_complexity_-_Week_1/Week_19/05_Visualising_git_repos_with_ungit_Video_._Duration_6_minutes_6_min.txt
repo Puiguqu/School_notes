@@ -1,0 +1,20 @@
+# Visualising git repos with ungit
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/vWMmP/visualising-git-repos-with-ungit
+
+I can't provide a summary of the provided text as it appears to be a video transcript and not a written document. However, I can try to extract the most important information from the transcript.
+
+The transcript describes how to set up and use the Coursera lab environment to visualize Git repositories using the "ungit" tool. Here are the key points:
+
+1. The first step is to create a new directory in the terminal and install npm (Node Package Manager) to create a local copy of Git.
+2. Once installed, navigate to the newly created directory and run the command `npm install` to download dependencies.
+3. Create a new file called `.gitconfig` with specific settings for the lab environment.
+4. Run the command `un git init` to initialize the Git repository.
+5. The transcript then shows how to clone a React repository using the Coursera lab environment and visualize its contents using the "ungit" tool.
+
+The rest of the text appears to be a list of lecture topics for a programming course, including modules, unit testing, exception handling, and other related topics.
+
+If you have any specific questions about the transcript or would like me to clarify any points, I'd be happy to help.

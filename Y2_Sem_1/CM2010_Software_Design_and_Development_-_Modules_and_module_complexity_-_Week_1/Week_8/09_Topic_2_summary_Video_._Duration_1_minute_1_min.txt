@@ -1,0 +1,60 @@
+# Topic 2 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/lg7Km/topic-2-summary
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The video transcript covers four weeks of programming and learning, where participants were able to grasp new concepts and implement them.
+
+2. Test-driven development (TDD) was introduced as a crucial topic, starting with a solid understanding of its principles.
+
+3. Three environments for TDD were explored: Python using the unit tests package, C++ using CPP unit, and a web-based API in JavaScript.
+
+4. Participants successfully ran tests in each environment and gained hands-on experience with TDD frameworks.
+
+5. The importance of test-driven development was highlighted, emphasizing its role in ensuring quality software.
+
+6. A brief review of the key concepts covered during the four weeks was provided to ensure participants understood the material.
+
+7. Week 1 focused on modules and module complexity, which is essential for understanding how different parts of a system interact.
+
+8. Week 2 delved into module cohesion, discussing how cohesive modules contribute to better software design.
+
+9. Module coupling theory and analysis were covered in Week 3, helping participants understand the relationship between modules.
+
+10. In Week 4, practical applications of module coupling and cohesion were demonstrated, providing hands-on experience.
+
+11. The following weeks (Weeks 5-8) focused on unit testing, including a deep dive into Python and C++ unit tests and finally, unit testing a web API in JavaScript.
+
+12. Participants gained an understanding of how to write effective unit tests using Mocha, a popular JavaScript testing framework.
+
+13. Node package installer was introduced as a tool for managing dependencies in Node.js projects.
+
+14. Defensive coding, debugging, and exception handling were covered in Week 9, providing participants with essential skills for robust software development.
+
+15. Secure programming practices were discussed, highlighting the importance of protecting user data and preventing common security threats.
+
+16. Exception handling was explored, emphasizing the need to anticipate and handle potential errors in code.
+
+17. Using a debugger became a crucial skill for identifying and fixing issues in software projects.
+
+18. Week 11 focused on exception handling, presenting participants with options between catch and throw statements.
+
+19. User stories were discussed, providing guidance on how to create user-centered design documentation.
+
+20. Black box and white box testing techniques were introduced, teaching participants how to test software from different perspectives.
+
+21. Usability testing was emphasized, stressing the importance of ensuring software is accessible and easy to use.
+
+22. Accessibility testing was covered, highlighting best practices for making software more inclusive.
+
+23. Git design goals were discussed, providing an overview of how to manage code repositories effectively.
+
+24. Participants learned basic Git operations and how to analyze repositories for better understanding.
+
+25. The final topic introduced GitHub profiles and FLOSS (Free and Open-Source Software), helping participants understand the role of open-source software in the development community.
+
+The summary aims to preserve key concepts, formulae, links, and technical details from the original transcript while providing an overview of the topics covered in the four-week video course.

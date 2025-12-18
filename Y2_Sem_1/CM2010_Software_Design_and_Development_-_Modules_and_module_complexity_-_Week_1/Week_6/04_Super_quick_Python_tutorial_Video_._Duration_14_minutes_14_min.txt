@@ -1,0 +1,78 @@
+# Super quick Python tutorial
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/z61zi/super-quick-python-tutorial
+
+Here's a possible transcript of the video on "Python Primer" by [Your Name]:
+
+**Intro**
+
+[Upbeat background music starts playing]
+
+Host: "Welcome to our Python primer! My name is [Your Name], and I'll be guiding you through the basics of the Python programming language. In this video, we'll cover the syntax, data types, variables, lists, loops, functions, and more!"
+
+**Declaring Variables and Modifying Data**
+
+[Visuals of code on screen]
+
+Host: "In Python, we can declare a variable using the assignment operator (=). For example, `x = 5` declares a variable named x and assigns it the value 5. We can modify data by reassigning a new value to the variable. Let's try that!"
+
+[Code snippet on screen]
+
+Host: "We'll use the `print()` function to display the value of our variable."
+
+**Lists**
+
+[Visuals of code on screen]
+
+Host: "In Python, we can store multiple values in a single variable using lists. Lists are defined by enclosing elements within square brackets (`[]`). For example, `my_list = [1, 2, 3, 4, 5]` declares a list with five elements."
+
+[Code snippet on screen]
+
+Host: "We can access individual elements in the list using indexing. For example, `print(my_list[0])` prints the first element of the list (which is 1)."
+
+**Loops**
+
+[Visuals of code on screen]
+
+Host: "Python has two types of loops: for loops and while loops."
+
+[Code snippet on screen]
+
+Host: "The for loop iterates over a sequence (like a list or string) and assigns each element to a variable. For example, `for x in my_list:`"
+
+**Functions**
+
+[Visuals of code on screen]
+
+Host: "In Python, we can define our own functions using the def keyword. A function is a block of code that takes input arguments and returns output values."
+
+[Code snippet on screen]
+
+Host: "Let's try defining a simple function that adds two numbers together!"
+
+**Unit Testing**
+
+[Visuals of code on screen]
+
+Host: "In Python, we can write unit tests to ensure our code works correctly. We'll use the unittest library to create and run test cases."
+
+[Code snippet on screen]
+
+Host: "Let's try writing a simple test case that checks if our function returns the correct output for certain input values!"
+
+**Conclusion**
+
+[Outro music starts playing]
+
+Host: "That's it for today's Python primer! We covered variables, lists, loops, functions, and unit testing. With this foundation, you'll be well on your way to becoming a proficient Python programmer."
+
+**Additional Resources**
+
+[Closing shot of the host]
+
+Host: "If you want to learn more about Python, check out our course materials and practice assignments. Thanks for watching, and we'll see you in the next video!"
+
+[Outro music continues playing as the video ends]

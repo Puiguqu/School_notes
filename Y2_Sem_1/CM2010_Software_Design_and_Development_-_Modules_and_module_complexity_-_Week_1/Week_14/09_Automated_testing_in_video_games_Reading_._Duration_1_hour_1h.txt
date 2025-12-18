@@ -1,0 +1,12 @@
+# Automated testing in video games
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/ccbop/automated-testing-in-video-games
+
+## NOTE: VIDEO CONTENT WITHOUT EXTRACTABLE TRANSCRIPT ##
+
+Title: Automated testing in video games | Coursera
+
+This is the paper describing the Sims Mobile agent: Zhao, Y., I. Borovikov, A. Beirami, J. Harder, J. Kolen, J. Pestrak, J. Pinto, R. Pourabolghasem, H. Chaput, M. Sardari et al. ' Winning isn’t everything: Training agents to playtest modern games ', AAAI Workshop on Reinforcement Learning in Games 2019. Optional reading: This is a very detailed paper describing the state of the art in a...

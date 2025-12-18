@@ -1,0 +1,31 @@
+# Secure programming and the software development lifecycle
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eCUBn/secure-programming-and-the-software-development-lifecycle
+
+The transcript appears to be a course transcript for a computer science or software engineering course, specifically on secure programming and software development lifecycle. The topics covered include:
+
+1. Introduction to secure programming
+2. Embedding security practices into the software development lifecycle model
+3. Secure coding principles and best practices
+4. Defensive programming, debugging, and exception handling
+5. Unit testing and test-driven development
+6. Static analysis of code using tools like bandit
+7. Test-driven development and static testing a Python library
+8. Exception handling and debugging techniques
+9. Usability and accessibility testing
+10. Git design goals and basic git operations
+
+The transcript also mentions a mid-term exam and an online exam at the end of the course.
+
+Some notable points from the transcript include:
+
+* The importance of embedding security practices into the software development lifecycle model
+* The use of tools like bandit for static analysis of code
+* The need for defensive programming, debugging, and exception handling techniques
+* The importance of usability and accessibility testing
+* Git design goals and basic git operations are also covered in the course.
+
+The transcript is written in a formal and technical tone, suggesting that it is intended for an audience with some background knowledge of computer science and software engineering.

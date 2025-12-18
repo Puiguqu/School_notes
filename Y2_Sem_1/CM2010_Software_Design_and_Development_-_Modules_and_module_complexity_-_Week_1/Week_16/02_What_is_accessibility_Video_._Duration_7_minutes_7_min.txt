@@ -1,0 +1,36 @@
+# What is accessibility?
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/ofjcT/what-is-accessibility
+
+I can provide a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details.
+
+1. The video transcript discusses the concept of accessibility.
+2. The definition of usability and accessibility is presented in the video.
+3. Usability refers to being specific about what people can do with a given resource.
+4. Accessibility covers the needs of a wide group of people.
+5. There are four main aspects of accessibility: perception, operation, understanding, and robustness.
+6. Perception involves basic sensory abilities such as sight and hearing.
+7. Operation involves physical interactions with a system or interface.
+8. Understanding involves cognitive processes such as decision-making and problem-solving.
+9. Robustness ensures that the system remains functional despite errors or failures.
+10. The UK has laws requiring public bodies to make their websites accessible.
+11. These laws aim to ensure equal access to information for people with disabilities.
+12. Public bodies are not required to comply with accessibility requirements if doing so would impose a disproportionate burden.
+13. Accessibility is an essential aspect of user experience and usability.
+14. Ensuring accessibility can lead to cost savings, improved user satisfaction, and increased business opportunities.
+15. Many organizations, including government agencies, universities, and private companies, must adhere to accessibility standards.
+16. Accessibility guidelines are often developed by international organizations such as the World Wide Web Consortium (W3C).
+17. W3C provides resources for developers to ensure their websites and applications meet accessibility standards.
+18. Accessibility testing involves evaluating how well a system or interface meets accessibility requirements.
+19. Usability testing focuses on user experience, whereas accessibility testing examines compliance with laws and regulations.
+20. Accessibility is an ongoing process that requires continuous monitoring and improvement.
+21. Developers can use various tools and techniques to ensure their products meet accessibility standards.
+22. Automated testing tools can help identify accessibility issues but may not catch all problems.
+23. Manual testing by human evaluators provides a more comprehensive assessment of accessibility.
+24. Ensuring accessibility benefits users with disabilities, as well as those without, by providing an inclusive experience.
+25. Accessibility is essential for creating equitable and user-friendly digital products.
+
+Note: The provided text appears to be a transcript of a video course or lecture on software engineering, specifically covering topics related to usability, accessibility, and coding best practices.

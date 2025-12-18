@@ -1,0 +1,35 @@
+# Complexity references
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/iWkOm/complexity-references
+
+Here is a summary of the text in 25 sentences:
+
+1. The task requires reading two articles about structural complexity and software architecture.
+2. The first article is "Structural epochs in the complexity of software over time" by R.S. Sangwan, P. Vercellone-Smith, and P.A. Laplante (2008).
+3. The second article is a classic paper on module complexity by T.J. McCabe (1976).
+4. There are also two additional articles: "Criteria for the evaluation of implemented architectures" by Bouwers et al. (2009) and "Sustainability evaluation of software architectures" by Koziolek (2011).
+5. The links to these articles can be accessed on the IEEE page.
+6. To access the articles, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library'.
+7. If the links are broken, please notify the instructor via the Student Portal.
+
+Key concepts:
+
+* Structural complexity and how it changes over time
+* Module complexity (McCabe's classic paper)
+* Criteria for evaluating implemented architectures (Bouwers et al.)
+* Sustainability evaluation of software architectures (Koziolek)
+
+Important findings:
+
+* The first article discusses structural epochs in the complexity of software over time, but no specific findings or data are mentioned.
+* McCabe's paper introduces a complexity measure, but no formula or results are provided.
+
+Technical details:
+
+* The articles are published on IEEE and can be accessed online.
+* The links to the articles may require institutional sign-in credentials.
+
+Overall, the task requires reading and understanding three articles about structural complexity and software architecture.

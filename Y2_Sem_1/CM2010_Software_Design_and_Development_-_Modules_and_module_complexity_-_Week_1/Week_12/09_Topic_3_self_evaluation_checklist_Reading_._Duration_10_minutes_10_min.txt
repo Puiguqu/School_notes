@@ -1,0 +1,43 @@
+# Topic 3 self evaluation checklist
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/Cr383/topic-3-self-evaluation-checklist
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. Regularly assessing understanding against learning outcomes is crucial for progress through a course.
+2. This exercise helps reflect on the learning journey, identify areas for improvement, and develop an improvement plan.
+3. The checklist evaluates understanding of lessons covered in Topic 3.
+4. If unsure about any concepts, revisit relevant lecture videos, readings, and activities to consolidate knowledge.
+
+5. Understanding robust and secure programming is essential, involving defensive coding principles.
+6. Defensive coding prevents processing invalid data and ensures program stability.
+7. Assertion and parameter checking are crucial for verifying assumptions during runtime.
+8. Parameter validation ensures correctness in program functions.
+9. Assertion and parameter validation contribute to program robustness and security.
+
+10. Secure programming involves identifying and mitigating common security risks, such as input validation and buffer overflows.
+11. Preventing data leaks and securing sensitive information is essential in software development.
+12. Secure coding principles protect programs against common attacks, like injection or unauthorized access.
+
+13. Exception handling involves using try-catch blocks to handle exceptions and errors gracefully.
+14. Checked and unchecked exceptions can be differentiated and handled appropriately.
+15. Programs can recover from unexpected events using exception handling.
+
+16. Debugging tools are used to trace and identify errors or unexpected behaviors in a program.
+17. Set breakpoints, inspect variables, and step through code using debugging tools.
+
+18. Writing programs involves using variables, control flow, and functions while ensuring robustness and security.
+19. Functions can handle invalid inputs and unexpected events effectively.
+
+20. Defensive coding practices are applied consistently in all aspects of programming.
+21. Exception handling and parameter validation safeguard program execution.
+22. Proactively identifying areas for defensive coding and implementing solutions is crucial.
+23. Balancing program performance and security while maintaining readability and maintainability is essential.
+
+24. Critical thinking and problem-solving are necessary to evaluate the effectiveness of defensive coding strategies.
+25. Understanding the importance of robustness and security in professional software development and actively applying these principles is critical for effective programming.
+
+Note that this summary maintains key information, formulae, links, and technical details while condensing the original text into 25 concise sentences.

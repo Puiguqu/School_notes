@@ -1,0 +1,40 @@
+# What is a physics engine?
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eCY4d/what-is-a-physics-engine
+
+Here is a summary of the text in 25 sentences, preserving key information:
+
+1. The concept of a physics engine was introduced, which simulates elements of physics in video games.
+2. Most video games use some sort of physics engine to control collisions and movements.
+3. A liquid fun physics engine was shown, demonstrating realistic behavior with minimal individual programming.
+4. The physics engine calculates the simulation based on forces between objects, including gravity.
+5. Forces can be simulated, such as elasticity, springy types, and more.
+6. Objects in the world have forces applied to them, determining their movement.
+7. Physics engines use a world with rules and space where everything exists.
+8. The key components of a physics engine are the world, objects, and forces between them.
+9. Unit testing is a great way to test physics engines, allowing for precise behavior specification and verification.
+10. Test-driven development (TDD) enables developers to specify expected behavior and verify it through testing.
+11. TDD helps ensure that the physics engine behaves as expected without individually programming every detail.
+12. The video game industry heavily relies on physics engines to create realistic simulations.
+13. Physics engines can be used in various domains, such as games, simulations, and even reality itself.
+14. A physics engine typically uses numerical methods to solve equations of motion.
+15. This includes using algorithms like Verlet integration or the Euler method.
+16. The choice of algorithm depends on factors like time step, accuracy, and performance requirements.
+17. In unit testing, one can write tests for different scenarios, such as collisions between objects.
+18. Tests can verify that forces are applied correctly to objects in the world.
+19. Defects or bugs in physics engines can cause unexpected behavior or crashes.
+20. Debugging techniques like step-by-step debugging and print statements help identify issues.
+21. Exception handling is crucial for robust error-handling mechanisms in physics engines.
+22. Defensive programming practices, such as using assertions and bounds checking, prevent potential errors.
+23. Secure programming ensures that physics engines do not introduce security vulnerabilities.
+24. Git design goals focus on version control, collaboration, and code management.
+25. Understanding physics engines is essential for developing realistic simulations in various domains.
+
+Additional notes:
+
+* The provided text seems to be a course outline or lecture series related to physics engines, unit testing, and C++ programming.
+* There are links to videos, readings, practice assignments, and labs associated with each topic.
+* Some topics, such as Git design goals and version control, may not directly relate to physics engines but are still relevant to software development.

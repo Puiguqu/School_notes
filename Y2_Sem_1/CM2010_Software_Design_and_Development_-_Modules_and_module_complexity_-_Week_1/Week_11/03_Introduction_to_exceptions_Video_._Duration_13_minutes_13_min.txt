@@ -1,0 +1,24 @@
+# Introduction to exceptions
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/XRIwg/introduction-to-exceptions
+
+This is a transcript of a video lecture on exceptions in programming. The speaker discusses the concept of exceptions, its definition, and how it differs from other programming techniques such as assertions.
+
+The speaker starts by explaining that exceptions are errors or unexpected events that occur during the execution of a program. They provide a worked example of a "verify login" function, where the program checks whether a user exists in a database. The speaker threads this through their explanation to illustrate how exceptions work.
+
+The speaker then defines what an exception is using the IEEE dictionary definition. They explain that exceptions are events that occur during execution that deviate from the expected behavior of the program. They discuss the difference between the caller and callee, who is responsible for detecting and handling exceptions.
+
+Next, the speaker compares exceptions to assertions. They explain that assertions are used to detect errors or invalid situations in a program, but they do not provide a way to handle them. Exceptions, on the other hand, provide a mechanism for asserting that something has gone wrong and allowing the program to recover from it.
+
+The speaker also discusses how exceptions differ from control flow statements such as if-else statements or loops. While these statements are used to control the flow of execution based on certain conditions, exceptions are used to handle unexpected events that may occur during execution.
+
+Finally, the speaker provides guidance on how to use exceptions correctly. They emphasize that exceptions should be thrown when an error occurs and caught by a handler function to prevent the program from crashing. They also advise against using exceptions as a substitute for control flow statements or assertions.
+
+The video concludes with a summary of the key points discussed during the lecture, including the definition of exceptions, their differences from other programming techniques, and best practices for using them correctly.
+
+In terms of the transcript format, this is an interactive transcript that allows users to navigate through the content using tab. It also provides features such as saving notes, expanding selections, and controlling keyboard shortcuts.
+
+Note: The transcript is not a simple text-to-speech transcript, but rather a more structured and formatted transcript that includes interactive elements and navigation options.

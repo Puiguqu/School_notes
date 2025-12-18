@@ -1,0 +1,40 @@
+# Static analysis of Python code using bandit
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/3eNZv/static-analysis-of-python-code-using-bandit
+
+The speaker is explaining how to use the Bandit tool to statically analyze Python code for known security vulnerabilities.
+
+**Installing Bandit**
+
+First, the speaker shows how to install Bandit by running the command `pip install bandit`.
+
+**Static Analysis of a Simple Python File**
+
+Next, the speaker demonstrates how to run static analysis on a simple Python file using the command `bandit -r simple_file.py`. The output shows a list of potential security vulnerabilities found in the code.
+
+**List of 70 Possible Problems Identified by Bandit**
+
+The speaker then shows the list of 70 possible problems that Bandit can identify, including issues related to:
+
+* Insecure coding practices
+* Unstable libraries
+* Missing or duplicate imports
+* Incorrect file permissions
+* Potential network security issues
+
+**Static Analysis of a Third-Party Library**
+
+The speaker demonstrates how to use Bandit to statically analyze a third-party library by running the command `bandit -r library_name`. The output shows a list of potential security vulnerabilities found in the library, including:
+
+* Use of insecure encryption
+* Potential network security issues
+* Incorrect file permissions
+
+**Filtering Results**
+
+The speaker shows how to filter the results to only include medium-priority issues by using the `-t` option with `bandit -r`. This helps focus on the most critical vulnerabilities.
+
+In summary, the speaker demonstrates how to use Bandit to statically analyze Python code for known security vulnerabilities, including analyzing a simple Python file and a third-party library.

@@ -1,0 +1,8 @@
+# GDB manual
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/4zZZx/gdb-manual
+
+In the following videos we are going to be looking at the GDB debugger. In case you want to have the manual open whilst you watch the videos, here is a link to the GDB manual: GDB: The GNU Project Debugger ' GBD documentation ' (2020). If this link is broken, please let us know via the Student Portal . GDB manual In the following videos we are going to be looking at the GDB debugger. In case you want to have the manual open whilst you watch the videos, here is a link to the GDB manual: GDB: The ...

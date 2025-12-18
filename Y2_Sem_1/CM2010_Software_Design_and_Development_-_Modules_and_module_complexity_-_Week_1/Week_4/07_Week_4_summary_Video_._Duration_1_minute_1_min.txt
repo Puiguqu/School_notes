@@ -1,0 +1,62 @@
+# Week 4 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/FLJ1e/week-4-summary
+
+Unfortunately, the provided text does not contain any information about programming concepts or module coupling and cohesion. The text appears to be a transcript of a video course, outlining a curriculum for a programming course.
+
+However, based on the structure and content of the transcript, here is a summary of the expected learning objectives and topics covered in the course:
+
+**Course Overview**
+
+* Review of Module Coupling and Cohesion
+* Explanation of connection between common programming concepts and module concepts
+* Use of programming techniques to improve module coupling and cohesion
+* Use of language features to improve module coupling and cohesion
+
+**Week 1: Modules and Module Complexity**
+
+* Introduction to modules
+* Understanding module complexity
+
+**Week 2: Module Cohesion**
+
+* Definition and importance of module cohesion
+* Techniques for improving module cohesion
+
+**Week 3: Module Coupling: Theory and Analysis**
+
+* Definition and types of coupling (tight, loose, etc.)
+* Analyzing and evaluating module coupling
+
+**Week 4: Module Coupling and Cohesion in Practice**
+
+* Introduction to the topic
+* Review of scope
+* Reasoning about function parameters
+* Improving coupling and cohesion using programming techniques
+* Using language features to improve coupling and cohesion
+* Pathological coupling review
+* Developing own example
+* Presenting example
+
+**Week 5-22: Various Topics on Software Development**
+
+* Week 5-6: Unit testing in Python and C++
+* Week 7-8: Unit testing a web API
+* Week 9-10: Defensive coding, debugging, and exception handling
+* Week 11-12: Exception handling: Catch or throw?
+* Week 13: User stories
+* Week 14-15: Black box and white box testing
+* Week 16-17: Usability and accessibility testing
+* Week 18-19: Git design goals and basic operations
+* Week 20: Analyzing git repositories
+* Week 21: GitHub profiles and FLOSS
+* Week 22: Preparation for an online exam
+
+**Week 23-24: Online Exam and Course Conclusion**
+
+* Online exam week
+* Final topics review

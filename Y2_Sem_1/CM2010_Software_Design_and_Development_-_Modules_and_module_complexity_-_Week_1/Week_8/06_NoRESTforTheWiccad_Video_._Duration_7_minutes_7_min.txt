@@ -1,0 +1,19 @@
+# NoRESTforTheWiccad
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/0Ipa0/norestforthewiccad
+
+This is a transcript of an online course or video series on software testing and quality assurance. The course covers various topics related to unit testing, debugging, exception handling, security, usability, accessibility, version control (Git), and more.
+
+The transcript appears to be from a week where the instructor introduces a basic RESTful Web API that provides some data services. They show how to run the API and demonstrate its functionality, including accessing different endpoints and observing errors.
+
+Some key points mentioned in the transcript include:
+
+1. **NoRESTforTheWiccad**: The instructor mentions a bug in the code, "spell" instead of "spells", which is not immediately apparent from the code.
+2. **Unit testing framework with JavaScript**: The instructor introduces Mocha as a unit testing framework for JavaScript and demonstrates its usage.
+3. **Node package installer**: The instructor shows how to use the Node package installer (npm) to install dependencies required by the API.
+4. **Considerations when testing a web API**: The instructor highlights some important considerations when testing a web API, such as accessibility and usability.
+
+Overall, this transcript provides a basic introduction to unit testing, debugging, and exception handling in the context of a RESTful Web API. It also touches on some best practices for software development, such as using version control (Git) and writing user-friendly code.

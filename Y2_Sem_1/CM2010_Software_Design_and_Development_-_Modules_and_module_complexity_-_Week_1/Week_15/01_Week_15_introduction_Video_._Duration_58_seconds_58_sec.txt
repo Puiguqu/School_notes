@@ -1,0 +1,47 @@
+# Week 15 introduction
+Video•
+. Duration: 58 seconds
+58 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/6l48u/week-15-introduction
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The learning objectives for Week 15 are to explain usability terms (efficiency, effectiveness, satisfaction) and evaluate software using industry-standard techniques.
+2. Usability is defined as the study of how people interact with products, systems, and services.
+3. The course covers various topics related to software development, including module cohesion, unit testing, exception handling, and defensive coding.
+4. Week 15 focuses on usability testing, which involves evaluating human-computer interaction aspects of a product or system.
+5. The week's content includes a video introduction to usability (58 seconds), a basic guide for engineers (6 minutes), and an overview of usability metrics (6 minutes).
+6. The course uses the System Usability Scale (SUS) survey to measure user satisfaction with software systems (1 hour reading material).
+7. Nielsen's usability principles are discussed, including a paper on the subject (30-minute reading material).
+8. A practice assignment is provided for evaluating a system using usability principles (30 minutes).
+9. The week concludes with a summary video (50 seconds).
+
+10. Other topics covered in previous weeks include:
+11. Module cohesion and coupling
+12. Unit testing in Python and C++
+13. Defensive coding, debugging, and exception handling
+14. Secure programming and online exam preparation
+15. Accessibility testing and Git design goals
+
+16. The course includes a variety of video lessons, reading materials, and practice assignments to help learners develop their skills.
+
+17. Learners can navigate through the transcript using tab or save notes with CTRL + S.
+
+18. To expand or contract selections, use CTRL + arrow key or shift + CTRL + arrow key.
+
+19. For screen readers incompatible with arrow keys, replace them with H J K L keys.
+
+20. Some screen readers require using CTRL in conjunction with the alt key.
+
+21. The course covers various software development topics, including module cohesion and unit testing.
+
+22. Nielsen's usability principles are a key concept in Week 15.
+
+23. A practice assignment is provided to help learners apply usability principles to evaluate systems.
+
+24. The week concludes with a summary video to review key concepts.
+
+25. Overall, the course aims to provide learners with a comprehensive understanding of software development topics and usability testing methods.
+
+Note: There are no links or formulae mentioned in the original text, so I couldn't include them in the summary. However, if you have any specific questions or would like me to clarify any concepts, feel free to ask!

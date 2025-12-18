@@ -1,0 +1,126 @@
+# Adding code to a remote repository
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/YLxTx/adding-code-to-a-remote-repository
+
+Here is a script based on the provided transcript:
+
+**Title: Basic Git Operations - Clone**
+
+[Intro Music plays]
+
+Narrator: Welcome to this video on basic git operations.
+
+[Visuals of a computer screen displaying a terminal or command prompt]
+
+Narrator: In this lesson, we'll be covering how to clone a repository and work with it locally. First, we need to install git on our machine if it's not already installed.
+
+**Step 1: Installing Git**
+
+Narrator: To install git, open your terminal or command prompt and type the following command:
+
+[Visuals of typing commands]
+
+```
+sudo apt-get install git
+```
+
+[Visuals of waiting for the installation to complete]
+
+Narrator: Once the installation is complete, we can move on to cloning a repository.
+
+**Step 2: Cloning a Repository**
+
+Narrator: To clone a repository, we need to know the URL of the repository. This URL will be used to identify where our local copy of the repository should be saved.
+
+[Visuals of typing commands]
+
+```
+git clone https://github.com/user/repository.git
+```
+
+[Visuals of waiting for the cloning process to complete]
+
+Narrator: The cloning process may take a few minutes, depending on the size of the repository and your internet connection speed.
+
+**Step 3: Verifying the Clone**
+
+Narrator: After the cloning process is complete, we can verify that our local copy of the repository was successful by running the following command:
+
+[Visuals of typing commands]
+
+```
+cd repository
+git status
+```
+
+[Visuals of displaying the output in the terminal]
+
+Narrator: The `git status` command will display any changes made to the repository since it was last updated.
+
+**Step 4: Making Changes and Committing**
+
+Narrator: Now that we have cloned the repository, we can make some changes and commit them. First, let's edit a file in the repository:
+
+[Visuals of typing commands]
+
+```
+gedit index.html
+```
+
+[Visuals of editing the file]
+
+Narrator: Let's add our own text to this file.
+
+[Visuals of adding text to the file]
+
+Narrator: Now that we have made some changes, we can commit them by running the following command:
+
+[Visuals of typing commands]
+
+```
+git add index.html
+git commit -m "My changes"
+```
+
+[Visuals of displaying the output in the terminal]
+
+Narrator: The `-m` option allows us to specify a commit message.
+
+**Step 5: Pushing Changes**
+
+Narrator: Now that we have committed our changes, we can push them back up to the remote repository. To do this, we need to know the URL of the remote repository:
+
+[Visuals of typing commands]
+
+```
+git remote -v
+```
+
+[Visuals of displaying the output in the terminal]
+
+Narrator: The `-v` option displays the full URL of the remote repository.
+
+[Visuals of pushing changes]
+
+```
+git push origin branch-name
+```
+
+[Visuals of displaying the output in the terminal]
+
+Narrator: Once we have pushed our changes, they will be visible to others on the remote repository.
+
+**Conclusion**
+
+Narrator: That's it for this video on basic git operations. We've covered how to clone a repository, make some changes, commit them, and push those changes up to the remote repository.
+
+[Outro Music plays]
+
+[Visuals of a computer screen displaying a terminal or command prompt]
+
+Narrator: Thanks for watching!
+
+[The script ends here]

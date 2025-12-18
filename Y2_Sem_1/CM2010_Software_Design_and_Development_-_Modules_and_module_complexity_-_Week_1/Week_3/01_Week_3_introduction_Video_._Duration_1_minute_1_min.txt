@@ -1,0 +1,51 @@
+# Week 3 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/ZXRkf/week-3-introduction
+
+Unfortunately, it appears that there is no text to summarize. The provided content seems to be a video transcript and some additional page content related to an educational course or tutorial on module coupling and software development.
+
+However, I can provide you with a summary of the key concepts and findings from the course material:
+
+Module Coupling:
+-----------------
+
+* Module coupling refers to the degree to which different modules in a software system interact with each other.
+* There are several types of module coupling, including:
+	+ Content coupling: sharing of data between modules
+	+ Control coupling: shared control structures or functions between modules
+	+ Common Environment Coupling: shared external environment or resources between modules
+	+ Pathological Coupling: a type of coupling that is considered bad and should be avoided
+
+Types of Module Coupling:
+-------------------------
+
+* Content Coupling: good when data is shared between modules for a specific purpose, but bad when data is shared unnecessarily.
+* Control Coupling: good when control structures or functions are shared between modules for a specific reason, but bad when they are shared unnecessarily.
+* Common Environment Coupling: good when shared external environment or resources are used efficiently, but bad when they are overused or abused.
+* Pathological Coupling: considered bad and should be avoided due to negative performance impacts.
+
+Desirable Types of Module Coupling:
+-----------------------------------
+
+* Content Coupling
+* Control Coupling (when shared for a specific reason)
+* Common Environment Coupling (when used efficiently)
+
+Undesirable Types of Module Coupling:
+-------------------------------------
+
+* Pathological Coupling
+
+Analyzing Module Coupling:
+-------------------------
+
+* Understanding the types of module coupling and their impact on software performance.
+* Being able to analyze computer programs to identify different types of module coupling.
+
+Conclusion:
+----------
+
+Module coupling is an important concept in software development that can impact software performance. Understanding the different types of module coupling and being able to analyze computer programs to identify them is crucial for writing maintainable, efficient, and scalable code.

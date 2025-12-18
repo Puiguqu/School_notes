@@ -1,0 +1,32 @@
+# More on git log
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/dCKnv/more-on-git-log
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+The video discusses advanced Git log commands for repository analysis. The first command used is `git log pretty` with the reference setting enabled, which displays a compact view showing commit IDs, messages, and dates. Another option is one line, which shows only the commit ID and message but includes branch information.
+
+The video then moves on to building out the command by adding more information, such as author names and dates, through the `full` option. The most detailed description can be achieved with the `fuller` option, showing all possible details per commit. 
+
+A third command used is `git log -3`, which limits the output to only the last three messages. This can be combined with other options to filter out specific information.
+
+The video concludes by revisiting and expanding on the Git log commands, demonstrating how to tailor the output to suit individual needs. The goal is to gain a better understanding of repository history and commit details.
+
+Technical details:
+
+- `git log pretty` with reference setting enables a compact view.
+- `git log one line` shows only commit ID and message but includes branch information.
+- `git log full` adds author names and dates to the output.
+- `git log fuller` displays all possible details per commit.
+- `git log -3` limits the output to only the last three messages.
+
+Key concepts:
+
+- Understanding repository history through Git logs
+- Tailoring Git log commands for specific needs
+- Analyzing commit details and branch information
+
+Note: The text appears to be a transcript from a video lecture or tutorial on Git log commands, focusing on advanced usage and customization.

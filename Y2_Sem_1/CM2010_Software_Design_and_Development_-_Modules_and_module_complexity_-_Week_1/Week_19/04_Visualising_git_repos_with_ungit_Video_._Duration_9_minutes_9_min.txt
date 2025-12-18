@@ -1,0 +1,23 @@
+# Visualising git repos with ungit
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/EqH2S/visualising-git-repos-with-ungit
+
+This is a transcript of a video about visualizing Git repositories using ungit. The speaker walks through their own process of creating a new repository, adding branches, and observing how the interactive visualization tool (ungit) responds to changes.
+
+Here's a summary of the main points:
+
+1. **Creating a new repository**: The speaker creates a new repository and makes deliberate changes to it, such as adding branches and commits.
+2. **Using ungit**: They then use ungit to visualize their repository. The speaker explains that ungit provides an interactive visualization of the Git log, allowing them to see how changes propagate through the codebase.
+3. **Visualizing branches**: The speaker adds more branches to their repository and observes how ungit displays the branching structure, including merge points and divergent branches.
+4. **Exploring other repositories**: Next, the speaker explores two industrial-strength repositories: React and TensorFlow. They observe how ungit handles these larger repositories, including display of user details and commits.
+
+Throughout the video, the speaker highlights the benefits of using ungit to visualize Git repositories, such as:
+
+* Interactivity
+* Richness (e.g., showing user details)
+* Ability to handle large, complex repositories like React and TensorFlow
+
+The video concludes with a summary of the key takeaways from exploring these repository visualizations.

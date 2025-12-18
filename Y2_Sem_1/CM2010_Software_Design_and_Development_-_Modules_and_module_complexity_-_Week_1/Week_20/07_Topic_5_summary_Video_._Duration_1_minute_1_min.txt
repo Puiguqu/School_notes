@@ -1,0 +1,36 @@
+# Topic 5 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/k9GiU/topic-5-summary
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The software design and development course has covered topic five, which focuses on Git.
+2. The history and design goals of Git were discussed to understand its basic operations.
+3. Git's branching and merging, committing, pushing, and pulling operations are essential to grasp the basics of Git.
+4. Analyzing and visualizing Git repositories using tools like `git log two` and an interactive dynamic tool called `git` is crucial.
+5. GitHub public profiles can enhance professional online presence and allow users to contribute to open-source projects.
+6. FLOSS (Free, Libre, and Open-Source Software) projects are a great way for individuals to get involved in development.
+7. The course covered various modules, including module complexity, cohesion, coupling, testing, debugging, exception handling, secure programming, user stories, black box and white box testing, usability testing, accessibility testing, and Git design goals.
+8. Module cohesion and coupling were analyzed using various techniques and tools.
+9. Unit testing in Python was discussed, along with C++ unit testing.
+10. Testing a web API was covered, including defensive coding, debugging, and exception handling.
+11. Secure programming practices were emphasized to protect against common errors.
+12. Exception handling strategies, including catch or throw, were explored.
+13. Using debuggers to identify and fix issues was discussed.
+14. User stories should describe what the user can do with a feature.
+15. Black box and white box testing methods were explained.
+16. Usability testing and accessibility testing techniques were covered.
+17. Git design goals and basic operations, such as branching and merging, were introduced.
+18. Analyzing Git repositories using tools like `git log two` was discussed.
+19. GitHub public profiles can be used to showcase projects and contributions.
+20. FLOSS projects provide opportunities for individuals to get involved in development.
+21. The practice assignment involved reading about the first contribution to a project.
+22. A summary of topic five is provided, covering Git basics and design goals.
+23. An interactive transcript mode is available for screen readers that are incompatible with using arrow keys.
+24. The course summary video covers all topics discussed during the software design and development course.
+25. The final self-evaluation checklist is available to assess understanding of topic five.
+
+Note: I did not include any links or technical details as they were not provided in the original text.

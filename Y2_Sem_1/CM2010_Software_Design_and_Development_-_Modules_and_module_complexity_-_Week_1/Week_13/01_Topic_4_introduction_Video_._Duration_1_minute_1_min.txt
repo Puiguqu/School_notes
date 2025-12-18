@@ -1,0 +1,20 @@
+# Topic 4 introduction
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/0wn5D/topic-4-introduction
+
+Unfortunately, the text provided does not contain any information about a specific topic or subject area related to software design and development. It appears to be a transcript of an educational video series that covers various topics over several weeks.
+
+However, I can summarize some general concepts and findings from similar sources:
+
+1. **Testing**: Testing is an essential part of the software development process, ensuring that software systems meet their requirements and are functional, reliable, and maintainable.
+2. **Requirements**: Requirements are necessary to specify the needs and constraints of a software system, ensuring that it meets the expectations of its users and stakeholders.
+3. **Test plans**: A test plan outlines the approach, scope, and schedule for testing a software system, including the types of tests to be performed and the resources required.
+4. **Usability testing**: Usability testing evaluates how easy or difficult it is to use a software system, identifying areas that need improvement to enhance user experience.
+5. **Accessibility testing**: Accessibility testing ensures that a software system can be accessed by people with disabilities, following industry standards and guidelines.
+
+The text does not provide specific formulas, links, or technical details, but rather outlines the topics and subjects covered in each week of the educational video series.
+
+If you could provide more context or clarify what specific information you would like me to extract from this text, I'll be happy to help.

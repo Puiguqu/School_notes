@@ -1,0 +1,10 @@
+# Test procedure template files
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/CDKIu/test-procedure-template-files
+
+I don't see any text to summarize. The provided text appears to be a placeholder with only two test procedure templates and their corresponding files, along with some additional metadata like "Mark as completed Dislike Report an issue". There is no actual content or information to extract and summarize.
+
+If you could provide the actual text you'd like me to summarize, I would be happy to assist you in condensing it into 25 sentences while preserving key concepts, formulae, links, and technical details.

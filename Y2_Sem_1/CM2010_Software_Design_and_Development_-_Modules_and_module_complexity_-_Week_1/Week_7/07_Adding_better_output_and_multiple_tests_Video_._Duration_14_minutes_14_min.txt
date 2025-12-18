@@ -1,0 +1,16 @@
+# Adding better output and multiple tests
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/HkCWQ/adding-better-output-and-multiple-tests
+
+This is a transcript of a lecture on C++ programming, specifically on unit testing and test-driven development.
+
+The instructor begins by explaining that they will be showing an example of how to use the cppunit framework for unit testing in C++. They start by compiling a simple C++ program using the G++ compiler.
+
+Next, they explain that they will be wrapping their assert functions in a bunch of stuff that is probably basic, and then they proceed to show how to add multiple tests and better output to their code. They demonstrate how to use the cppunit framework to generate more readable output from their tests.
+
+The instructor also explains that they are using test runner, which allows them to easily read the results of their tests. They use this feature to display the dot to indicate when a test starts and when it finishes, as well as set up and teardown functions to be called before and after each test.
+
+Finally, the instructor emphasizes the importance of unit testing and test-driven development in C++ programming, highlighting that assert functions are exactly the same but wrapped in additional code to make them more useful.

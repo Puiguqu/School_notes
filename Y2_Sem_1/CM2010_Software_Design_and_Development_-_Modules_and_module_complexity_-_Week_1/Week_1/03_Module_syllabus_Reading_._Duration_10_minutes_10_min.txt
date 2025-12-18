@@ -1,0 +1,8 @@
+# Module syllabus
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/Q0Qh6/module-syllabus
+
+/ 4 100% Page 1 of 4 CM2010 Software Design and Development Course Description This module aims to advance your software development skills so that you can write more robust and complicated programs. You will learn how to use a range of programming techniques that will allow you to deal with unwanted or unexpected events that might h appen when your application is running. You will use defensive coding to check data before processing it, and exception handling to gracefully manage unforeseen or ...

@@ -1,0 +1,8 @@
+# How to work through this C++ section
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/gHxPX/how-to-work-through-this-c-section
+
+In the upcoming sequence of videos and activities, you will learn how to write basic C++ code and then how to compile and run it using the Coursera lab environment we have created for you. Not all of you will have used C++ before, so we recommend that if you are new to C++, you use the lab environment to carry out the tasks in your browser. With this approach, you will not need to get into the complexities of installing a C++ tool-chain. We are going to start by explaining how to run C++ programs in the first video, then we will present the lab environment so you can try it out. ing that is a very short intro to the language itself. Feel free to go backwards and forwards through the videos etc. How to work through this C++ section In the upcoming sequence of videos and activities, you will learn how to write basic C++ code and then how to compile and run it using the Coursera lab environment we have created for you. Not all of you will have used C++ before, so we recommend that if you are new to C++, you use the lab environment to carry out the tasks in your browser. With this approach, you will not need to get into the complexities of installing a C++ tool-chain. We are going to start by explaining how to run C++ programs in the first video, then we will present the lab environment so you can try it out. ing that is a very short intro to the language itself. Feel free to go backwards and forwards through the videos etc. Mark as completed Dislike Report an issue

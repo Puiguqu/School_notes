@@ -1,0 +1,8 @@
+# Week 8 reading
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/RALwy/week-8-reading
+
+This week we will be working with various tools. You can use our browser-based JavaScript environment to carry out the work – in that case, you should not need to install anything. If you plan to work on your own machine, you will be given instructions on which tools to install later, but you can get start now by installing Node.js . We recommend version 12 LTS. We will be using Mocha and Chai to carry out the unit testing. We will provide full instructions on how to work with these packages later in the course. If any of these links are broken, please let us know via the Student Portal . Week 8 reading This week we will be working with various tools. You can use our browser-based JavaScript environment to carry out the work – in that case, you should not need to install anything. If you plan to work on your own machine, you will be given instructions on which tools to install later, but you can get start now by installing Node.js . We recommend version 12 LTS. We will be using Mocha and Chai to carry out the unit testing. We will provide full instructions on how to work with these packages later in the course. If any of these links are broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

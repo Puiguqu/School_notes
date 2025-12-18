@@ -1,0 +1,17 @@
+# SWEBOK guide and IEEE vocab
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/g4k21/swebok-guide-and-ieee-vocab
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The IEEE document on vocabulary can be accessed at [link to ISO/IEC/IEEE International standard – Systems and software engineering – Vocabulary].
+2. The same document can also be found in R.E.D. Fairley's paper "The impact of SWEBOK Version 3 on software engineering education and training" published in the 2014 IEEE Conference on Software Engineering Education and Training.
+3. The paper was presented at the 27th Conference on Software Engineering Education and Training (CSEE&T) held in Klagenfurt, Austria in 2014.
+4. To access the paper, visit the IEEE page and click on the "Institutional Sign In" box at the top of the screen.
+5. Search for "University of London: Online Library" to find the paper.
+6. If either link is broken, please notify the Student Portal.
+
+No other information or key concepts were provided in the text.

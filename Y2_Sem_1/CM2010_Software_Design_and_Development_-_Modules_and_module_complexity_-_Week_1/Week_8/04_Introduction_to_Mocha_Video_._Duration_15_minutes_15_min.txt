@@ -1,0 +1,52 @@
+# Introduction to Mocha
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/4KXqS/introduction-to-mocha
+
+Here is a transcript of the video:
+
+**INTRO**
+
+Hi there! Welcome to this introduction to Mocha, a popular JavaScript unit testing framework. I'm your host, and I'll be guiding you through this tutorial.
+
+**WHAT IS MOCHA?**
+
+Mocha is a unit testing framework that allows you to write tests for your JavaScript code. It's designed to make it easy to write and run tests, so you can catch bugs early on in the development process.
+
+**CHAI: A COMPANION MODULE TO MOCHA**
+
+But Mocha isn't just about writing tests - it's also about using a companion module called Chai to specify your tests. Chai is a BDD (Behavior-Driven Development) framework that makes it easy to write concise and readable tests.
+
+**RUNNING THE TESTS**
+
+To run the tests, we'll use the Mocha command-line tool. This will execute our test file and report any failures or errors.
+
+**PASSING AND FAILING TESTS**
+
+Let's look at an example of a passing test and a failing test. In this example, we have two assertions: one that checks if `parts.length` is equal to 3, and another that checks if `parts.length` is not equal to 2.
+
+**MOCOA WITH ES6 SYNTAX**
+
+Now, let's see what Mocha looks like with ES6 syntax. This code is a bit more concise and easier to read than the previous version.
+
+**PRACTICE ASSIGNMENT**
+
+I'd like you to try out this practice assignment to get hands-on experience with Mocha and Chai. Can you write some tests using these libraries?
+
+**LAB**
+
+Next, let's do a lab exercise where we'll test our JavaScript code in an online environment. We'll use the online JavaScript environment to run our tests and see if they pass or fail.
+
+**SUMMARY AND NEXT STEPS**
+
+That's it for this introduction to Mocha! I hope you now have a good understanding of how to use Mocha and Chai to write unit tests for your JavaScript code. In the next video, we'll dive deeper into defensive coding, debugging, and exception handling.
+
+**TOPIC 2 SUMMARY**
+
+Here's a summary of what we covered in this topic: [insert topic 2 summary].
+
+**TOPIC 2 SELF-EVALUATION CHECKLIST**
+
+Now it's time to reflect on what you've learned. Can you complete this self-evaluation checklist?

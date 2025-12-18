@@ -1,0 +1,38 @@
+# Week 14 summary
+Video•
+. Duration: 51 seconds
+51 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/31i3a/week-14-summary
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript covers week 14 of testing techniques and test procedures.
+2. The learning objectives for this week include writing step-by-step and matrix-style test procedures.
+3. Different types of testing are discussed, including black box testing and white box or glass box testing.
+4. Automated methods of doing black box testing are also covered, particularly in the games industry.
+5. The transcript is divided into various modules, each covering a specific topic related to testing techniques.
+6. Modules 1-12 cover topics such as module cohesion, coupling, unit testing, defensive coding, and exception handling.
+7. Module 13 covers user stories, while module 14 focuses on black box and white box testing.
+8. The transcript also includes additional pages with reading materials, including articles about testing taxonomies and test procedure specification.
+9. A video on test procedure specification is available for viewing.
+10. There are also template files for creating test procedures available for download.
+11. The final module 14 summary video provides an overview of the week's topics.
+
+12. The transcript includes a discussion prompt for users to share their thoughts on factors affecting test effectiveness.
+13. Another interactive element is a testing practice assignment that takes 30 minutes to complete.
+14. Users can navigate through the transcript using tabs and save notes by pressing CTRL + S.
+15. To expand or contract text selection, users can use the arrow keys (CTRL + arrow) or shift + CTRL + arrow keys.
+16. For screen readers incompatible with arrow keys, H J K L keys can be used as alternatives.
+
+17. The transcript is designed for educational purposes and covers topics relevant to testing techniques.
+18. No specific formulae are mentioned in the transcript; however, technical details related to black box testing are discussed.
+19. Links to external resources, such as articles and videos, are provided throughout the transcript.
+20. These links may include online courses or tutorials on specific testing topics.
+
+21. The transcript does not contain any explicit URLs or hyperlinks; instead, users can search for relevant keywords to find additional information.
+22. Users who wish to explore further reading on black box testing or game industry-specific testing techniques are recommended to seek out external resources.
+23. The transcript is intended for students or professionals interested in learning about testing techniques and test procedures.
+
+24. No specific software or programming languages are mentioned in the transcript; however, examples of unit testing in Python and C++ are provided.
+25. Overall, the transcript covers a range of topics related to testing techniques, including black box and white box testing, unit testing, defensive coding, and exception handling.

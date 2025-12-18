@@ -1,0 +1,26 @@
+# Assertion function in unittest
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/swDe7/assertion-function-in-unittest
+
+This is a transcript of an online video lecture on unit testing in Python, specifically focusing on the assertion functions provided by the `unittest` library.
+
+The instructor introduces the different types of assertions that can be used in unit tests, including:
+
+* `assertEqual(a, b)`: checks if two values are equal
+* `cassertIn(a, b)`: checks if a value is an instance of a class or module (not exactly clear what this does, possibly a typo?)
+* `assertNotEqual(a, b)`: checks if two values are not equal
+* `assertIn(a, b)`: checks if a value is in a sequence (e.g. list, tuple)
+* `assertNotIn(a, b)`: checks if a value is not in a sequence
+* `assertTrue(x)`: checks if a boolean value is True
+* `assertFalse(x)`: checks if a boolean value is False
+* `assertIs(a, b)`: checks if two objects are the same object (not exactly clear what this does)
+* `assertIsNot(a, b)`: checks if two objects are not the same object
+
+The instructor provides examples of each assertion and explains how they can be used in unit tests. They also discuss the importance of using meaningful variable names and providing context for the test cases.
+
+Finally, the instructor notes that there are more assertion functions available in the `unittest` library, which can be explored further through documentation and practice.
+
+The lecture concludes with a summary of the key points covered and some additional resources for further learning.

@@ -1,0 +1,17 @@
+# 1Installing git and the git book
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/dbhIR/1installing-git-and-the-git-book
+
+Here is a summary of the text in 25 sentences:
+
+1. A great resource for learning about Git is the "Git Book" (2014).
+2. The book can be accessed through its direct link or the web archive.
+3. If the links break, please report the issue via the Student Portal.
+4. The "Git Book" contains instructions on installing Git.
+5. There are also separate instructions for installing Git on various platforms.
+6. The PDF file titled "T5_install_git_20201201.pdf" provides additional installation guides.
+
+Note: The provided text does not contain any specific information about Git, its formulas, links, technical details, or key findings. It appears to be a brief mention of a resource (the Git Book) and some instructions for installing Git, but it lacks substantial content.

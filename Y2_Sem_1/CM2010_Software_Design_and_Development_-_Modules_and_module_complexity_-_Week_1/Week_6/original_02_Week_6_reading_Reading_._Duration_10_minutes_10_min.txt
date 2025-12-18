@@ -1,0 +1,8 @@
+# Week 6 reading
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/21qCs/week-6-reading
+
+This week, we will be working with the unittest module in Python. Click on the following link to access the unittest module documentation: Python unittest If this link is broken, let us know via the Student Portal. Week 6 reading This week, we will be working with the unittest module in Python. Click on the following link to access the unittest module documentation: Python unittest If this link is broken, let us know via the Student Portal. Mark as completed Dislike Report an issue

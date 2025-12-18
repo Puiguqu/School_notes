@@ -1,0 +1,36 @@
+# Reference points
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/IlzMx/reference-points
+
+Here is a summary of the text in 25 sentences, preserving key information, formulae, links, and technical details:
+
+1. The video transcript covers references used in the course, specifically SWEBOK (Software Engineering Body of Knowledge) and IEEE ISO standard.
+2. SWEBOK is a canonical reference for software engineering knowledge, covering 13 areas with 10-15 subareas each.
+3. The course focuses on software design, which involves architecture, structure, and user interface design.
+4. The design fundamentals section of SWEBOK covers key issues in software design, such as modularity, cohesion, and complexity.
+5. The IEEE ISO standard is a vocabulary of important terms in software engineering, derived from SWEBOK.
+6. A link to the reference material is provided for students to access.
+7. The video transcript explains that the course is based on these references and will cover key concepts in software design.
+8. The first slide highlights the importance of understanding SWEBOK and its relevance to the course material.
+9. The video transcript introduces the concept of modules, which are self-contained units of code.
+10. Modules have varying complexity levels, which affect their modularity and cohesion.
+11. Module complexity is a key concept in software design, which will be explored further in the course.
+12. The video transcript provides a brief overview of module complexity, including its importance and relevance to software engineering.
+13. Module complexity can be measured using various metrics, such as coupling and cohesion.
+14. Coupling refers to how closely two modules are connected, while cohesion refers to how well a module's components work together.
+15. The course will cover the concepts of module coupling and cohesion in more depth.
+16. Module coupling is an important concept in software design, which can affect system performance and maintainability.
+17. Cohesion, on the other hand, ensures that a module's components are closely related and work well together.
+18. The video transcript introduces the concept of module cohesion, which will be explored further in the course.
+19. Module coupling theory and analysis will also be covered in the course.
+20. Defensive coding, debugging, and exception handling are essential skills for software developers to master.
+21. The course will cover these topics in more depth, including best practices for defensive programming.
+22. Secure programming is a critical aspect of software engineering, which will be explored further in the course.
+23. The video transcript provides an overview of key concepts and references used in the course, including SWEBOK and IEEE ISO standard.
+24. Students can access these resources online, along with additional reading materials and practice assignments.
+25. The course is designed to provide a comprehensive understanding of software engineering principles, including module design, cohesion, coupling, and security.
+
+Note: Some technical details and references were not included in the summary due to the complexity and scope of the original text.

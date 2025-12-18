@@ -1,0 +1,51 @@
+# Week 18 summary
+Video•
+. Duration: 51 seconds
+51 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/K0w3X/week-18-summary
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video transcript covers week 18 of a degree program, focusing on basic Git operations.
+2. Students have learned how to create ad files and commits in a local repository.
+3. Branching and merging were also covered, with an emphasis on the best methods for using them.
+4. Operating with remote repositories was discussed, including collaborating with others via remote Git servers.
+5. The video is 51 seconds long and covers basic Git operations in a local repository.
+
+6. Week 1 modules include topics such as module complexity and cohesion.
+7. Module cohesion refers to the degree to which individual components are related.
+8. Module coupling refers to the degree of interaction between different components.
+9. The course has covered topics such as unit testing, test-driven development, defensive coding, debugging, exception handling, secure programming, and usability testing.
+
+10. Students have also learned about user stories, black box and white box testing, and accessibility testing.
+
+11. Git design goals were discussed in week 17, which include simplicity, scalability, flexibility, and efficiency.
+
+12. The course has covered various Git commands, including basic operations such as creating files, committing changes, and branching.
+
+13. Installing Git and the Git book was covered in week 18, with a duration of 10 minutes.
+
+14. A worksheet on basic Git commands was also provided for further practice.
+
+15. The video covers exam prep for online exams, but that is not relevant to this summary.
+
+16. No specific formulas or technical details were mentioned in the transcript.
+
+17. No links or references were provided in the transcript.
+
+18. The course covers topics such as analyzing Git repositories and GitHub profiles.
+
+19. Students have learned about FLOSS (Free/Libre and Open-Source Software) and its relevance to software development.
+
+20. The course also includes preparation for online exams, which is not relevant to this summary.
+
+21. No specific formulae or technical details were mentioned in the transcript.
+
+22. No links or references were provided in the transcript.
+
+23. The course covers topics such as unit testing in Python and C++, web API testing, defensive coding, debugging, exception handling, secure programming, usability testing, user stories, black box and white box testing, accessibility testing, Git design goals, and FLOSS.
+
+24. No specific formulas or technical details were mentioned in the transcript.
+
+25. The course covers a wide range of topics related to software development and Git, with an emphasis on practical skills and knowledge.

@@ -1,0 +1,8 @@
+# Pick a language and write some assertions
+Reading•
+. Duration: 30 minutes
+30 min
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/Vv8cp/pick-a-language-and-write-some-assertions
+
+Here is a quick assertion-based exercise for you to try. Pick a language and write and run some programs with assertions in. See what happens when assertions fail in the language you are using. You can do this work in any of the lab environments you have seen before. Pick a language and write some assertions Here is a quick assertion-based exercise for you to try. Pick a language and write and run some programs with assertions in. See what happens when assertions fail in the language you are using. You can do this work in any of the lab environments you have seen before. Mark as completed Dislike Report an issue

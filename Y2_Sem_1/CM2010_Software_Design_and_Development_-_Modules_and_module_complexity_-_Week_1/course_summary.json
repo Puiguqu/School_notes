@@ -1,0 +1,875 @@
+{
+  "course_title": "CM2010 Software Design and Development - Modules and module complexity - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Module_Introduction_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Module_Introduction_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Module_syllabus_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Module_syllabus_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Module_reading_list_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Module_reading_list_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Introduction_to_the_module_coupling,_cohesion_and_complexity_Video_._Duration_1_minute_1_min",
+            "summary_file": "05_Introduction_to_the_module_coupling,_cohesion_and_complexity_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "06_Week_1_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "06_Week_1_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "07_Reference_points_Video_._Duration_3_minutes_3_min",
+            "summary_file": "07_Reference_points_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "08_SWEBOK_guide_and_IEEE_vocab_Reading_._Duration_1_hour_1h",
+            "summary_file": "08_SWEBOK_guide_and_IEEE_vocab_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "09_What_is_a_module_Video_._Duration_8_minutes_8_min",
+            "summary_file": "09_What_is_a_module_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "10_What_is_module_complexity_Video_._Duration_11_minutes_11_min",
+            "summary_file": "10_What_is_module_complexity_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "11_Complexity_references_Reading_._Duration_1_hour_1h",
+            "summary_file": "11_Complexity_references_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "12_Complexity_case_study_Video_._Duration_8_minutes_8_min",
+            "summary_file": "12_Complexity_case_study_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "13_Week_1_Summary_Video_._Duration_55_seconds_55_sec",
+            "summary_file": "13_Week_1_Summary_Video_._Duration_55_seconds_55_sec.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Week_2_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_2_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_2_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Week_2_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_What_is_module_cohesion_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_What_is_module_cohesion_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Why_are_different_types_of_module_cohesion_good_or_bad_Video_._Duration_7_minutes_7_min",
+            "summary_file": "04_Why_are_different_types_of_module_cohesion_good_or_bad_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "05_Module_cohesion_case_study_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Module_cohesion_case_study_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Week_2_summary_Video_._Duration_54_seconds_54_sec",
+            "summary_file": "06_Week_2_summary_Video_._Duration_54_seconds_54_sec.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_Week_3_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_3_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_3_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Week_3_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_What_is_module_coupling_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_What_is_module_coupling_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Different_types_of_coupling_good_or_bad_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_Different_types_of_coupling_good_or_bad_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_Common_environment_coupling_good_or_bad_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Common_environment_coupling_good_or_bad_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Content_coupling_good_or_bad_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_Content_coupling_good_or_bad_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_Control_coupling_good_or_bad_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_Control_coupling_good_or_bad_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_Data_coupling_good_or_bad_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_Data_coupling_good_or_bad_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_Hybrid_coupling_good_or_bad_Video_._Duration_3_minutes_3_min",
+            "summary_file": "09_Hybrid_coupling_good_or_bad_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "10_Pathological_coupling_good_or_bad_Video_._Duration_2_minutes_2_min",
+            "summary_file": "10_Pathological_coupling_good_or_bad_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "11_Module_coupling_case_study_Video_._Duration_7_minutes_7_min",
+            "summary_file": "11_Module_coupling_case_study_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "12_Week_3_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "12_Week_3_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_Week_4_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_4_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_4_reading_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Week_4_reading_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Reasoning_about_scope_Video_._Duration_7_minutes_7_min",
+            "summary_file": "03_Reasoning_about_scope_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "04_Reasoning_about_function_parameters_Video_._Duration_5_minutes_5_min",
+            "summary_file": "04_Reasoning_about_function_parameters_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "05_Replacing_functions_dynamically_and_const_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Replacing_functions_dynamically_and_const_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Develop_your_own_example_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_Develop_your_own_example_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "07_Week_4_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "07_Week_4_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "08_Topic_1_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "08_Topic_1_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "09_Topic_1_self-evaluation_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Topic_1_self-evaluation_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Topic_introduction_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Topic_introduction_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Topic_reading_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Topic_reading_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Introduction_to_test-driven_development_Video_._Duration_1_minute_1_min",
+            "summary_file": "03_Introduction_to_test-driven_development_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "04_The_Three_Laws_according_to_Uncle_Bob_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_The_Three_Laws_according_to_Uncle_Bob_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Three_laws_reference_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Three_laws_reference_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Demonstration_of_the_unit_testing_workflow_Video_._Duration_11_minutes_11_min",
+            "summary_file": "06_Demonstration_of_the_unit_testing_workflow_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "07_Github_case_study_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_Github_case_study_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_What_to_test_An_overview_Video_._Duration_14_minutes_14_min",
+            "summary_file": "08_What_to_test_An_overview_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "09_Readings_on_test-driven_development_Reading_._Duration_1_hour_1h",
+            "summary_file": "09_Readings_on_test-driven_development_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "10_Test-driven_development_summary_Video_._Duration_55_seconds_55_sec",
+            "summary_file": "10_Test-driven_development_summary_Video_._Duration_55_seconds_55_sec.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_Week_6_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_6_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_6_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Week_6_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Using_our_lab_environment_to_run_Python_Video_._Duration_4_minutes_4_min",
+            "summary_file": "03_Using_our_lab_environment_to_run_Python_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "04_Super_quick_Python_tutorial_Video_._Duration_14_minutes_14_min",
+            "summary_file": "04_Super_quick_Python_tutorial_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "05_Introduction_to_unittest_in_Python_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Introduction_to_unittest_in_Python_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Assertion_function_in_unittest_Video_._Duration_11_minutes_11_min",
+            "summary_file": "06_Assertion_function_in_unittest_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "07_Assert_functions_in_unittest_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Assert_functions_in_unittest_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Introduction_to_statistics_libraries_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_Introduction_to_statistics_libraries_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_First_few_steps_in_the_lab_Video_._Duration_7_minutes_7_min",
+            "summary_file": "09_First_few_steps_in_the_lab_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "10_Week_6_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "10_Week_6_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_Week_7_introduction_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Week_7_introduction_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Week_7_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Week_7_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_How_to_work_through_this_C++_section_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_How_to_work_through_this_C++_section_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_C++_primer_Video_._Duration_16_minutes_16_min",
+            "summary_file": "04_C++_primer_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "05_Using_our_lab_environment_to_write_and_run_C++_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_Using_our_lab_environment_to_write_and_run_C++_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Introduction_to_cppunit_Video_._Duration_6_minutes_6_min",
+            "summary_file": "06_Introduction_to_cppunit_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "07_Adding_better_output_and_multiple_tests_Video_._Duration_14_minutes_14_min",
+            "summary_file": "07_Adding_better_output_and_multiple_tests_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "08_Assert_functions_in_cppunit_Reading_._Duration_1_hour_1h",
+            "summary_file": "08_Assert_functions_in_cppunit_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "09_What_is_a_physics_engine_Video_._Duration_4_minutes_4_min",
+            "summary_file": "09_What_is_a_physics_engine_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "10_TerribleFall_the_C++_physics_engine_Video_._Duration_7_minutes_7_min",
+            "summary_file": "10_TerribleFall_the_C++_physics_engine_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "11_Week_7_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "11_Week_7_summary_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_Week_8_introduction_Video_._Duration_57_seconds_57_sec",
+            "summary_file": "01_Week_8_introduction_Video_._Duration_57_seconds_57_sec.txt"
+          },
+          {
+            "name": "02_Week_8_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Week_8_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_How_to_access_the_online_JavaScript_environment_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_How_to_access_the_online_JavaScript_environment_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Introduction_to_Mocha_Video_._Duration_15_minutes_15_min",
+            "summary_file": "04_Introduction_to_Mocha_Video_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "05_Mocha_with_es6_syntax_Video_._Duration_4_minutes_4_min",
+            "summary_file": "05_Mocha_with_es6_syntax_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "06_NoRESTforTheWiccad_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_NoRESTforTheWiccad_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Considerations_when_testing_a_web_API_Video_._Duration_9_minutes_9_min",
+            "summary_file": "07_Considerations_when_testing_a_web_API_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "08_Week_8_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "08_Week_8_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "09_Topic_2_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_Topic_2_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "10_Topic_2_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_Topic_2_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_Topic_3_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Topic_3_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_9_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "02_Week_9_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "03_Week_9_reading_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Week_9_reading_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Introduction_to_assertions_Video_._Duration_12_minutes_12_min",
+            "summary_file": "04_Introduction_to_assertions_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "05_Assertions_and_the_software_development_lifecycle_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_Assertions_and_the_software_development_lifecycle_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_Case_study_Ariane_5_could_assertions_have_prevented_this_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_Case_study_Ariane_5_could_assertions_have_prevented_this_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_Practical_demonstration_of_assertions_Video_._Duration_9_minutes_9_min",
+            "summary_file": "07_Practical_demonstration_of_assertions_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "08_Ariane_5_paper_Reading_._Duration_40_minutes_40_min",
+            "summary_file": "08_Ariane_5_paper_Reading_._Duration_40_minutes_40_min.txt"
+          },
+          {
+            "name": "09_Pick_a_language_and_write_some_assertions_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_Pick_a_language_and_write_some_assertions_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "10_Week_9_summary_Video_._Duration_51_seconds_51_sec",
+            "summary_file": "10_Week_9_summary_Video_._Duration_51_seconds_51_sec.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Week_10_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_10_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_10_reading_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Week_10_reading_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Secure_programming_overview_Video_._Duration_15_minutes_15_min",
+            "summary_file": "03_Secure_programming_overview_Video_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "04_Secure_programming_and_the_software_development_lifecycle_Video_._Duration_12_minutes_12_min",
+            "summary_file": "04_Secure_programming_and_the_software_development_lifecycle_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "05_Static_analysis_of_Python_code_using_bandit_Video_._Duration_12_minutes_12_min",
+            "summary_file": "05_Static_analysis_of_Python_code_using_bandit_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "06_Week_10_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "06_Week_10_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "07_Mid_term_key_concepts_review_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Mid_term_key_concepts_review_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_New_Video_Video_._Duration_1_minute_1_min_Resume_._Click_to_resume",
+            "summary_file": "10_New_Video_Video_._Duration_1_minute_1_min_Resume_._Click_to_resume.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Week_11_introduction_Video_._Duration_45_seconds_45_sec",
+            "summary_file": "01_Week_11_introduction_Video_._Duration_45_seconds_45_sec.txt"
+          },
+          {
+            "name": "02_Different_types_of_errors_Video_._Duration_15_minutes_15_min",
+            "summary_file": "02_Different_types_of_errors_Video_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "03_Introduction_to_exceptions_Video_._Duration_13_minutes_13_min",
+            "summary_file": "03_Introduction_to_exceptions_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "04_The_try_and_catch_pattern_Video_._Duration_5_minutes_5_min",
+            "summary_file": "04_The_try_and_catch_pattern_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "05_Try_and_catch_in_javascript_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Try_and_catch_in_javascript_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Throw_in_javascript_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_Throw_in_javascript_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_Programming_exercise_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Programming_exercise_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Week_11_summary_Video_._Duration_37_seconds_37_sec",
+            "summary_file": "08_Week_11_summary_Video_._Duration_37_seconds_37_sec.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_Week_12_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_12_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_debuggers_Video_._Duration_5_minutes_5_min",
+            "summary_file": "02_Introduction_to_debuggers_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_GDB_manual_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_GDB_manual_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Basic_debugging_with_gdb_breakpoint_and_inspect_Video_._Duration_16_minutes_16_min",
+            "summary_file": "04_Basic_debugging_with_gdb_breakpoint_and_inspect_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "05_Further_debugging_with_gdb_data_breakpoints_and_conditional_breakpoints_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Further_debugging_with_gdb_data_breakpoints_and_conditional_breakpoints_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Advanced_further_reading_about_debugging_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_Advanced_further_reading_about_debugging_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "07_Week_12_summary_Video_._Duration_49_seconds_49_sec",
+            "summary_file": "07_Week_12_summary_Video_._Duration_49_seconds_49_sec.txt"
+          },
+          {
+            "name": "08_Topic_3_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "08_Topic_3_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "09_Topic_3_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Topic_3_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_Topic_4_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Topic_4_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Requirements_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "02_Requirements_Reading_._Duration_50_minutes_50_min.txt"
+          },
+          {
+            "name": "03_Week_13_introduction_Video_._Duration_57_seconds_57_sec",
+            "summary_file": "03_Week_13_introduction_Video_._Duration_57_seconds_57_sec.txt"
+          },
+          {
+            "name": "04_Introduction_to_requirements_Video_._Duration_7_minutes_7_min",
+            "summary_file": "04_Introduction_to_requirements_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "05_Whirlwind_tour_of_requirements_techniques_Video_._Duration_9_minutes_9_min",
+            "summary_file": "05_Whirlwind_tour_of_requirements_techniques_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "06_Back_to_basics_EARS_Video_._Duration_6_minutes_6_min",
+            "summary_file": "06_Back_to_basics_EARS_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "07_EARS_reference_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_EARS_reference_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Week_13_summary_Video_._Duration_51_seconds_51_sec",
+            "summary_file": "08_Week_13_summary_Video_._Duration_51_seconds_51_sec.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_Week_14_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_14_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Black_box_and_white_box_testing_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_Black_box_and_white_box_testing_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_Testing_and_the_body_of_knowledge_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Testing_and_the_body_of_knowledge_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Two_short_articles_about_testing_taxonomies_Reading_._Duration_40_minutes_40_min",
+            "summary_file": "04_Two_short_articles_about_testing_taxonomies_Reading_._Duration_40_minutes_40_min.txt"
+          },
+          {
+            "name": "05_Test_procedure_specification_step_by_step_and_matrix_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_Test_procedure_specification_step_by_step_and_matrix_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Test_procedure_template_files_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Test_procedure_template_files_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Factors_affecting_test_effectiveness_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Factors_affecting_test_effectiveness_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Automated_black_box_testing_Video_._Duration_11_minutes_11_min",
+            "summary_file": "08_Automated_black_box_testing_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "09_Automated_testing_in_video_games_Reading_._Duration_1_hour_1h",
+            "summary_file": "09_Automated_testing_in_video_games_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "10_Week_14_summary_Video_._Duration_51_seconds_51_sec",
+            "summary_file": "10_Week_14_summary_Video_._Duration_51_seconds_51_sec.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_Week_15_introduction_Video_._Duration_58_seconds_58_sec",
+            "summary_file": "01_Week_15_introduction_Video_._Duration_58_seconds_58_sec.txt"
+          },
+          {
+            "name": "02_Introduction_to_usability_what_does_it_mean_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_Introduction_to_usability_what_does_it_mean_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_Basic_guide_to_usability_for_engineers_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Basic_guide_to_usability_for_engineers_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Usability_metrics_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_Usability_metrics_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_System_usability_surveys_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_System_usability_surveys_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_SUS_survey_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_SUS_survey_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "07_Usability_principles_Video_._Duration_9_minutes_9_min",
+            "summary_file": "07_Usability_principles_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "08_Usability_principles_paper_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_Usability_principles_paper_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "09_Week_15_summary_Video_._Duration_50_seconds_50_sec",
+            "summary_file": "09_Week_15_summary_Video_._Duration_50_seconds_50_sec.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_Week_16_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_16_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_What_is_accessibility_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_What_is_accessibility_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Considering_the_range_of_access_requirements_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Considering_the_range_of_access_requirements_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Assessing_accessibility_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Assessing_accessibility_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Screen-reader_demonstration_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_Screen-reader_demonstration_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Legal_aspects_of_accessibility_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Legal_aspects_of_accessibility_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Week_16_summary_Video_._Duration_45_seconds_45_sec",
+            "summary_file": "07_Week_16_summary_Video_._Duration_45_seconds_45_sec.txt"
+          },
+          {
+            "name": "08_Topic_4_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "08_Topic_4_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "09_Topic_4_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Topic_4_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_Topic_5_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Topic_5_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Week_17_introduction_Video_._Duration_55_seconds_55_sec",
+            "summary_file": "02_Week_17_introduction_Video_._Duration_55_seconds_55_sec.txt"
+          },
+          {
+            "name": "03_Why_do_we_need_version_control_Video_._Duration_11_minutes_11_min",
+            "summary_file": "03_Why_do_we_need_version_control_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "04_Design_goals_of_git_Video_._Duration_11_minutes_11_min",
+            "summary_file": "04_Design_goals_of_git_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "05_Classic_version_control_paper_and_Torvalds_on_git_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Classic_version_control_paper_and_Torvalds_on_git_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Week_17_summary_Video_._Duration_44_seconds_44_sec",
+            "summary_file": "06_Week_17_summary_Video_._Duration_44_seconds_44_sec.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_Week_18_introduction_Video_._Duration_57_seconds_57_sec",
+            "summary_file": "01_Week_18_introduction_Video_._Duration_57_seconds_57_sec.txt"
+          },
+          {
+            "name": "02_Basic_git_operations_in_a_local_repository_Video_._Duration_14_minutes_14_min",
+            "summary_file": "02_Basic_git_operations_in_a_local_repository_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "03_Branching_and_merging_Video_._Duration_20_minutes_20_min",
+            "summary_file": "03_Branching_and_merging_Video_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "04_Examining_a_remote_repository_Video_._Duration_12_minutes_12_min",
+            "summary_file": "04_Examining_a_remote_repository_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "05_Adding_code_to_a_remote_repository_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_Adding_code_to_a_remote_repository_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_1Installing_git_and_the_git_book_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_1Installing_git_and_the_git_book_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Week_18_summary_Video_._Duration_51_seconds_51_sec",
+            "summary_file": "07_Week_18_summary_Video_._Duration_51_seconds_51_sec.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_Week_19_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_19_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_More_on_git_log_Video_._Duration_3_minutes_3_min",
+            "summary_file": "02_More_on_git_log_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "03_Visualising_git_repositories_with_git_log_Video_._Duration_9_minutes_9_min",
+            "summary_file": "03_Visualising_git_repositories_with_git_log_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "04_Visualising_git_repos_with_ungit_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_Visualising_git_repos_with_ungit_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_Visualising_git_repos_with_ungit_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Visualising_git_repos_with_ungit_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Week_19_summary_Video_._Duration_46_seconds_46_sec",
+            "summary_file": "06_Week_19_summary_Video_._Duration_46_seconds_46_sec.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_Week_20_introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Week_20_introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Fun_GitHub_profiles_Video_._Duration_5_minutes_5_min",
+            "summary_file": "02_Fun_GitHub_profiles_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_Do_you_need_a_GitHub_profile_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Do_you_need_a_GitHub_profile_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_How_can_you_get_involved_in_a_FLOSS_project_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_How_can_you_get_involved_in_a_FLOSS_project_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Reading_about_your_first_contribution_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Reading_about_your_first_contribution_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Week_20_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "06_Week_20_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "07_Topic_5_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "07_Topic_5_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "08_Topic_5_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Topic_5_self_evaluation_checklist_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_Course_summary_Video_._Duration_4_minutes_4_min",
+            "summary_file": "09_Course_summary_Video_._Duration_4_minutes_4_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    },
+    "Module_6": {
+      "Week_21": {
+        "display_name": "Week 21",
+        "lessons": [
+          {
+            "name": "01_Key_concepts_review_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Key_concepts_review_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 6
+      }
+    }
+  }
+}

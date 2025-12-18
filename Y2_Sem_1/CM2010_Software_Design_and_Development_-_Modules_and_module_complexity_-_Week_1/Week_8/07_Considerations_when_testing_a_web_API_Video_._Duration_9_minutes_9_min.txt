@@ -1,0 +1,27 @@
+# Considerations when testing a web API
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/Gy42Y/considerations-when-testing-a-web-api
+
+This transcript appears to be a video or interactive guide on unit testing a RESTful web API, specifically written in JavaScript. It covers various aspects of testing, including setting up an environment, writing tests, and troubleshooting.
+
+The sections covered include:
+
+1. Unit testing framework with JavaScript
+2. Mocha with es6 syntax
+3. Node package installer
+4. Considerations when testing a web API
+
+Additionally, there are references to other topics, such as defensive coding, debugging, exception handling, usability testing, accessibility testing, Git design goals, and basic Git operations.
+
+The transcript is divided into sections, each with a title and duration. There are also links to practice assignments, labs, and a summary video for each topic.
+
+Some of the notable features of this guide include:
+
+* Interactive elements, such as practice assignments and lab exercises
+* A focus on JavaScript-specific testing concepts and tools
+* Emphasis on considering various factors when testing a web API
+
+Overall, this guide appears to be a comprehensive resource for learning about unit testing a RESTful web API in JavaScript.

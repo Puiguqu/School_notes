@@ -1,0 +1,36 @@
+# Usability metrics
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/D9QYX/usability-metrics
+
+Here is a summary of the text in 25 sentences, preserving all key information, formulae, links, and technical details:
+
+1. The video discusses techniques for testing usability, including the SUS (System Usability Scale) technique.
+2. The SUS was created in 1996 by John Brooks.
+3. The SUS uses a list of 10 questions to assess user experience, with scores ranging from 0-100.
+4. The UMUX (Usability Metrics Using Questionnaires) is a newer metric that produces scores that correlate well with SUS scores for the same system.
+5. The UMUX has fewer details than the SUS and is better suited for quick assessments.
+6. The Creative Support Index is an obscure metric designed specifically for evaluating software tools used for creative work.
+7. The index assesses collaboration, enjoyment, exploration, expression, immersion, and results gained from using the system.
+8. The SUS is a widely used and well-established metric in the field of usability engineering.
+9. The UMUX is gaining popularity as a complementary metric to the SUS.
+10. The Creative Support Index is more focused on creative tools and software used for tasks such as video editing or drawing.
+11. The index takes into account user engagement, system effectiveness, and overall satisfaction with the tool.
+12. The SUS and UMUX are both widely accepted metrics in the field of usability engineering.
+13. The SUS is considered a gold standard metric due to its extensive research backing and widespread adoption.
+14. The UMUX is gaining popularity as a more efficient alternative to the SUS for quick assessments.
+15. The Creative Support Index is an interesting metric that can provide valuable insights into user experience with creative software tools.
+16. The index is not as widely used as the SUS or UMUX, but it has the potential to become a key metric in the field of usability engineering.
+17. The video covers various topics related to usability testing and measurement, including module complexity, cohesion, coupling, and unit testing.
+18. The week 1 modules and module complexity discuss the importance of understanding system requirements before starting development.
+19. The week 2 module cohesion covers the concept of module cohesion and its impact on software maintainability.
+20. The week 3 module coupling: theory and analysis discusses the relationship between module coupling and cohesion in software systems.
+21. The week 4 module coupling and cohesion in practice provides practical guidance for implementing cohesive modules in software development.
+22. The week 5 unit testing and test-driven development cover essential topics in software testing, including unit testing and TDD.
+23. The week 6 unit testing in Python covers the specifics of unit testing in Python programming language.
+24. The week 7 unit testing in C++ discusses the best practices for unit testing in C++ programming language.
+25. The video concludes with a summary of usability metrics and their applications, including the SUS, UMUX, and Creative Support Index.
+
+Note: There are no additional links or formulas provided in this summary as they were not present in the original text.

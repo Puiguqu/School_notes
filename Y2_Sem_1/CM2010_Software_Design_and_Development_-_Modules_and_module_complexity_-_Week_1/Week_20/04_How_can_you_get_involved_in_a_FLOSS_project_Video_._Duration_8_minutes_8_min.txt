@@ -1,0 +1,33 @@
+# How can you get involved in a FLOSS project?
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/12Cpq/how-can-you-get-involved-in-a-floss-project
+
+Here is a summary of the transcript:
+
+**Introduction to Free Libre Open Source Software (FLOSS)**
+
+The speaker introduces FLOSS and explains that it means the source code is open, available for people to work on, and develop. They discuss different approaches to FLOSS and licenses.
+
+**Getting Involved in FLOSS**
+
+The speaker talks about why you should get involved in FLOSS projects and provides some practical tips on how to do so:
+
+1. Look at the contribute URL to see what the project maintainers are asking people to contribute.
+2. Research typical contributions made by other contributors and read the commentary around those contributions.
+
+**Conclusion**
+
+The speaker concludes that getting involved in FLOSS projects can be a great way to contribute and learn new skills.
+
+**Additional Page Content**
+
+The transcript includes additional page content, including:
+
+* Week 1-20 modules on software development topics
+* Practice assignments and readings for each module
+* A course summary video at the end of week 20
+
+Note that this is a transcription of a video lecture, and the format and structure of the content may not be suitable for a traditional text-based format.

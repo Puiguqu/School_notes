@@ -1,0 +1,35 @@
+# What is a module?
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eCJDu/what-is-a-module
+
+This is an interactive transcript of a video lecture on software engineering, specifically on modules and their definitions, motivations, and complexities. Here's a summary of the content:
+
+**Introduction**
+
+* The lecture introduces the concept of modules in software engineering, their importance, and why they are used.
+* David Parnas, a pioneer of modularity in software design, is quoted for his motivation behind using modules: flexibility, comprehensibility, and shortening software development life cycles.
+
+**Definitions of Modules**
+
+* The lecture presents four definitions of the word "module" from the IEEE or ISO Standard Vocabulary of Software Engineering:
+	1. Source code management definition: a module refers to a specific part of a program that can be managed independently.
+	2. Object-oriented programming definition: a module refers to an object class in OOP, which combines data and functions that operate on that data.
+	3. Logical separability definition: a module refers to a component that is logically separate from other components and has a clear boundary between them.
+	4. Class definition: a module refers to a class in OOP, which is an abstract representation of a real-world object.
+
+**Motivation for Using Modules**
+
+* The lecture discusses the benefits of using modules, including:
+	+ Flexibility
+	+ Comprehensibility
+	+ Shortening software development life cycles
+
+**Module Complexity**
+
+* The lecture introduces the concept of module complexity and its importance in software engineering.
+* Module complexity is defined as the degree to which a module can be independently modified without affecting other parts of the system.
+
+The lecture provides examples, references, and practice assignments to help students understand and apply the concepts of modules, module complexity, cohesion, and coupling.

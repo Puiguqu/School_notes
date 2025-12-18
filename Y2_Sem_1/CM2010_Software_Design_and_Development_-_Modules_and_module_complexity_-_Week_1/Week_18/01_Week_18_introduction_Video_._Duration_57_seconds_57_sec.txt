@@ -1,0 +1,22 @@
+# Week 18 introduction
+Video•
+. Duration: 57 seconds
+57 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eAHiH/week-18-introduction
+
+Unfortunately, there is no text to summarize. The provided text appears to be a transcript of a video lecture series on software development topics, including unit testing, exception handling, secure programming, and Git operations. There are no specific formulas, links, or technical details presented in the text.
+
+However, I can provide a summary of the lecture series:
+
+The lecture series covers various software development topics, including:
+
+* Unit testing and test-driven development
+* Exception handling and defensive coding
+* Secure programming
+* Usability testing and accessibility testing
+* Git operations, including creating and managing files, branches, and remote repositories
+
+Each week, the lecturer discusses a specific topic in depth, providing examples and hands-on experience with relevant tools and techniques.
+
+If you would like to summarize a specific text or provide additional context, I'd be happy to help.

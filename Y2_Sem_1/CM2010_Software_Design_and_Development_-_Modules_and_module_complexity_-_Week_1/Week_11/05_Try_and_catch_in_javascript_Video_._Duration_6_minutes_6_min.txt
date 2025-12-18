@@ -1,0 +1,36 @@
+# Try and catch in javascript
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/eN1Bj/try-and-catch-in-javascript
+
+Here is a summary of the text in 25 sentences, preserving all key information:
+
+1. The video transcript discusses the try and catch pattern in JavaScript.
+2. Without trying and catching, exceptions can cause the program to crash or behave unpredictably.
+3. The try block wraps the code that may trigger an exception.
+4. If an exception occurs, it jumps straight into the catch block.
+5. In the catch block, you specify a variable (e.g., ex) to store the caught exception.
+6. You can then handle the exception by specifying what to do next.
+7. JavaScript has a standard set of exceptions that may be thrown by the language.
+8. The exceptions have two key properties: name and message.
+9. To investigate an exception, you can print out its name and message using console.log(ex.name) and console.log(ex.message).
+10. The try and catch pattern is essential for writing robust JavaScript code.
+11. Without trying and catching, your program may not behave as expected.
+12. In a real-world scenario, exceptions might occur when connecting to a database or making API calls.
+13. Throwing an exception allows you to handle errors in a more controlled manner.
+14. The try block provides an opportunity to perform some cleanup actions before the exception is thrown.
+15. The catch block allows you to specify alternative execution paths for the code that triggered the exception.
+16. You can return to the regular execution path after handling the exception or continue with other logic.
+17. Handling exceptions properly helps prevent crashes and ensures your program behaves predictably.
+18. JavaScript exceptions are useful for testing, debugging, and ensuring robustness in your code.
+19. In some cases, you may choose to throw an exception instead of catching it, which is covered in a separate video.
+20. Understanding the try and catch pattern is crucial for writing reliable and efficient JavaScript code.
+21. This video introduces the concept of exceptions and how to use them effectively.
+22. The next video will cover throwing exceptions in JavaScript.
+23. You should practice handling exceptions by using the try and catch pattern.
+24. Remembering that exceptions have a name and message property is essential for debugging and error handling.
+25. Throwing an exception in JavaScript allows you to handle errors in a more controlled manner, making your code more robust.
+
+Note: The original text has been condensed to focus on the main points of the try and catch pattern in JavaScript, while still preserving the essential information.

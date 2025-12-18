@@ -1,0 +1,8 @@
+# Basic guide to usability for engineers
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/supplement/lBNtH/basic-guide-to-usability-for-engineers
+
+Here is a good starting article to get you thinking about usablity. Ferre, X., N. Juristo, H. Windl and L. Constantine ' Usability basics for software developers ', IEEE Software 18(1) 2001, pp.22-29. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Basic guide to usability for engineers Here is a good starting article to get you thinking about usablity. Ferre, X., N. Juristo, H. Windl and L. Constantine ' Usability basics for software developers ', IEEE Software 18(1) 2001, pp.22-29. Once on the IEEE page, click on the blue 'Institutional Sign In' box at the top of the screen and search for 'University of London: Online Library' to access the reading. If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

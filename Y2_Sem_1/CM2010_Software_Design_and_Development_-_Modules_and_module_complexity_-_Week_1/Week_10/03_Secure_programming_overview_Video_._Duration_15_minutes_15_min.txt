@@ -1,0 +1,28 @@
+# Secure programming overview
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2010-software-design-and-development/lecture/HPugy/secure-programming-overview
+
+It appears that this is a transcript of an educational video about secure programming. The content includes discussions on various topics related to software development and security, such as:
+
+1. Secure programming goals
+2. Introduction to secure programming
+3. Secure programming hit list
+4. Module cohesion
+5. Unit testing in Python and C++
+6. Defensive coding, debugging, and exception handling
+7. Static analysis of Python code using bandit
+8. Git design goals and basic git operations
+
+The transcript also includes practice assignments, reading materials, and a summary video at the end.
+
+Some key points from the transcript include:
+
+* Secure programming is about protecting the assets on a computer and thinking about what can people read, write to, or execute.
+* It involves checking inputs to programs, checking for buffer overflows, and other security measures.
+* Module cohesion and coupling are important concepts in software development that relate to secure programming.
+* Unit testing and test-driven development are essential skills for developers to learn.
+
+Overall, the transcript provides a comprehensive overview of secure programming and its importance in software development.

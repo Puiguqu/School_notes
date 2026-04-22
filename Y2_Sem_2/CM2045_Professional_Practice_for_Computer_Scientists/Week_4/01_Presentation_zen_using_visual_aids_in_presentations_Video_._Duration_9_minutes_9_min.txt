@@ -1,0 +1,32 @@
+# Presentation zen – using visual aids in presentations
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/S5t9O/presentation-zen-using-visual-aids-in-presentations
+
+1. Effective visual aids are crucial tools that enhance a message, moving beyond mere decoration to help the audience process and understand complex information.
+2. Research demonstrates that people retain information significantly better when it is delivered through both visual and verbal channels.
+3. Visuals enhance presentations by providing clarity, simplifying complex ideas, and maintaining audience engagement.
+4. Crucially, memory retention rates show that people remember 65% of information with a relevant visual, compared to only 10% otherwise.
+5. The Presentation Zen approach, developed by Gar Reynolds, emphasizes simplicity, restraint, and naturalness to maximize message enhancement.
+6. A core principle of effective presentation design is the "Keep it simple" rule, advocating for only one main idea per slide.
+7. To prevent clutter and distraction, content should be spread across multiple slides rather than overwhelming a single visual.
+8. Always utilize high-quality images, selecting visuals that are unique and relevant, while strictly avoiding generic or cliché stock photos.
+9. Minimize text presence on slides, aiming to reduce content to key phrases, and never allowing the audience to read instead of listen.
+10. Whenever possible, replace written words with visual representations like charts, diagrams, or icons to convey information.
+11. A practical guideline suggests maintaining a maximum of six words per line and six lines per slide, though less is always preferred.
+12. Using contrast is vital for focus; for example, highlighting a specific trend on a graph with color while keeping the rest subdued.
+13. Furthermore, visuals should guide storytelling, organizing slides like chapters to create an emotionally and logically connected narrative flow.
+14. When visualizing data, graphs and charts are ideal for showing trends, comparing information, or visualizing data sets.
+15. Best practices for charts include keeping them clean, avoiding overcrowding, and clearly labeling all axes and key data points.
+16. Diagrams and flowcharts effectively explain processes, relationships, or systems, requiring the use of simple shapes and limiting each diagram to one concept.
+17. Images and photos add emotional impact and visual interest, demanding direct relevance to the content and high resolution for large displays.
+18. Icons and symbols are perfect for condensing complex ideas quickly, but overuse or ambiguity must be avoided.
+19. Designers must limit animations, keeping them simple and purposeful, such as using them to sequentially introduce bullet points.
+20. Consistency in design—maintaining the same color scheme, typeface, and layout—is essential for a professional and cohesive presentation.
+21. Utilizing "white space" is a critical design principle, giving the audience room to process information and prevent the slide from feeling overwhelming.
+22. Recommended resources for visual creation include Canva for general design, PictoChart for data-driven visuals, and Venngage for infographics.
+23. Common pitfalls to avoid include overloading the slide with too many elements and ignoring accessibility requirements like high contrast colors.
+24. Visual aids must always support the spoken narrative and never replace the speaker, meaning presenters must avoid reading directly from their slides.
+25. Ultimately, the key principles of simplicity, focus, and clarity are paramount for creating visuals that genuinely enhance and improve the message.

@@ -1,0 +1,8 @@
+# Topic 7 summary
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/gRJ9z/topic-7-summary
+
+In this topic, we explored the role of industry standards in guiding best practices within the computing profession. We examined the standards set by key organisations such as IEEE and ACM, understanding how they serve as frameworks for professional decision-making and ethical responsibility. These standards provide a structured approach to problem-solving and ensure consistency and quality across the industry. We then analysed real-world case studies to evaluate the importance of adhering to in...

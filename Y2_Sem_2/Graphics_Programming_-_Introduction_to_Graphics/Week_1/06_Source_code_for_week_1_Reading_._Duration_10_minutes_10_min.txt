@@ -1,0 +1,8 @@
+# Source code for week 1
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/JGxdI/source-code-for-week-1
+
+Below you'll find the source code for all examples demonstrated this week in class. Please use the emptyExample files below as a starting point for all coding projects. This ensures that everything we have taught you in the videos will work with the specific version of P5.js we are providing below. emptyExample week 01 - 2D transformations.zip Source code for week 1 Below you'll find the source code for all examples demonstrated this week in class. Please use the emptyExample files below as a st...

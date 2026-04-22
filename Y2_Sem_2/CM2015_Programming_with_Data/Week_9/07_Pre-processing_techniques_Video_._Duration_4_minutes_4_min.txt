@@ -1,0 +1,18 @@
+# Pre-processing techniques
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/UT9ww/pre-processing-techniques
+
+This summary details advanced text preprocessing techniques crucial for data analysis.
+
+Initially, text data is loaded as a string onto a variable and converted into a list using tokenization. This preparatory step was followed by applying two core preprocessing techniques: removing all punctuation and removing stop words. Stop words are defined as commonly used, high-frequency words in the English language that often lack significant semantic value. The resulting frequency distribution highlighted key themes such as "American," "famous," and "Lee," appearing with specific counts. The text also noted the presence of "pop star Michael Jackson," which appeared with a single occurrence.
+
+The main focus then shifts to two advanced techniques: stemming and lemmatization. Stemming is the process of reducing inflected words down to a common base form, or stem. NLTK provides two main stemmers: the Porter Stemmer and the Lancaster Stemmer. The Porter Stemmer is noted for tending to focus on accuracy during its reduction process. Conversely, the Lancaster Stemmer is described as significantly quicker, although it may be more aggressive in its stemming.
+
+When comparing the two stemmers, the Porter Stemmer was observed to maintain a frequency distribution closer to the original data. Specifically, it added two new stemmed words: "dance" (stem of words like dancing) and "move" (stem of moves). In contrast, the Lancaster Stemmer generated a distribution that seemed different from the original. This difference occurred because the Lancaster Stemmer might stem words more aggressively than necessary. For instance, "American" was no longer the most frequent word, and "Martial" was reduced to "Mart," potentially altering its intended meaning. Therefore, for this specific task, the Porter Stemmer was deemed more effective than the Lancaster Stemmer.
+
+A different technique, lemmatization, also reduces words to their essential root forms, or lemma. For this process, the WordNet lemmatizer, which utilizes WordNet—one of the largest corpora of text in the NLTK library—was implemented. Reviewing the results showed the lemmatizer's output frequency distribution was also quite similar to the original distribution. While it retained categories like "American" and "Martial," it successfully consolidated variations into a new root word, "move."
+
+The lemmatizer introduced only one new category, compared to the two new categories introduced by the Porter Stemmer. Given these specific results, the discussion suggests that the Porter Stemmer might be marginally more suited for this particular task. In general, a critical rule of thumb for preprocessing is to test different stemming and lemmatizing techniques. Comparing their outcomes is necessary to determine which technique is optimally suited for the specific analytical task at hand.

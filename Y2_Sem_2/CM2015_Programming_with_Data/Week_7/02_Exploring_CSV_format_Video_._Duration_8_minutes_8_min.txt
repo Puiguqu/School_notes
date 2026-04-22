@@ -1,0 +1,16 @@
+# Exploring CSV format
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/JCpk9/exploring-csv-format
+
+CSV files store spreadsheet-like data, organized into rows and columns, potentially containing a mix of numbers and strings. To begin working with this data in Jupyter Notebooks, one must first import the `pandas` library, typically using the alias `pd`. The primary data structure in pandas used for storing this data is called the DataFrame. Pandas provides a specific function, `read_csv()`, which operates similarly to Python's `open()` function. This function requires the file path and reads the contents, returning the data in a table format, which is then stored in a variable like `df`.
+
+To access a specific column of values within a DataFrame, a notation similar to dictionary key access is used: `df[column_name]`. To access a single specific element within a column, one must index it by using the corresponding row number. For instance, accessing the value in column D at index 2 is done by referencing `df['D'][2]`. To access an entire specific row of values, the special command `iloc` is used, taking the number as an argument and displaying all columns for that row.
+
+The `iloc` command, similar to arrays, can also take a range of values to specify the desired rows (e.g., for the first two rows, the range 0 to 2 is used). Handling real-world CSV data often involves invalid values, such as `NaN` (Not a Number), which must be cleaned. A common data cleaning operation is to drop these invalid values using a function that returns a cleaner version of the data frame. Once clean, the data can be written back to a CSV file using the `to_csv()` command.
+
+The `to_csv()` command accepts an additional argument, `mode`, which allows for appending data to an existing file without overwriting its content. When the delimiters separating values are not commas, such as when tabs are used, the `read_csv()` function must be supplemented by specifying another parameter: `sep` (separation). It is crucial to always identify and specify the correct delimiter when reading a CSV file to ensure accurate data ingestion.
+
+When dealing with large CSV files (e.g., 10,000 rows), specialized methods are available to efficiently examine subsets of data. The `head()` command fetches the first five rows of a DataFrame, while the `tail()` command retrieves the last five rows. To fetch precise rows, the `iloc` operation allows specifying exact row indices, such as those between the 1000th and 1005th row. Users can also filter data belonging to a specific column by selecting the column value. Furthermore, one can combine row and column filtering using `iloc` followed by the desired column name. Other available commands include `describe()`, which provides aggregate statistics of the entire DataFrame. In summary, the core workflow involves reading data using `read_csv()`, cleaning it, accessing specific portions using `iloc` or `head`/`tail`, and optionally writing it back using `to_csv()` or handling alternative delimiters.

@@ -1,0 +1,8 @@
+# Gantt chart check-in/evaluation
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/3Zudo/gantt-chart-check-in-evaluation
+
+In week 9 (Topic 5), we showed you how to make a Gantt chart to better organise your time during your project. Now would be a good opportunity to review your Gantt chart and reflect on how effective it has been up to this point. A Gantt chart, or other project management tools, should not be static documents. You should continually be updating and reorganising your chart to show progress on your project and to identify problems earlier. Consider the following as you review: Are you on target to ...

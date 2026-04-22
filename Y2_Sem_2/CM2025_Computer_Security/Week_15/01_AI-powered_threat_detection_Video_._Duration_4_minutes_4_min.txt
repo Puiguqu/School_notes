@@ -1,0 +1,32 @@
+# AI-powered threat detection
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/q2qRx/ai-powered-threat-detection
+
+1. Artificial intelligence (AI) has become an essential tool in cybersecurity due to the escalating volume and increasing sophistication of modern cyber threats.
+2. The sheer speed and volume of current threats are overwhelming human analysts, necessitating automated, AI-driven solutions.
+3. AI significantly improves threat detection by enabling faster response, enhancing automation, increasing accuracy, and reducing false positives.
+4. Key AI techniques utilized in this domain include Machine Learning (ML), which specializes in recognizing patterns and anomalies within data.
+5. Deep Learning (DL) is a more complex technique used to analyze sophisticated behaviors through neural networks.
+6. Natural Language Processing (NLP) interprets textual data, which is critical for scanning phishing images, analyzing communication logs, and understanding context.
+7. Furthermore, behavior analytics specifically detects deviations from established normal patterns in user or system activity.
+8. These AI tools are widely applied, such as integrating ML algorithms into Intrusion Detection Systems (IDS).
+9. NLP-based email scanners utilize these models for effective phishing detection.
+10. Malware classification relies heavily on Deep Learning for accurate identification, while insider threat detection uses behavioral profiling.
+11. Overall, these applications significantly reduce manual work and capture threats that human analysts might otherwise miss.
+12. AI ensures that threat detection is fast, providing real-time analysis and scalable alerting across vast networks.
+13. The technology facilitates proactive defense, offering protection against advanced zero-day threats and malicious insider activities.
+14. Integrating AI into the Security Operations Center (SoC) dramatically improves efficiency and reduces the workload on security analysts.
+15. AI tools are modernly integrated into frameworks like Extended Detection and Response (XDR) platforms.
+16. XDR platforms leverage ML for comprehensive, cross-layer detection capabilities.
+17. They are also integrated into Security Orchestration, Automation, and Response (SOAR) platforms to automate early triage steps.
+18. For example, an AI-enhanced email gateway uses NLP to flag a phishing message based on details like tone, length, and timing, and blocks it instantly.
+19. While powerful, AI is not perfect, and its implementation requires acknowledging several critical limitations and risks.
+20. Models absolutely require high-quality, clean training data, making data integrity paramount for effective deployment.
+21. Adversaries can intentionally attempt to deceive the models, a risk that requires continuous security updates.
+22. Critical warnings include potential over-reliance on data outliers and the fact that not all AI tools are easily explainable.
+23. Despite these limitations, human oversight remains fundamentally important, ensuring strategic validation and judgement.
+24. The broader field curriculum covers advanced topics like cryptography (PKI, digital signatures, hash functions), blockchain, and incident forensics.
+25. Ultimately, AI enhances threat detection by providing speed, precision, and insight, but it must be paired with robust human strategy and validation.

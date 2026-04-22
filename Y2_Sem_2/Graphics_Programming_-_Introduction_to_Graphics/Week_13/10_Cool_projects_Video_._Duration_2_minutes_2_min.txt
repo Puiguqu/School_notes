@@ -1,0 +1,14 @@
+# Cool projects
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/qwfa3/cool-projects
+
+The discourse explores creative projects that manipulate and visualize pixels, demonstrating powerful applications of basic image operations. These projects rely on computational techniques, often utilizing languages similar to Processing for pixel-level data access. One technique, exemplified by "Spectrum" by Dillion Baker, involves taking movie frames and compressing their average color into a single vertical line. This creates a visual timeline showing the color spectrum present in the film, such as the blue tint in *Frozen* or the brown palette of *WALL-E*.
+
+Another method was used by Jason Salavon, who calculated the average color across 100 unique wedding photographs to distinguish patterns in the underlying data. Similarly, a Korean artistic duo developed "Portraits" by scanning films for faces, calculating an average face for each movie. These averages reveal not only film tone, like the blue of *Avatar*, but also character patterns, such as the Asian ethnicity observed in *Old Boy*. The speaker showcased a personal project inspired by data art, displaying movie frames on a massive canvas. This visualization organizes frames into lines, where each line represents 60 frames (36 seconds) and the vertical axis represents minutes.
+
+The educational context for these skills is detailed through a comprehensive curriculum spanning multiple weeks. Early learning begins with Week 1 on Introduction to Graphics, progressing to Week 2 covering Vectors and animation. Physics principles are covered in Weeks 3 and 4, with practical application using Matter.js in Weeks 4 and 5. The focus then shifts to generative techniques in Weeks 6 through 9. These weeks cover randomness, noise, sine functions, and fractals.
+
+Weeks 11, 12, and 13 tackle 3D graphics, colors, images, and pixels, respectively. Color theory is deeply covered, starting with the RGB cube, discussing color harmony, and exploring the procedural generation of colors. Image manipulation includes learning about webcams, "Slit scanning," and detailed pixel-world management. The advanced curriculum continues with Week 15 and 16 dedicated to Image processing. The culminating advanced topics are Weeks 17, 18, and 19, which thoroughly cover Computer vision in three parts. The program concludes with Week 20 for final interviews and graded assignment submissions, cementing the mastery of complex image processing techniques.

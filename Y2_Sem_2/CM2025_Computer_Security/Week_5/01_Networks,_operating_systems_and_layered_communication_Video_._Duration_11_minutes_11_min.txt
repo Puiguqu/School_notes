@@ -1,0 +1,32 @@
+# Networks, operating systems and layered communication
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/mqwsM/networks-operating-systems-and-layered-communication
+
+1. The session introduces how networks and operating systems interact when devices communicate, a foundational knowledge crucial for cybersecurity and networking studies.
+2. The Operating System (OS) is the software that manages all computer operations, including running programs, handling memory and storage, and managing files and user input.
+3. The OS also manages billing networking functions, providing the core foundation for connecting devices across networks.
+4. A network is defined as a system of connected devices enabling information sharing via Internet Protocol (IP) addresses.
+5. Protocols like Transmission Control Protocol (TCP) are used to facilitate data transfer when sending emails or visiting websites.
+6. Both networking and operating systems are fundamentally structured using layers, where each layer performs a specific role and interacts only with adjacent layers.
+7. Two primary models for understanding network layers are the Open System Interconnection (OSI) model, which has 7 layers, and the TCP/IP model, which uses 4 layers.
+8. The OS itself is functionally divided into four layers: the Application layer, the Kernel layer, the Driver layer, and the Network Interface layer.
+9. Within the TCP/IP model, the Application layer handles protocols like HTTP or email, the Transport layer segments data using TCP or User Datagram Protocol (UDP), and the Internet layer adds IP addresses.
+10. The physical sending mechanism is managed by the Network Interface layer in the TCP/IP model, which deals with physical media like Wi-Fi or Ethernet.
+11. The OSI model, used extensively for learning and design, includes seven layers: Application, Presentation, Session, Transport, Network, Data Link, and Physical.
+12. The Presentation layer handles data formats and encryption, the Session layer manages conversation, and the Transport layer ensures data delivery using protocols like TCP.
+13. The Network layer handles routing via IP, and the Physical layer defines the hardware transmission, such as cables and Wi-Fi signals.
+14. When a user loads a web page, the process begins at the OS Application layer (e.g., the browser), which creates a request and passes it to the OS Kernel.
+15. The OS Kernel checks security permissions and prepares the data for transmission, while the Transport layer (TCP) segments the data and adds port information.
+16. The Internet layer then adds the destination IP address, ensuring the data reaches the specific target device on the network.
+17. Finally, the Network Interface layer converts the data into signals (Wi-Fi or Ethernet) and sends it across the network.
+18. At the receiving end, the process reverses: the Network Interface receives the signal, the IP layer reads the address, and TCP reassembles the segments.
+19. Through this entire cycle, the OS acts as a critical bridge, connecting the user software to the underlying network layers, enabling communication.
+20. Understanding these layered models is vital in cybersecurity because they help pinpoint where an attack is occurring—at the application layer or a lower level.
+21. These models guide the setup of security measures like firewalls, intrusion detection systems, and encryption methods.
+22. They explain how malware moves between systems and allow security professionals to effectively trace or block suspicious traffic.
+23. The TCP/IP model is the standard model used in real-world systems, whereas the OSI model remains crucial for theoretical learning and design.
+24. The OS handles the top layers of communication and works closely with the network layers to ensure data is sent and received securely.
+25. Mastering the interaction between the OS and network layers is essential for understanding system vulnerabilities and implementing robust defense strategies.

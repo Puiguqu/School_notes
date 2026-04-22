@@ -1,0 +1,8 @@
+# Activity – Evaluating the Uber breach
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/zFaoB/activity-evaluating-the-uber-breach
+
+The Uber breach of 2022 exposed how poor credential management, hard-coded admin passwords and weak internal access controls can undermine enterprise security. In this assignment you will critically evaluate the breach using principles of secure system design and propose improvements that could prevent similar incidents in the future. Task Write a structured response (800–1,000 words) in your study journal that addresses the following points. Design flaws Identify the key design flaws that contr...

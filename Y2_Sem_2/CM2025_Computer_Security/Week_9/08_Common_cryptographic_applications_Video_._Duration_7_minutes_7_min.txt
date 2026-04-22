@@ -1,0 +1,18 @@
+# Common cryptographic applications
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/BUvak/common-cryptographic-applications
+
+Cryptography is fundamental to the modern digital world, enabling secure communication, protecting identity, and maintaining data integrity. The session examines three critical areas where this technology is applied: secure websites, encrypted messaging, and digital signatures. Understanding these applications is vital for appreciating modern digital trust.
+
+HTTPS (Hypertext Transfer Protocol Secure) ensures that communication between a user's browser and a website is encrypted via TLS (Transport Layer Security). This process involves the website sending a digital certificate to prove its identity, followed by negotiating a secure session key. HTTPS relies on several cryptographic components for protection. Public key algorithms like RSA or ECDSA are used to securely exchange the session keys. Symmetric encryption algorithms, such as AES, then encrypt the actual browsing session. Furthermore, hashing functions like SHA-256 ensure that the transmitted data remains unchanged.
+
+For messaging platforms like Signal and WhatsApp, end-to-end encryption is used, guaranteeing that only the two communicating parties can read the messages. These apps utilize the sophisticated Signal Protocol, a state-of-the-art system. Key agreements are managed using X3DH, while the double-ratchet algorithm ensures that session keys are regularly updated. AES provides message confidentiality, and HMAC with SHA-256 ensures message integrity. This combination achieves perfect forward secrecy and resistance to replay attacks, meaning the service provider cannot read the private messages.
+
+Digital signatures extend cryptographic principles to verify the authenticity and integrity of files and documents. To sign a document, the original is first passed through a hashing process, and the resulting hash is then encrypted using the sender’s private key. The recipient verifies this signature using the sender’s public key; failure indicates that the document’s integrity has been compromised. This principle applies to code signing, where developers use private keys to sign software to protect users from malicious or tampered files.
+
+The course structure covers the practical application of these concepts across multiple weeks. Topics include identifying and classifying cyber threats (Weeks 1 and 2). Subsequent modules cover cybersecurity frameworks and standards (Week 3 and 4). Later, students study network and OS security principles (Week 5 and 6), followed by application security principles like testing and debugging (Week 7 and 8). A deep dive into advanced cryptography is scheduled for Week 9, covering PKI, digital signatures, and hash functions.
+
+The curriculum continues through Week 12 with topics like Blockchain for cybersecurity, moving into incident response and forensics in Weeks 13 and 14. Furthermore, advanced study addresses emerging trends, such as AI/ML, quantum computing, and post-quantum cryptography (Week 15 and 16). The course culminates with real-world case studies and developing skills in secure system design (Weeks 19 and 20). Overall, cryptography is an essential tool that guarantees confidentiality, authenticity, and integrity across all modern digital transactions.

@@ -1,0 +1,8 @@
+# Week 3 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/4TABH/week-3-summary
+
+This week, you explored the principles of forces, gravity, friction, particles, and collision detection. You learned how forces operate and affect objects in various scenarios, focusing on how gravity and friction interact within physical systems. The topic also introduced collision detection techniques, enabling students to identify and respond to collisions in digital simulations. Week 3 summary This week, you explored the principles of forces, gravity, friction, particles, and collision detection. You learned how forces operate and affect objects in various scenarios, focusing on how gravity and friction interact within physical systems. The topic also introduced collision detection techniques, enabling students to identify and respond to collisions in digital simulations. Mark as completed Dislike Report an issue

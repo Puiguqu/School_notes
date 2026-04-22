@@ -1,0 +1,28 @@
+# Data visualisation in Python
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/Nj2Ok/data-visualisation-in-python
+
+This document summarizes the techniques for data visualization in Python using the `matplotlib` library, supplemented by `NumPy` functions. The process begins by importing the `pyplot` function from `matplotlib` and using the common shorthand `plt`. For plotting data, the `plt.plot()` function is utilized, requiring the use of `numpy.arange` to generate necessary numerical lists. Specifically, `arange` takes an argument $N$ and returns a list of values from $0$ up to $N-1$. Initially, when plotting a single variable, the `plt.plot()` function creates line graphs where the y-values are determined by `arange`. The x-axis, in this case, corresponds to the indices of the data, which range from $0$ to $N-1$. To save a created graph, the function `plt.savefig()` must be used, accepting the graph name and desired pixel resolution. It is highly recommended to use a DPI of $400$ or above for optimal graph quality.
+
+To create graphs involving both an x and a y axis, the syntax requires providing two corresponding sets of data, rather than just one. Key enhancements include adding titles and labels using functions like `plt.title()`, `plt.xlabel()`, and `plt.ylabel()`.
+
+For creating multiple plots in one figure, functions like `plt.subplot()` are necessary, controlling the grid layout to arrange multiple distinct graphs efficiently.
+
+When comparing data trends across different variables, using different types of plots such as bar charts or scatter plots provides better context for comparison.
+
+For advanced styling, functions like `plt.style.use()` allow the user to change the entire aesthetic appearance of the plot with a single command.
+
+To create a side-by-side comparison of distributions, using histograms and box plots provides a robust statistical overview of the data spread.
+
+For generating complex network visualizations, libraries specialized in graph theory, such as `networkx`, are often employed to model relationships between data points.
+
+Plotting multiple datasets on the same axes requires looping through the data and calling `plt.plot()` for each unique dataset, ensuring distinct markers or line styles are used for clarity.
+
+To improve the visual clarity of large datasets, logarithmic scales (`plt.xscale('log')` or `plt.yscale('log')`) can be applied to compress or expand visual ranges on the axes.
+
+When performing statistical visualization, `seaborn` is a specialized library built on `matplotlib` that provides high-level interfaces for aesthetically pleasing statistical plots, such as heatmaps and joint distributions.
+
+Finally, for generating interactive reports, the `plotly` library is used, allowing viewers to zoom, hover, and filter data directly within the generated visualizations.

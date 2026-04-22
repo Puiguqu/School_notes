@@ -1,0 +1,8 @@
+# Hack it: RGB cube
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/yvOew/hack-it-rgb-cube
+
+Create a rotating 3D cube displaying the RGB colour space like in the image above. Steps to complete: The cube should be made up of 10 smaller boxes in each dimension. Each box should be of size 30. Use the map function to map each little box's x coordinate to a red value between 0 and 255. Do the same for the other dimensions and colour channels. Set the material of the little box to the colour you calculated in the previous steps. Rotate the cube in all dimensions so that you can see all sides of it. Hack it: RGB cube Create a rotating 3D cube displaying the RGB colour space like in the image above. Steps to complete: The cube should be made up of 10 smaller boxes in each dimension. Each box should be of size 30. Use the map function to map each little box's x coordinate to a red value between 0 and 255. Do the same for the other dimensions and colour channels. Set the material of the little box to the colour you calculated in the previous steps. Rotate the cube in all dimensions so that you can see all sides of it. Mark as completed Dislike Report an issue

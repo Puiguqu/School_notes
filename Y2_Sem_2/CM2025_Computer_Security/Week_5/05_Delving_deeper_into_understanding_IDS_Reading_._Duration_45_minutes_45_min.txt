@@ -1,0 +1,8 @@
+# Delving deeper into understanding IDS
+Reading•
+. Duration: 45 minutes
+45 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/6Vqxv/delving-deeper-into-understanding-ids
+
+This article takes the IDS idea further. Instead of one system doing the work, it looks at how detection can happen across a whole network, with systems sharing information and making joint decisions. Think teamwork but for cybersecurity. Read: Kemmerer, R.A. and G. Vigna ‘Intrusion detection: A brief history and overview’, Computer 35(4) 2002, suppl.27–30. for the article in the Online Library . While reading, consider: what could go wrong when multiple systems try to work together how trust an...

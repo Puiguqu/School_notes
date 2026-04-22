@@ -1,0 +1,8 @@
+# Understanding text syntax and structure
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/dRFJC/understanding-text-syntax-and-structure
+
+Please read from the heading in this chapter titled ‘Parts of Speech (POS) Tagging’ up until the heading ‘Building Your Own POS Taggers’: Sarkar, Chapter 3: Processing and Understanding Text . If this link is broken, please let us know via the Student Portal . Understanding text syntax and structure Please read from the heading in this chapter titled ‘Parts of Speech (POS) Tagging’ up until the heading ‘Building Your Own POS Taggers’: Sarkar, Chapter 3: Processing and Understanding Text . If thi...

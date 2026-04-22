@@ -1,0 +1,18 @@
+# Reviewing the programming lab
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/dE2OA/reviewing-the-programming-lab
+
+This guide serves as a crucial resource for reviewing common mistakes and challenges encountered when writing conditionals and functions in Python. It is designed to help programmers debug and improve code written during previous lab sessions. The text identifies four major categories of common errors: indentation, conditional structuring, function argument handling, and return statements.
+
+The first critical area is Indentation Errors. An `IndentationError` occurs when the spacing of lines is inconsistent, as demonstrated by the function `check_number(num)`. In the provided example, the line `print("This line is incorrectly indented")` causes the error because its indentation is inconsistent with the preceding conditional blocks. Programmers must remember to use consistent indentation throughout the entire script, typically adhering to four spaces per level.
+
+The second area addresses structuring conditionals incorrectly. The example `if x > 5 or y < 15 and x == 10:` illustrates potential unintended behavior due to Python's order of operations. Python's boolean logic dictates that `and` has higher precedence than `or`. If the intended logic is to check for `(x > 5 or y < 15)` AND `(x == 10)`, explicit parentheses must be added to clarify the desired evaluation order.
+
+Function argument handling presents two distinct types of errors. The first involves the incorrect placement of default arguments. The function `def greet(name="User", greeting):` is shown to fail because the default argument `name="User"` precedes the non-default argument `greeting`. This structural mistake raises a `SyntaxError`. The rule mandated is that all default arguments must follow all non-default arguments.
+
+The second argument issue is the omission of a required argument. Consider the function `def add_numbers(a, b): return a + b`. Calling this function with only one argument, like `add_numbers(5)`, will result in a `TypeError`. This error signifies that the function requires two arguments but was only supplied with one.
+
+Finally, the fourth common challenge concerns return statements. The function `def multiply(a, b): result = a * b` is an example of forgetting to explicitly return the calculated value. When a function calculates a value but lacks a `return` statement, it automatically returns `None` by default. To fix this, the programmer must explicitly add `return result` to ensure the function outputs the intended calculated value. Reviewing these specific technical details helps solidify understanding of Python syntax and logic. Mastering these concepts is paramount for effective and error-free Python programming.

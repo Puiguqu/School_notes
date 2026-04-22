@@ -1,0 +1,18 @@
+# Showcasing your work on GitHub
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/5swyu/showcasing-your-work-on-github
+
+GitHub is presented as a critical tool for career advancement in technology, serving as much more than simple code storage. It functions as a social platform for developers, a dynamic portfolio of work, and a gateway to the tech community. Recruiters and employers increasingly examine GitHub profiles to accurately assess a candidate's skills and practical experience. Maintaining regular commits on a profile is crucial, as it demonstrates proactive engagement and contributes significantly to building a professional online brand.
+
+To maximize success on GitHub, the text outlines ten essential, actionable tips for developers. First, treat your GitHub profile like a meticulously curated professional resume, ensuring it showcases your very best work. It is vital to carefully organize and document your repositories to highlight your most impressive projects. Secondly, active contribution to open source projects is highly recommended, demonstrating both skill level and collaborative spirit through code, documentation, or bug fixes.
+
+The importance of a well-written `README.md` file cannot be overstated, as it acts as the project's primary storefront. For this purpose, mastering Markdown is suggested, as it simplifies complex presentation problems. Developers must also master foundational Git concepts, including the functionality of branching, merging, and pull requests, which are critical for collaborative development.
+
+Furthermore, active engagement with the wider community is encouraged, whether by starting new projects or participating in technical discussions. Even non-coders can contribute valuable insights by improving documentation, writing tutorials, or performing content translation. The platform welcomes diverse contributors, including designers and authors, utilizing GitHub for various professional repositories.
+
+Users should leverage GitHub Pages to create a lightweight, static personal website or project portfolio directly from their repository. To showcase advanced capabilities, exploring GitHub Actions is a key step, allowing users to update workflows from basic testing through to full deployment, thereby demonstrating DevOps skills.
+
+Consistency is paramount; developers must remain active by regularly contributing to projects and continuously engaging with the community. The power of GitHub is demonstrated through real-world outcomes, such as securing a dream job after an impressive student profile captures a recruiter's attention. Open-source contributions can lead to professional recognition and opportunities to speak at conferences, establishing a personal brand. Finally, GitHub facilitates collaboration on groundbreaking projects, enabling a team to build a visible, well-marketed business with the necessary tools for sustained success. Ultimately, GitHub is positioned as a powerful platform that unlocks professional opportunities by showcasing a developer's skills and expanding their network.

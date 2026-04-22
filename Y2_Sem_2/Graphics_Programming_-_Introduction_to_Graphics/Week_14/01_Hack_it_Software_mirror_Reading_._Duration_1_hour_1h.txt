@@ -1,0 +1,8 @@
+# Hack it: Software mirror
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/4VMKF/hack-it-software-mirror
+
+softwarMirror-Template In this assignment we are going to be making our own software mirror, inspired by the work of Daniel Rozin. Daniel Rozin is an artist who specialises in software and mechanical mirrors. Have a look at his work here for more inspiration. A software mirror is a mirror that does not reflect exactly what it sees, but reads the information coming in from the camera and re-interprets it. In our case, we are going to be looping over the image, reading the brightness in a specific...

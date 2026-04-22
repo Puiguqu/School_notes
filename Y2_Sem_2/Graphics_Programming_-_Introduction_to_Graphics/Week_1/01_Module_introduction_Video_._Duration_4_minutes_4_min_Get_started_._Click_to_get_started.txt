@@ -1,0 +1,18 @@
+# Module introduction
+Video•
+. Duration: 4 minutes
+4 min
+Get started
+. Click to get started - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/zJ6qU/module-introduction
+
+This course offers a comprehensive exploration of computer graphics, moving from foundational principles to advanced applications like computer vision. Key topics include playing with simple physics engines and understanding the building blocks of generative art and design. Students will learn procedural generation techniques, including the use of fractals, noise, and sine functions. A significant portion of the curriculum is dedicated to image processing, where participants will learn to develop their own custom filters. Furthermore, the course culminates in examining the field of computer vision, allowing students to build exciting visualizations using 3D primitives. The instruction emphasizes practical application, culminating in interviews with top experts in the graphics field.
+
+The instructor brings a unique background, holding degrees in psychology, computer science, and specialized knowledge in computer vision and 3D face-recognition. This expertise is coupled with hands-on experience in creative computing, utilizing techniques like fractals for tree structure generation and noise for procedural animation. Students benefit from a structure that integrates theory with live coding examples, requiring active participation and parallel coding. Mastery of programming requires continuous practice, supported by fun, short, unassessed programming exercises. Assessment includes weekly assigned submissions, with the goal of making students "graphics hackers."
+
+The primary tool utilized throughout the course is p5.js, an open-source framework ideal for introductory graphics topics and rapid prototyping. p5.js skills are highly transferable, applicable to developing games, generative art, social photo-sharing apps, or autonomous systems using computer vision. Although p5.js is actively developed on GitHub, students must download the provided empty example for consistent library version usage. Development will be conducted using the Brackets editor, an open-source tool also available for free download.
+
+The syllabus outlines a detailed progression spanning multiple weeks, starting with fundamental modules. Initial weeks cover 2D transformations and an introduction to Object-Oriented Programming (OOP) in JavaScript. The core modules progress systematically, including dedicated sections on Vectors and animation, Forces and Physics, and Matter.js for physics simulation. Generative techniques are covered in detail, exploring randomness, noise, sine functions, and fractals.
+
+The technical focus deepens significantly with dedicated modules on 3D graphics, followed by intensive studies on Colours, images, and pixels. Two complete modules are allocated to Image Processing, and three modules are reserved for Computer Vision (Parts 1, 2, and 3). The course culminates with final interviews and graded assignment submissions, ensuring a holistic understanding of the field. Students are provided with modular learning guides, including step-by-step reading materials and varied practice assignments to support comprehensive learning.

@@ -1,0 +1,16 @@
+# Man-in-the-middle (MITM) attacks
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/D7rge/man-in-the-middle-mitm-attacks
+
+Man-in-the-middle (MITM) attacks involve an attacker secretly intercepting and potentially altering communication between two parties. The victim assumes direct communication with a trusted party, but the attacker is positioned in the middle. This interception allows the attacker to eavesdrop on sensitive data or inject malicious content without the user's knowledge. MITM attacks fundamentally begin when the attacker places themselves between the sender and the receiver. They typically use tools to spoof a network, intercept traffic, or exploit unsecured connections. Once in position, they can capture sensitive data, including login credentials, banking information, or private messages.
+
+Several specific forms of MITM attacks exist, each utilizing unique techniques. These include Wi-Fi eavesdropping, where attackers set up rogue hotspots. Another vulnerability is leaked hashes, used when attackers impersonate a trusted IP address. DNS spoofing directs users to fraudulent or fake websites. Additionally, HTTPS stripping downgrades secure connections, compromising the inherent encryption.
+
+Attackers employ sophisticated tools to launch these attacks. Ethercap is a common tool that enables packet sniffing and spoofing functionalities. Wireshark allows attackers to capture network traffic in real-time for analysis. SSLShip is another tool notable for its ability to remove encryption from HTTPS connections. Real-world examples demonstrate the threat's severity. In one scenario, an attacker controlled a public Wi-Fi network and captured emails and passwords from unsuspicious users. Another example involved DNS spoofing, leading users to fake banking websites for credential harvesting.
+
+The most effective defense against MITM attacks is robust cryptographic encryption. HTTPS protocols protect web traffic using Transport Layer Security (TLS), which encrypts the connection between the browser and the server. Email communications can also be protected using protocols like TLS and Pretty Good Privacy (PGP). These strong encryption methods prevent hackers from reading or altering the intercepted traffic without possessing the private keys. Furthermore, digital certificates confirm the identity of both websites and servers, issued by private authorities. Users must always verify the padlock icon and avoid entering credentials on unsecure sites.
+
+Layered security defenses include implementing Multi-Factor Authentication (MFA), which adds protection even if data is intercepted. To maintain network integrity, one must never use open or public Wi-Fi without first employing a Virtual Private Network (VPN). VPNs are crucial for encrypting traffic, even when operating on inherently insecure networks. Users must diligently keep operating systems and software updated to patch various non-vulnerabilities. Finally, security also requires educating users about phishing and social engineering techniques. Understanding these principles of strong encryption, authentication, and safe network habits are vital to defending against these threats. The topic of side-channel attacks will be explored in subsequent sessions.

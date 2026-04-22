@@ -1,0 +1,8 @@
+# Ethical dilemmas
+Reading•
+. Duration: 3 hours 45 minutes
+3h 45m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/Fr3MT/ethical-dilemmas
+
+This is a fantastic chapter that covers some of the real complexities around privacy, with lots of quotes and statistics to expand upon the issues. Many of these ‘problems’ do not have binary solutions. You will have to think carefully when engaging with this reading material about how to mitigate some of these risks in your future career – but also in your own lives. Blundell, B. ‘Privacy: An outdated concept?’ In Ethics in Computing, Science and Engineering. (Cham: Springer, 2020). Read up to ...

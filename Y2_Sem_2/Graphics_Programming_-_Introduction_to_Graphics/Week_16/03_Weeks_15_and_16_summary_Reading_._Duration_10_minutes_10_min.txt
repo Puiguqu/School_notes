@@ -1,0 +1,8 @@
+# Weeks 15 and 16 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/uJ0tP/weeks-15-and-16-summary
+
+In weeks 15 and 16, you learned about image processing, filters, and convolution. You explored the fundamentals of image processing, including its purpose and various applications, such as enhancing, analysing, and transforming digital images. Basic filters were introduced as tools to manipulate images by adjusting properties like brightness, contrast, and sharpness. You practised in applying convolution techniques to create advanced filters, gaining hands-on experience with how convolution kern...

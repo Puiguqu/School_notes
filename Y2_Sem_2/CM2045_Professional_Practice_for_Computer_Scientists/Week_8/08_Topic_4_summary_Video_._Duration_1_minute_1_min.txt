@@ -1,0 +1,32 @@
+# Topic 4 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/twWZR/topic-4-summary
+
+1. This document provides a summary covering core concepts of tech ethics, inclusive design principles, and a detailed educational curriculum structure.
+2. The introductory video emphasizes that ethics and inclusivity are crucial for developing technology that benefits everyone, far beyond mere buzzwords.
+3. When addressing tech ethics, key concerns center on the responsible use of technology, specifically issues like privacy, data security, and bias within AI systems.
+4. Social media platforms, such as Meta and YouTube, have been cited examples of how ethical practices must balance innovation with protecting users from misinformation.
+5. Inclusivity requires designing for diverse user needs, ensuring no individual is left behind through accessible interfaces and bias-free AI implementation.
+6. A practical example of inclusive design is Microsoft's Xbox Adaptive Controller, which allows gamers with disabilities to fully participate in the gaming experience.
+7. The central finding is that accountability and designing with diverse needs must be at the core of all technological development.
+8. Regarding transcript navigation, users may move through the text using the Tab key.
+9. To save a note for a specific section of text, the sequence CTRL + S must be utilized.
+10. Selection can be expanded using CTRL + arrow key, while contraction is managed by pressing shift + CTRL + arrow key.
+11. For screen readers that are incompatible with arrow key shortcuts, the H J K L keys can be substituted for navigation.
+12. Furthermore, screen readers may require the simultaneous use of CTRL in conjunction with the Alt key.
+13. The curriculum outlines a 20-week progression, beginning with foundational skills.
+14. Initial weeks (1-6) cover Written communication skills (Parts 1 & 2) and Presentation/public speaking skills (Parts 1 & 2).
+15. Weeks 5 and 6 introduce the legal and ethical foundations, building context for subsequent topics.
+16. The focus then shifts to advanced topics, starting in Week 7 with Inclusive computing and ethical impacts (Part 1).
+17. Week 8 completes Topic 4 with Part 2 and includes specific lessons like Lesson 8.1 (Inclusive practices - Case study).
+18. Lesson 8.1 utilizes diverse formats, including a Reading (1 hour 10 minutes), a Practice Peer-graded Assignment (1 hour), and specific video modules.
+19. Subsequent weeks (9-14) focus on Sustainability in computing (Week 9 & 10) and Risk management and security (Week 11 & 12).
+20. Industry standards and best practices are covered extensively across Weeks 13 and 14, detailing best practices.
+21. The curriculum concludes with foundational professional development topics, covering Teamwork and collaboration (Week 15 & 16).
+22. Weeks 17 and 18 focus on Project management, providing structured guidance on project handling.
+23. The final phase spans Weeks 19 and 20, detailing Professional development and career planning resources.
+24. Specific assessment modules are included, such as the 9-minute video for Lesson 8.2: Ethics in tech - Assessing ethical impacts.
+25. Overall, the material establishes a comprehensive framework spanning foundational communication skills to advanced career development and ethical computing standards.

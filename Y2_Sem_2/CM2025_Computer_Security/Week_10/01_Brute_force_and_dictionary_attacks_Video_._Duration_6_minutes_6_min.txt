@@ -1,0 +1,32 @@
+# Brute force and dictionary attacks
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/T6BDu/brute-force-and-dictionary-attacks
+
+1. This session introduces brute force and dictionary attacks, detailing how they operate and how to defend against them.
+2. Passwords remain primary targets for attackers, with weak or reused credentials making systems vulnerable to automated cracking.
+3. The two basic attack methods are brute force and dictionary attacks, both aiming to find a valid password or encryption key.
+4. A brute force attack systematically tries every possible character combination until the correct key is found.
+5. For example, if a password is four digits, the attacker tries every sequence, such as 000, 001, and so on.
+6. While slow, brute force attacks are guaranteed to eventually succeed if no defenses are in place, with complexity increasing the duration.
+7. A dictionary attack is a faster and more efficient method using a pre-compiled list of common passwords or words.
+8. Instead of exhaustive combinations, dictionary attacks test words common to real dictionaries, names, dates, or simple patterns like QWE or 123456.
+9. These attacks are highly effective against users who select simple or predictable passwords.
+10. Attackers utilize automated tools like Hydra, Jandaripa, and Hashcat to perform these attacks rapidly.
+11. Furthermore, attackers can accelerate the process by using rainbow tables, which are pre-computed lists of password hashes.
+12. Cloud computing significantly increases both the speed and scale of these malicious attacks.
+13. Many data breaches arise from weak passwords, leading attackers to download entire leaked hash databases.
+14. This single compromise demonstrates how a weak password can cause a chain reaction of system vulnerabilities.
+15. To prevent brute force attacks, implementing rate-limiting and account lockouts are essential initial measures.
+16. Automated public turning tests, like CAPTCHs, are necessary to distinguish humans from automated bots.
+17. Using a strong password with high entropy, combining letters, numbers, and symbols, substantially increases the difficulty of brute force.
+18. Preventing dictionary attacks requires educating users to avoid predictable words and enforcing complex, longer password policies.
+19. Users should utilize password managers to generate random and unique password combinations.
+20. Crucially, server-side passwords must be stored using salted hashing algorithms like Bcrypt or Argon2.
+21. Hashing passwords before storage is a critical defense mechanism, ensuring attackers must crack each hash individually.
+22. Salting adds an extra layer of protection, rendering pre-computed tables like rainbow tables useless.
+23. Functions like Bcrypt and Argon2 are specifically designed to be slow, mitigating both brute force and dictionary efforts.
+24. In summary, brute force covers all possibilities, while dictionary attacks exploit common predictability.
+25. Defense requires combining strong passwords, account protection policies, and secure, slow hashing methods.

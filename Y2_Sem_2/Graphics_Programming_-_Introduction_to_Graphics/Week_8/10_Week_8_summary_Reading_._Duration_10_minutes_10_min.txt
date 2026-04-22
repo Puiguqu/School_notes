@@ -1,0 +1,8 @@
+# Week 8 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/Swhas/week-8-summary
+
+In this week, you explored the foundational concepts of trigonometry, oscillation, and additive synthesis as applied to generative art and design. You examined how polar coordinates can be used to create intricate shapes and patterns, leveraging trigonometric functions to bring these shapes to life. Oscillation was introduced as a method to code movement, allowing you to simulate natural, rhythmic motions within their designs. Additionally, you studied additive synthesis, applying it to build ge...

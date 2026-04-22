@@ -1,0 +1,727 @@
+{
+  "course_title": "Graphics Programming - Introduction to Graphics - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Module_introduction_Video_._Duration_4_minutes_4_min_Get_started_._Click_to_get_started",
+            "summary_file": "01_Module_introduction_Video_._Duration_4_minutes_4_min_Get_started_._Click_to_get_started.txt"
+          },
+          {
+            "name": "02_Module_syllabus_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_Module_syllabus_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "03_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Module_step-by-step_guide_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Planning_your_study_time_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Planning_your_study_time_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Technical_information_and_tools_used_in_this_module_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Technical_information_and_tools_used_in_this_module_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Source_code_for_week_1_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Source_code_for_week_1_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Getting_started_on_this_module_Video_._Duration_5_minutes_5_min",
+            "summary_file": "07_Getting_started_on_this_module_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "08_How_to_use_your_webspace_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_How_to_use_your_webspace_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_How_to_use_your_webspace_UPDATE_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_How_to_use_your_webspace_UPDATE_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_Using_transformations_Video_._Duration_17_minutes_17_min",
+            "summary_file": "10_Using_transformations_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "11_Live_coding_a_clock_Video_._Duration_12_minutes_12_min",
+            "summary_file": "11_Live_coding_a_clock_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "12_Object_Oriented_Programming_in_Javascript_(OOP)_Video_._Duration_13_minutes_13_min",
+            "summary_file": "12_Object_Oriented_Programming_in_Javascript_(OOP)_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "13_Week_1_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "13_Week_1_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "14_Week_1_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "14_Week_1_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_week_2_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_week_2_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Using_vectors_Video_._Duration_16_minutes_16_min",
+            "summary_file": "02_Using_vectors_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "03_Vector_addition_and_subtraction_Video_._Duration_4_minutes_4_min",
+            "summary_file": "03_Vector_addition_and_subtraction_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "04_Vector_scaling_Video_._Duration_1_minute_1_min",
+            "summary_file": "04_Vector_scaling_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "05_Calculating_magnitude_and_normalising_Video_._Duration_7_minutes_7_min",
+            "summary_file": "05_Calculating_magnitude_and_normalising_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "06_Acceleration_101_Video_._Duration_6_minutes_6_min",
+            "summary_file": "06_Acceleration_101_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "07_Follow_the_mouse_Video_._Duration_8_minutes_8_min",
+            "summary_file": "07_Follow_the_mouse_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "08_Hack_it_Mouse_patterns_Reading_._Duration_1_hour_1h",
+            "summary_file": "08_Hack_it_Mouse_patterns_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "09_Week_2_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Week_2_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_Week_2_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "10_Week_2_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_week_3_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_week_3_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_forces_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Introduction_to_forces_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Force_accumulation_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Force_accumulation_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Coding_gravity_and_friction_Video_._Duration_5_minutes_5_min",
+            "summary_file": "04_Coding_gravity_and_friction_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "05_Hack_it_Particles_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Hack_it_Particles_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Introducing_collision_detection_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Introducing_collision_detection_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Hack_it_Particles_with_collision_detection_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_Hack_it_Particles_with_collision_detection_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "08_Week_3_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Week_3_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_Week_3_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "09_Week_3_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_4_+_5_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_4_+_5_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_matter.js_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Introduction_to_matter.js_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_matter.js_resources_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_matter.js_resources_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Basic_elements_of_matter.js_Video_._Duration_13_minutes_13_min",
+            "summary_file": "04_Basic_elements_of_matter.js_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "05_Adding_other_types_of_bodies_Video_._Duration_5_minutes_5_min",
+            "summary_file": "05_Adding_other_types_of_bodies_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Adding_and_deleting_multiple_bodies_Video_._Duration_13_minutes_13_min",
+            "summary_file": "06_Adding_and_deleting_multiple_bodies_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "07_Hack_it_Plinko_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Hack_it_Plinko_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Introducing_constraints_Video_._Duration_15_minutes_15_min",
+            "summary_file": "08_Introducing_constraints_Video_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "09_Adding_mouse_interaction_Video_._Duration_6_minutes_6_min",
+            "summary_file": "09_Adding_mouse_interaction_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "10_Hack_it_Catapult_Reading_._Duration_1_hour_1h",
+            "summary_file": "10_Hack_it_Catapult_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "11_Week_4_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "11_Week_4_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "12_Week_4_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "12_Week_4_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Animating_a_static_object_-_propeller_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Animating_a_static_object_-_propeller_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_Hack_it_Dominoes_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Hack_it_Dominoes_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Week_5_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Week_5_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Week_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Week_5_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_6_+_7_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_6_+_7_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_generative_art_and_design_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_Introduction_to_generative_art_and_design_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Nature_and_use_of_randomness_Video_._Duration_9_minutes_9_min",
+            "summary_file": "03_Nature_and_use_of_randomness_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "04_Hack_it_Tickle_walker_Reading_._Duration_1_hour_1h",
+            "summary_file": "04_Hack_it_Tickle_walker_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "05_Hack_it_Random_font_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Hack_it_Random_font_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Introduction_to_Perlin_noise_Video_._Duration_17_minutes_17_min",
+            "summary_file": "06_Introduction_to_Perlin_noise_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "07_Week_6_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Week_6_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Week_6_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Week_6_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_2D_noise_Video_._Duration_10_minutes_10_min",
+            "summary_file": "01_2D_noise_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_3D_noise_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_3D_noise_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Week_7_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Week_7_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Week_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Week_7_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_8_+_9_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_8_+_9_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Trigonometry_refresher_Video_._Duration_1_minute_1_min",
+            "summary_file": "02_Trigonometry_refresher_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "03_Polar_to_cartestian_coordinates_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Polar_to_cartestian_coordinates_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_Coding_a_circle_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_Coding_a_circle_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_Oscillation_for_movement_Video_._Duration_2_minutes_2_min",
+            "summary_file": "05_Oscillation_for_movement_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "06_Coding_oscillation_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Coding_oscillation_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Hack_it_Saskia_Freeke_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Hack_it_Saskia_Freeke_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Using_additive_synthesis_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_Using_additive_synthesis_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_Hack_it_Additive_synthesis_on_a_circle_Reading_._Duration_1_hour_1h",
+            "summary_file": "09_Hack_it_Additive_synthesis_on_a_circle_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "10_Week_8_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_Week_8_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "11_Week_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "11_Week_8_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_History_of_fractals_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_History_of_fractals_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Sierpinski_carpet_Video_._Duration_12_minutes_12_min",
+            "summary_file": "02_Sierpinski_carpet_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "03_Hack_it_Fractal_tree_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Hack_it_Fractal_tree_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Week_9_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Week_9_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Week_9_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "05_Week_9_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Interviewing_a_pro_-_Alan_Zucconi_Video_._Duration_20_minutes_20_min",
+            "summary_file": "01_Interviewing_a_pro_-_Alan_Zucconi_Video_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "02_Link_recommendations_by_Alan_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Link_recommendations_by_Alan_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Interviewing_a_pro_-_Andy_Lomas_Video_._Duration_26_minutes_26_min",
+            "summary_file": "03_Interviewing_a_pro_-_Andy_Lomas_Video_._Duration_26_minutes_26_min.txt"
+          },
+          {
+            "name": "04_Link_recommendations_by_Andy_Reading_._Duration_1_hour_1h",
+            "summary_file": "04_Link_recommendations_by_Andy_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "05_Week_10_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Week_10_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Week_10_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "06_Week_10_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "07_Checklist_of_required_skills_and_knowledge_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Checklist_of_required_skills_and_knowledge_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_New_Video_Video_._Duration_1_minute_1_min",
+            "summary_file": "10_New_Video_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_11_+_12_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_11_+_12_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_3D_graphics_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Introduction_to_3D_graphics_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Introduction_to_materials_and_lights_Video_._Duration_14_minutes_14_min",
+            "summary_file": "03_Introduction_to_materials_and_lights_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "04_Hack_it_Play_with_primitives_Reading_._Duration_1_hour_1h",
+            "summary_file": "04_Hack_it_Play_with_primitives_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "05_Camera_Video_._Duration_13_minutes_13_min",
+            "summary_file": "05_Camera_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "06_Perspective_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Perspective_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Hack_it_Basic_solar_system_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Hack_it_Basic_solar_system_Reading_._Duration_1_hour_1h.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_Simple_texture_coding_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Simple_texture_coding_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Graphics_as_texture_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_Graphics_as_texture_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_Weeks_11_and_12_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Weeks_11_and_12_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Weeks_11_and_12_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Weeks_11_and_12_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "05_Weeks_11-12_summary_Video_._Duration_30_seconds_30_sec",
+            "summary_file": "05_Weeks_11-12_summary_Video_._Duration_30_seconds_30_sec.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_13_+_14_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_13_+_14_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Colours_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Colours_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Hack_it_RGB_cube_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Hack_it_RGB_cube_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Colour_harmony_Video_._Duration_12_minutes_12_min",
+            "summary_file": "04_Colour_harmony_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "05_Hack_it_Procedural_generation_of_colours_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Hack_it_Procedural_generation_of_colours_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Images_Video_._Duration_8_minutes_8_min",
+            "summary_file": "06_Images_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "07_Using_a_webcam_Video_._Duration_5_minutes_5_min",
+            "summary_file": "07_Using_a_webcam_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "08_Hack_it_Slit_scanning_Reading_._Duration_1_hour_1h",
+            "summary_file": "08_Hack_it_Slit_scanning_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "09_Pixels_Video_._Duration_11_minutes_11_min",
+            "summary_file": "09_Pixels_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "10_Cool_projects_Video_._Duration_2_minutes_2_min",
+            "summary_file": "10_Cool_projects_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "11_Week_13_summary_Video_._Duration_24_seconds_24_sec",
+            "summary_file": "11_Week_13_summary_Video_._Duration_24_seconds_24_sec.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_Hack_it_Software_mirror_Reading_._Duration_1_hour_1h",
+            "summary_file": "01_Hack_it_Software_mirror_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "02_Weeks_13_and_14_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Weeks_13_and_14_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Weeks_13_and_14_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "03_Weeks_13_and_14_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_week_15_+_16_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_week_15_+_16_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Digital_image_processing_Video_._Duration_1_minute_1_min",
+            "summary_file": "02_Digital_image_processing_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "03_How_pixels_are_stored_Video_._Duration_1_minute_1_min",
+            "summary_file": "03_How_pixels_are_stored_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "04_Invert_filter_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_Invert_filter_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Grayscale_filter_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Grayscale_filter_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Threshold_filter_Video_._Duration_4_minutes_4_min",
+            "summary_file": "06_Threshold_filter_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "07_Convolution_in_1D_Video_._Duration_2_minutes_2_min",
+            "summary_file": "07_Convolution_in_1D_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "08_Convolution_in_2D_Video_._Duration_6_minutes_6_min",
+            "summary_file": "08_Convolution_in_2D_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "09_Blur_filter_Video_._Duration_21_minutes_21_min",
+            "summary_file": "09_Blur_filter_Video_._Duration_21_minutes_21_min.txt"
+          },
+          {
+            "name": "10_Edge_detection_filter_Video_._Duration_16_minutes_16_min",
+            "summary_file": "10_Edge_detection_filter_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "11_Sharpen_filter_Video_._Duration_5_minutes_5_min",
+            "summary_file": "11_Sharpen_filter_Video_._Duration_5_minutes_5_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_Advanced_filters_in_GIMP_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_Advanced_filters_in_GIMP_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Hack_it_Make_your_own_filter_with_Gimp_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Hack_it_Make_your_own_filter_with_Gimp_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Weeks_15_and_16_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Weeks_15_and_16_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Weeks_15_and_16_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Weeks_15_and_16_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_Source_code_for_weeks_17,_18_+_19_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Source_code_for_weeks_17,_18_+_19_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Introduction_to_computer_vision_Video_._Duration_5_minutes_5_min",
+            "summary_file": "02_Introduction_to_computer_vision_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_Applications_of_computer_vision_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Applications_of_computer_vision_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_Brightness_tracking_Video_._Duration_17_minutes_17_min",
+            "summary_file": "04_Brightness_tracking_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "05_Colour_tracking_Video_._Duration_17_minutes_17_min",
+            "summary_file": "05_Colour_tracking_Video_._Duration_17_minutes_17_min.txt"
+          },
+          {
+            "name": "06_Colour_tracking_with_blobs_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Colour_tracking_with_blobs_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Cool_projects_with_brightness_or_colour_tracking_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Cool_projects_with_brightness_or_colour_tracking_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Hack_it_Fisherman's_tales_Reading_._Duration_1_hour_1h",
+            "summary_file": "08_Hack_it_Fisherman's_tales_Reading_._Duration_1_hour_1h.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_Background_subtraction_Video_._Duration_18_minutes_18_min",
+            "summary_file": "01_Background_subtraction_Video_._Duration_18_minutes_18_min.txt"
+          },
+          {
+            "name": "02_Frame_differencing_Video_._Duration_1_minute_1_min",
+            "summary_file": "02_Frame_differencing_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "03_Cool_projects_with_background_subtraction_frame_differencing_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Cool_projects_with_background_subtraction_frame_differencing_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Weeks_17_and_18_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Weeks_17_and_18_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Weeks_17_and_18_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "05_Weeks_17_and_18_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_Optical_flow_Video_._Duration_11_minutes_11_min",
+            "summary_file": "01_Optical_flow_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "02_Hack_it_Optical_flow_controller_Reading_._Duration_1_hour_1h",
+            "summary_file": "02_Hack_it_Optical_flow_controller_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "03_Face_detection_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Face_detection_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_Hack_it_Face_controller_Reading_._Duration_1_hour_1h",
+            "summary_file": "04_Hack_it_Face_controller_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "05_Week_19_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Week_19_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Week_19_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "06_Week_19_self-evaluation_and_reflection_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_Interview_-_Memo_Atken_Video_._Duration_29_minutes_29_min",
+            "summary_file": "01_Interview_-_Memo_Atken_Video_._Duration_29_minutes_29_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    }
+  }
+}

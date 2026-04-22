@@ -1,0 +1,16 @@
+# Lifecycle assessment in IT
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/x8NuH/lifecycle-assessment-in-it
+
+The video introduces the Life Cycle Assessment (LCA) of electronic products, recognizing their significant environmental footprint across their entire lifespan. An LCA is a critical method used to evaluate the environmental impact of a product, tracing it from raw material extraction through manufacturing, usage, and ultimate disposal. As emphasized by the Environmental Protection Agency (EPA), LCAs help measure and reduce the ecological damage associated with electronics, which contribute to toxic e-waste, resource depletion, and greenhouse gas emissions. The assessment breaks down into four main stages: raw material extraction, manufacturing and assembly, use phases, and end-of-life disposal.
+
+The first stage, raw material extraction, involves mining metals like copper, gold, lithium, and rare earth elements crucial for components. This mining operation is highly environmentally costly, consuming large amounts of energy and water, and is responsible for an alarming 40% of a typical device’s total environmental impact. For instance, cobalt mining for lithium-ion batteries has been linked to both child labor and environmental harm in regions like the Democratic Republic of Congo.
+
+The second stage, manufacturing and assembly, transforms raw materials into usable electronics and is inherently energy-intensive. According to the Green Electronics Council, the production of just a single smartphone creates approximately 85kg of CO2, in addition to involving toxic chemicals in chips and displays. The use phase accounts for energy consumption while the devices are operating, demonstrating a massive cumulative impact globally. Data centres, which power cloud services, are major consumers, accounting for nearly 1% of the world's total electricity consumption, according to the International Energy Agency (IEA).
+
+Finally, the end-of-life stage sees devices discarded as e-waste. The world generates an estimated 53.6 million metric tonnes of e-waste annually, yet only about 17% of this waste is properly recycled, according to the Global E-Waste Monitor. This disposal poses risks because e-waste contains hazardous materials like lead, mercury, and cadmium, which contaminate soil and water when sent to landfills.
+
+To mitigate these impacts, the circular economy approach—encouraging recycling and reuse—is necessary. Apple exemplifies a solution by committing to using 100% recycled aluminium and deploying its Daisy robot to disassemble old iPhones. In 2020 alone, Apple's efforts successfully diverted over 48,000 metric tonnes of electronic waste from landfills. For sustainability, several strategies must be implemented: designs must prioritize longevity and ease of repair. Manufacturers must also promote energy efficiency, while consumers should support better e-waste management programs. Ultimately, manufacturers must explore sustainable materials and alternatives to rare earth metals. LCA remains a critical tool, guiding both companies and consumers to build a more sustainable tech future.

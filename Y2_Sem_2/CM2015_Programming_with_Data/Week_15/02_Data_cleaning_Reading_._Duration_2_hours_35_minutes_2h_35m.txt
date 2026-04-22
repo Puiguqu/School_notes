@@ -1,0 +1,8 @@
+# Data cleaning
+Reading•
+. Duration: 2 hours 35 minutes
+2h 35m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/S1vHb/data-cleaning
+
+This reading describes commonly occurring errors in data and how to handle them using inbuilt operations in Pandas. Please read from the heading in this chapter titled ‘Handling Missing Data’ up until the heading ‘Permutation and Random Sampling’: Read Mckinney, Chapter 7. If this link is broken, please let us know via the Student Portal . Data cleaning This reading describes commonly occurring errors in data and how to handle them using inbuilt operations in Pandas. Please read from the heading...

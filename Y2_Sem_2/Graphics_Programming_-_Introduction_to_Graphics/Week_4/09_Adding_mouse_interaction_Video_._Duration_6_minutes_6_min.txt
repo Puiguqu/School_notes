@@ -1,0 +1,16 @@
+# Adding mouse interaction
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/2hbkh/adding-mouse-interaction
+
+This guide details the implementation of a specialized physics constraint in Matter.js: the `MouseConstraint`. This constraint establishes interaction between a physics body and the mouse cursor. Initially, the setup requires using module aliases for easier coding and reference. Specifically, the script must alias `Matter.MouseConstraint` and `Matter.Mouse` for development use. A fundamental step for the `MouseConstraint` to function is passing the entire canvas element to the Matter.js engine. The `createCanvas` function returns a canvas object, which must be stored to allow access to its position data. The mouse interaction logic should be placed at the bottom of the code, after all other physical objects have been added to the world.
+
+To begin, a Matter.js mouse object, `var mouse`, must be instantiated within the script. Critically, one cannot simply pass the canvas object itself to the system. Because the canvas object acts as a wrapper around the HTML element (a p5.js data structure), the script must utilize `canvas.elt` to correctly retrieve the underlying HTML canvas element. Next, specific parameters (`params`) must be defined for the constraint object. These parameters mandate the inclusion of the newly created mouse object as a required input.
+
+The constraint is then initialized using the factory method: `mouseConstraint = MouseConstraint.create(engine, params, world)`. Following creation, the constraint must be explicitly added to the simulation environment using `world.add(mouseConstraint)`. With this code structure, the system successfully creates the mouse object and passes it the necessary HTML canvas details. This allows the constraint to constantly track the mouse position on the canvas surface.
+
+Regarding physics adjustments, the constraint's behavior can be modified using parameters like stiffness and damping. For example, setting stiffness to `0.01` provides an elastic response to touch. The damping parameter is crucial because it softens the return movement of the simulated body. Removing damping results in a much more springy, uncontrolled movement.
+
+A vital technical detail concerns compatibility with modern, high-density (Retina) screens. If the canvas is high density, an additional line of code must be added for correct scaling. The `pixelRatio` of the mouse object must be explicitly set using the formula: `mouseConstraint.mouse.pixelRatio = p5.get(pixelDensity)`. By utilizing `p5.get(pixelDensity)`, the animation function remains correct across various screen densities. Implementing the `MouseConstraint` is straightforward, adding mouse interactivity simply like incorporating any other constraint into the Matter.js world.

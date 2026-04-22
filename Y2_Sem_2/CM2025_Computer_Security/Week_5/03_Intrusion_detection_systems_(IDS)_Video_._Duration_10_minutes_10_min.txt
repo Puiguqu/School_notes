@@ -1,0 +1,36 @@
+# Intrusion detection systems (IDS)
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/cpKtq/intrusion-detection-systems-ids
+
+Intrusion detection systems are crucial for maintaining cybersecurity across various network infrastructures.
+
+1.  **Definition and Necessity:** IDS are monitoring tools designed to detect malicious activity, acting as a critical layer of defense. The need for IDS stems from the inherent difficulty in securing complex networks against sophisticated, evolving cyber threats.
+
+2.  **Theoretical Foundation (The Denning Model):** Historically, the methodology was pioneered by Denning, establishing the concept of monitoring system activity to identify deviations from normal operational baselines. This principle forms the core of modern anomaly detection.
+
+3.  **Key Concepts of Detection:** Detection methods are categorized into signature-based detection (matching known attack patterns) and anomaly-based detection (identifying behaviors that deviate statistically from the norm).
+
+4.  **Performance Metrics:** The effectiveness of an IDS is measured by false positive rates (flagging legitimate activity as malicious) and true positive rates (correctly identifying actual attacks).
+
+5.  **The Challenge of Zero-Days:** A significant challenge is "zero-day" exploits—attacks exploiting vulnerabilities unknown to vendors—which necessitates robust anomaly detection capabilities.
+
+6.  **System Components:** An IDS system typically comprises sensors (collecting network data), a central management system (analyzing the data), and an alerting mechanism (notifying administrators).
+
+7.  **NIDS vs. HIDS:** Network Intrusion Detection Systems (NIDS) monitor traffic across an entire network segment, while Host-based Intrusion Detection Systems (HIDS) monitor specific system resources, such as OS logs or file integrity.
+
+8.  **Historical Evolution:** Early systems were reactive, requiring predefined rule sets. Modern systems are increasingly proactive, incorporating machine learning to adapt and predict emerging threats.
+
+9.  **Machine Learning Integration:** The integration of Machine Learning (ML) is transformative, utilizing algorithms like Support Vector Machines (SVM) or deep neural networks to process vast streams of data and establish sophisticated baselines of "normal."
+
+10. **Data Handling and Scalability:** Scalability is paramount; systems must process petabytes of data in real time, requiring optimized data streaming and analysis pipelines.
+
+11. **The Operational Cycle:** An effective IDS follows a constant cycle: *Collect $\rightarrow$ Analyze $\rightarrow$ Alert $\rightarrow$ Respond $\rightarrow$ Learn*.
+
+12. **Deployment Strategy:** Due to the high volume of data, effective deployment requires strategic placement of sensors to maximize coverage while minimizing data overload.
+
+13. **Response Mechanisms (IPS):** While IDS only *detects*, its complementary role is the Intrusion Prevention System (IPS), which actively *blocks* detected threats by modifying network packets or terminating sessions.
+
+14. **Modern Synthesis:** The current standard utilizes a hybrid approach, combining the precision of signature matching with the adaptability of ML-driven anomaly detection, creating a robust, multi-layered security posture.

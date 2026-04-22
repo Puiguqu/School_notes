@@ -1,0 +1,14 @@
+# Drawing application 2
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/BvbpS/drawing-application-2
+
+The provided text covers two distinct but related areas: the advanced technical implementation of a drawing application, and the academic structure guiding its development. The core focus lies on understanding crucial methods for building custom tools within the application.
+
+The drawing app demonstrates sophisticated features, such as the symmetry and mirror tools, which require specific programmatic management. Two primary methods are detailed: `populate options` and `unselect tool`. The `populate options` method serves as a mechanism for developers to extend the drawing app with custom functionalities. This process involves populating a dedicated box with unique buttons and operational options. For example, a new button labeled "Make Horizontal" was created through this process. Programmatically, this new button is generated as an extra HTML element. Critically, this button is placed within a designated HTML element that possesses the class `options`. The structure of the app's index.html confirms this, utilizing a `<div class="options">` for placement.
+
+The `unselect tool` method is responsible for maintaining the state and cleanliness of the interface. It executes several vital cleanup tasks upon a tool's deselection. First, it calls the `update pixels` function. This function is essential because it reloads the image data that has been previously stored. In the context of the symmetry tool, calling `update pixels` effectively removes visual artifacts, such as the red guideline. Secondly, the `unselect tool` method explicitly takes the HTML element with the class `options` and empties its contents. This ensures that when a user selects a different tool, the interface is free of buttons related to the previous tool.
+
+Beyond the code details, the supplementary content details a comprehensive, progressive curriculum structure. This course focuses on Object Orientation in Practice, using the drawing app as a major case study. The initial modules provide foundational instruction on concepts like P5.dom and how the application functions "under the hood." The curriculum progresses through multiple topics, including the Music Visualizer and Data Visualization. Students are taught how to extend the app, culminating in understanding specialized concepts like Callbacks. Further advanced learning includes implementing rigorous testing for stability and conducting user testing protocols. This entire process is structured to culminate in a final Project and Report assignment, marking the completion of the comprehensive development cycle.

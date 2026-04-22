@@ -1,0 +1,16 @@
+# Hack it: Saskia Freeke
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/bhKBp/hack-it-saskia-freeke
+
+Saskia Freeke is a multidisciplinary artist and educator based in Amsterdam. She identifies professionally as a creative coder, visual designer, and interaction designer. She maintains an active online presence through multiple platforms, including her website, Instagram, Twitter, and Tumblr. A defining aspect of her practice is her daily creative habit. Since January 1, 2015, she has committed to creating a visual artwork every single day. This sustained effort has resulted in a massive, visually stunning collection of animations and designs. To learn more about her process, readers are encouraged to consult her posts on Medium or watch her talks on generative art. Her Instagram page is a primary resource for exploring her current work.
+
+Technically, her work frequently employs the concept of oscillation. This skill is often taught in coding classes and is central to understanding her art. The underlying mathematical mechanism she uses is the sine function. She employs sine for oscillation to manipulate geometric primitives. These primitives are not simply moved; they are assigned different phases in their movement cycle. This crucial step allows intricate and interesting patterns to emerge at the macroscale.
+
+Three specific examples of her work are provided for coding exploration. The first example uses sine to move circles along the y-axis. Additionally, this sine function is used to modulate the size of these circles. A critical detail is the assignment of differing phases to each circle in the pattern. The second example involves white circles, also using sine to move them vertically on the y-axis. This process also modulates their size.
+
+The third mechanism she demonstrates utilizes sine to oscillate the alpha channel of fuchsia circles. Again, assigning unique phases to every individual circle is necessary for the complex visual pattern. The final example involves rectangles, where sine is used to oscillate their size. Like the previous patterns, each shape is given a distinct phase offset.
+
+For hands-on coding practice, participants are challenged to code one of these examples from scratch. A key hint suggests starting the coding process by focusing on just one column of rectangles. Advanced techniques include rounding the corners of these rectangles, following specific P5.js instructions. These examples demonstrate how fundamental functions, like sine, can create complex, emergent aesthetics through synchronized, phased movements. Any reverse-engineered pattern can then be personalized by the user through careful tweaking.

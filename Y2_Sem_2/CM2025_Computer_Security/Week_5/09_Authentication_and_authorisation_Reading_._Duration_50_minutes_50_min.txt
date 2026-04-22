@@ -1,0 +1,8 @@
+# Authentication and authorisation
+Reading•
+. Duration: 50 minutes
+50 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/OzeYz/authentication-and-authorisation
+
+Building on your understanding of access control models and the role of intrusion detection and prevention systems (IDS/IPS), this paper explores multi-factor authentication (MFA) as a complementary mechanism for strengthening system security. While access control defines who can enter and IDS/IPS monitor for suspicious activity once systems are in use, MFA reinforces the initial gateway by demanding more than just a password for login. Read: ALSaleem, B.O. and A.I. Alshoshan ‘ Multi-Factor Auth...

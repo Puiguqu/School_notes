@@ -1,0 +1,8 @@
+# Topic 3 summary
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/PeL1T/topic-3-summary
+
+In this topic, we explored the legal and ethical considerations that shape computing, starting with the legal and ethical foundations of the field. We examined the key principles that govern professional responsibilities, distinguishing between what is legally permissible and what is ethically responsible. Legal obligations, such as intellectual property laws, were also considered in relation to their effect on the computing industry. This provided a basis for understanding the broader impact of...

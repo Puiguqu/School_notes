@@ -1,0 +1,16 @@
+# 3D noise
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/oFdbb/3d-noise
+
+The text provides a detailed overview of procedural noise generation, focusing on the progression from one-dimensional (1D) to three-dimensional (3D) noise. Noise functions are fundamentally used to generate natural, organic-looking variations in data, such as simulated terrain or smoke. While 1D noise describes values similar to those before and after a point, 2D noise is utilized when values in a grid must match their surrounding neighbors in an X-Y plane. To model more complex environments, such as a 3D world with variations resembling Emmental cheese, 3D noise generation is necessary.
+
+In standard 3D noise, three parameters are used as input for the noise function. Typically, the third parameter would be the Z-coordinate, but within the P5 world environment, the Z-coordinate is replaced by the `frameCount` parameter. This use of `frameCount` allows the noise to evolve over time, transforming a spatial grid into a dynamic, time-varying structure.
+
+The demonstration involves live-coding, starting with a basic 2D noise example representing a cloud of static noise. To generate true 3D noise, the time component is added by incorporating `frameCount` into the noise function input. Running the initial code showed that the output changed drastically between consecutive frames, indicating rapid fluctuation. To achieve a smooth and visually pleasing passage in time, the time input must be scaled down, for example, by dividing the `frameCount` by a constant such as 100.
+
+This scaling results in the simulation of phenomena like rising smoke, illustrating the smooth temporal change of the noise cloud. Conceptually, 3D noise allows one to imagine the paper being read at multiple points in time (t, t+1, t+2, etc.), where the readings themselves are organically changing. The noise can model physical processes, such as the gradual, slow crumbling of paper or the movement of a silk cloth.
+
+A critical technical aspect involves controlling the level of fine detail within the noise pattern. By default, a detail setting of four is used, but this value can be adjusted to influence granularity. For instance, setting the detail to 1 provides large-scale, broad changes in shape. Conversely, increasing the detail, such as setting it to 10, introduces a much more fine and granular pattern, similar to snow. This versatility confirms that noise functions are essential generative techniques in computer graphics. The academic context confirms the study of 2D and 3D noise in Week 6 and 7, utilizing related practices like "2D Noise Practice Assignment" and "3D Noise Practice Assignment."

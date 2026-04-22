@@ -1,0 +1,32 @@
+# Common forensic tools
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/lCqa2/common-forensic-tools
+
+1. A digital investigation's success hinges critically on the choice of forensic tools, which dictates both accuracy and efficiency.
+2. The session aims to familiarize investigators with the main categories of forensic tools, enabling them to match tools to specific investigation needs.
+3. The major categories of forensic tools discussed include imaging tools, file and disk analysis tools, memory and network analysis, mobile forensic, and log analysis.
+4. Each distinct category of tool supports a specialized stage of the overall investigation process.
+5. Disk imaging represents the foundational, initial, and critical step in any digital investigation.
+6. Dedicated tools such as FTK Imager, DD, and various Graphical User Interface (GUI) imagers are used to create exact, unaltered replicas of storage media.
+7. Furthermore, utilizing write blockers is mandatory during imaging to guarantee that the source data remains forensically sound and unaltered.
+8. File analysis tools are essential for exploring and interpreting the complex data contained within the acquired images.
+9. Leading commercial options for file analysis include NCASE, while reliable open-source choices are Autopsy and Solution Kit.
+10. X-Ways is noted as a fast and flexible popular tool within the file analysis field.
+11. Memory forensics is an increasingly vital discipline, requiring tools like Volatility and Recall.
+12. These memory analysis tools allow experts to inspect Random Access Memory (RAM) for volatile indicators, including malware, injected processes, and encryption keys.
+13. Network forensic tools such as Wireshark, NetworkMiner, and TCPdump are utilized to reconstruct communication sessions.
+14. These tools help investigators identify command and control (C2) traffic or extract sensitive transmitted credentials.
+15. Mobile forensics is critical in modern investigations, with tools like Cellebrite and Magnet enabling data extraction from smartphones.
+16. Mobile extraction capabilities encompass application data, messages, media files, and even deleted content.
+17. For timeline reconstruction, combining set and locked data from various sources is an extremely vital practice.
+18. Scaling solutions for log analysis include Splunk and the ELK stack, while log2 timeline aids in visually structuring raw logs into activity timelines.
+19. When selecting forensic tools, the investigator must carefully consider the specific data type, the overall investigative goals, and mandated reporting standards.
+20. Additionally, a key decision point is whether the investigation requires legal administrability.
+21. While open-source tools offer notable versatility, commercial options frequently provide extended capabilities and dedicated technical support.
+22. The curriculum scope broadly covers topics from identifying cyber threats and cybersecurity frameworks to network and OS security.
+23. It also includes specialized areas like cryptography (PKI, digital signatures, hash functions), blockchain, and incident response procedures.
+24. A well-chosen and comprehensive forensic toolkit ultimately ensures both the effectiveness of the investigation and the reliability of the resulting outcomes.
+25. By mastering these tools and methodologies, investigators can execute robust and comprehensive digital investigations across various domains.

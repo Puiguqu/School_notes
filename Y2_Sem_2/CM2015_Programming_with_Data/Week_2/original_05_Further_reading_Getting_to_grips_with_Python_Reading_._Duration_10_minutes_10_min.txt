@@ -1,0 +1,8 @@
+# Further reading: Getting to grips with Python
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/4PkVo/further-reading-getting-to-grips-with-python
+
+When you have completed this assignment, if you would like to read in more depth about the topic, we recommend the following text. Please note that because this is a supplemental reading, we are unable to guarantee that it is available in our Online Library. Please read from the beginning of the chapter until the heading ' Read Mckinney, Chapter 1: Preliminaries . If this link is broken, please let us know via the Student Portal . Further reading: Getting to grips with Python When you have completed this assignment, if you would like to read in more depth about the topic, we recommend the following text. Please note that because this is a supplemental reading, we are unable to guarantee that it is available in our Online Library. Please read from the beginning of the chapter until the heading ' Read Mckinney, Chapter 1: Preliminaries . If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

@@ -1,0 +1,34 @@
+# Graphics as texture
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/BoYSo/graphics-as-texture
+
+This summary outlines the advanced concept of using procedural graphics to create textures for 3D objects, leveraging an off-screen buffer.
+
+1. The primary goal is to generate complex images using primitives and then apply these generated images as textures onto three-dimensional forms.
+2. To achieve this, a dedicated mechanism called the "off-screen buffer" is essential.
+3. An off-screen buffer allows drawing content without displaying it immediately on the primary visible canvas.
+4. The technical implementation involves creating a new variable, which is then initialized using the function: `buffer = createGraphics()`.
+5. This function allocates a temporary, separate canvas, which is set to a size of 300 by 300 units in the example provided.
+6. Once the buffer is established, standard drawing commands, like `background()` and `ellipse()`, are used but must be prefixed with the buffer variable (e.g., `buffer.background()`).
+7. The buffer can be initialized to a specific color, such as setting the background white using `buffer.background(255)`.
+8. Drawing functions within the buffer allow for simulating random patterns, for instance, using `buffer.ellipse(random.width, random.height)` to create scattered shapes.
+9. Specific style details, such as ensuring elements use `graphics.noStroke`, must be applied to the buffer drawing context.
+10. The drawing process is dynamic; for example, the buffer can be made interactive by referencing mouse coordinates (e.g., `buffer.mouseX`, `buffer.mouseY`).
+11. To enhance the procedural quality, the entire buffer can be animated by applying rotations, such as `rotateY(frameCount)`.
+12. The generated graphic, now residing in the buffer, is then incorporated into the 3D world via a specific function.
+13. This technique requires applying the buffer as a texture map to a 3D object, such as a sphere or a box.
+14. The key command for this integration is applying the texture using `texture(buffer)` within the 3D drawing context.
+15. The combination of the 3D object with the procedural graphics can be animated using rotation functions like `rotateX(frameCount)`.
+16. An initial challenge encountered is that drawing functions often require explicit parameters, such as four parameters for the ellipse function.
+17. When texturing shapes like spheres, the texture mapping can cause stretching, which is acknowledged as an approximation of the intended circular shapes.
+18. A practical adjustment to mitigate this stretching is to slightly increase the width of the texture dimensions.
+19. Conceptually, the buffer acts as a holding space for all procedurally generated data, including complex forms like recursive trees, letters, or noise patterns.
+20. This decoupling allows the generative process to run independently of the final display canvas.
+21. By successfully generating and storing these images, the entire visual data set becomes a reusable asset.
+22. The entire workflow effectively links the 2D procedural graphics world to the 3D rendering engine.
+23. The final output is a 3D object that appears to be patterned by abstract, programmatically generated images.
+24. This powerful methodology demonstrates the full potential of using graphic buffers in creative digital media.
+25. Ultimately, the buffer transforms dynamic, random functions into sophisticated, tangible surface textures for 3D models.

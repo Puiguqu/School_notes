@@ -1,0 +1,32 @@
+# Topic 8 evaluation
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/sasgG/topic-8-evaluation
+
+1. The module strongly encourages participants to continuously assess their progress as they move forward through the material.
+2. This self-assessment activity is crucial because it helps students reflect deeply on their acquired skills and knowledge base.
+3. The primary purpose of reflection is to help identify specific areas that require growth and strategically plan subsequent improvements.
+4. Students are instructed to take a moment to thoroughly reflect on all the competencies they have gained thus far.
+5. The text provides several explicit examples of reflective questions to guide this self-evaluation process.
+6. One critical area of reflection is gauging confidence in explaining the dual use of Artificial Intelligence (AI).
+7. This includes understanding both how AI can be utilized by attackers and how it can be used by defenders.
+8. Furthermore, understanding the urgency of Post-Quantum Cryptography (PQC) is vital for the learner.
+9. Participants must also grasp the technical workings of specific algorithms such as Kyber and Dilithium.
+10. Another key focus area is the ability to apply sophisticated cryptographic solutions to address Internet of Things (IoT) security problems.
+11. Evaluating one’s learning not only identifies current knowledge gaps but also contributes to overall professional and academic success.
+12. Following this self-assessment, the student must develop a concrete and actionable plan for improvement.
+13. This action plan is the mechanism by which understanding is actively enhanced and reinforced.
+14. Suggested strategies for improvement include scheduling additional dedicated study sessions.
+15. These sessions should be targeted towards the concepts that the learner is currently less sure about.
+16. Another beneficial step is seeking out diverse additional resources to solidify foundational understanding.
+17. Furthermore, participants are encouraged to use the discussion forum to ask peers and experts for clarification.
+18. It is equally important to set specific, measurable goals for improvement to track progress effectively.
+19. Throughout the module, evaluation activities will be included at the conclusion of each specific topic.
+20. These regular checks allow for continuous review of the learner's progress and comprehension.
+21. Learners must adapt their overall strategies and goals based on ongoing self-assessment results.
+22. Any new feedback received, whether internal or external, must prompt an immediate adjustment to the plan.
+23. The module emphasizes that learning is inherently a continuous and iterative process.
+24. Therefore, revising the initial plan is perfectly acceptable and often necessary to suit evolving needs.
+25. By adhering to these principles, the student can achieve great success in the remainder of the module.

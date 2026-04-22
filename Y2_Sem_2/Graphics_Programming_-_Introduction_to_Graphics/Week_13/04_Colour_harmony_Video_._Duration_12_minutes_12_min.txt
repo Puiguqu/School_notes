@@ -1,0 +1,32 @@
+# Colour harmony
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/6NHka/colour-harmony
+
+1. Harmony in color theory refers to the aesthetically pleasing combination of different colors, a concept employed in design, gaming, and web development.
+2. The discussion introduces basic topics like complementary and triadic colors, advising viewers to research color theory for deeper understanding.
+3. Complimentary colors create the strongest visual contrast when placed adjacent to one another.
+4. These highly contrasting pairs, sometimes called opposite colors, are found at opposite ends of the HSB color wheel.
+5. Technically, to find a complementary color when coding, one must pick a color at a specific hue angle and add 180 degrees to find its opposite.
+6. Triadic colors, conversely, are three colors that are equally spaced around the color wheel.
+7. Triadic color schemes, such as red, green, and blue, offer high contrast while maintaining a more balanced aesthetic than complementary pairs.
+8. To effectively manipulate color space in code, it is necessary to change the color mode to HSB (Hue, Saturation, Brightness).
+9. The procedural generation process often requires setting `noStroke` to prevent visible lines between shapes and defining the desired rectangle placement using `rectMode center`.
+10. An example of color manipulation involves filling a primary shape with a color (e.g., red at hue 0, full saturation, full brightness).
+11. To create a complementary pair, one could place a contrasting color, such as turquoise, within the initial red shape, demonstrating high contrast.
+12. The mathematical structure for calculating triadic colors begins by defining a `colorDiff`, which is set as $360 / 3 = 120$ degrees.
+13. If the starting color is `startColor` (e.g., 0 degrees), the three triadic hues are $0$, $0 + 120$, and $0 + 240$.
+14. For procedural generation of color patterns, such as patterned bricks, the HSB mode is essential for structured traversal of the color space.
+15. The process involves using nested, two-dimensional loops to place structural elements, like bricks, defined by `brickWidth` and `brickHeight`.
+16. Initially, using `random(360)` for the hue, and `random(100)` for saturation and brightness, resulted in poorly unified and incoherent color patterns.
+17. To achieve organic variation, the approach shifts to using a defined `hueStart` (e.g., 30 for sandstone orange) and restricting the hue variation.
+18. A localized variation is managed by defining a random range: `hueRoot + randVar`, where `randVar` is calculated from a negative to positive variation range.
+19. Realism is enhanced by restricting the saturation and brightness to a tighter range, such as 0-100 for saturation and 50-100 for brightness.
+20. Limiting the color variation around a core hue ensures that the colors fit together organically, maintaining a unified theme suitable for game assets.
+21. The procedural approach allows the creation of materials with natural, subtle variations, like the mud tones of a sandstone wall.
+22. Alternatively, when designing a marine-themed scene, one could use a narrow range of hues centered around a blue value (e.g., near 200 degrees).
+23. The key finding is that strict adherence to color harmony theory—rather than purely random values—provides visually appealing and functional color palettes.
+24. This controlled variance is crucial for generating assets (like tiles or natural landscapes) that feel unified yet detailed.
+25. The use of `colorMode HSB` facilitates this control, enabling developers to programmatically generate colors that adhere to specific harmonious relationships.

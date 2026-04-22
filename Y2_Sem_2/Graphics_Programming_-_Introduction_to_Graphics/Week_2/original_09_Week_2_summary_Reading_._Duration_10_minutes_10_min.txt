@@ -1,0 +1,8 @@
+# Week 2 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/uaBxk/week-2-summary
+
+In this week, you were introduced to the fundamental concept of vectors and their role in representing direction and magnitude, which are essential for describing movement in animation and physics-based systems. You learned the basics of vector arithmetic, including operations like addition, subtraction, and scaling, allowing you to combine and manipulate vectors effectively. The topic also covered how vectors influence acceleration, enabling the simulation of realistic movement patterns in animation. Week 2 summary In this week, you were introduced to the fundamental concept of vectors and their role in representing direction and magnitude, which are essential for describing movement in animation and physics-based systems. You learned the basics of vector arithmetic, including operations like addition, subtraction, and scaling, allowing you to combine and manipulate vectors effectively. The topic also covered how vectors influence acceleration, enabling the simulation of realistic movement patterns in animation. Mark as completed Dislike Report an issue

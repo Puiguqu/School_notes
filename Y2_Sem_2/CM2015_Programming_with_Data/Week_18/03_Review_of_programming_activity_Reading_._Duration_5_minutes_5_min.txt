@@ -1,0 +1,8 @@
+# Review of programming activity
+Reading•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/SKldg/review-of-programming-activity
+
+In this reading we will go through some common mistakes and challenges that can occur when conducting the text data conversion before plotting. You can use this to help you review your output from the previous lab and debug any challenges you may have had. Text data often needs to be transformed into numerical values (such as counts or frequencies) for plotting or other analyses. A common mistake is trying to plot text directly without processing it into a more usable format. The following pie c...

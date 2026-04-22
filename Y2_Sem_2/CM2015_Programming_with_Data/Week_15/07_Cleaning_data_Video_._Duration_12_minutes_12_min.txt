@@ -1,0 +1,20 @@
+# Cleaning data
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/3FDbX/cleaning-data
+
+Data cleaning using pandas involves various techniques to refine and prepare data loaded from sources like CSV files. Initial data preparation ensures types are correctly set, such as prices as floats, stock as booleans, and ratings as integers. Value-based filtering allows selection of specific data subsets using comparison operators such as greater than (`>`), less than (`<`), or less than or equal to (`<=`). Another critical step is identifying and managing invalid values, which often necessitates using the `dropNA` function.
+
+To demonstrate `dropNA`, zero values must first be explicitly replaced with Not-a-Number (NaN) values. One can customize `dropNA` using the `how` attribute, which dictates whether a row/column must have *all* values NaN (if `how='all'`) or if even one NaN value is sufficient for dropping (the default `how='any'`). Alternatively, the `axis` parameter specifies whether the operation should target rows (default) or columns.
+
+For permanent changes, the `inplace=True` parameter must be used when executing drop operations. When dropping entire columns, the `axis=1` parameter must be specified, such as removing a price column containing NaN values. If dropping all rows/columns is too aggressive, the `fillna` operation is preferred for data replacement.
+
+`fillna` allows replacing NaN values with specified constant values, such as setting `df.fillna(0.0)`. For customized replacement, a dictionary object can map column names to specific replacement values. Further specialized techniques include using `df.ffill()`, which uses forward fill (interpolating NaN with the previous valid value).
+
+To impute missing data based on aggregate statistics, one can apply `df.mean()` and use the result to fill all NaN values across the dataset. Conversely, general replacement involves finding a specific value and replacing it with another desired value.
+
+To manage duplicates, the `df.drop_duplicates()` function is used, often restricted to specific columns via the `subset` command. If duplicates are found across multiple columns, only providing a `subset` limits the detection scope. To retain the latest record when duplicates exist, the `keep` parameter must be set accordingly.
+
+For time-series data, converting the data type is crucial. Furthermore, indexing by date-time objects is necessary for sequential analysis. Finally, setting the date column as the index allows for time-based resampling and manipulation.

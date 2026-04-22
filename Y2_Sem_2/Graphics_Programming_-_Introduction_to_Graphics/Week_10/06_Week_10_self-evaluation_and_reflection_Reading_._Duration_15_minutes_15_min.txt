@@ -1,0 +1,20 @@
+# Week 10 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/mfTQ8/week-10-self-evaluation-and-reflection
+
+The text outlines a critical self-assessment process designed for students to regularly evaluate their understanding against defined learning outcomes. This exercise facilitates deep reflection on the learning journey, helping students pinpoint areas requiring deeper knowledge or improved skills. The goal is ultimately to develop a concrete and actionable plan for further academic improvement and knowledge consolidation. Students are guided to use a detailed checklist to evaluate the complex concepts covered specifically during Week 10 of the course. If confidence is low in any specific concept or task, the recommendation is to immediately revisit the relevant lecture videos, readings, and activities.
+
+The first core area involves a thorough understanding of Procedural Generation (PG) within the context of video games. Learners must be able to clearly define what procedural generation entails and explain its specific application within game design methodologies. Furthermore, a key requirement is the ability to list and articulate both the advantages and the disadvantages of implementing PG in game development projects.
+
+Secondly, the assessment explores the broader field of Generative Art and Design (GA). Students should be able to discuss the fundamental concept of generative art and outline the methods by which such art is created. Crucially, the assessment requires describing how procedural techniques are applied across both aesthetic art and functional design disciplines. Beyond gaming, participants must identify at least one practical application of generative art in non-gaming fields.
+
+The third domain focuses on making direct connections between academic theory and the work of artist Andy Lomas. Learners must explain the specific link between Andy Lomas’ artistic practice and the principles of procedural generation. This involves drawing explicit connections between Lomas' unique artistic approach and the module's broader syllabus content. Additionally, students must be prepared to discuss specific examples from Lomas' work that vividly reflect the key concepts covered during the module.
+
+Fourthly, the curriculum requires students to synthesize key insights gathered from professional interviews. This includes summarizing the major insights derived from Andy Lomas’ interview and separately summarizing key insights from Alan Zucconi’s interview. By comparing these two perspectives, students must understand how they collectively enrich the knowledge base concerning generative art and procedural generation.
+
+Fifthly, the assessment encourages applying learned knowledge to wider disciplinary contexts, thereby expanding understanding beyond gaming. Students must feel confident in explaining how procedural generation and generative art influence fields such as film, art, and architecture. This section requires discussing the broader impact of generative processes on advanced design and complex fabrication methods. Finally, participants must provide specific, original examples of PG or GA that personally inspire or enhance their overall understanding of the topic.
+
+Finally, the overarching Self-Reflection phase is essential for academic mastery and career preparation. Students must be able to accurately assess both their current strengths and their specific areas for necessary improvement regarding PG and GA. The exercise culminates in the assurance that the student feels confident discussing and practically applying these advanced concepts in future professional projects. The process mandates identifying any additional resources or specialized topics that require detailed review for a deeper, continuous understanding of the subject matter.

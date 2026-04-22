@@ -1,0 +1,8 @@
+# Topic 8 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/hMO10/topic-8-summary
+
+So far, you have explored: AI and ML in cybersecurity. You have discovered how they support threat detection, and how attackers and defenders use them in crypto contexts quantum and post-quantum cryptography. You have considered why classical systems like RSA and ECC are at risk, and how Kyber and Dilithium offer resilience IoT security challenges. You have learned about common vulnerabilities and the role of lightweight cryptography and secure protocols. Topic 8 summary So far, you have explore...

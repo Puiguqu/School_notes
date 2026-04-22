@@ -1,0 +1,8 @@
+# Gantt charts
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/vAKGr/gantt-charts
+
+Gantt charts are a useful way to determine what tasks need to be completed to finish a project and how to divide resources, including time, to different activities. Having watched the previous video, you should now build a Gantt chart for your project. Use this template to build your Gantt chart: Gantt Template XLSX File the video and decide how to divide up your tasks and time effectively. Consider the following: What tasks do you need to complete for your project? Remember to include documenta...

@@ -1,0 +1,8 @@
+# Weeks 17 and 18 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/ao50e/weeks-17-and-18-summary
+
+During these two weeks, you explored the foundational concepts of computer vision, delving into its applications and challenges. These weeks focused on understanding how computers interpret and analyse visual information from the real world. Key principles such as colour tracking and background subtraction were introduced, providing insights into how these techniques are used in various computer vision systems. You learned to explain the concept of computer vision, including its diverse applicat...

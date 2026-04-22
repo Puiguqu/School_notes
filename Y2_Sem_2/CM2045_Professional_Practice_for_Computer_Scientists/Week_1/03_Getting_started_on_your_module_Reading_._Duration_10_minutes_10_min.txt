@@ -1,0 +1,32 @@
+# Getting started on your module
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/1SHsd/getting-started-on-your-module
+
+1. The module welcomes students and advises them to begin by familiarizing themselves with the forthcoming tasks and getting to know their classmates.
+2. Students should first read the comprehensive module syllabus to understand the structure and requirements.
+3. It is crucial to watch the module introduction video to gain a complete understanding of the course content.
+4. Learners must review the learning outcomes, which summarize the key knowledge and skills to be demonstrated upon completion of the module.
+5. Furthermore, students should examine the assessment section of the syllabus to understand the criteria for successful completion.
+6. For those new to Coursera, or for those wishing to deepen their platform understanding, the dedicated Orientation course is highly recommended.
+7. Throughout the program, three primary communication tools will be utilized: discussion forums, Slack, and Zoom.
+8. Detailed guidance on the usage of these three communication tools can be found within the Orientation course materials.
+9. A welcoming step is to introduce oneself to classmates by participating in the designated 'Getting to know each other' discussion forum.
+10. Before engaging fully in the forums, students are advised to review the detailed guidelines on forum usage provided in the Orientation course.
+11. To enhance study support, the Online Library tutorial is available, offering a rich source of academic information and resources for the entire study period.
+12. Students will also be introduced to Studiosity, a new online service piloted by the University to provide dedicated support for academic writing.
+13. The university’s commitment to student success is highlighted through the University of London Careers Service.
+14. This service supports all students regardless of their career stage: career starters, career developers, or career changers.
+15. Students are encouraged to read more about enhancing career prospects and the specific offerings provided by the University of London's Career Service.
+16. Aligning academic study with personal career goals is advised, as this alignment will maintain motivation and guide successful progression.
+17. Learners can start connecting immediately by examining the Careers Connect platform.
+18. Additionally, targeted live BSc Computer Science careers webinars are scheduled throughout the entire program for attendance.
+19. These resources collectively aim to keep the student focused and motivated throughout the module journey.
+20. The module team hopes that all students enjoy their learning experience.
+21. The module team eagerly anticipates receiving contributions from all participants as the coursework progresses.
+22. The initial steps involve fully embracing the module structure laid out in the syllabus.
+23. A refresher on the Coursera platform's functionalities is available through the Orientation course.
+24. Students are expected to follow all essential rules outlined for the proper use of discussion forums.
+25. The central focus remains on leveraging all provided digital tools to maximize academic success.

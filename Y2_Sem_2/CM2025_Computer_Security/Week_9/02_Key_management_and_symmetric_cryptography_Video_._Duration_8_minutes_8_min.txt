@@ -1,0 +1,14 @@
+# Key management and symmetric cryptography
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/uY6Fp/key-management-and-symmetric-cryptography
+
+This session introduces the importance of Key Management and Symmetric Cryptography for data security. Key management is defined as the comprehensive process of handling cryptographic keys throughout their entire lifecycle. This lifecycle includes key generation, secure distribution, physical storage, periodic rotation, and eventual deletion. Proper key management is paramount, as even strong encryption fails if the key is lost or exposed. Cryptographic systems are only as robust as the security measures surrounding their keys. Poor key storage or failure to rotate keys significantly increases overall risk to sensitive information. A robust strategy ensures that only authorized users and systems can successfully unlock protected data.
+
+Symmetric cryptography is a specific encryption method where a single, shared key is utilized for both encryption and decryption. This process makes symmetric encryption highly efficient for high-speed data processing and secured storage. Consequently, both the sender and the receiver must possess simultaneous access to this exact same secret key. The core vulnerability of this method is the required exchange of the secret key over potentially insecure channels. If an attacker, like Eve, intercepts the shared key, the entire system is compromised.
+
+Advanced Encryption Standard (AES) is the primary example of a highly trusted symmetric algorithm used globally. AES functions by scrambling data into fixed blocks using a shared secret key. It supports multiple key lengths, including 128, 192, or 256 bits, with longer keys offering greater security. The algorithm operates on blocks of data, typically 128 bits at a time. AES employs multiple rounds of substitution and transformation processes based on the chosen key length. Each round increases the data scrambling, making the original information nearly impossible to reverse without the key.
+
+For maximum security, proper key handling requires adherence to several best practices. Keys must always be generated using secure random methods, never predicted. Keys should be stored exclusively in secure environments like Hardware Security Modules (HSMs) or trusted key vaults. Under no circumstances should keys be directly embedded within source code or configuration files. Security protocols mandate the regular rotation and immediate revocation of outdated keys. Furthermore, access to keys must be strictly limited, and all key-related actions must be meticulously audited. Symmetric encryption remains ideal for applications demanding speed, such as securing database records and file storage. Ultimately, the security of any encryption system depends fundamentally on these established key management principles.

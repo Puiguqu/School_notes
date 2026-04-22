@@ -1,0 +1,8 @@
+# Topic 2 evaluation and summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/nZfcd/topic-2-evaluation-and-summary
+
+In this second topic of the module we have introduced you to the first of the case study applications that is going to form the basis of your project. We have also looked at accessing and manipulating the HTML DOM from p5.js to support some of the features of the application. Before you move on to the next topic, take a moment to review the following checklist and test your knowledge and experience with the topics we have discussed. You understand the basics of the HTML Document Object Model and...

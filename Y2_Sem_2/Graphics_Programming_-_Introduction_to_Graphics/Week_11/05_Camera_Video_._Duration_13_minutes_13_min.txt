@@ -1,0 +1,18 @@
+# Camera
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/YL3ev/camera
+
+The process of 3D rendering shifts the visual paradigm by transforming a 3D world into a 2D image, creating the illusion of depth. This rendering process requires specific inputs, including the scene's ingredients, lights, and materials. Crucially, the renderer must account for the camera, which defines the viewing point. The camera is responsible for mapping the 3D world into a usable 2D projection. The camera function accepts three distinct parameters: its position, its direction, and its orientation. The position parameter dictates the camera's exact location within the three-dimensional space. By default, the camera's starting distance from the origin is set based on the sketch's height. The direction parameter determines the point the camera is currently looking at, typically centered at the origin. Lastly, the orientation parameter controls the camera's vertical tilt.
+
+To animate the view, key mathematical functions are employed. Sine waves are fundamental for cyclical motion. For example, complex paths can be created by using a combination of $\text{sin}(\text{frameCount})$ to drive the coordinates. When designing movement, the $\text{sine}$ function is central. A common technique involves scaling the $\text{sine}$ output. The $\text{sin}$ function’s output, which ranges from $-1$ to $1$, can be scaled by multiplying it with a constant factor, such as $300$, to control the oscillation amplitude.
+
+Movement can be made more complex by adjusting the frequency. The $\text{frameCount}$ variable can be multiplied by a small factor, such as $0.02$, inside the $\text{sin}$ function to control how quickly the oscillation cycle occurs. For instance, using $\text{sin}(\text{frameCount} * 0.02)$ creates a gradual, slow motion. By varying the arguments of these trigonometric functions, highly dynamic and natural movement paths can be generated.
+
+When designing interactive elements, the time variable is essential. Instead of using a fixed $\text{frameCount}$, using the $\text{time}$ variable within the $\text{sin}$ function can make animations synchronized with the physical time flow of the user's interaction. This synchronizes the visual experience with real-world timing.
+
+Further advanced animation concepts include using $\text{ease-in}$ and $\text{ease-out}$ functions. These mathematical curves modify the speed of an object over time. Instead of constant velocity, these functions simulate acceleration and deceleration, making motion feel organic and weighty. An $\text{ease-out}$ effect makes the object slow down as it approaches its destination. An $\text{ease-in}$ effect makes it start slow and speed up, providing visual weight to the start of motion.
+
+Finally, layering and masking are critical for composition. Masking allows visual artists to precisely define which parts of an image or object are visible. The masking effect is often used with multiple image layers to achieve complex visual blends. These techniques are fundamental to achieving photorealistic and stylized graphic effects.

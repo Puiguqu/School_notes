@@ -1,0 +1,8 @@
+# Further reading: References to python functions to read CS and JSON
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/5GU1o/further-reading-references-to-python-functions-to-read-cs-and-json
+
+Python provides many different ways of reading files, however this particular set of functions in Pandas are particularly useful. It will be good to be familiarise yourself with them! We have provided these to you as an accessible resource for the topic – but they are not compulsory reading. The libraries are also provided to help you get used to handling documentation to solve tasks, which is a really important skill as a programmer. You will often be working on unfamiliar libraries, so being a...

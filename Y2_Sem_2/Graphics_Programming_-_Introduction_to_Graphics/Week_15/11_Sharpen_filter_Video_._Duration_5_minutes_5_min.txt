@@ -1,0 +1,14 @@
+# Sharpen filter
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/xHZj5/sharpen-filter
+
+The presentation begins by noting general navigational tips for screen readers, replacing standard arrow key shortcuts with H, J, K, and L keys for compatibility. Digitization often causes sharp borders to appear somewhat blurred, necessitating the use of specialized filters. The sharpen filter is designed to counteract blurring by accentuating differences between pixels, making it essentially the opposite of a blur filter. A core technical requirement for the sharpen kernel is that the sum of all its coefficients must equal 1. This condition (e.g., summing to 1 using coefficients like -8, 9) is critical because it ensures the preservation of the image’s overall brightness.
+
+The process is demonstrated in a spreadsheet where a specific kernel is used to calculate the new pixel value, showing that a central pixel's value of 50 can be effectively maintained regardless of the surrounding neighborhood calculations. For instance, when calculating a highly contrasting pixel, the convolution calculation involving coefficients can yield a high value (like 400), but the final result must be clamped to an appropriate range. Crucially, the sharpen filter differentiates itself from an edge detection filter because it maintains the values of non-edge pixels, rather than eliminating them entirely. The kernel size can be flexibly adjusted, accommodating varying dimensions such as 3x3, 5x5, or 7x7, provided the coefficients still sum to 1.
+
+The implementation uses convolution, where a custom `sharpFilter` is run, taking the form of a matrix (e.g., using coefficients such as -1, -1, and 9). The code emphasizes that maintaining the sum of 1 is paramount to preventing a loss of the image's original brightness. When successfully applied, the sharpen filter dramatically accentuates pixel differences, making subtle features like the lines in nettles much easier to spot than in a blurred image.
+
+The supplementary curriculum content outlines a comprehensive sequence of topics spanning Weeks 1 through 20, focusing heavily on image processing. Early weeks introduce core concepts like Vectors, Forces, and Generative techniques involving randomness and sine/fractals. The focus on image processing begins in Week 13, covering basic filters such as Invert, Grayscale, and Threshold filters. The material progressively moves through convolution, starting with 1D and 2D video applications. Advanced topics include the Blur filter, Edge detection filter, and dedicated sessions on the Sharpen filter. Later weeks explore deeper concepts like Computer Vision, which is broken down into three parts, concluding with an interview and graded assignment submission in Week 20.

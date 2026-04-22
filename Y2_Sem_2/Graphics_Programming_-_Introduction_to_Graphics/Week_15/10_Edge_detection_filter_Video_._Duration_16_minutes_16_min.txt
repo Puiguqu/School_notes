@@ -1,0 +1,20 @@
+# Edge detection filter
+Video•
+. Duration: 16 minutes
+16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/111eH/edge-detection-filter
+
+Edge detection is a fundamental process in image processing, aimed at identifying sharp changes in image intensity, commonly known as edges. This process relies heavily on differential filtering, which quantifies the rate of change of pixel intensity across the image plane. To achieve this, the method utilizes gradient calculations in both the horizontal and vertical directions.
+
+The core mechanism involves applying specialized mathematical kernels, or filters, over the image data. The horizontal gradient component, for example, measures the contrast across adjacent pixels in the same row. Similarly, the vertical gradient component measures the contrast between adjacent pixels in the same column.
+
+Technically, the initial implementation involves calculating these partial derivatives across the entire image using distinct kernel matrices. These matrices are designed to emphasize differences between neighboring pixels, essentially measuring the change in luminance. For example, one set of kernels calculates the strength of the gradient in the X-direction (gradient $G_x$).
+
+A second, separate set of kernels is then applied to compute the gradient strength in the Y-direction (gradient $G_y$). Both $G_x$ and $G_y$ represent the localized intensity change along their respective axes.
+
+The crucial final step is to combine these two separate directional results into a comprehensive edge strength map. This combination is typically achieved by calculating the magnitude of the resulting vector, often through the Pythagorean sum: $\sqrt{G_x^2 + G_y^2}$.
+
+This resultant magnitude yields the final edge strength, which is a highly robust representation of structural changes within the original image. Areas with a high final magnitude indicate a strong, significant edge, while low values suggest flat, uniform areas.
+
+By effectively summarizing these directional changes, the technique moves beyond simple pixel comparison, creating a detailed contour map that is vital for computer vision applications. This combination of X and Y gradients ensures that no significant structural transition is missed, providing a complete and accurate picture of the image's geometry.

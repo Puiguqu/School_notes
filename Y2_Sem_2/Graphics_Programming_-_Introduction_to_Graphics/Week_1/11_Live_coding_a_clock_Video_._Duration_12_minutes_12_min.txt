@@ -1,0 +1,20 @@
+# Live coding a clock
+Video•
+. Duration: 12 minutes
+12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/3Gws3/live-coding-a-clock
+
+The process of programming a clock involves sophisticated graphic transformations using a clean, fresh code canvas. First, the drawing environment must be centered by applying the transformation `translate(width/2, height/2)`. The clock's base is established by drawing an initial central ellipse to anchor the components. Defining global variables for the dimensions of the hands—such as `secLength`, `minWidth`, `hourLength`, and `hourWidth`—is crucial for structural integrity. To ensure accurate drawing, the technique of using `push()` and `pop()` transformations is applied before and after drawing each hand segment.
+
+The seconds hand calculation begins by setting the appropriate `strokeWeight` and defining the color using `stroke(200, 0, 0)`. To convert elapsed time into angular position, the `map()` function is utilized. Specifically, `var secAngle = map(second, 0, 60, 0, 360)` converts seconds into degrees, spanning the full range from 0 to 360. This calculated angle is then applied using `rotate(secAngle)` before drawing the line segment.
+
+For the minute hand, the structure repeats, using a `push()`/`pop()` block and adjusting the variables accordingly. The angle calculation similarly uses the `map()` function, converting the minute value: `minAngle = map(minute, 0, 60, 0, 360)`. This conversion maps the minutes over a range of 0 to 60 degrees onto a 0-360 degree circle.
+
+The complexity increases for the hour hand, requiring careful management of the rotation based on time. After establishing the mechanism for the hour hand, the final element of the clock is completed.
+
+The final stage involves marking the hour markers around the periphery of the clock face. To achieve this, the program must iterate through the 12 hours, drawing markers at the appropriate angular intervals.
+
+To add depth to the design, the code is modified to display the current time on the dial, ensuring that the clock face is visually representative of the passing minutes and hours. This demonstrates an advanced understanding of time-based trigonometry and graphical rendering.
+
+The project is then finalized by incorporating a functional clock mechanism that updates every second, displaying the real-time date and time. The final product showcases a sophisticated blend of mathematics, programming logic, and aesthetic design principles.

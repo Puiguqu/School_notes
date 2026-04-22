@@ -1,0 +1,20 @@
+# Ethical decision-making
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/2r0wZ/ethical-decision-making
+
+This lecture explores the ethical challenges of using adaptive music technology, specifically detailing a study using the GeoTracks system. GeoTracks dynamically modifies music based on a user's real-time location and surrounding environment. The system's goal is to enhance the everyday experience while maintaining listener safety and awareness. For instance, when users approach busy roads or pedestrian crossings, the music automatically becomes quieter and simpler. This dynamic adaptation helps prevent the music from becoming a distraction when situational awareness is critical.
+
+A core safety finding addressed the danger of immersion, which can block out crucial environmental sounds like approaching traffic or cyclists. To mitigate this, the study utilized jawbone headphones, which transmit sound through the bones near the ears. This setup was crucial because it kept ear canals clear, allowing participants to hear the environment without fully tuning out the world.
+
+The primary ethical dilemma revolved around balancing deep musical enjoyment with paramount safety concerns. While reducing music complexity—such as fading out vocals or drums near a hazard—prioritizes safety, it raises questions about the loss of artistic integrity. Some participants found the sudden alterations frustrating, citing a loss of the song's flow or skipping of favorite sections.
+
+Furthermore, the study highlighted the ethical tension regarding user control over the adaptive system. Because the music was automatically adjusted, users had no control over when or how tracks changed, which some found restrictive. This leads to the broader question of whether to prioritize user autonomy or their absolute safety in design.
+
+Another critical technical concern was the system's reliance on GPS tracking, which generates significant privacy issues. Any system collecting real-time location data necessitates rigorous ethical protocols. Developers must ensure all collected data is anonymized, stored securely, and used responsibly, with full user consent regarding data collection.
+
+The process also introduced the challenge of real-world unpredictability, such as navigating unfamiliar routes or encountering emergency vehicles. Even with soft music, the cognitive load during high-risk moments remains a risk factor. The feedback indicated that the music only complemented the experience when it perfectly synced with the environment, breaking immersion when it failed to do so.
+
+In summary, the study revealed that adaptive systems, while promising, introduce multifaceted ethical concerns. Key challenges include the trade-off between safety and enjoyment, managing the balance of user control versus automatic safety measures, and addressing data privacy inherent in GPS tracking. These lessons underscore that technological enhancement must be carefully designed to navigate these complex ethical landscapes.

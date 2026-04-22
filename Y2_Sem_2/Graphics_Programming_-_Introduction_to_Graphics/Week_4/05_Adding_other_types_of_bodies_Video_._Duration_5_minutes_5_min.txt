@@ -1,0 +1,18 @@
+# Adding other types of bodies
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/IjnpY/adding-other-types-of-bodies
+
+The video lesson begins by demonstrating the fundamental use of drawing rectangular grounds within the physics environment. Initially, the setup uses a basic ground shape, which is then improved by adding a second ground, designated `ground2`. This second ground allows objects to bounce between two distinct surfaces, improving the interactive quality of the simulation. For better object interaction, one ground can be strategically set higher and to the left (e.g., at 100, 200). The width and height of these ground bodies were set to 500 units. The process requires drawing vertices for each ground, creating the physical boundaries of the simulation world.
+
+The lesson then shifts focus to expanding the types of bodies available within the `matter-js` library. By searching the documentation, various body types are explored, including circles, custom shapes via `fromVertices`, polygons, trapezoids, and rectangles. These options demonstrate the versatility of the physics engine beyond simple rectangles.
+
+A circular body is implemented using the method `bodies.circle`, requiring three key parameters. These parameters are the object's location (x, y) and its defined radius. The example code demonstrates defining `body circle equals bodies.circle` with a starting radius of 20. Next, a polygon is introduced, utilizing the function `bodies.polygon`. This shape requires location parameters, the desired number of sides, and a general radius. The demonstration used the syntax `polygon equals bodies.polygon` at location (0, 5, 30), specifying five sides.
+
+The general methodology for all bodies remains consistent: introduction, addition, updating, and drawing. To activate a new object, it must first be introduced (e.g., `var circle, body circle = bodies.circle`). This object is then added to the physics world and must be known to the physics engine for updating within the loop. Drawing the object necessitates retrieving its vertices in the correct order. Furthermore, the static grounds benefit from applying restitution and friction to allow for natural movement and bouncing physics.
+
+In terms of curriculum structure, the course covers several major modules. The syllabus introduces the core concepts from Week 1 to Week 3, covering graphics, vectors, and forces. Week 4 is dedicated to "Physics with Matter.js," featuring specific instructional content. This includes a 4-minute video introducing `matter.js` and practice assignments. A deep dive into advanced usage is provided in subsequent videos, such as "Adding other types of bodies" (5 minutes duration).
+
+The curriculum progresses through specialized topics in Week 5 and beyond. These include "Using constraints," which introduces complex physical linkages (15 minutes). The syllabus also guides learners through interactive concepts, such as "Adding mouse interaction" (6 minutes). More advanced hacking sections include "Plinko" and "Catapult," requiring significant reading time. Finally, the course covers "Generative techniques" across Weeks 6 through 9, exploring randomness and complex wave patterns like sine and fractals. The remaining weeks build toward final submissions in Weeks 10 through 20, addressing topics from 3D graphics to computer vision.

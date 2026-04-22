@@ -1,0 +1,32 @@
+# Cyber threat intelligence and mitigation strategies
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/HqwlE/cyber-threat-intelligence-and-mitigation-strategies
+
+1. Cyber Threat Intelligence (CTI) is defined as the process of collecting and analyzing data to understand potential or active threats targeting systems, moving beyond mere incident reaction.
+2. Unlike reactive measures, CTI provides crucial contextual and timely information, enabling organizations to predict attacks and build effective defenses.
+3. It encompasses detailed information, including attacker identity, motivations, methods of attack, and early warning indicators.
+4. CTI is categorized into four main types, each serving different organizational levels and purposes.
+5. Strategic Intelligence, aimed at senior leadership, focuses on broad trends and emerging risks for long-term planning.
+6. Tactical Intelligence, valuable to security analysts, details how attackers operate, including their tools, techniques, and procedures (TTPs).
+7. Operational Intelligence provides real-time insights into ongoing attack campaigns, allowing for immediate defense adjustments.
+8. Technical Intelligence is the most granular form, providing specific details like malware hashes, malicious IP addresses, or phishing domains.
+9. CTI enhances decision-making by transforming raw data into actionable knowledge, allowing precise risk assessment and detection.
+10. Intelligence can be gathered from both internal and external sources.
+11. Internal sources include valuable data derived from system logs, incident reports, and user activity.
+12. External sources are diverse, ranging from government advisories, such as the UK's NCCS and the US's CISA.
+13. Other vital external sources include Open-Source Intelligence (OSINT) platforms, sector-specific communities (ISACS), commercial intelligence feeds, and internal logs.
+14. Effective CTI requires combining multiple sources to achieve a comprehensive and fuller picture.
+15. The application process is cyclical, beginning with collecting data from various trusted sources.
+16. This gathered intelligence must then be analyzed for relevance and accuracy, and correlated with the organization's specific environment.
+17. Action involves implementing measures like blocking malicious domains, updating firewall rules, or issuing immediate alerts.
+18. The final step is a continuous cycle of reviewing and refining defenses, as the threat landscape evolves daily.
+19. Mitigation strategies must form layers of defense, as no single measure is sufficient.
+20. Practical defenses include enforcing Multi-Factor Authentication (MFA) to block unauthorized accesses.
+21. Other layers involve using endpoint protection and firewalls to reduce attack surfaces, performing regular patching, and conducting continuous network monitoring.
+22. A case example, ransomware defense, requires a coordinated approach: blocking emails, applying the principle of least privilege, and ensuring off-site backups.
+23. Furthermore, developing and testing an incident response plan and detecting lateral movement are crucial defensive components.
+24. Ultimately, CTI is critical not just for data gathering, but for making sense of it, acting on it, and building smarter, layered defenses.
+25. Mitigation is maximized when it is informed by CTI, built in layers, and continually refined to anticipate the unexpected.

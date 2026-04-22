@@ -1,0 +1,16 @@
+# Operating systems: windows and OS hardening
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/pHaU9/operating-systems-windows-and-os-hardening
+
+An operating system (OS) is a vital component that manages computer hardware resources and provides services to competing programs. It is fundamentally a set of programs required for application software to operate and represents a critical part of any computing system. Common examples of OS include Microsoft Windows 10, Linux (with distributions like Debian, Red Hat, and Ubuntu), Unix (such as Solaris), and Mac OS. OS security involves ensuring the system's integrity, confidentiality, and availability, while OS protection refers to measures safeguarding the OS from intruders or attacks. The need for OS security is heightened because modern systems are globally accessible via the internet, creating security risks that malicious attackers can exploit.
+
+While Microsoft Windows is a dominant desktop OS, its complexity requires continuous updates to ensure safe web operation. Key components of a secure OS include the kernel, which executes services at the lowest level, and the security kernel, which manages all security processes. The reference monitor is a security kernel component that manages access to devices, and the trusted computing base enforces the OS's security policies. In Windows, basic security involves elements like the security reference monitor, local security authority (LSA), security account manager (SAM), Active Directory (AD), WinLogon, and NetLogon.
+
+Specifically, the security reference monitor (SRM) performs every permission check by executing access checks and setting audit log entries. The LSA is responsible for executing local security policies and publishing user authentication tokens upon network sign-in. The SAM acts as a database storing user credentials and related sensitive data for local sign-ins. Active Directory is a critical component for handling cloud workflows and monitoring both in-house and network identification/encryption control. WinLogon manages local logins, whereas NetLogon handles network-wide logins.
+
+Client-side vulnerabilities are common across OS platforms, found particularly in web browsers, office software, and e-mail clients. Historically, exploiting vulnerabilities in MS Office (such as Word, Excel, and Outlook) was a significant attack vector, with some reports indicating 70 percent of attacks used flaws in the suite. To overcome these client-side threats, systems must undergo hardening before deployment. Hardening is the process of increasing security by patch management, removing unnecessary files, password-protecting the BIOS, and disabling unused bootable devices.
+
+Practical hardening measures for Windows include disabling automatic logins, requiring credentials to exit screensavers, activating system security features, disabling unnecessary wireless connections, implementing protective virus toolkits, and establishing robust backup systems. Furthermore, system security is bolstered by turning on authentication, creating user profiles, and establishing strong root or administrator passwords. These steps, combined with continuous awareness of OS fundamentals and vulnerabilities, are essential for maintaining a secure computing environment.

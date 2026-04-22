@@ -1,0 +1,32 @@
+# Cryptographic algorithms: hash functions
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/jSweO/cryptographic-algorithms-hash-functions
+
+1. This session details cryptographic hash functions, covering their properties, applications, and role in cybersecurity.
+2. A hash function is a mathematical process that converts data of any size into a fixed-length string, known as the hash value or digest.
+3. Crucially, hash functions are one-way, meaning the original input cannot be recovered or reversed from the output.
+4. To be considered a cryptographic hash function, it must possess several important qualities.
+5. First, they are deterministic, meaning the same input will consistently yield the identical output.
+6. They are also designed to be fast to compute and remain irreversible, unlike encryption methods.
+7. A vital property is the avalanche effect, where even a tiny change in the input generates a completely different output.
+8. Finally, hash functions must be collision-resistant, ensuring that no two unique inputs produce the same output.
+9. Unlike encryption, hashing is permanent, making it unsuitable for protecting confidentiality, but ideal for ensuring data integrity.
+10. Data integrity is verified by comparing the hash of received data against an expected hash to detect tampering or errors.
+11. In password storage, systems never store the actual password; instead, they store the hash value of the password.
+12. During login, the system hashes the entered password and compares the resulting hash against the stored hash.
+13. To enhance security, systems employ a technique called "salting," which involves adding a unique value before hashing the password.
+14. For verifying downloaded or received files, the sender provides a hash value, which the recipient then computes on the file.
+15. If the computed hash matches the provided hash, the file is confirmed to be complete and unaltered.
+16. Several widely used hash algorithms exist, including MD5 and SHA-1, though both are now considered insecure due to collision vulnerabilities.
+17. SHA-2, especially SHA-256, is currently recognized as the established and secure standard for hashing.
+18. Newer algorithms like SHA-3 offer advanced options for future cryptographic security needs.
+19. To perform hashing in Python, the `Hashlib` library is imported and utilized.
+20. The process requires converting the input string data into a byte format before the hashing object can process it.
+21. A SHA-256 hash object is created, updated with the byte data, and then the final hash is generated using the `hexdigest` function.
+22. The resulting hash is a fixed, hexadecimal string representing the original input data.
+23. Although hashes are lightweight and fast, it is crucial to use up-to-date algorithms and always incorporate salting.
+24. Furthermore, sensitive data like passwords should never rely on hashing alone, preferring slow methods like bcrypt.
+25. In conclusion, hash functions provide essential, irreversible digests used primarily for authentication and integrity checks, setting the stage for future studies like digital signatures.

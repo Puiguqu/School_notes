@@ -1,0 +1,8 @@
+# Sustainable software engineering
+Reading•
+. Duration: 1 hour 30 minutes
+1h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/eIebg/sustainable-software-engineering
+
+The following guidance will help in thinking about how you design software in a more ‘green’ environmentally friendly way. https://multiqos.com/blogs/what-is-green-software-development/ - An Introduction to green software development practices (accessed 2025.) If this link is broken, please let us know via the Student Portal. Sustainable software engineering The following guidance will help in thinking about how you design software in a more ‘green’ environmentally friendly way. https://multiqos...

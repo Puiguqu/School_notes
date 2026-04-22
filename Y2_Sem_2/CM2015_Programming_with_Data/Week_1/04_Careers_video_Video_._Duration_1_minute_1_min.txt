@@ -1,0 +1,16 @@
+# Careers video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/jhJ3u/careers-video
+
+The University of London supports Distance and Flexible Learner students globally, aiming to provide optimal skills and understanding for their career progression. The career service emphasizes regional awareness through an event series dedicated to employment and sector trends worldwide. Each session illuminates what a specific region, such as Singapore, Pakistan, or the United States, is currently prioritizing in its labor market. This approach provides bespoke information, including a large variety of international vacancies found on the Careers Connect system. Students who cannot attend the live webinars have access to an extensive library of recordings within the virtual learning environment. Utilizing these resources helps students gain a deeper understanding of target areas, placing them in a stronger position for career development.
+
+The technical learning structure is outlined in the course "Programming with Data," identified by the syllabus code CM2015. Week 1 begins with the "Welcome to the course" video, which has a duration of 6 minutes. Students must also review the 10-minute "Syllabus Reading" and participate in a 15-minute discussion about "Applications of Python for Data programming." Week 1 also introduces development environments for Python, starting with a video on Jupyter Notebook basics and a 1-hour reading segment. The practical application involves writing a first program in Jupyter Lab, requiring 1 hour, and completing a 12-minute practice assignment.
+
+Following this, Week 1.3 focuses on the introduction of variables via a 5-minute video and a subsequent 1-hour lab for variable practice. The subsequent weeks build knowledge progressively: Week 2 covers "Getting to grips with Python," while Week 3 addresses "Python basics: Data types, control flow, and functions." The course continues by having Week 4 focus on writing programs using lists and control flow. Modules for Weeks 5 and 6 cover "Data structures" and "Pattern matching with strings," respectively.
+
+Technical instruction expands into data handling in Week 7 with "Reading and writing data on the file system," followed by an additional session in Week 8 dedicated to "Reading and writing data Part 2." Weeks 9 and 10 progress through advanced data processing, focusing on "Processing text data" and "Language processing." Data retrieval skills are taught over Weeks 11 and 12, covering "Retrieving data from the web." Following this, Weeks 13 and 14 are devoted to "Retrieving data from the databases." The syllabus progresses through crucial data management skills, including "Data cleaning" in Week 15. Later modules cover "More data transformations" and culminates in "Data analysis and visualisation" in Week 17.
+
+The latter half of the curriculum includes "Exploratory analysis for language processing" (Week 18) and "Advanced topics in Python and data programming" (Week 19). The final technical training spans advanced feature extraction (Week 20), a full revision period (Week 21), and concludes with the final exam in Week 22.

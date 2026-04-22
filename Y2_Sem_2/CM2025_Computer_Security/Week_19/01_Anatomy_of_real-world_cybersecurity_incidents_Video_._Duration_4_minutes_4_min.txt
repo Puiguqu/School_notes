@@ -1,0 +1,18 @@
+# Anatomy of real-world cybersecurity incidents
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/iRht1/anatomy-of-real-world-cybersecurity-incidents
+
+Cybersecurity incidents follow a highly repeatable pattern, which analysts can dissect to predict and prevent future attacks. The typical cyber attack cycle begins with reconnaissance, where attackers meticulously collect necessary intelligence. Next, they attempt to breach defenses using common vectors like phishing, exploits, or exploiting misconfigurations. The attack advances by escalating privileges, granting deeper access to internal systems. This is followed by lateral movement, where threat actors explore and map out the network infrastructure. The final stages involve data extraction, the theft of sensitive information, and covertly covering tracks by deleting logs or implementing backdoors.
+
+Common attack vectors are diverse, including social engineering through phishing, exploiting unpatched systems, and stealing poor passwords. Furthermore, unauthorized access can originate from insider threats, human error, or vulnerabilities within third-party supply chains. The 2017 Equifax breach serves as a critical example, involving an unpatched non-Apache-estrus vulnerability. This breach resulted in the theft of personal data belonging to 147 million people. The incident highlighted severe flaws in system design and a lack of basic controls, leading to detection delays spanning months.
+
+To effectively reduce impact and expedite recovery, organizations must implement a comprehensive incident response plan. This plan mandates preparation, clear policy, necessary tools, structured training, detection, and detailed analysis capabilities. Key steps include monitoring threat intelligence, containment and eradication of threats, and system isolation for cleaning. Recovery involves restoring operations, conducting lessons learned, and improving the overall security posture.
+
+Crucially, the analysis shows that complex incidents are often not due to advanced threats themselves. Instead, failures stem from businesses overlooking basic security measures, weak policies, and poor visibility. Clear incident response plans are thus vital components for effective mitigation. Addressing these gaps requires recognizing that complex digital systems grow faster than available security resources.
+
+The academic curriculum reinforces these concepts across multiple topics and modules. Week 1 addresses the identification and classification of cyber threats (Part 1). Week 2 completes this identification and classification (Part 2). Week 3 and 4 cover cybersecurity frameworks, standards, and legal considerations (Part 1), while Week 5 and 6 focus on Network and OS security (Part 2). Week 7 and Week 8 delve into Application security principles: testing and debugging (Part 1 and Part 2). Week 9 and Week 10 detail Cryptography in practice, covering encryption, PKI, digital signatures, and hash functions (Parts 1 and 2). Week 11 and Week 12 explore Blockchain for cybersecurity (Parts 1 and 2).
+
+The curriculum continues with Week 13 and Week 14, dedicated to Incident response and forensics (Parts 1 and 2). Week 15 and Week 16 cover Emerging trends, including AI, ML, quantum computing, post-quantum cryptography, and IoT security challenges (Parts 1 and 2). Finally, Weeks 17 through 19 cover advanced topics like EDI principles and sustainable digital ecosystems, culminating in Topic 10: Real-world case studies (Parts 1 and 2). The curriculum features the Equifax breach case study (2017) and the Uber data breach case study, emphasizing continuous learning and system redesign.

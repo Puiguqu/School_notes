@@ -1,0 +1,8 @@
+# Considering alternative ways to parse text
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/IGvzS/considering-alternative-ways-to-parse-text
+
+Locating a HTML element in a string seems like a perfect case for regular expressions, as there are several patterns that you can write. Should you use regular expressions for parsing an HTML page? Why or why not? Once you’ve attempted this question, compare your answer to the model answer provided on the next page. Considering alternative ways to parse text Locating a HTML element in a string seems like a perfect case for regular expressions, as there are several patterns that you can write. Sh...

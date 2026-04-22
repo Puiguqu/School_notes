@@ -1,0 +1,42 @@
+# Installing Jupyter notebook (Mac)
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/vQwnz/installing-jupyter-notebook-mac
+
+The summary is structured into three parts: the prerequisite setup, the core technical installation workflow, and the overall curriculum overview.
+
+**I. Environment Setup and Prerequisites**
+
+1. Accessing a local Jupyter Notebook is beneficial for scenarios beyond the course platform (Coursera).
+2. The foundational requirement is the installation of Python, which is managed through the Miniconda installer package.
+3. For Mac users, the Miniconda graphical installer, specifically for the Apple Silicon chip, is recommended.
+4. After the Miniconda installation, verification involves opening the terminal or Anaconda shell prompt.
+5. Users must execute the command `conda` to confirm the existence of the conda tool.
+6. Furthermore, the machine must be confirmed to have Python 3.12 installed, which can be tested by opening the Python terminal.
+
+**II. The Local Installation Workflow (CM2015 Environment)**
+
+7. Before installing Jupyter Notebook, a dedicated, isolated environment must be created using the command: `conda create [environment_name]`.
+8. In this specific case, the command used is `conda create cm2015`, specifying the required Python version 3.12.
+9. Once the environment is created, it must be activated using the command: `conda activate cm2015`.
+10. The installation of necessary packages, such as `jupyter`, `matplotlib`, `numpy`, `scipy`, and `pandas`, is achieved via `pip install`.
+11. To run the notebook, the user executes the command `jupyter-notebook`, which typically launches the home page in the default browser.
+12. To integrate the dedicated environment into Jupyter Notebook, it must first be added as an IPython kernel.
+13. This integration is performed using the command: `ipykernel install [user_name] cm2015`.
+14. Once installed as a recognized kernel, a new Jupyter Notebook file can utilize the `cm2015` environment.
+15. These local setup steps are generally reproducible across operating systems, including Linux and Windows.
+
+**III. Core Concepts and Course Curriculum Overview**
+
+16. The course covers foundational Python concepts, including data types, control flow, and defining functions.
+17. Students learn to manipulate data structures such as lists and practice string concatenation.
+18. Advanced string manipulation includes creating patterns using loops and concatenation techniques.
+19. The curriculum progresses to handling file system operations, mastering reading and writing data.
+20. Subsequent topics involve processing text data and performing initial language processing tasks.
+21. Data retrieval skills are taught, covering external sources like web data and structured databases.
+22. Following data acquisition, the focus shifts to critical data cleaning processes and various transformations.
+23. The syllabus dedicates significant time to data analysis and visualization techniques using Python.
+24. More advanced modules cover exploratory analysis, complex feature extraction, and specialized programming patterns.
+25. By Week 22, the curriculum culminates in comprehensive revision and the final examination of acquired data programming skills.

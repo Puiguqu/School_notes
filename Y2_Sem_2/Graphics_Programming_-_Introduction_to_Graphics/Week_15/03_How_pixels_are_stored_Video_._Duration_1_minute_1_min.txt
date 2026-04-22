@@ -1,0 +1,16 @@
+# How pixels are stored
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/ilSqF/how-pixels-are-stored
+
+Digital image processing involves complex techniques, starting with foundational concepts in color and pixel structure. The curriculum progresses through weeks dedicated to topics like Vectors, Forces, Physics with Matter.js, and Generative techniques involving randomness, noise, sine, and fractals. Specific focus is placed on understanding colors, images, and pixels during Weeks 13 and 14. Week 15 is dedicated to comprehensive Image Processing, culminating in detailed study of simple filters and advanced techniques.
+
+For expert graphics hacking and developing custom filters, it is crucial to move beyond high-level libraries like P5.js. To gain deep understanding, one must access the pixel array directly and learn the low-level code mechanics. Visually, an image is perceived as a grid of pixels, but digitally, the pixels are stored sequentially in one long array of values. Crucially, each single pixel requires four components: Red, Green, Blue, and Alpha values.
+
+This four-channel structure means that every pixel occupies four distinct spaces in the underlying data array. To extract a specific pixel's values using arithmetic, a calculated index must be determined. The calculation requires multiplying the image width by the Y-coordinate, adding the X-coordinate, and finally multiplying that sum by four. This multiplication by four accounts for the four distinct channels (RGBA) per pixel.
+
+Simple filters operate by processing each pixel individually, ignoring neighboring pixels, unlike techniques such as convolution. These foundational filters include the Invert filter, Grayscale filter, and Threshold filter. Convolution is a more advanced technique, applicable in both one-dimensional (1D) and two-dimensional (2D) domains.
+
+Advanced filtering techniques also include implementing a Blur filter, an Edge detection filter, and a Sharpen filter. Mastery of convolution involves using an interactive convolution kernel for study and practice. The syllabus maps out detailed learning modules, including video lessons and corresponding practice assignments for every filter type. The advanced topics continue into Week 16 (Image Processing Continued), Weeks 17, 18, and 19 (Computer Vision parts 1, 2, and 3). By understanding the basic pixel indexing and mastering these diverse filtering methods, one can effectively build complex graphics applications.

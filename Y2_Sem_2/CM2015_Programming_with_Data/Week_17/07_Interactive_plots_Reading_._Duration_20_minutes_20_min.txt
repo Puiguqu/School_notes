@@ -1,0 +1,8 @@
+# Interactive plots
+Reading•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/pIvVW/interactive-plots
+
+More advanced plotting packages (some in languages other than Python) allow for interactive plots to be generated. That is, plots that show data that can be changed by users. For instance, one of my favourites is Plotly . Can you find some more examples of these online? What are your favourites? Why? Note down your examples and the answers to these questions in your study journal. Interactive plots More advanced plotting packages (some in languages other than Python) allow for interactive plots ...

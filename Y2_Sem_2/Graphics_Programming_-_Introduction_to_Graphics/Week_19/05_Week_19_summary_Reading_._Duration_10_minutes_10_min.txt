@@ -1,0 +1,8 @@
+# Week 19 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/wRMCW/week-19-summary
+
+During the week, you explored advanced computer vision techniques, focusing on leveraging OpenCV and other tools to analyse and manipulate visual data. You learned how to identify and track points of interest within images and videos, developed an understanding of face recognition methods, and applied optical flow to detect and track motion. By the end of the week, you should be able to explain the importance of using computer vision libraries to streamline and enhance image processing tasks. Yo...

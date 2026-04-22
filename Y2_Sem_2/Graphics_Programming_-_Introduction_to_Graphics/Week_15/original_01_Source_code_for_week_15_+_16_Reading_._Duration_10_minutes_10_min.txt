@@ -1,0 +1,8 @@
+# Source code for week 15 + 16
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/RCt7c/source-code-for-week-15-16
+
+Below you'll find the source code for all examples demonstrated in weeks 15 + 16 in this course. Please use the emptyExample files below as a starting point for all coding projects. This ensures that everything we have taught you in the videos will work with the specific version of P5.js we are providing below. weeks 15 + 16 - image processing emptyExample Source code for week 15 + 16 Below you'll find the source code for all examples demonstrated in weeks 15 + 16 in this course. Please use the emptyExample files below as a starting point for all coding projects. This ensures that everything we have taught you in the videos will work with the specific version of P5.js we are providing below. weeks 15 + 16 - image processing emptyExample Mark as completed Dislike Report an issue

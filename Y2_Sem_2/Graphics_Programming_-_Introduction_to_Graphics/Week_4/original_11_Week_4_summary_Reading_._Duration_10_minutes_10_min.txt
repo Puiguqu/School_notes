@@ -1,0 +1,8 @@
+# Week 4 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/iY7bM/week-4-summary
+
+This week's topic introduced the basics of physics engines and their role in simulating realistic physical interactions in digital environments. You learned specifically about *Matter.js*, a popular JavaScript physics engine, and explored its core components, including bodies, constraints, and composites. You gained an understanding of the primary elements within *Matter.js* and developed simple physics-based systems, using constraints and composites to create more complex interactions and dynamic behaviours within your coding tasks. Week 4 summary This week's topic introduced the basics of physics engines and their role in simulating realistic physical interactions in digital environments. You learned specifically about *Matter.js*, a popular JavaScript physics engine, and explored its core components, including bodies, constraints, and composites. You gained an understanding of the primary elements within *Matter.js* and developed simple physics-based systems, using constraints and composites to create more complex interactions and dynamic behaviours within your coding tasks. Mark as completed Dislike Report an issue

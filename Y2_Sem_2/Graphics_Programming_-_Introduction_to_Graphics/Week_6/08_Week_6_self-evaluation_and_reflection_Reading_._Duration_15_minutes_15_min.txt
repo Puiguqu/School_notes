@@ -1,0 +1,16 @@
+# Week 6 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/0wCrA/week-6-self-evaluation-and-reflection
+
+This comprehensive text serves as a structured self-evaluation tool for advanced study in Generative Art and Design. Its primary function is to encourage deep reflection on the learning journey and the acquired understanding of the subject matter. This process requires students to identify areas where deeper knowledge or practical skills need to be developed. The assessment utilizes a detailed checklist, specifically evaluating comprehension of concepts covered in Week 6. Students are strongly advised that any lack of confidence in specific concepts necessitates revisiting the relevant lecture videos, readings, and activities.
+
+The first core domain involves understanding what Generative Art and Design fundamentally represent. An individual must be able to clearly explain the precise definition of generative art. Crucially, this understanding involves grasping the specific role of algorithms and autonomous systems within the creative process. Furthermore, students must be capable of identifying the definitional differences between traditional art forms and purely generative art.
+
+Secondly, the text focuses on recognizing the key, defining characteristics inherent to generative art. These characteristics include the element of unpredictability in the final outcome. Another critical aspect is understanding the shifted role of the artist, who acts primarily as a facilitator rather than a sole executor. The creative process is further defined by how iteration and autonomous systems contribute structurally.
+
+The third major technical concept involves applying the concepts of randomness and noise. Students learn to apply mathematical randomness to ensure necessary variability within generative systems. A specific focus is placed on understanding Perlin noise, which is essential for producing natural, smooth, and organic variations. Practical mastery requires having utilized both randomness and Perlin noise techniques to influence diverse visual outcomes.
+
+Finally, the module culminates in the practical application of creating simple generative systems. Successful completion requires the creation of at least one simple system incorporating randomness. Concurrently, students must also create a distinct simple generative system utilizing Perlin noise. The ultimate goal is synthesizing this knowledge by discussing precisely how both randomness and noise techniques impact the overall visual and structural properties of the generative art.

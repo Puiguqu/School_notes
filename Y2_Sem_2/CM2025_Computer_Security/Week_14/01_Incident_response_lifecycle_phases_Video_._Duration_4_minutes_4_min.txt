@@ -1,0 +1,18 @@
+# Incident response lifecycle phases
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/ai784/incident-response-lifecycle-phases
+
+The Incident Response Lifecycle provides a clear, repeatable process for organizations managing cybersecurity events. It is a standardized strategic approach designed to help reduce overall impact during an incident. This process ensures that teams can effectively recover from events and, crucially, learn from them. To effectively manage these events, the recommended model is the NIST Computer Security Incident Handling Guide, specifically SB 800261.
+
+Preparation constitutes the foundational and critical initial phase of the lifecycle. This stage requires developing and rigorously testing comprehensive incident response plans. Key preparatory actions include training internal teams and assigning clear roles and rules. Furthermore, organizations must implement monitoring and detection tools across their infrastructure. Establishing proper legal and communication protocols is also vital during the preparation phase. The strength of the preparation directly correlates with the effectiveness of subsequent responses.
+
+The second phase is Detection and Analysis, which involves continuous monitoring for signs of incidents. Analysts must monitor systems, networks, and user logs for any anomalies or alerts. This phase requires the meticulous classification and accurate prioritization of reported incidents. A critical task involves documenting all findings and maintaining precise timelines of the event.
+
+The third phase is action-oriented, encompassing immediate containment measures. Short-term containment aims at immediately stopping the ongoing incident activity. Following containment, eradication efforts must be performed by thoroughly removing all identified threats, such as malware. Subsequently, recovery involves restoring systems to normal operation and validating full functionality. Long-term containment remains critical to prevent potential reinfection or further damage.
+
+After the immediate crisis, post-incidence reviews must be conducted to identify areas for improvement. This review process offers an opportunity to revise established policy and operational procedures. It also allows for the improvement of both detection and response tools. Furthermore, all evidence and comprehensive reports must be archived for legal compliance purposes.
+
+This entire lifecycle is inherently iterative, meaning lessons from one incident must influence preparation for the next. To summarize the flow, the cycle starts with preparation, progresses to detection and analysis, and then moves into containment. Subsequent actions include eradication and recovery, concluding with the post-incidence activity. Adhering to this lifecycle structure provides organization-wide clarity during high-stress cyber events. This structured approach ensures that the organization’s response is coordinated, effective, and legally sound. The overarching goal is to apply post-incidence learning to substantially improve overall organizational preparedness.

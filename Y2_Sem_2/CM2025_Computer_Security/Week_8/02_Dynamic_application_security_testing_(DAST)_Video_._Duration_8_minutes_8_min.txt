@@ -1,0 +1,32 @@
+# Dynamic application security testing (DAST)
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/2cjNM/dynamic-application-security-testing-dast
+
+1. Dynamic Application Security Testing (DAST) is a specialized method used to identify vulnerabilities by testing applications while they are actively running.
+2. This process mimics real-world attacker behavior by interacting with the application from the outside, sending various inputs, and observing system responses.
+3. DAST excels at detecting issues such as misconfigurations, broken authentications, or response handling errors.
+4. A major advantage of DAST is that it does not require access to the source code, making it ideal for testing third-party or staging environments.
+5. To illustrate, a DAST scanner, such as OWASP-ZAP, automatically enters suspicious inputs into forms, such as attempting SQL injection or inserting cross-site scripting (XSS) tags.
+6. If the application responds with unexpected errors, redirects, or unusual output, the scanner flags this as a potential vulnerability, resulting in a comprehensive report for development teams.
+7. Crucially, DAST's testing focuses on the application's observable behavior during execution, catching real-world issues that might be missed by static analysis.
+8. The key difference between DAST and Static Application Security Testing (SAST) lies in their scope: DAST operates in the live application state, whereas SAST analyzes source code only.
+9. While SAST requires source code access and focuses on code logic, DAST’s user perspective is external, simulating the view of an attacker.
+10. Blackbox testing is the most external approach, where the tester has zero access to the source code, database, or internal logic, interacting solely through the user interface or APIs.
+11. This blackbox model is ideal for simulating an external attacker and is thus highly suitable for DAST and traditional penetration testing.
+12. Greybox testing offers a hybrid approach, blending blackbox and whitebox methods by giving the tester partial knowledge, such as the technology stack or user role structure.
+13. This partial insight allows for more targeted and effective testing than blackbox, improving efficiency without requiring full source code access.
+14. Key advantages of DAST include its ability to find vulnerabilities visible only during runtime and its language independence across various platforms.
+15. Furthermore, DAST supports compliance validation by confirming runtime behavior and is proficient for both blackbox and greybox testing scenarios.
+16. Despite its power, DAST has limitations, primarily because its lack of code inspection means it may miss internal logic bugs or sophisticated issues that SAST would catch.
+17. DAST also requires a running test or staging application and may suffer from false positives or incomplete test coverage if it cannot explore all application paths.
+18. Therefore, DAST is most effective when integrated and combined with other comprehensive testing methods.
+19. Widely used DAST tools include OWASP ZAP, which is free and open-source, and WebSuite, a powerful toolkit favored by penetration testers.
+20. For enterprise-level use, Acunetix, NetSparkers, IBM AppScan, and Coalesce Web Application Scanner are recommended tools.
+21. In summary, DAST effectively checks applications while they are running and mimics genuine attack patterns.
+22. Blackbox testing accurately reflects the limited view of the external attacker, whereas greybox testing provides deeper, context-rich insights.
+23. Knowing when greybox testing provides better results than blackbox testing is crucial for maximizing security coverage.
+24. The underlying principles of these security practices are vital components of holistic DevSecOps workflow implementation.
+25. Ultimately, a multi-layered approach combining DAST with other methods is necessary for truly securing applications throughout the development lifecycle.

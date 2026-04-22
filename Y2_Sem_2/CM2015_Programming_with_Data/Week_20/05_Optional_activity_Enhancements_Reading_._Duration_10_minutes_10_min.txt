@@ -1,0 +1,8 @@
+# Optional activity: Enhancements
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/Pp3qm/optional-activity-enhancements
+
+There are various approaches to creating more advanced word vectorization models for extracting features from text data. One such is the genism library, which is a Python implementation for word2vec that provides several high-level interfaces for easily building these models. The basic idea is to provide a corpus of documents as input and get feature vectors for them as output. Internally, it constructs a vocabulary based on the input text documents and learns vector representations for words ba...

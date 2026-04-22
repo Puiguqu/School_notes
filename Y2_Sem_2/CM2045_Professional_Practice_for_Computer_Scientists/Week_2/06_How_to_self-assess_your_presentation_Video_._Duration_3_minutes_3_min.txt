@@ -1,0 +1,18 @@
+# How to self-assess your presentation
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/TG3lT/how-to-self-assess-your-presentation
+
+The core focus of this material is introducing a set of heuristics to evaluate the quality of mobile app pitch presentations, addressing both style and content. For pitching to investors, a project team, or users, clear and effective message delivery is paramount. Regarding content, a successful presentation must maintain a logical flow, guiding the audience from the initial problem (pain point) to the proposed solution. It is crucial to prioritize simplicity and focus, avoiding the risk of overwhelming the audience with excessive technical detail. Specifically, the presenter must clearly articulate the app's main value proposition to ensure it is easily grasped. Furthermore, the language and depth of detail must be audience-appropriate; technical stakeholders require deep dives into features, while non-technical audiences need emphasis on user experience and business potential.
+
+The style of delivery is equally vital, demanding confidence and enthusiasm, as passion is contagious and boosts engagement. Presenters should strive for clear and concise communication, avoiding jargon unless it is genuinely appropriate for the specific audience. A key element of delivery is maintaining balance, especially regarding pacing, ensuring the speaker avoids talking too quickly or too slowly. Visual aids and support materials must enhance, rather than distract from, the message. Slides or demo materials should be clean and focused, helping to clarify points rather than creating visual clutter. Finally, presenters must actively engage the audience, treating presentation as a two-way street by making eye contact and posing for questions.
+
+In terms of technical usability, navigation within the transcript can be managed using the tab key, with CTRL + S used to save a note. Users can expand a selection with CTRL + arrow key or contract it using shift + CTRL + arrow key. For screen readers incompatible with arrow key shortcuts, the H, J, K, L keys can be used, and some readers may require combining CTRL with the alt key.
+
+The provided curriculum outlines a structured academic path across 20 weeks, covering diverse professional topics. Week 2 focuses on written communication skills, covering topics like "Integrating visual aids into written communication" (Video, 29 minutes) and "Presenting technical information with confidence" (Video, 9 minutes). This segment also includes reading tasks like "Pitch perfect – Prepare a pitch for a mobile app" (30 minutes). Week 2.3 specifically addresses "Professional communication etiquette" (Video, 7 minutes).
+
+Subsequent weeks build upon this foundation, with Week 4 covering Presentation and public speaking skills, and Week 5 and 6 establishing Legal and ethical foundations. The curriculum continues to explore "Inclusive computing and ethical impacts" (Week 7 and 8) and "Sustainability in computing" (Week 9 and 10). Weeks 11 and 12 are dedicated to "Risk management and security," while Weeks 13 and 14 cover "Industry standards and best practices."
+
+Later weeks address teamwork, project management, and professional development. Week 15 and 16 tackle "Teamwork and collaboration," followed by Weeks 17 and 18 on "Project management." The learning journey concludes with Weeks 19 and 20, focusing on "Professional development and career planning." The academic structure confirms that good communication hinges on making the message clear, engaging, and memorable.

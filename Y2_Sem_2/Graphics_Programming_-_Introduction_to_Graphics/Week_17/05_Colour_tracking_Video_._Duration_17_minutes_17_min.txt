@@ -1,0 +1,22 @@
+# Colour tracking
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/0eFB6/colour-tracking
+
+This summary covers the methodology, mathematics, and practical application of color-based object tracking, derived from the provided lecture transcript.
+
+**1. Conceptual Overview and Methodology:**
+Color tracking involves defining a target color range within an image and iteratively analyzing the color values of individual pixels to determine if they belong to the desired object. This method is employed for tasks like tracking a colored marker in real-time video feeds. The basic process involves specifying a minimum and maximum range (e.g., using HSV color space) for the target color, which acts as the primary filtering mechanism.
+
+**2. Mathematical Basis of Distance Calculation:**
+When simple range filtering proves insufficient due to environmental changes, a distance metric is required to quantify the similarity between a pixel’s color and the target color. The calculation relies on the standard 3D Euclidean distance formula, which treats the RGB (or HSV) components as coordinates in a space. For a pixel at $(R_p, G_p, B_p)$ and a target color at $(R_t, G_t, B_t)$, the distance $D$ is calculated as:
+$$D = \sqrt{(R_p - R_t)^2 + (G_p - G_t)^2 + (B_p - B_t)^2}$$
+A pixel is considered part of the object if its calculated distance falls below a predefined threshold, indicating sufficient color proximity to the target.
+
+**3. Implementation and Workflow:**
+The typical workflow involves initializing a mask by looping through every pixel in the frame. For each pixel, the code calculates the distance to the target color and applies the threshold check to generate a binary mask—where white pixels represent the object and black pixels represent the background. This mask is then typically processed using morphological operations (like erosion or dilation) to clean up noise and fill small gaps in the object boundaries.
+
+**4. Practical Challenges and Refinements:**
+Real-world application presents several challenges. The method's stability is affected by lighting variations, shadows, and background clutter, which necessitate careful selection of color space (HSV is often preferred over RGB due to its decoupling of brightness from color hue). Furthermore, the process must account for the potential for object drift or unexpected color shifts, requiring robust error handling and continuous refinement of the tracking parameters. The overall objective is to create a stable, high-accuracy segmentation mask that accurately outlines the object regardless of slight environmental perturbations.

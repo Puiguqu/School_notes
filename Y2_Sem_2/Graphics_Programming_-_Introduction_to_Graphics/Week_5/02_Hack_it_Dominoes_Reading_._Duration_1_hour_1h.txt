@@ -1,0 +1,8 @@
+# Hack it: Dominoes
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/QgrCM/hack-it-dominoes
+
+This is a challenge for students to do some investigative work of their own into Matter.js. You should read the Matter.js documentation about composites . You can look at an available demo of how to implement a composite along with the code for that demo. Setup the dominoes above. Start by using the template code attached. dominoes-Template Add code in setupDominoes() function using a composite. Add code in the drawDominoes() function to draw the pieces using the drawVertices() helper function. ...

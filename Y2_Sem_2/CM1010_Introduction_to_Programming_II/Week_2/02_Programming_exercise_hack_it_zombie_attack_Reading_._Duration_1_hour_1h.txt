@@ -1,0 +1,8 @@
+# Programming exercise: hack it – zombie attack
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/ifag6/programming-exercise-hack-it-zombie-attack
+
+The program creates a horde of zombies that cross the canvas. Read the code and make the following enhancements. Split the code up into multiple files – one for each constructor. Give each zombie a health property. Add a shovel! When a zombie's head is clicked on, their health decreases. When a zombie is killed, make sure a new zombie is added to the horde. Extension: Make it a game where the idea is to keep the zombies from the right of the screen for as long as possible. the starter code here:...

@@ -1,0 +1,8 @@
+# Project management standards
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/udr3D/project-management-standards
+
+Projects, whether building a bridge or developing a new app, benefit from a structured approach. The Project Management Body of Knowledge (PMBOK) outlines five key project phases that provide a helpful framework: initiating, planning, executing, monitoring and controlling and closing. Understanding these phases is like having a roadmap for your project, ensuring you stay on track and increase your chances of success. This week's reading will introduce you to these five phases in more detail. Fam...

@@ -1,0 +1,8 @@
+# Information security management
+Reading•
+. Duration: 3 hours
+3h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/GhiFC/information-security-management
+
+As our use of data and information grows, information assurance becomes more and more important. The first two chapters of this textbook will introduce you to the information security principles of confidentiality, integrity and availability, as well as to the potential threats to information systems and how we can understand and manage risk. Taylor, A., D. Alexander, A. Finch and D. Sutton Information security management principles. (Swindon: BCS Learning and Development Limited, 2013) 3rd edit...

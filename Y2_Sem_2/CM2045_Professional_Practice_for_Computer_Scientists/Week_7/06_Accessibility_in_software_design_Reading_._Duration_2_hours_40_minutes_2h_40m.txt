@@ -1,0 +1,8 @@
+# Accessibility in software design
+Reading•
+. Duration: 2 hours 40 minutes
+2h 40m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/p3Kbz/accessibility-in-software-design
+
+Accessibility is often best viewed through the lens of context. While guidelines provided by the WCAG and WAI provide generalisable features to include in our designs, the contextual implications can often help motivate us. Universal design principles for instance can be based around contextual cases of use. The following reading items will help to drive some of the more nuanced points home, that access can be very context specific. Clarkson, J., P. Langdon and P. Robinson, P. Designing accessib...

@@ -1,0 +1,18 @@
+# Accessibility in software design – 1
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/MS65E/accessibility-in-software-design-1
+
+Accessibility in software design is defined as creating technology usable by individuals of all abilities, encompassing those with physical, sensory, cognitive, or learning disabilities. Statistically, the World Health Organization reports that 1 billion people globally live with some form of disability, constituting roughly 15% of the population. Therefore, inaccessibility risks excluding a vast number of potential users, hindering equal access to the digital world. A core concept is universal design, ensuring products are inherently accessible to the widest possible range of people, making it a "win-win" for inclusivity and usability.
+
+Microsoft exemplifies this commitment, integrating accessibility into its design philosophy across products like Windows, Office, and Xbox. For instance, Microsoft introduced Immersive Reader, which supports users with dyslexia by chunking text, allowing font size adjustments, and highlighting syllables. This feature also includes an AI-powered read-aloud function, significantly improving reading comprehension, as shown by the British Dyslexia Association.
+
+Beyond ethical considerations, digital accessibility is mandated by law, including the Americans with Disabilities Act (ADA) and the European Union's Web Accessibility Directive. Failure to comply can result in substantial fines, exemplified by the Domino's Pizza lawsuit, where the U.S. Supreme Court ruled that digital platforms must be accessible, setting a major legal precedent.
+
+Technically, robust design requires several key features, starting with screen reader support, ensuring compatibility with tools like JAWS or NVDA and providing necessary alt text for all images. Furthermore, software must allow full keyboard navigation, making every interactive element reachable using the tab key for users with motor impairments. To accommodate low vision, designers must maintain high color contrast and allow for customizable text sizes, often checked using tools like WebAIM's contrast checker.
+
+For hearing impairments, video content mandates the inclusion of captions and transcripts, which, according to a Facebook study, increases the likelihood of video completion to 80% even in noisy environments. The case of Domino's demonstrated that accessibility is not optional; the legal right to equal access extends fully to online platforms.
+
+Implementing accessible design offers benefits beyond compliance, leading to increased user engagement and fostering customer loyalty. Historically, accessibility features often spur innovation—like the dropped curb—that benefits everyone, proving that the principles are universally applicable in software. The future of software is inherently inclusive by default. Advanced technological advancements, such as AI-powered real-time transcription, are making automatic captioning standard across platforms like YouTube and Zoom. Thus, accessible design must be integrated into the development process from day one. It is a crucial part of building not just compliant, but superior, products for everyone.

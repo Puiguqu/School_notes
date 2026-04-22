@@ -1,0 +1,20 @@
+# Access control models: DAC, MAC, RBAC and ABAC
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/cLfei/access-control-models-dac-mac-rbac-and-abac
+
+Access control is a fundamental concept in cybersecurity, fundamentally deciding who is allowed access to what, when, and how. It refers to the methods used to determine authorized access to information or resources within a system. Its primary function is to prevent unauthorized access, protect sensitive data, and enforce organization security policies. Access control models provide various mechanisms for implementing these necessary security measures.
+
+Discretionary Access Control (DAC) is a model where the resource owner determines access permissions. For example, the owner of a newly created file can dictate who has the ability to open, edit, or delete it. This model is noted for its high flexibility, making it common in personal computers or file-sharing platforms. However, DAC can pose risks because users might share access too freely.
+
+Mandatory Access Control (MAC) operates under a much stricter, system-defined framework. In MAC, the system itself defines access based on security labels or classifications, such as 'confidential' or 'top secret.' Users cannot change these permissions, even if they are the data owner. This model provides very high security and is utilized in high-security government or military networks. Despite its security, MAC is criticized for being inflexible.
+
+Rule-Based Access Control (RBAC) assigns access rights primarily based on an individual's job role within an organization. A manager might access performance reviews, while a finance user accesses budgets, for instance. RBAC is widely used in enterprise systems because it is easily scalable and manageable as an organization grows.
+
+Attribute-Based Access Control (ABAC) represents the most flexible and powerful model available. Here, access decisions are based on multiple attributes, moving beyond just the user role. These attributes can include time of day, physical location, device type, or the data's sensitivity. For example, access to sensitive data might only be allowed during business hours and from a company device. While ABAC is potent, it requires a complex initial setup.
+
+Comparing the models highlights distinct trade-offs: DAC gives control to the user and is best for small teams, but has low security. MAC gives control to the system, offering high security and being ideal for government use, though it lacks flexibility. RBAC uses job roles, making it excellent for enterprises needing medium security and flexibility. Conversely, ABAC uses multiple flexible attributes, providing high security and flexibility, making it suitable for cloud platforms and large dynamic environments.
+
+Effective access control is crucial not only for managing logins but also for minimizing insider threats. It is essential for meeting legal and regulatory requirements, such as GDPR or HIPAA. Good access control ensures that only the right people possess the right level of access at the right time. The selection of the appropriate model depends critically on the organization's specific needs and risk tolerance. Ultimately, access control is an indispensable component of robust cybersecurity posture.

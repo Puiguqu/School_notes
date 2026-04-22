@@ -1,0 +1,32 @@
+# What have you learned?
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/CXGdE/what-have-you-learned
+
+1. The module has successfully guided the learner to the completion of the ninth topic, signifying a major academic milestone.
+2. Throughout this journey, foundational knowledge regarding the fundamentals of project management has been established.
+3. Furthermore, the core principles governing various project management techniques were explored in depth.
+4. Specific technical methodologies taught included Scrum, Kanban, Waterfall, and the overarching framework of Agile.
+5. A critical skill developed involves understanding how to create a comprehensive Agile project plan.
+6. Upon completing this topic, learners are strongly encouraged to take a reflective pause to assess their acquired skills and knowledge.
+7. Self-reflection is essential, prompting critical self-evaluation concerning future professional or academic application.
+8. Example reflective questions guide this process, such as assessing confidence in applying project management methodologies to one’s current career or studies.
+9. Another key reflection point involves differentiating between the various project management approaches.
+10. Learners must confirm their ability to select the project management approach that is optimally suited for a given project need.
+11. Evaluating this learning process serves the crucial function of identifying specific areas requiring focused improvement.
+12. This skill of continuous evaluation is highlighted as an immensely important contribution to success in any professional or academic endeavor.
+13. Following reflection, the next critical step is the development of a concrete and actionable plan for improvement.
+14. This action plan should thoughtfully incorporate methods for using the practical skills taught in daily career or study routines.
+15. Students should also schedule additional dedicated study sessions specifically for concepts where their understanding is less certain.
+16. Reinforcing understanding requires actively seeking out supplementary and diverse additional resources.
+17. Communication and peer learning are vital, suggesting posting on the discussion forum to seek further clarification from peers.
+18. Furthermore, the plan necessitates setting specific, measurable goals designed to quantify improvement progress.
+19. The module structure supports this continuous learning through an evaluation activity included at the end of each topic.
+20. This regular assessment mechanism allows learners to continuously review and gauge their overall progress.
+21. Strategic goal adjustments are mandatory, meaning learners must modify their strategies based on ongoing self-assessment and any new feedback received.
+22. It is paramount to remember that learning is established as a continuous process.
+23. Consequently, maintaining the flexibility to revise the initial plan is strongly encouraged to better suit evolving personal needs.
+24. The summary of knowledge includes foundational principles and practical modeling like the Agile project plan.
+25. Successful completion requires commitment to ongoing self-review and adaptive planning for the remainder of the module.

@@ -1,0 +1,32 @@
+# Introduction to the NTLK library
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/qtRqF/introduction-to-the-ntlk-library
+
+1. To explore and analyze text data using Python, the Natural Language Toolkit (NLTK) library is utilized.
+2. NLTK is a crucial resource that contains one of the largest open-sourced collections of text data.
+3. The library organizes its data into 'corpora,' which are large collections of text.
+4. Specific corpuses mentioned for analysis include Gutenberg, Genesys, Inaugural, NPSTAT (a chart-based corpus), WebText, and FreeBank.
+5. The process begins by downloading and importing these corpuses for subsequent analysis.
+6. The loaded corpuses are accessible as a set of books, designated here as text 1 through text 9.
+7. These texts can be treated as lists, allowing users to print specific segments, such as the first 100 words of a given text.
+8. A key function is counting the occurrence of a specific word within a text, exemplified by counting 'Moby.'
+9. Text, being list-like, allows users to calculate its `length`, which determines the total number of words.
+10. To find the count of unique words, the `set` data structure is employed, as sets automatically filter out repeated values.
+11. Calculating the `length` of a set yields the number of unique words present in the text.
+12. Beyond simple counting, NLTK supports a `similar` search operation to find related words based on a reference word.
+13. If a proper noun is used (like 'Moby'), the similar search might yield few results, but common nouns (like 'whale') can reveal associations (e.g., ship, boat, sea).
+14. To find the specific context in which a word occurs, the `concordance` function is used; it searches the entire body of text for the specific contexts.
+15. Comparing two distinct texts is a powerful application, allowing inference about the content and genre of the material.
+16. This comparative analysis involves using the `count` function to determine the frequency of specific words across both books.
+17. For instance, comparing 'ship' and 'whale' across Text 1 and Text 2 provides detailed quantitative evidence.
+18. The comparison showed that 'ship' occurred 507 times in Text 1 (Moby Dick), while 'whale' occurred 906 times.
+19. However, when these same words were counted in Text 2 (Sense and Sensibility), neither 'ship' nor 'whale' occurred at all.
+20. This massive difference in word counts allowed the inference that Text 1 was clearly centered on marine themes (ships, whales, sea).
+21. Based on the counts, the second text was determined to lack connections to water, ocean, or marine life.
+22. These functions—`similarity`, `concordance`, and `count`—are fundamental tools for text exploration using NLTK.
+23. The use of `count` to compare word occurrences across texts is a method to infer thematic content.
+24. Ultimately, NLTK enables users to analyze texts computationally to derive deep insights into their themes.
+25. Future modules will explore more advanced methods for text breakdown and computational operations within the corpus.

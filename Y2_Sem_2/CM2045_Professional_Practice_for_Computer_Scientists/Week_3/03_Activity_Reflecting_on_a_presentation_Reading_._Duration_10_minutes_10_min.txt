@@ -1,0 +1,8 @@
+# Activity – Reflecting on a presentation
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/x4Y5n/activity-reflecting-on-a-presentation
+
+On the next page, you will watch a presentation with both good and bad elements, from yours truly! There are many caveats with remote presentations, synchronisation is difficult given latency and many of the techniques we discuss here are difficult if not impossible to implement. Even for an empirically rigorous, technical piece of work from an established scholar, you will notice I make lots of mistakes throughout and my presentation style is not always as effective as it could be. If you make ...

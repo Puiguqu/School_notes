@@ -1,0 +1,8 @@
+# Energy-efficient data centres
+Reading•
+. Duration: 45 minutes
+45 min
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/JdnBP/energy-efficient-data-centres
+
+Handling large volumes of data is energy intense. We can first solve this problem by minimising our output. Secondly, we need to consider how to manage the by-product of heat dissipation. The following material covers these challenges in detail, exploring how data centres manage these fairly difficult challenges. Wickramasinghe, S. ‘Data centers: The ultimate guide to data center cooling and energy optimization’, splunk (2023). If this link is broken, please let us know via the Student Portal. Energy-efficient data centres Handling large volumes of data is energy intense. We can first solve this problem by minimising our output. Secondly, we need to consider how to manage the by-product of heat dissipation. The following material covers these challenges in detail, exploring how data centres manage these fairly difficult challenges. Wickramasinghe, S. ‘Data centers: The ultimate guide to data center cooling and energy optimization’, splunk (2023). If this link is broken, please let us know via the Student Portal. Mark as completed Dislike Report an issue

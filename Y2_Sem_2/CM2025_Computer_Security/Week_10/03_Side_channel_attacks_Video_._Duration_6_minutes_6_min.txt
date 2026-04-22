@@ -1,0 +1,20 @@
+# Side channel attacks
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/IfXoh/side-channel-attacks
+
+Side-channel attacks (SCAs) represent a sophisticated class of threat that bypasses traditional software vulnerabilities. Instead, SCAs exploit indirect physical or behavioral signals leaked by a device during computation. These signals include measurable power consumption, electromagnetic radiation, timing variations, and even sound emissions. Strong cryptographic systems are not immune; they can be compromised if these physical side-channels are not properly secured.
+
+Attackers utilize these leaks by measuring physical outputs during sensitive operations, such as decryption or key generation. They then apply statistical analysis and modeling techniques to deduce private keys or sensitive data. Several distinct methods characterize these attacks. Timing analysis measures the variable processing time required for an operation to complete. For example, if password validation halts upon the first incorrect character, an attacker can exploit this timing variability to deduce characters sequentially.
+
+Power analysis focuses on monitoring changes in the electrical energy consumed by a device during computation. Simple Power Analysis (SPA) seeks distinctive power patterns that reveal specific instructions or data flows. A more advanced technique is Differential Power Analysis (DPA), which statistically compares numerous power traces to successfully recover secret keys.
+
+Electromagnetic (EMI) attacks utilize probes or antennas to capture faint signals radiated by processor or memory components. These captured emissions can contain minute traces of the data being processed, even allowing attacks to traverse physical barriers like walls. Acoustic analysis records ambient sounds, such as keystrokes or CPU fan whines, to extract information, as demonstrated by extracting RSA keys using a nearby smartphone microphone.
+
+These attacks pose a critical threat to embedded devices and smartcards, which are highly vulnerable if protections are absent. Case studies confirm that even secure environments can be compromised, such as measured power trace analysis successfully extracting secret keys from smartcards in minutes.
+
+Defending against these side-channel threats requires a multi-layered defense strategy combining software and hardware countermeasures. Software solutions necessitate using algorithms with constant-time complexity, ensuring the runtime remains invariant regardless of the input data. Hardware defenses include physical shielding to mitigate electromagnetic emissions and the use of secure enclaves or coprocessors to isolate critical computations.
+
+Countermeasures also involve introducing noise into power usage or timing to complicate statistical analysis. Effective defense requires good physical security and continuous monitoring to limit exposure to sophisticated physical probing. In summary, SCAs exploit the physical reality of computation—power, time, sound, and radiation—to undermine cryptographic security. Protecting against them mandates strict adherence to constant-time programming and robust hardware and software hardening.

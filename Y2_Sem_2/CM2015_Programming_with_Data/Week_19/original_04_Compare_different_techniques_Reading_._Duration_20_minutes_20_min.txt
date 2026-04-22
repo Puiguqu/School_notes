@@ -1,0 +1,8 @@
+# Compare different techniques
+Reading•
+. Duration: 20 minutes
+20 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/ZKa2N/compare-different-techniques
+
+Research the advantages and disadvantages of the different feature extraction techniques, bag-of-words and TF-IDF, and write your observations in your study journal. Once you’ve completed this activity, compare your answers against our model answer on the following page. Compare different techniques Research the advantages and disadvantages of the different feature extraction techniques, bag-of-words and TF-IDF, and write your observations in your study journal. Once you’ve completed this activity, compare your answers against our model answer on the following page. Mark as completed Dislike Report an issue

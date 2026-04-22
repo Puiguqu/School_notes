@@ -1,0 +1,32 @@
+# Introduction to 3D graphics
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/qehQM/introduction-to-3d-graphics
+
+1. The transition from 2D to 3D graphics programming requires a fundamental shift in perspective and understanding of coordinates.
+2. WebGL (Web Graphics Library) is the JavaScript API used for rendering interactive 3D graphics in modern web browsers without needing plug-ins.
+3. WebGL is linked to OpenGL, which defines the standard for implementing graphical functions within the browser environment.
+4. A critical feature of WebGL is its ability to utilize GPU-accelerated processing for image manipulation within a webpage canvas.
+5. GPU (Graphics Processing Unit) is a specialized electronic circuit designed to rapidly manipulate memory and accelerate image creation, unlike the general-purpose CPU.
+6. GPUs possess highly parallel structures, making them more efficient than CPUs for algorithms that process large blocks of data simultaneously.
+7. While highly professional tools like Three.js are available, the current curriculum utilizes p5.js because it maintains a familiar paradigm similar to 2D work.
+8. p5.js is designed with the learner in mind, allowing users to easily transition from 2D concepts into a 3D context.
+9. To enable 3D capabilities in p5.js, the developer must add the word 'WebGL' as the third parameter in the `createCanvas()` function.
+10. This addition enables 3D primitives (e.g., sphere, torus, box), materials, lights, and camera functions previously unavailable.
+11. In the 2D world, the coordinate (0, 0) is the top-left corner of the canvas, but in 3D, the origin (0, 0, 0) is located at the center.
+12. The 3D coordinate system introduces a third axis, the Z-axis, where decreasing Z values represent objects further away, and increasing Z values represent objects closer.
+13. Although 3D rendering occurs, the canvas itself remains a 2D world, with the resulting 3D appearance being an optical illusion of perspective.
+14. Transformations in 3D space involve rotation and translation functions specific to each axis: `rotateX()`, `rotateY()`, and `rotateZ()`.
+15. If the coordinate system is to process angles in degrees rather than radians, the function `angleMode(DEGREES)` must be called.
+16. Rotations must be applied independently on the X, Y, and Z axes to achieve full 3D spatial movement.
+17. To move an object (A) around a central point, the process requires applying rotations first, followed by a translation.
+18. For example, to simulate rotation around an imaginary point, the code sequence is `rotateY(frameCount)` followed by `translate(200, 0, 0)`.
+19. When generating 3D movement, the transformation functions (e.g., `rotateX()`) manipulate the underlying plane, causing the observed rotation effect.
+20. Enabling the WebGL context effectively overlays a sense of 3D depth onto the canvas using complex rendering techniques.
+21. The overall goal of these programming efforts is to manage and exploit the mathematical principles necessary for rendering virtual depth.
+22. This framework allows for building sophisticated graphics by treating 3D space as an extension of the two-dimensional plane.
+23. Understanding the interaction between the axes is vital, as rotating on one axis affects the perceived angle on the others.
+24. The ability to precisely control rotation and translation allows the creation of complex simulated environments.
+25. Consequently, the WebGL context transforms the canvas from a flat drawing surface into a highly capable pseudo-three-dimensional rendering engine.

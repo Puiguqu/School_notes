@@ -1,0 +1,18 @@
+# 9 communication tips
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/2x2Jv/9-communication-tips
+
+The provided material covers technical usage notes, an academic curriculum schedule, and an exploration of nine distinct professional communication styles. Navigational shortcuts include pressing CTRL + S to save notes and utilizing arrow keys (H J K L keys for screen reader compatibility) to expand or contract selections.
+
+The academic curriculum spans twenty weeks, covering diverse topics from Week 1's focus on written communication skills to Week 10's exploration of sustainability in computing. Specific lessons include "Integrating visual aids into written communication" (Video: 29 minutes) and "Professional communication etiquette" (Video: 7 minutes). The curriculum also integrates practical assessments like the "Craft a final email to a client" (Practice: 45 minutes) and the "Applying the STARR technique" (Practice: 30 minutes).
+
+The transcript introduces nine communication styles, noting that no single style is universally effective. The "Firm but Fair" approach emphasizes clarity, directness, and consistent application of rules, requiring feedback to highlight both strengths and improvements. The "Assertive Style" focuses on confidently expressing needs while respecting others' rights, recommending the use of "I statements" and maintaining a balance with aggression.
+
+For sensitive interactions, the "Empathetic Communication Style" builds trust by acknowledging emotions and remaining fully present through active listening. The "Collaborative Style" is key for group decisions, requiring encouragement of participation and aiming for consensus building. In crisis or high-stakes situations, the "Direct and Decisive Style" is effective, demanding clear communication of decisions and ownership of outcomes.
+
+The "Persuasive Style" convinces others using a blend of logic, emotion, and credibility, relying on data and factual reasoning. The "Supportive Communication Style" motivates others by offering recognition, positive reinforcement, and necessary resources. The "Adaptable Style" is crucial for fast-changing environments, requiring users to tailor communication by knowing their audience and remaining flexible. Finally, the "Diplomatic Style" helps navigate conflict with tact by choosing words carefully, remaining neutral, and building common ground.
+
+Mastering these nine styles—firm but fair, assertive, empathetic, collaborative, direct, persuasive, supportive, adaptable, and diplomatic—enhances professional versatility and leadership ability. The overall message stresses that selecting the right communication style depends entirely on the situation, audience, and desired outcome.

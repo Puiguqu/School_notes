@@ -1,0 +1,24 @@
+# Elevator pitch – model answer
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/oFrEM/elevator-pitch-model-answer
+
+The analysis provided critiques various presentation techniques, specifically contrasting 'Elevator pitch 1' and 'Elevator pitch 2.' Generally, 'Elevator pitch 2' is positioned as the model that successfully adheres to best practice guidelines. Conversely, while 'Elevator pitch 1' showed enthusiasm, it was criticized for being excessively long and lacking sufficient focus for an effective pitch.
+
+A primary pitfall identified is being "Overly verbose and too long." This includes complex explanations that inevitably lose the listener’s attention. For instance, Pitch 1 exemplified this with the line: "Machine learning, which is basically a kind of artificial intelligence—though not quite the same, because machine learning is about, um, developing models that can learn from data without explicitly being programmed—is really interesting in healthcare."
+
+To succeed, presenters must prioritize "Clarity and simplicity." This involves utilizing accessible language to elucidate complicated topics. An effective example, like the one from Pitch 2, is: "My work focuses on developing algorithms that analyse medical imaging data, such as X-rays and MRIs, to help doctors diagnose diseases earlier and more reliably."
+
+Another mistake is using "Excessive scientific jargon." This means employing technical language without a clear, immediate purpose or relevance for the audience. A poor example given is: "MRIs use strong magnetic fields and radio waves to create highly detailed images of internal organs."
+
+Effective communication demands providing "Concrete evidence" to strengthen credibility. Pitch 2 successfully demonstrated this by noting: "Studies show that AI-driven diagnostic tools can improve accuracy by up to 20% in detecting conditions such as cancer or cardiovascular disease."
+
+Presenters must ensure "Unfocused content," avoiding the discussion of various aspects without a singular clear point or benefit. This was illustrated by Pitch 1's example: "For instance, we’re working with MRI scans, which, if you’re not aware, stands for magnetic resonance imaging."
+
+Crucially, the content must achieve "Specificity and focus," concentrating on the main point without including needless details. A strong example is: "This technology enhances patient outcomes by catching diseases earlier and reduces costs, with one study estimating AI could save the healthcare industry over £100 billion annually."
+
+The pitch must also avoid having an "Unclear purpose or impact." This means the presentation should not simply trail off with ambiguous statements. A weak closing, like Pitch 1's, was: "So, yeah, we’re using machine learning, and it has a lot of potential… I think."
+
+Finally, the structure must maintain a "Logical flow," moving smoothly from the problem to the proposed solution and ultimate impact. In stark contrast, a "Confusing and disorganised structure" will ultimately result in a muddled and incomprehensible message.

@@ -1,0 +1,14 @@
+# Extending the data visualiser: sketching the waffle charts code
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/euTS0/extending-the-data-visualiser-sketching-the-waffle-charts-code
+
+The video details the process of creating a data visualization extension using waffle charts, based on student eating behavior data. Data was collected by asking students to track their evening meals over a week, which is currently stored in a CSV file. The visualization, a series of waffle charts, will show the proportion of students who ate in, had a takeaway, or ate out for each day of the week. Waffle charts are designed as colored grids, which will use nested loops to calculate and display these proportions. Initial analysis of the sample data suggests students primarily cook fresh meals during the week but shift dramatically toward takeaways and eating out over the weekend. To begin the implementation, the speaker outlines the design process rather than writing the code directly. The application will utilize an HTML file that builds a P5.js application environment.
+
+The core components require setting up global variables for the data and the waffle charts series. The raw data from the CSV file must first be loaded into a P5.Table object. Furthermore, a global variable will be used to manage the array of seven waffle chart instances. To avoid repetitive coding, a `waffle` constructor function is introduced to build the individual charts. This constructor requires several properties, including the specific data column for the day, and private variables for position (`x` and `y`), `height`, and `width`.
+
+The design also mandates handling the physical size alongside logical dimensions, requiring parameters for the number of boxes across and down. Crucially, the structure requires a two-dimensional array to store the individual box elements. The visualization also needs a mechanism to define color categories, which are stored in a literal array. The waffle constructor includes a private method, `addCategories`, which initializes the structure using the defined colors and counts.
+
+The implementation relies on a separate, simpler `box` constructor to manage individual elements. Each `Box` object must possess private members: `x`, `y`, `width`, `height`, and a `category` identifier. The public interface of the `waffle` object includes the `draw` method, which will subsequently call the `draw` method of every constituent box. Additionally, the waffle must implement a `mouseOver` and `checkMouse` function to handle interactive user feedback. The overall structure is hierarchical: the main `draw` function calls `draw` in the `waffle` object, which in turn calls `draw` in every `box`. The plan concludes with these foundational properties and methods in place, forming a detailed blueprint for the upcoming code implementation.

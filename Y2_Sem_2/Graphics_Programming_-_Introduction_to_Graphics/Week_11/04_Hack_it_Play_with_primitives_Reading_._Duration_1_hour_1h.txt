@@ -1,0 +1,8 @@
+# Hack it: Play with primitives
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/VvcKm/hack-it-play-with-primitives
+
+Start with an empty example and arrange 3D primitives in space just like in the image above. Some notes: There is no need for light at the moment Use normal material Use the primitives: plane, box, sphere, cylinder, cone and torus Hack it: Play with primitives Start with an empty example and arrange 3D primitives in space just like in the image above. Some notes: There is no need for light at the moment Use normal material Use the primitives: plane, box, sphere, cylinder, cone and torus Mark as ...

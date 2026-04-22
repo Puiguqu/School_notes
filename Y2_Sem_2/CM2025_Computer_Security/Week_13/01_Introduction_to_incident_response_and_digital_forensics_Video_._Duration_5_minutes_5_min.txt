@@ -1,0 +1,14 @@
+# Introduction to incident response and digital forensics
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/W4ESX/introduction-to-incident-response-and-digital-forensics
+
+Incident Response (IR) and Digital Forensics are essential disciplines for managing and investigating cyber threats. Incident response is defined as a structured approach designed to minimize damage, reduce recovery time, and restore normal operations quickly. It involves a comprehensive sequence including preparation, detection, containment, and recovery. The importance of IR lies in reducing the impact of attacks and preventing future incidents through root cause analysis. Furthermore, effective response maintains stakeholder trust and ensures compliance with regulations such as GDPR and HIPAA.
+
+The NIST framework structures incident response into five crucial phases: Preparation, Detection and Analysis, Containment, Eradication and Recovery, and Post-incident Activity. Digital forensics is the process of collecting, analyzing, and preserving digital evidence to support investigation into breaches. This evidence ensures integrity for both legal cases and internal reviews. Specialized types of forensics include computer forensics (analyzing endpoints and servers), network forensics (capturing traffic and logs), mobile forensics (extracting data from phones), and cloud forensics (tracing activity in virtualized environments).
+
+The forensics process demands specific steps: identifying relevant data, preserving it, proper collection, examination, analysis, and clear presentation of findings. A continuous chain of custody is mandatory throughout the process to maintain evidence credibility and legal admissibility. Popular tools utilized by analysts include NCASE, FDK, Autopsy, and Wireshark for tasks like imaging hard drives, hashing files, and reconstructing attack timelines. Ethical diligence dictates that forensics operate within strict legal guidance and respect private data and organizational policy.
+
+A practical example of IR is a ransomware attack, where unusual encryption and access patterns trigger detection. The response involves isolating affected systems for containment and then identifying the attack vector and files. Recovery is achieved by restoring data from backup and patching underlying vulnerabilities. Successful IR requires clear roles, defined communication protocols, and coordination between legal, HR, and IT teams. Training and rigorous simulation are vital to improve performance during real-world events. Ultimately, IR and digital forensics form the foundation for a resilient cybersecurity posture, allowing organizations to react swiftly and learn continually. The broader context of cybersecurity involves mastering frameworks, standards, and emerging topics like quantum computing and blockchain.

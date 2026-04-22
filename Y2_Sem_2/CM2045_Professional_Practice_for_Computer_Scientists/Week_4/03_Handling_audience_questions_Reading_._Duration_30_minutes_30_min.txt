@@ -1,0 +1,14 @@
+# Handling audience questions
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/Gno03/handling-audience-questions
+
+This comprehensive process aims to significantly enhance one's ability to handle challenging audience questions during a presentation. The foundational step requires the participant to select a presentation prepared for the module, such as a mobile app pitch or an elevator pitch. Alternatively, an existing presentation given outside the module can be utilized for this practice exercise. Once the presentation is chosen, the individual must formulate a maximum of five potential questions. Crucially, these potential questions should not be overly simple, but must cover three key areas: clarification of ideas, deeper exploration of subject matter, or outright challenges to the core presented concepts.
+
+The objective of designing these questions is not to make the process easy, but rather to increase the ability to respond effectively to difficult inquiries. The next phase involves the active practice of answering these generated questions. This practice must be simulated as if an audience member is asking them in real-time. Participants are advised not to spend excessive time formulating an answer, thereby closely mimicking the natural pressure of a live presentation environment. The responses can be captured either through audio recording or by writing them down.
+
+To maximize the effectiveness of the practice, several specific professional tips must be consistently applied. One critical tip is to first paraphrase the question, ensuring mutual clarity before commencing the reply. When constructing the answer, the response must be both concise and well-thought-out, even if the individual is unsure of the definitive answer. If genuine gaps in knowledge exist, the participant must confidently admit this lack of knowledge. Furthermore, offering to follow up on the complex query after the session maintains professionalism.
+
+In situations where the question challenges a previous viewpoint, the presenter should acknowledge different perspectives gracefully. Maintaining clarity and consistently staying focused on the core message are paramount technical details to follow. After completing the response exercises, the participant must dedicate time to a thorough self-reflection. This reflection involves re-reading or re-listening to the answers and evaluating the handling of the challenging questions. The final step is identifying specific areas for future work, ensuring the insights gained contribute to ongoing professional development. Adhering to these steps constitutes valuable and rigorous preparation for all future public speaking engagements.

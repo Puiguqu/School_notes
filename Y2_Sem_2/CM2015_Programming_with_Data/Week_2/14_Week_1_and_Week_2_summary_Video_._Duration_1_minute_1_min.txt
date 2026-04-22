@@ -1,0 +1,24 @@
+# Week 1 and Week 2 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/tNyKh/week-1-and-week-2-summary
+
+The course "Programming with Data" introduces fundamental data programming goals over an extended curriculum. The core programming environment utilized throughout the course is the Jupyter Notebook. These notebooks are essential tools as they merge executable code and associated data into a single, cohesive interface for problem-solving.
+
+In the initial phase (Week 1), students begin by mastering Jupyter Notebooks, learning how to run them on platforms like Coursera. A foundational programming skill acquired early on is the creation and storage of variables. Specifically, the curriculum covers variables of various data types, including integers, floats, and strings. Furthermore, students learn the rules governing which types can be combined using standard arithmetic operations.
+
+Week two expands upon these concepts by introducing crucial Python components: packages and virtual environments. The training emphasizes customizing local Python and Jupyter installations using these concepts. Key technical details include practicing the installation of packages and the effective management of Python environments. Students also deepen their understanding of string manipulation and concatenation operations.
+
+The learning modules provide detailed procedural guidance, covering local installation of Jupyter on Mac and Windows machines. Practical resources include dedicated lessons on installing Jupyter, using Conda locally, and opening the first notebook. Further practice involves dedicated assignments on imports and identifying various components of Python.
+
+The course structure builds complexity, moving into advanced topics like using variables for conditionals, lists, and functions. Later topics build upon these basics, starting with data structures in Week 5. Week 6 focuses specifically on advanced pattern matching techniques using strings.
+
+Functional programming capabilities are further developed through lessons on control flow, data types, and functions, slated for Week 3. Data handling skills are paramount, with Week 7 and Week 8 dedicated to reading and writing data to the file system. This is followed by specialized modules in Week 9 and Week 10, covering processing text data and natural language processing (NLP).
+
+The curriculum expands its data sourcing abilities across several weeks. Weeks 11 and 12 focus on retrieving data from the web, while Weeks 13 and 14 concentrate on advanced techniques for interacting with databases. Following data retrieval, the course addresses data quality in Week 15 through data cleaning techniques.
+
+Advanced data handling continues through Week 16, focusing on more comprehensive data transformations. Weeks 17 and 18 are dedicated to data analysis and visualization, particularly for language processing insights. The progression culminates with sophisticated topics, including advanced feature extraction in Week 20.
+
+The final weeks provide dedicated time for revision and deep dives. The schedule includes advanced topics in Python and data programming, followed by a full revision period in Week 21. The entire learning journey concludes with the final examination in Week 22. The curriculum is designed to transition the learner from basic data types to professional-level data analysis skills.

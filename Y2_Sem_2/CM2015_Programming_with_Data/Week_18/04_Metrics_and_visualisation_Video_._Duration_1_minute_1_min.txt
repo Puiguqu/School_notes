@@ -1,0 +1,24 @@
+# Metrics and visualisation
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/NAJpd/metrics-and-visualisation
+
+This summary details the methodologies for data analysis, the structured learning path, and the technical procedures required for advanced visualization.
+
+The initial segment provides technical instructions for navigating the video transcript using keyboard shortcuts. Specifically, users can save notes using CTRL + S. To expand a selection, CTRL + arrow key is utilized, while contracting a selection requires shift + CTRL + arrow key. For screen readers incompatible with these shortcuts, alternative keys H, J, K, and L can be used, noting that some screen readers may necessitate combining CTRL with the alt key.
+
+The core focus is conducting an Exploratory Data Analysis (EDA) using visualization techniques. Participants are required to demonstrate proficiency in both Matplotlib and Pandas for creating plots and subplots. It is crucial to understand that visualizing data is most effective only after the data has been thoroughly cleaned, necessitating the completion of all preceding notebook parts first.
+
+The activity mandates the creation of four distinct plots, corresponding to different stages of data exploration. The first stage involves exploring diverse trends by generating line plots or scatter plots across various parts of the data frame. The second step requires identifying any surprising or unexpected relationships within the data. An example relation might involve comparing product price against its rating, or linking product reviews to overall product cost.
+
+In the third stage, the goal is to observe and discover additional correlations between variables. For instance, one might examine the connection between a product's launch date and the specific reviews it has received. The final visualization step must convey a distinct insight derived from the data. This involves filtering the data, perhaps by a specific date range, to observe a clear positive or negative relationship between two values, such as price and rating.
+
+Reviewing the course structure reveals a detailed progression from Week 1 through Week 22. The early weeks cover Python fundamentals, beginning with Week 1 (Topic 1: Introduction to the course) and Week 2 (Topic 1: Getting to grips with Python). Week 3 introduces Python basics: data types, control flow, and functions. Week 4 focuses on writing programs using lists and control flow.
+
+Progression continues into Week 5, covering Topic 3 (Data structures), followed by Week 6 (Topic 3: Pattern matching with strings). Weeks 7 and 8 address Topic 4, focusing on reading and writing data on the file system and parts two, respectively. Week 9 covers Topic 5 (Processing text data), which is succeeded by Week 10 (Topic 5: Language processing).
+
+The mid-section deepens networking skills, with Week 11 and Week 12 both addressing Topic 6: Retrieving data from the web. Weeks 13 and 14 are dedicated to Topic 7, retrieving data from databases. Critical data processing milestones occur in Week 15 (Data cleaning) and Week 16 (More data transformations). The primary analysis and visualization phase arrives in Week 17 (Data analysis and visualisation), with Week 18 dedicated to Exploratory analysis for language processing.
+
+Week 18 is broken down into specific lessons, including "Visualising text" and "Integrating metrics with visualisation." The course concludes with Week 19 (Advanced topics in Python and data programming), followed by Week 20 (Advanced feature extraction). The penultimate week, Week 21, is reserved for Revision, and the final assessment is the Exam in Week 22, covering "Metrics and visualisation."

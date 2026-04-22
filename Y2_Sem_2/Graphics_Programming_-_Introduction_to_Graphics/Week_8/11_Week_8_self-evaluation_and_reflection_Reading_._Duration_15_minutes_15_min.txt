@@ -1,0 +1,18 @@
+# Week 8 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/Esx8T/week-8-self-evaluation-and-reflection
+
+The primary purpose of this exercise is to facilitate regular self-assessment throughout the course curriculum. It serves as a structured reflection tool for the student’s overall learning journey and capabilities. This process helps identify specific areas requiring deeper knowledge or skill development. Students are advised to utilize this checklist to systematically evaluate their understanding of the lessons covered in Week 8. If confidence is lacking in any concept or task, revisiting prior resources is essential. These resources include relevant lecture videos, readings, and activities.
+
+Regarding Trigonometry and Shape Creation, the student must first grasp its core principles as applied to design. Specifically, an understanding of trigonometric principles for shape creation is required. Proficiency is demonstrated by successfully using trigonometric functions to construct various shapes. Furthermore, the ability to apply polar coordinates is necessary for generating complex patterns within generative art.
+
+In the area of Oscillation and Movement, the core concept is understanding how oscillation applies to coding movement. Implementation requires simulating rhythmic or natural movement through coded oscillation. Mastery involves the capability to adjust oscillation parameters. These adjustable parameters include speed, amplitude, and frequency of the movement.
+
+The study of Additive Synthesis concerns its application within generative art systems. Students must understand the concept of additive synthesis itself. Practical implementation requires successfully layering multiple waveforms to create dynamic patterns. A crucial finding is the ability to explain how diverse waveforms combine to form complex visual designs.
+
+The final conceptual module is Recursion and Fractals. It demands an understanding of recursion's theoretical use in generating fractal structures. Practical application involves creating these complex fractal structures using recursive code methodologies. Students must articulate the fundamental properties of fractals. Key among these properties is the realization of self-similarity achieved through recursion.
+
+Overall understanding demands the integration of all these mathematical elements. Students must feel confident applying trigonometry, oscillation, additive synthesis, and recursion in generative art projects. This holistic understanding enables the ability to troubleshoot and refine code for improved design outcomes. Ultimately, students must be able to explain their entire design process. This explanation must include detailed mathematical concepts behind their generated art pieces.

@@ -1,0 +1,12 @@
+# Topic 5 evaluation and summary
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/idKRC/topic-5-evaluation-and-summary
+
+This module topic serves as a crucial checkpoint for project development. Students have reached the point of looking at initial plans for extending their chosen application. The focus has heavily been placed on mastering the art of brainstorming robust project ideas. Furthermore, significant instruction has provided techniques for planning the time required while completing the entire project. Before progressing to the subsequent module topic, a comprehensive review is necessary. This review is designed to test both knowledge and practical experience with all covered material.
+
+A key component involves reviewing the detailed project reading material. By doing so, students should feel fully confident about the tasks ahead. Furthermore, participants have taken an initial look at the detailed mark scheme. This overview gives a clear understanding of the standard necessary to achieve high scores. Students have systematically explored all the example extensions presented in lesson 5.2. They have also thoroughly considered how to implement these extensions within the defined template.
+
+Another vital piece of learning involved watching the video entitled ‘interview with the pro.’ This resource educated students on the realities of a professional career in software development. Successfully completing this phase requires selecting the definitive project application. At this specific stage, the primary application for continued work must be chosen. However, the curriculum emphasizes that more example extensions are provided in future topics. Therefore, students are encouraged to proactively explore these forthcoming examples. This advance viewing ensures that the selected project remains agreeable and viable. The overall module goal is to establish readiness for advanced development work. The checklist structure ensures all learning objectives are met before moving forward. This comprehensive review confirms the student's readiness to move to the next module topic.

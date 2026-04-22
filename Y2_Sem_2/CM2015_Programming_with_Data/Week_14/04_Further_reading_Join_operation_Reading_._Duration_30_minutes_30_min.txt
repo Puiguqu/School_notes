@@ -1,0 +1,8 @@
+# Further reading: Join operation
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/pU8Jk/further-reading-join-operation
+
+If you would like to read in more depth about any of the content covered, we recommend the following text. This reading describes the different operations available in Pandas to combine data scraped from multiple websites into a single DataFrame for analysis. Please note that because these are supplemental readings, we are unable to guarantee they are available in our Online Library. Please read from the heading in this chapter titled ‘Merging on Index’ up until the heading ‘Reshaping and Pivoti...

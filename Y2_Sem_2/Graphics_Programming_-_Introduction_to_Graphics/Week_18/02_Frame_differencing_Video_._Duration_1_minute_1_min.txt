@@ -1,0 +1,14 @@
+# Frame differencing
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/JJJGK/frame-differencing
+
+This document outlines a comprehensive, multi-week academic curriculum spanning computer graphics and computer vision, detailed over twenty weeks. The curriculum begins with foundational topics such as Vectors and animation in Week 2. Subsequent weeks cover the physical simulation of Forces and Physics, utilizing specialized tools like Matter.js. Generative techniques form a substantial part of the learning process, beginning with randomness and noise in Weeks 6 and 7. Weeks 8 and 9 build upon this foundation by exploring sine functions and fractals. The course progresses into three-dimensional graphics during Weeks 11 and 12. Dedicated study of colors, images, and pixels occurs in Weeks 13 and 14. Further image manipulation skills are developed through dedicated Image Processing modules in Weeks 15 and 16.
+
+Weeks 17 through 20 are dedicated to advanced Computer Vision concepts, marking the core technical focus of the curriculum. Week 18 specifically addresses advanced motion detection techniques. The syllabus structures the learning into modular units, exemplified by the Background Subtraction video, which runs for 18 minutes. This module is followed by a 5-minute check for understanding and a 3-minute practice assignment.
+
+The transcript introduces a related technique: Frame Differencing. This technique is designed specifically for detecting movement, distinguishing it from background subtraction which targets objects. Frame differencing is described as a straightforward method, similar in concept to background subtraction. Its key distinction, however, is that it compares the current frame not to a static background image, but to the immediately preceding frame. This comparison involves looping through the pixels of the two images for pixel-to-pixel measurement. The analysis measures differences in color values to identify movement. A significant difference in color saturation or intensity indicates movement occurring at that pixel location. Conversely, little or no difference confirms the pixel remained stationary.
+
+Technically, the concept of movement detection can be visualized through image subtraction, resulting in a white area where movement was detected. For frame differencing to function accurately, two critical prerequisites must be met. Firstly, the environment must maintain relatively stable lighting conditions. Secondly, the camera used for capture must be stationary in order to successfully isolate and detect the motion of objects within the scene. The final weeks incorporate self-evaluation and reflection readings, ensuring a holistic review of the complex material covered.

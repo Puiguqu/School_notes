@@ -1,0 +1,8 @@
+# Topic 4 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/KULM4/topic-4-summary
+
+This topic has focused on the foundations of secure application development and why application security plays a vital role in protecting modern systems. So far, you have explored: application vulnerabilities. You have looked at the OWASP Top 10, including SQL injection, broken access control and insecure error handling and why they matter in development secure coding principles. You have practised key methods such as input validation, least privilege, secure file handling and safe logging/debug...

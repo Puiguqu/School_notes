@@ -1,0 +1,8 @@
+# Topic 4 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/uNlTv/topic-4-summary
+
+In this topic, you have learned about: the different types of data files and their appropriateness for storing different types of data Python programs that can read and write files in CSV and JSON formats the process of analysing data and summarising the outcomes of analysis. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic4_eval DOCX File Topic 4 summary In this topic, you have learned about: the different types of data files and their appropriateness for storing different types of data Python programs that can read and write files in CSV and JSON formats the process of analysing data and summarising the outcomes of analysis. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic4_eval DOCX File Mark as completed Dislike Report an issue

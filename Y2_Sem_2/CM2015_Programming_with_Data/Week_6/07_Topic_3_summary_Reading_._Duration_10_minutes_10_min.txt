@@ -1,0 +1,8 @@
+# Topic 3 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/AktJH/topic-3-summary
+
+In this topic, you have learned about: the different data structures available in Python and how to select appropriate data structures for particular examples of data writing Python programs that can process and analyse text data in lists and dictionaries how to implement linguistic analysis algorithms that can handle natural language processing tasks. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts yo...

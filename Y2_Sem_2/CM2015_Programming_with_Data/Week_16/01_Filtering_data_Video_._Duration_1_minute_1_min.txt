@@ -1,0 +1,20 @@
+# Filtering data
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/1C6vL/filtering-data
+
+The text provides guidance on data cleaning techniques, specifically focusing on finding and filtering outliers using functions within the pandas library. Outliers are defined as data points that are abnormal or exhibit a greater distance from the mean compared to the rest of the data set. To practically address this, two primary filtering methodologies are presented: value-based filtering and time-based filtering.
+
+Value-based filtering techniques are utilized when filtering data relies on comparison operators. These operators include checking for equality, greater than, or less than specific values, allowing users to retrieve only targeted records. Time-based filtering, conversely, is essential for datasets organized by dates or times, especially those with extensive lists of values. This process requires changing the data format from a string format into a proper date-time format. Once this date-time column is successfully set as the index of the data frame, precise location commands can be employed. Specifically, the location command allows retrieval of items that fall within a defined or specific date range.
+
+For example, the data may contain observable outliers, such as super expensive item prices or certain jacket launch dates, which warrant additional, targeted filtering procedures.
+
+Beyond the outlier detection, the source material outlines a detailed academic structure covering 22 weeks of advanced data programming. Week 1 introduces the course, followed by Week 2's focus on getting to grips with Python fundamentals. The progression continues through Week 3, covering Python basics, including data types, control flow, and functions. Week 4 builds upon this by writing programs using lists and control flow structures. Subsequent topics include Week 5 (Data structures) and Week 6 (Pattern matching with strings).
+
+The curriculum progresses into file system management starting at Week 7 (Reading and writing data on the file system). Weeks 8 and 9 address reading and writing data, with Week 9 focusing on processing text data. The core technical skills continue through Week 10 (Language processing) and Week 11/12 (Retrieving data from the web).
+
+Data sourcing expands in Weeks 13 and 14 by retrieving data from databases. Week 15 is dedicated to the critical skill of data cleaning. This focus leads to more data transformations in Week 16, which contains key lessons on filtering and outliers (Lesson 16.1). Lesson 16.2 focuses on "Clean and analyse," and Lesson 16.3 covers "Deepening the analysis" using derived features.
+
+The advanced stages of the course include Week 17 for data analysis and visualization. Subsequent weeks build towards advanced topics, with Week 18 dedicated to exploratory analysis for language processing. Week 19 covers advanced topics in Python and data programming. Week 20 focuses specifically on advanced feature extraction. The learning culminates with a Week 21 revision and the Week 22 exam on filtering data, ensuring a comprehensive skillset acquisition.

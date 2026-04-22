@@ -1,0 +1,8 @@
+# Using explainable AI (XAI) against phishing attacks
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/Bp0yA/using-explainable-ai-xai-against-phishing-attacks
+
+In the video, we examined the growing sophistication of phishing attacks and the challenges they pose for organisations, even when standard cybersecurity measures are in place. This reading builds on these ideas by proposing a multi-phase framework, which provides organisations with transparent, data-driven guidance on how to strengthen defences, invest wisely and enhance resilience against phishing threats. Read: Biswas, B., A. Mukhopadhyay, A. Kumar and D. Delen ‘A hybrid framework using expla...

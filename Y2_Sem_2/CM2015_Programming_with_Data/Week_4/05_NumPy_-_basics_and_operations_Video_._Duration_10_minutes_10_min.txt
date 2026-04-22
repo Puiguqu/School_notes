@@ -1,0 +1,16 @@
+# NumPy - basics and operations
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/8eJsE/numpy-basics-and-operations
+
+This comprehensive tutorial introduces key functions within NumPy and Matplotlib, essential libraries for the course. To begin, the libraries are imported using aliases: NumPy as `np` and Matplotlib as `plt`. NumPy arrays can be created using `np.array()` and are similar to Python lists, allowing index access (e.g., `array[i]`) and length calculation (`len(array)`). To combine two arrays, `array1` and `array2`, the function `np.concatenate()` must be used, forming a larger array like `array3`. Conversely, `np.split()` can take an array and a number of splits to return the original component arrays.
+
+NumPy facilitates data searching and filtering using the `np.where()` function. This function takes an array and a conditional expression (e.g., `array < 4`) to return indices where the condition is true. The built-in sorting function, `np.sort()`, organizes an array in ascending order, while descending order requires reversing the sorted array using slicing syntax, such as `sorted_array[::-1]`.
+
+Advanced filtering can be performed by passing a Boolean expression (e.g., `unsorted_array < 100`) directly to the array, which returns a filtered array of elements meeting the condition. To generate programmatic arrays, `np.linspace(start, end, num)` creates an evenly spaced array between a starting and ending argument over a specified number of points.
+
+Matplotlib's `plt.plot(x, y, symbol)` function is used to graph data, taking X and Y values and allowing customization via a symbol parameter (e.g., 'star'). For date handling, NumPy provides the `dtype('datetime64[ns]')` type, which converts strings (like '2016-10-10') into specialized date objects. These date types allow for sophisticated temporal operations, including comparison (checking if `date1 > date2`) and arithmetic (adding a specific duration using `np.timedelta64`).
+
+The course structure builds progressively, starting with basic Python concepts in Week 2 and advancing through data structures (Week 5) and string manipulation (Week 6). Subsequent topics cover file system reading/writing (Weeks 7-8), processing text (Week 9), language processing (Week 10), and data retrieval from the web and databases (Weeks 11-14). The curriculum concludes with modules on data cleaning (Week 15), advanced data transformations (Week 16), data visualization (Week 17), and advanced feature extraction (Week 20), culminating in a final comprehensive exam in Week 22.

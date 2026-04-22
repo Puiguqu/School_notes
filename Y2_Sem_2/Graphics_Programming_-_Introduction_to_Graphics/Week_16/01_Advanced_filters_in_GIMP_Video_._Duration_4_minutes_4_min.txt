@@ -1,0 +1,16 @@
+# Advanced filters in GIMP
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/ryDIy/advanced-filters-in-gimp
+
+The history of art tools is ancient, with artists traditionally fabricating their own equipment, such as making brushes from pig hair or prepping canvases through boiling. In the modern era, the proliferation of software like Photoshop and Adobe Illustrator has democratized the creative process. However, this democratization has concurrently led to a noticeable sense of "sameness" across various digital works. Graphics programmers and artists are encouraged to move beyond simply using ready-made proprietary packages. The goal is to become "graphics hackers," gaining an understanding of how these tools fundamentally operate.
+
+The open-source software GIMP is highlighted as a prime example of accessible, modifiable, and free digital tooling. GIMP offers various filter menus, including Gaussian blur, mean blur, and median blur. A core advanced technique involves creating custom filters by manually manipulating image matrices. For instance, a specific 3x3 mask can be applied to blur an image by calculating average pixel values. This capability allows the user to apply personalized image manipulation tricks directly within the software.
+
+A powerful technical technique involves converting the image to a grayscale or black-and-white image mode. The process then utilizes the function found under `Filters > Generic Convolution Matrix`. Convolution matrices are fundamental tools for advanced image processing, particularly for edge detection. An example convolution matrix for initial edge detection included values such as: `-1, -1, -2, -1, 0, 1, 2, 1`. This matrix reveals features by highlighting differences between adjacent pixels.
+
+To change the detected edge direction, the matrix can be rotated 90 degrees clockwise. The original matrix configuration detects vertical edges, while the rotated matrix detects horizontal lines. The overall industry domain has undergone a crucial shift from physical tools (like paints and brushes) to the realms of pixels and code. Therefore, aspiring designers and graphics programmers must immerse themselves in learning underlying code structures.
+
+The academic structure supports this progression, with course material heavily focused on "Colours, images, pixels," running from Weeks 13 through 16. This deep dive culminates in specialized modules on image processing and advanced filters within GIMP. The curriculum also signals future advanced study in Computer Vision through dedicated sections planned for Weeks 17, 18, and 19. Mastering these digital techniques requires moving beyond mere application and engaging directly with the code and mathematical principles governing image transformations.

@@ -1,0 +1,8 @@
+# Week 7 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/etndT/week-7-summary
+
+In this week, you explored the principles of generative art, focusing on how randomness and noise can be harnessed in both 2D and 3D environments to create unique, algorithm-driven designs. You began by understanding what generative art and design entail, recognising it as a form of art created through systems and algorithms. Key characteristics of generative art, such as its reliance on predefined rules, unpredictability, and the influence of random or pseudo-random inputs, were discussed. You ...

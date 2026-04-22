@@ -1,0 +1,16 @@
+# Object Oriented Programming in Javascript (OOP)
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/SEvXf/object-oriented-programming-in-javascript-oop
+
+Object-Oriented Programming (OOP) is a paradigm built upon the concept of objects, which combine data and code. These objects structure data via fields (attributes/properties) and encapsulate behavior through methods (functions). Conceptually, a class acts like a "cookie cutter," defining the blueprint for creating multiple instances, or objects. An object represents an instance of that class, sharing structure but possessing unique attributes. Initially, a simple button example can be created using a traditional, non-OOP approach. This requires manually defining global variables like `state`, `locX`, `locY`, `width`, and `height`. Interactivity is implemented by defining methods that check boundaries, such as comparing mouse coordinates to the object's stored dimensions.
+
+The primary weakness of this structure is scope management, as every piece of logic pollutes the global scope. The solution is object-oriented encapsulation. We define a `Button` class to encapsulate all related data and behavior. The `Button` constructor accepts necessary parameters (like dimensions and position) to initialize its private state. Key methods, like `draw()` and `isMouseOver()`, operate solely on the object's internal data.
+
+The practical implementation involves instantiating the object: `let myButton = new Button(x, y, w, h);`. This keeps the code clean and modular. Furthermore, the class structure allows for complex interactions, such as handling clicks, which can involve checking if the mouse position falls within the button's defined area.
+
+By adopting the class structure, we solve the problem of scope pollution, as the methods and properties only interact with the object instance they belong to. The system becomes highly scalable. We can create multiple, independent button objects—each retaining its own state—without interference. This model is much cleaner, reusable, and maintains strict boundaries between different components.
+
+In summary, OOP structures encapsulate state and behavior into reusable modules, transforming scattered, global variables into organized, managed objects. This transition from procedural code to object-oriented code is fundamental to building robust, maintainable, and complex applications.

@@ -1,0 +1,32 @@
+# Introduction to sustainability in computing
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/WJOud/introduction-to-sustainability-in-computing
+
+1. Sustainability in Computing addresses the significant environmental footprint of small electronics like smartphones, laptops, and tablets.
+2. Creating these devices requires extracting finite resources, generating toxic waste, and producing considerable amounts of CO2.
+3. According to the Global E-Waste Monitor, the world generated 53.6 million metric tons of e-waste in 2019, a figure that continues to rise.
+4. Alarmingly, only 17% of this e-waste is properly recycled, allowing the rest to leach harmful chemicals into landfills, often in developing nations.
+5. A core challenge is the use of rare earth elements, including neodymium, tantalum, and cobalt, which are critical for modern electronics.
+6. Extracting these elements is highly resource-intensive, causing severe environmental damage and soil degradation, particularly evident in mining sites like those in China and the DRC.
+7. Furthermore, the mining for cobalt, used in lithium-ion batteries, carries a devastating human cost, with reports indicating major issues with child labor.
+8. The average smartphone lifespan is only about two years, driving rapid consumption and contributing to the tech waste problem.
+9. In 2019 alone, the United Nations University reported that e-waste contained $57 billion worth of recoverable precious metals, most of which was lost due to improper recycling.
+10. A major driver of waste is planned obsolescence—a strategy of designing products with a limited lifespan, such as software slowdowns or non-replaceable batteries.
+11. This issue, emphasized by Gay Gordon Byrne’s "Right to Repair" movement, forces consumers into buying new devices rather than fixing old ones.
+12. Manufacturing is incredibly resource-heavy; a single smartphone, for instance, utilizes 62 different metals, including gold and rare earths.
+13. The production process requires large amounts of water, energy, and chemicals, contributing significantly to climate change.
+14. Specifically, a 2016 Green Electronics Council report found that manufacturing one typical smartphone generates 85 kilograms of CO2, a weight exceeding the device itself by more than ten times.
+15. To address this, tech companies are initiating sustainability commitments, such as Apple using 100% recycled aluminum in the MacBook Air.
+16. Google aims to make all its hardware products carbon neutral by 2030, while Microsoft is heavily investing in circular computing to achieve carbon negative status by the same year.
+17. Complementing corporate efforts is the critical "Right to Repair" movement, supported by legislation in the European Union and states like California.
+18. Advocates push for laws that empower consumers to repair devices through third parties without voiding warranties.
+19. The circular economy model promotes using biodegradable plastics, recycled metals, and plant-based materials in production.
+20. Companies like Fairphone exemplify this by building modular smartphones designed to be easily repaired using responsibly sourced and recycled components.
+21. Consumers play a vital role by participating in responsible recycling and take-back schemes offered by tech companies.
+22. More impactful than recycling, however, is extending a device’s life through repair and upgrading rather than immediate replacement.
+23. Curricular coverage confirms this focus, covering specific modules like Week 9 Topic 5: Sustainability in computing, Part 1, and Lesson 9.1 and 9.2.
+24. The curriculum also structurally addresses supporting topics, including Week 7 Topic 4 (Inclusive computing) and Week 6 Topic 3 (Legal and ethical foundations).
+25. Ultimately, making computing sustainable requires a collaborative effort spanning legislative changes, corporate circular models, and consumer behavioral shifts.

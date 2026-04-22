@@ -1,0 +1,18 @@
+# Your project
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Dgr8d/your-project
+
+The midterm assignment requires submitting several reports sections alongside a compressed code upload. For the code, students must zip the project file and strictly avoid any other compression formats, as this will impede the marking process. Reports must be submitted directly into the assignment page using rich text edit fields. When writing, students are encouraged to use headings, images, and bullet points to maintain conciseness and detail.
+
+The first mandatory report section requires an overview of the project's scope, detailing the specific extensions being built. Students must name the chosen template and outline the coding techniques expected for implementation. Additionally, this section should address anticipated challenges and potential difficulties in the project's execution. The word limit for this overview is 400 words, with a slight allowance up to 440 words.
+
+The second section is dedicated to describing the progress made on the project to date. This opportunity allows students to document brainstorming and initial design work, even if incomplete. It is highly recommended to include images, such as code snippets or interface diagrams, to illustrate the process. The word count for this progress report is also restricted to 400 words.
+
+For the third report section, students must detail their time planning using a Gantt chart or alternative time activity diagram. This visual representation must be accompanied by a written description explaining the rationale for the allocated time amounts. This specific planning section has a strict word limit of 200 words.
+
+The final report section necessitates listing all external sources used throughout the project. This includes adapted code, algorithms, or specialized libraries outside of p5, p5.sound, and p5.dom. No upper word limit applies to this sources section. It is critical that any code or ideas not originating from the student must be clearly labeled both in the comments and within this report section.
+
+The assessment process will evaluate the overall scope and complexity of the project to ensure appropriate ambition. Marks will be given for the demonstrated quality of design work and the detailed planning executed. Furthermore, the submission will be graded on the quantifiable progress achieved up to the assignment deadline. Finally, the written quality and adherence to specific word count limits are also assessed. Students are advised to proofread carefully and review materials from the project overview and brainstorming sessions.

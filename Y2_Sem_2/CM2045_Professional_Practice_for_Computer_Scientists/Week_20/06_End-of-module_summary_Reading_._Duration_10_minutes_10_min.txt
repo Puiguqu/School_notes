@@ -1,0 +1,8 @@
+# End-of-module summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/yhgGD/end-of-module-summary
+
+In this module we have covered everything from security implications to crafting a CV, writing a research paper to connecting on LinkedIn. The skills we explored here will not only help with your employability and research skills, but help drive your creativity, your critical thinking skills and motivate you to be a more conscientious computer scientist. Hopefully, these skills will also prepare you for your final year project, where you have to plan, manage your time, identify risks and overcom...

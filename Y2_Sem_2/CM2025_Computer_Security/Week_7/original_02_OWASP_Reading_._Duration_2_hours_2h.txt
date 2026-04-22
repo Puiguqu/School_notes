@@ -1,0 +1,8 @@
+# OWASP
+Reading•
+. Duration: 2 hours
+2h
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/wQxdr/owasp
+
+After exploring the foundational principles of application security in this week’s lecture, you will now deepen your understanding of how vulnerabilities can be detected and predicted during development. Even well-meaning developers may unintentionally write insecure code. The following article evaluates how automated tools and machine learning models help to identify vulnerabilities. Read: Alazmi, S. and D. C. De Leon ‘A systematic literature review on the characteristics and effectiveness of web application vulnerability scanners’, IEEE Access 10 2022, pp.33200–33219. for the article in the Online Library . As you read, ask yourself: which vulnerabilities are most reliably detected which are frequently missed how does this reinforce the need for proactive secure coding. OWASP After exploring the foundational principles of application security in this week’s lecture, you will now deepen your understanding of how vulnerabilities can be detected and predicted during development. Even well-meaning developers may unintentionally write insecure code. The following article evaluates how automated tools and machine learning models help to identify vulnerabilities. Read: Alazmi, S. and D. C. De Leon ‘A systematic literature review on the characteristics and effectiveness of web application vulnerability scanners’, IEEE Access 10 2022, pp.33200–33219. for the article in the Online Library . As you read, ask yourself: which vulnerabilities are most reliably detected which are frequently missed how does this reinforce the need for proactive secure coding. Mark as completed Dislike Report an issue

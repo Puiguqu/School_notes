@@ -1,0 +1,32 @@
+# Cyber risk management
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/8RgXY/cyber-risk-management
+
+1. Cyber Risk Management is a structured process designed to help organizations understand and manage potential harm resulting from cyber threats.
+2. Cyber risk is defined as the possibility of loss, damage, or disruption stemming from cyber threats.
+3. These threats can cause operational disruptions, financial losses, legal action, or reputational harm.
+4. Cyber risks originate from vulnerabilities and threats within systems and processes, acting upon assets at risk.
+5. Common cyber risks include malware and ransomware infections, phishing attacks, and social engineering schemes.
+6. Other sources of risk involve weak third-party security, unpatched systems, API abuse, or misconfigured cloud services.
+7. The foundational cyber risk lifecycle involves five stages: identification, assessment, mitigation, monitoring, and response.
+8. During identification, it is crucial to understand all assets, associated threats, and systemic vulnerabilities.
+9. Assessment requires evaluating the likelihood and potential impact of identified risks, sometimes using risk matrices.
+10. Organizations utilize various tools and methodologies for assessment, including Common Vulnerability Scoring System (CVSS) and vulnerability scanners.
+11. Assessment can be qualitative (e.g., low, medium, high) or quantitative, translating potential losses into financial terms using methods like Factor Analysis of Information Risk.
+12. Major risk frameworks used to standardize management include NIST’s Risk Management Framework and ISO/IEC 27005.
+13. Mitigation strategies employ diverse controls: technical (e.g., firewalls, encryption, Multi-Factor Authentication (MFA)), administrative (training, policies, access reviews), and physical.
+14. Incident response planning involves simulating and executing protocols for managing real-world breaches.
+15. A practical example demonstrated how a misconfigured S3 bucket was assessed as high impact with moderate likelihood and mitigated by securing permissions and implementing cloud security posture management.
+16. Furthermore, specialized risk reduction measures include vendor risk assessments and purchasing cyber insurance.
+17. Beyond the current module, the curriculum covers structured study across multiple topics, beginning with threat identification and classification.
+18. Future study delves into core operational security, covering Network and OS security, and principles of Application security testing.
+19. A major technical focus involves Cryptography in practice, detailing encryption, Public Key Infrastructure (PKI), digital signatures, and hash functions.
+20. The course expands into advanced concepts, including Blockchain for cybersecurity and critical Incident response and forensics procedures.
+21. Subsequent weeks will explore specialized, emerging technologies, notably AI, Machine Learning, quantum computing, and post-quantum cryptography.
+22. Ethical and professional considerations, alongside sustainable digital ecosystems and EDI principles, form a key part of the curriculum.
+23. The scope culminates in real-world cybersecurity case studies, requiring students to design, test, and communicate security solutions.
+24. The material provides continuous learning opportunities, including dedicated lessons on the Incident Response lifecycle and digital forensics basics.
+25. Ultimately, mastering these principles allows organizations to proactively align technical security efforts with overarching business priorities for survival in modern threat landscapes.

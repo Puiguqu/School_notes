@@ -1,0 +1,18 @@
+# Fundamentals of Scrum
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/RotVm/fundamentals-of-scrum
+
+Scrum is an agile framework, necessary for software development in a fast-paced world, providing an adaptive project management approach. The methodology is fundamentally iterative and incremental, breaking projects into short cycles called sprints, typically lasting two to four weeks. It promotes the use of self-organizing teams, empowering them to manage their own work and make crucial decisions. Continuous feedback is maintained through formal processes like sprint reviews and retrospectives, ensuring constant process adaptation.
+
+The Scrum framework defines three primary roles: the Product Owner, the Scrum Master, and the Development Team. The Product Owner represents the customer, defines the product vision, and crucially prioritizes the product backlog. Conversely, the Scrum Master facilitates the process, removes impediments, and ensures strict adherence to Scrum principles, focusing on process rather than the product. The Development Team is the self-organizing group tasked with the actual creation of the product.
+
+Agile development heavily emphasizes self-organization, allowing team members to work together based on complementary skills to minimize knowledge gaps. Key deliverables and inputs are governed by defined artifacts. The Product Backlog is a prioritized list containing all features and requirements intended for the product. Priority usually emerges from items that offer maximum user value and are simultaneously the easiest to build.
+
+The Sprint Backlog is the refined subset of the Product Backlog that the team commits to completing within the current sprint. These features can form a Minimal Viable Product (MVP), which is a demo of working features to demonstrate the product's look and feel. The successful output at the end of each sprint is termed the Increment, representing working software (e.g., Version 0.0.0.1).
+
+The process involves several defined events. Sprint Planning is when the team plans the scope of work for the upcoming sprint. The Daily Scrum is a short daily meeting for synchronizing efforts and discussing immediate progress, often conducted as a quick stand-up meeting. A Sprint Review is mandatory, where the team demonstrates the Increment to stakeholders to gather feedback and validate expectations. Lastly, Sprint Retrospectives allow the team to reflect critically on the past sprint to identify specific areas for improvement.
+
+Scrum succeeds because it incorporates key characteristics: Flexibility to adapt to changing requirements, Collaboration that encourages strong teamwork, Transparency that provides visibility into progress, and continuous improvement that fosters learning. These principles can be applied to various domains, including mobile app development, website design, or even non-software fields like marketing. Ultimately, Scrum is not merely a procedure set, but a mindset embracing change, collaboration, and continuous improvement. By mastering its core principles, teams can build superior software, accelerate value delivery, and respond effectively to the changing demands of the tech world.

@@ -1,0 +1,20 @@
+# Clean and analyse
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/rEU5H/clean-and-analyse
+
+This detailed educational material covers programming environment navigation, data cleaning practices, and a structured syllabus for advanced data analysis. When navigating the transcript, users can press CTRL + S to save a note, and selection can be expanded using CTRL + arrow key or contracted with shift + CTRL + arrow key. For accessibility, screen readers incompatible with arrow key shortcuts can use H J K L keys, and some may require CTRL combined with the alt key.
+
+The primary focus of the exploratory data analysis is cleaning the `practice.csv` file to create a cleaner dataset. This data cleaning activity involves two main steps for processing the input data. First, the file must be loaded, and data formats must be strictly enforced. Key technical requirements include ensuring that the `price` entity is in floating-point format, `rating` must be an integer, and `reviews` must be treated as text.
+
+The second critical step requires analyzing the data frame for structural errors, specifically missing values and potential outliers. To address these issues, filtering techniques must be applied to remove problematic data points. The final goal is the generation of a new file named `practice_cleaned.csv`, which is suitable for subsequent analysis and visualization.
+
+At the intermediate stage, the data must be prepared with specific technical characteristics. For instance, the `name` field must be pure text without product name tags, and `value` must be floating point. The `in stock` column must be a Boolean value (True or False), and `reviews` must be fully cleaned of excess spaces or escape sequences. Furthermore, `launch date` must be formatted as a precise date type.
+
+The expected output after this stage is a set of values with consistent data formats, which can be verified using the `tf.dtypes` command. The next stage involves advanced data analysis, specifically identifying and removing outlier values, such as unusual date entries. This removal process results in a cleaner, optimized dataset ready for deeper analysis.
+
+The overall course structure spans multiple weeks, covering essential skills from introductory Python to advanced data programming. Early weeks (1-5) focus on fundamentals, including data types, control flow, functions, and basic data structures. Subsequent weeks progress through string manipulation (Week 6), file system operations (Weeks 7-8), and comprehensive text data processing (Weeks 9-12).
+
+Later modules deepen the technical scope by covering data retrieval from databases (Weeks 13-14) and specialized data cleaning practices (Week 15). The syllabus then moves to advanced concepts like data transformations (Week 16), covering filtering and outlier detection in detail. Further specialized topics include deepening analysis with derived features (Week 16.3) and culminating in data visualization and advanced exploratory analysis (Weeks 17-18). The curriculum concludes with advanced Python programming, feature extraction, and a revision week before the final exam.

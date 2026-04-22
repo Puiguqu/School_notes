@@ -1,0 +1,8 @@
+# The Equifax breach
+Reading•
+. Duration: 2 hours 10 minutes
+2h 10m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/0Xn4u/the-equifax-breach
+
+In the video, we examined the anatomy of major cyber incidents and introduced the Equifax breach of 2017 as one of the most damaging in history. Read the the following article and the chapter from Big Breaches, which provide a detailed narrative case study and explanation of the vulnerabilities that were exploited in the attack: Breachsense ' Equifax Data Breach Explained: A Case Study ' (2024). If this link is broken, please let us know via the Student Portal . Daswani, N. and M. Elbayadi Big b...

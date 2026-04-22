@@ -1,0 +1,8 @@
+# How to use your webspace: UPDATE
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/OTNxQ/how-to-use-your-webspace-update
+
+There has been a small update in the way that you can access the "Javascript-Obfuscator" tool. The process of encrypting and sharing your work is still the same as shown in the previous video: "How to use your webspace" However, in order to access the new version of the "Javascript-Obfuscator", click on the next activity: "Ungraded Lab: Javascript Obfuscator - encrypt your work!" You will be prompted with the following activity: Simply click on the "Start" button and allow some time for the application to load and continue with the steps shown in the previous video. How to use your webspace: UPDATE There has been a small update in the way that you can access the "Javascript-Obfuscator" tool. The process of encrypting and sharing your work is still the same as shown in the previous video: "How to use your webspace" However, in order to access the new version of the "Javascript-Obfuscator", click on the next activity: "Ungraded Lab: Javascript Obfuscator - encrypt your work!" You will be prompted with the following activity: Simply click on the "Start" button and allow some time for the application to load and continue with the steps shown in the previous video. Mark as completed Dislike Report an issue

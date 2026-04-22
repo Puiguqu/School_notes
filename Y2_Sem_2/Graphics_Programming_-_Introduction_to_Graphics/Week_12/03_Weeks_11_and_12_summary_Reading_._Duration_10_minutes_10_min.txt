@@ -1,0 +1,8 @@
+# Weeks 11 and 12 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/9x2P8/weeks-11-and-12-summary
+
+In this week, you explored the fundamentals of 3D graphics, focusing on the role of the 3D renderer, lighting, materials, textures, and the camera in creating visually compelling scenes. You examined the distinctions between 2D and 3D graphics, gaining an understanding of how depth and perspective add realism to 3D environments. By working with basic 3D primitives, lights, and materials, you should be able to program simple animations, experimenting with how different elements interact within a ...

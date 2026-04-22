@@ -1,0 +1,8 @@
+# Week 10 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/b5wQE/week-10-summary
+
+In this week you learned about graphics in video games, films, and art. You explored the role of procedural generation in games, generative art, and design, as well as fabrication techniques. Through the week’s content, you gained an understanding of procedural generation, i.e. how it allows for the automatic creation of game content, and discussed its advantages and disadvantages, such as increased variety but potentially less control over details. in the insightful interviews with artists Andy Lomas and Alan Zucconi, they shared perspectives on generative processes. You connected Andy Lomas' work with the syllabus, examining how his approach to generative art exemplifies procedural techniques used in gaming and design. Week 10 summary In this week you learned about graphics in video games, films, and art. You explored the role of procedural generation in games, generative art, and design, as well as fabrication techniques. Through the week’s content, you gained an understanding of procedural generation, i.e. how it allows for the automatic creation of game content, and discussed its advantages and disadvantages, such as increased variety but potentially less control over details. in the insightful interviews with artists Andy Lomas and Alan Zucconi, they shared perspectives on generative processes. You connected Andy Lomas' work with the syllabus, examining how his approach to generative art exemplifies procedural techniques used in gaming and design. Mark as completed Dislike Report an issue

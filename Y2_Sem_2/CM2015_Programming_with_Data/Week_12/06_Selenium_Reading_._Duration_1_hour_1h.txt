@@ -1,0 +1,8 @@
+# Selenium
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/lPMRH/selenium
+
+So far, you have looked at gathering static data from webpages or JSON data provided by APIs. If you need to collect data from a web page that depends on the execution of JavaScript code that updates the page, you’ll need to use Selenium instead of requests. The following reading describes how to install Selenium and use it to simulate events on the HTML page such as mouse clicks and keyboard presses. Refer to the section on ‘Controlling the Browser with the selenium Module’ for automated ways o...

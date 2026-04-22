@@ -1,0 +1,14 @@
+# Lab environment instructions
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/OaNzS/lab-environment-instructions
+
+This document details the process for conducting a security audit in Linux using the tool Harbian. The practical exercise requires students to run this security audit within a pre-configured, controlled lab environment. For this specific activity, the required development work must be performed solely within the dedicated Coursera lab setting. The provided lab environment utilizes Ubuntu 18.05.5 as its operating system foundation. This setup includes a built-in, integrated terminal, which is ready for executing necessary security check commands. Developers are strongly advised not to attempt development on their local machines, as this setup process is deemed beyond the scope of the current lab.
+
+Working within the Coursera lab environment ensures that all essential tools for the activity are pre-configured and readily available. The lab is conveniently integrated with Visual Studio Code (VS Code), a popular and optimized code editor for modern web and cloud applications. To begin the activity, one must simply click the 'Start' button located beneath the activity title. The lab environment application may require some time to fully load, and students should expect a loading animation. Students should wait patiently, as the process typically does not exceed 30 seconds. Upon successful loading, the interface will display an instance of the Visual Studio Code IDE.
+
+The initial 'Welcome' page, while illustrating various features, can often be closed immediately for core work. It is noted that the absence of this 'Welcome' page does not impact the fundamental functionality of the IDE. A key functional area is the integrated terminal panel, which is hidden by default in VS Code. To access this crucial panel, users must manually navigate to the 'View' tab on the top navigation bar. From there, clicking the 'Terminal' tab will enable the necessary command window.
+
+Once the environment is set up, students are positioned to perform the auditing task. File management, including the creation, editing, and deletion of files and folders, is managed via the Side Bar section. Critically, the designated exercise directory path is `/home/coder/project/`. If students become disoriented or require a path reset, they must open the Terminal and execute the command `cd /home/coder/project/`. These procedural steps ensure the user is fully equipped to begin the security auditing process using Harbian in the stipulated Ubuntu 18.05.5 lab environment.

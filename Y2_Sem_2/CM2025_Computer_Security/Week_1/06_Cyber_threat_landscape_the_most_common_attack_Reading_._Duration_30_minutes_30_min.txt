@@ -1,0 +1,8 @@
+# Cyber threat landscape: the most common attack
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/wI9k5/cyber-threat-landscape-the-most-common-attack
+
+This article from the UK’s National Cyber Security Centre (NCSC) outlines the most common types of cyber attacks and offers practical guidance on how to reduce their impact. It connects directly to this week’s focus on identifying and understanding cyber threats, translating theory into real-world application. The examples and techniques described reflect how threat actors operate across sectors like healthcare, government and business. Engaging with these will help you recognise real attack sce...

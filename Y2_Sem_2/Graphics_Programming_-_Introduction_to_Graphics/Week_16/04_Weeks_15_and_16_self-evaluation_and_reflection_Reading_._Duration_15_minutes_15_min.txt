@@ -1,0 +1,20 @@
+# Weeks 15 and 16 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/zWTim/weeks-15-and-16-self-evaluation-and-reflection
+
+The self-evaluation checklist serves as a critical tool for assessing knowledge gained in Weeks 15 and 16 of the image processing course. This exercise emphasizes regular reflection to map understanding against defined learning outcomes. Its primary purpose is identifying knowledge gaps and creating a personalized plan for future skill development. Students must use the checklist to evaluate their mastery of the course materials. If any concept or task elicits uncertainty, the required action is revisiting relevant lecture videos, readings, and activities for consolidation.
+
+The first domain concerns understanding Image Processing Basics. Learners must be able to explain the foundational concept of image processing itself. Furthermore, they must accurately identify common, real-world applications of this technology. A key technical objective is distinguishing between basic and advanced image manipulation techniques.
+
+The second section focuses on the skill of Applying Basic Filters. Students are required to use simple filters to adjust fundamental image properties. Specifically, this includes adjusting brightness, contrast, and sharpness levels. Beyond use, learners must describe precisely how various filters affect the visual appearance of an image. Practical demonstration of these basic filters within specialized software is also mandatory.
+
+The third core topic involves Using Convolution for Advanced Filters. Conceptually, students must be able to discuss the foundational concept of convolution within image processing. They must explain the mechanism of how convolution kernels function and impact an image. The objective includes practicing the application of advanced filters utilizing these complex convolution techniques.
+
+Next, the learning scope expands to Implementing Instagram-Style Filters. The goal is to successfully implement an image filter mirroring popular social media effects. This requires applying multiple, specific adjustments sequentially to achieve a cohesive visual effect. Learners must grasp how various filter combinations create deliberate stylistic shifts on photographic images.
+
+Fifth, the assessment covers Practical Skills in Image Manipulation Software. Proficiency is measured by comfort navigating specialized image manipulation software interfaces. Students must demonstrate the ability to locate and efficiently utilize various filtering tools within the software suite. The ultimate aim is applying these filters effectively to create highly desired image outcomes.
+
+Finally, the comprehensive scope involves Reflection and Application. Learners must be able to reflect critically on how these diverse techniques could be applied in varied, practical image processing scenarios. They must feel confident explaining their complete approach to other individuals. This comprehensive knowledge base prepares them to build on these techniques for more advanced image processing tasks in the future.

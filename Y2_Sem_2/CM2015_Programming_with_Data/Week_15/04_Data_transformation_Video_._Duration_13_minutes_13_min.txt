@@ -1,0 +1,26 @@
+# Data transformation
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/XZqWQ/data-transformation
+
+The process begins by preparing data for analysis, focusing on loading a CSV file originally derived from HTML. Key learning outcomes include extracting relevant fields, analyzing data formats, and correctly storing the processed data. Initially, the data contains columns like 'name,' 'price,' 'stock,' 'rating,' 'review,' and 'launch date.' First, the data preparation strategy involves extracting only relevant fields, such as isolating the product name from the 'name' column. For the 'price' column, the goal is to remove preceding tags and obtain only the numerical value as a float. Furthermore, all fields must be examined to ensure they conform to the proper data type (e.g., price as `float`, rating as `integer`, dates as `datetime`).
+
+The core tool utilized for all data transformations is the `map` function, which applies a specified function to every row within a single column of a DataFrame. For instance, applying a concatenate function via `map()` adds a string value to every single row in the chosen column. This method is essential for writing custom cleaning and extraction logic.
+
+To clean the product name, a custom function was implemented to parse and clean the text string. For handling the price, a function was needed to extract the numerical value while dealing with currency symbols.
+
+A specialized function, `extract_price`, was designed to handle price extraction from mixed text. This function effectively strips non-numeric characters to isolate the true monetary value.
+
+When transforming the rating, a string-parsing mechanism was used to extract the integer rating.
+
+For the price, the transformation involved stripping currency symbols and casting the result to a float.
+
+To create the clean data, the `map` function was applied across the columns using these custom transformation functions.
+
+The final clean data frame was constructed using these transformed, standardized columns.
+
+Finally, the DataFrame was displayed, showing the successful cleaning and standardization of the complex raw data.
+
+In conclusion, the transformation pipeline successfully cleaned and structured the raw dataset, making it ready for further analysis.

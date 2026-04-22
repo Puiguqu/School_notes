@@ -1,0 +1,8 @@
+# Using the Digital Forensics and Incident Response (DFIR) Framework for Operational Technology
+Reading•
+. Duration: 3 hours 45 minutes
+3h 45m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/w6akV/using-the-digital-forensics-and-incident-response-dfir-framework-for-operational
+
+In the videos, you explored core incident response and digital forensic practices, such as the National Institute of Standards and Technology (NIST) incident response lifecycle, forensic analysis techniques (e.g., hashing, timeline reconstruction) and the use of frameworks like the cyber kill chain and MITRE ATT&CK to structure decision-making in IT environments. This reading applies these principles to real-world OT environments, such as industrial control systems, supervisory control and data ...

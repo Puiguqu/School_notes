@@ -1,0 +1,8 @@
+# Dimensions for visualisation
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/27iZX/dimensions-for-visualisation
+
+Plots with three spatial dimensions are often difficult to interpret in two-dimensional mediums like monitors and on paper. What are the pros and cons to some alternatives, such as including more than two dimensions in a plot? Can you think of any other novel forms of data representation? What are the benefits and drawbacks of such data representation strategies? Write your thoughts in your study journal. Dimensions for visualisation Plots with three spatial dimensions are often difficult to interpret in two-dimensional mediums like monitors and on paper. What are the pros and cons to some alternatives, such as including more than two dimensions in a plot? Can you think of any other novel forms of data representation? What are the benefits and drawbacks of such data representation strategies? Write your thoughts in your study journal. Mark as completed Dislike Report an issue

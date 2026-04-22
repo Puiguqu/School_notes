@@ -1,0 +1,32 @@
+# How blockchain manages digital identity
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/zAGYT/how-blockchain-manages-digital-identity
+
+1. The preceding educational content guided users through the potential of blockchain technology.
+2. This potential lies in revolutionizing identity management systems.
+3. A major focus of this revolution is decentralized, user-controlled systems.
+4. These systems are specifically categorized as self-sovereign identity (SSI).
+5. Users have also examined the inherent technical, regulatory, and ethical challenges associated with these novel innovations.
+6. The current article serves as a comprehensive review of how blockchain technology manages digital identity.
+7. This review is designed to consolidate and reinforce the user's learning objectives.
+8. It connects abstract technical foundations to practical real-world challenges.
+9. Key areas of real-world focus include data privacy and effective governance models.
+10. Furthermore, the review introduces critical key distinctions between various identity types and frameworks.
+11. Specifically, readers must note the distinction between identity, identifiers, and credentials.
+12. These three terms are frequently used interchangeably, causing potential confusion in the field.
+13. The content will also review various architecture models proposed in the literature.
+14. It is crucial to understand how these proposed models specifically relate to self-sovereign identity concepts.
+15. Attention must be paid to the risks inherent in blockchain adoption.
+16. Significant open questions persist, particularly concerning privacy preservation.
+17. Standardization of identity processes remains a major hurdle.
+18. The long-term sustainability of these decentralized systems is also a key concern.
+19. This understanding of risks will influence the design of future blockchain identity systems.
+20. These insights are vital for designing robust governance structures in practice.
+21. Readers are directed to consult the source material: Rathee, T. and P. Singh.
+22. The article title is ‘A systematic literature mapping on secure identity management using blockchain technology.’
+23. This study was published in the Journal of King Saud University - Computer and Information Sciences.
+24. The publication details are Volume 34, Issue 8, Part B, in the year 2022.
+25. Users must also report any functional issues regarding the provided link via the designated Student Portal.

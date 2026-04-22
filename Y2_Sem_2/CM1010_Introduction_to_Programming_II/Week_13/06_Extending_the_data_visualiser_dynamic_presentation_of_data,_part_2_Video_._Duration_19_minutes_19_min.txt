@@ -1,0 +1,20 @@
+# Extending the data visualiser: dynamic presentation of data, part 2
+Video•
+. Duration: 19 minutes
+19 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/DxqtL/extending-the-data-visualiser-dynamic-presentation-of-data-part-2
+
+This demonstration details the process of creating a dynamic, data-driven visualization using an object-oriented approach, specifically to allow users to filter and view time-series data (e.g., product consumption over years).
+
+The workflow begins by initializing the visualization using provided data, structured around years. To enable filtering, the application incorporates an interactive button generation system, allowing the user to select a specific year. When a button is clicked, the core logic updates the visualization to display the data associated with that selected year.
+
+A critical structural change involves modifying the data model within the object itself. Instead of relying on a single data point, the object now stores year-by-year data points, necessitating a re-evaluation of how the object's visual size is determined. This is achieved by linking the visualization's internal state to the currently active year filter.
+
+Functionally, the application maps the clickable buttons directly to the available years. This linkage ensures that clicking a year button triggers a recalculation across the associated visual elements. The calculation logic must then correctly retrieve the magnitude of the metric (the item size) specific to the year selected by the user.
+
+To enhance the user experience, the visualization transitions from abrupt state changes to a smoother animation. This is accomplished by introducing an interpolation mechanism: when the year changes, the visual elements do not instantly jump to the new size; instead, they gradually scale from their previous size to the new target size over several frames.
+
+The mathematical underpinning of this animation involves calculating the difference between the current size and the target size, and then applying a small, iterative adjustment within the `draw()` loop. This controlled, gradual adjustment creates a perception of fluidity, significantly improving the perceived quality of the interaction.
+
+Finally, the visualization demonstrates the power of the filter mechanism by allowing immediate comparison. By cycling through years, the user can observe the rate of change in the data—for instance, monitoring if the consumption of a specific product has risen, fallen, or remained constant over time. This systematic comparison effectively transforms a static chart into an actionable, dynamic data storytelling tool.

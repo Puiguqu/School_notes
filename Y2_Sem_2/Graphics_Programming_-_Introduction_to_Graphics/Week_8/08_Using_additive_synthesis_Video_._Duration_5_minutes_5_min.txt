@@ -1,0 +1,18 @@
+# Using additive synthesis
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/J8QAH/using-additive-synthesis
+
+The session provides a deep dive into generative techniques, specifically focusing on additive synthesis for creating complex wave patterns. Additive synthesis involves combining multiple simple waves—such as sine waves—to generate intricate visual and auditory effects. To begin, a basic wave is visualized by defining vertices using code, setting the range from $x=0$ to $x=\text{width}$. The initial visualization of a wave uses a formula like $x \cdot \sin(\text{coordinate}) \cdot (\text{height} / 4)$ to create a foundational wave structure. For movement, the calculation must incorporate time dependence, typically by adding a term like $+\text{frameCount}$ to the coordinate variable.
+
+The concept of additive synthesis is demonstrated by layering waves, where a second wave (Wave 2) is added on top of the first (Wave 1). Wave 2 is shown to have a smaller amplitude and higher frequency, requiring separate scaling (e.g., dividing by 20) for distinct visualization. This combined process allows for the preservation of the large movements of Wave 1 while adding smaller, superimposed details from Wave 2. To add "magic," a third component, noise (Wave 3), is incorporated, which is itself treated as a wave function.
+
+The noise function requires specific scaling to prevent overly random output; thus, values are often divided by a large constant (e.g., 10) and multiplied by $\text{frameCount}$ (e.g., $\text{frameCount}/100 \cdot 100$). Combining Wave 1, Wave 2, and Wave 3 demonstrates the final, richly textured composition, where the noise gives an organic, fluid quality.
+
+The accompanying curriculum outlines a structured learning path, beginning with introductory modules on Week 1 (Graphics) and Week 2 (Vectors and Animation). Subsequent weeks cover physics and generative methods, including Week 3 (Forces and Physics) and Week 4/5 (Physics with Matter.js). Weeks 6 and 7 focus extensively on advanced generative techniques, specifically randomness and noise.
+
+Week 8 provides a technical refresh, covering trigonometry refresher videos and practice on polar to cartesian coordinates, and introduces the concept of oscillation for movement. The curriculum structure includes detailed readings and practice assignments for key topics like "Coding a circle" and "Coding oscillation." Following this, Week 9 continues into advanced sine and fractal generation, setting the stage for later modules.
+
+The program advances into major technical areas, dedicating Week 11 and 12 to 3D graphics development, expanding computational scope dramatically. Weeks 13, 14, and 15 systematically cover colors, images, and pixels, culminating in Week 15's dedicated image processing unit. The latter third of the curriculum focuses on advanced analysis: Week 17, 18, and 19 are devoted to computer vision, building complexity through sequential parts. The course structure concludes with Week 20, marked by final interviews and graded assignment submissions, completing the deep dive into digital content generation.

@@ -1,0 +1,8 @@
+# Inclusive security design
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/8slK6/inclusive-security-design
+
+Inclusive security design means building systems that serve everyone regardless of ability. When systems overlook accessibility, they can exclude users, encourage risky workarounds or even introduce new vulnerabilities. The following NCSC article emphasises that accessibility isn’t just ethical – it’s a cybersecurity imperative. Read: NCSC ‘ Accessibility as a cyber security priority ’, National Cyber Security Centre (n.d.). If this link is broken, please let us know via the Student Portal . Inc...

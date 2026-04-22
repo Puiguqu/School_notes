@@ -1,0 +1,18 @@
+# Colour tracking with blobs
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/ccghN/colour-tracking-with-blobs
+
+The text details an advanced implementation of computer vision for tracking multiple distinct objects, or "blobs." Initially, the goal is to improve tracking accuracy because previous code struggled to differentiate individual objects. The core improvement involves implementing a specific "distinction blob logic." This logic processes incoming coordinates by checking if they belong to any existing tracked object.
+
+The foundational element is the `blob` class, which tracks an object's location using its minimum and maximum boundaries. A blob is essentially defined by four values: $\text{min}x, \text{min}y, \text{max}x$, and $\text{max}y$. When a new point $(x, y)$ is added, the `add` method is responsible for updating these boundaries. This function utilizes mathematical operations to ensure the bounding box stretches to fit the new point, adjusting the min and max values accordingly.
+
+A critical function is $\text{isNear}$, which determines if a point belongs to the blob. This function first calculates the center of the current bounding box: $(\text{c}_x, \text{c}_y)$, using the average of $\text{min}$ and $\text{max}$. It then calculates the distance between this center and the new point. If this distance exceeds a specified threshold (e.g., 50 pixels), the point is considered a separate object.
+
+The tracking process begins by initializing a flag, $\text{found}$, to $\text{false}$. The system then iterates through the array of existing blobs. If the incoming point is $\text{isNear}$ any tracked blob, the coordinate is added to that specific blob's bucket. If, after checking all blobs, $\text{found}$ remains $\text{false}$, the system assumes the point belongs to a new object. In this case, a new blob is created with the current $(x, y)$ point and pushed onto the main `blobs` array.
+
+Beyond basic separation, maintaining the unique identity of each blob is a crucial advanced step. This is essential for multi-person tracking, such as two performers on a stage. To maintain ID integrity between consecutive frames, the system compares the average position of the new blob against all previously tracked blobs. The new blob is then assigned the unique identity (ID) of the closest existing blob. This ensures consistency, preventing an object from suddenly losing or adopting a different identity during movement.
+
+The technical structure involves utilizing an array ($\text{blobs}$) to store the multiple object instances. The overall logic dictates that points are either grouped into existing boundaries or initiate a new entry. The complexity of this system demonstrates sophisticated computer vision capable of handling object segmentation and persistent identity tracking.

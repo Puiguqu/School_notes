@@ -1,0 +1,16 @@
+# Scrape, store and analyse
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/wiLfi/scrape-store-and-analyse
+
+This session covers the second exploratory data analysis (EDA) activity: joining data sourced from a database. The core technical topics include understanding relational databases and utilizing SQL (Structured Query Language) to manage data. Furthermore, the activity demonstrates the critical integration between SQL principles and the pandas library. A practical focus is placed on using the concatenation operator within pandas to efficiently join two separate data frames.
+
+This activity builds directly upon the preceding module, which involved web scraping data from HTML and storing it into a CSV file. Specifically, one must assume the successful completion of Part 1 of the stupider notebook. Upon completion of that first stage, the resultant file is designated `practice.csv`. This `practice.csv` file is expected to contain data from the HTML page. It must be structured to include ten total items and six specific attributes. These attributes are: `price`, `in stock`, `rating`, `review`, and `launch date`.
+
+The second data source is an `items` database, which contains information similar to `practice.csv`. However, the `items` database includes additional crucial components. These added components include an `id`, corresponding to quantity, and a `product type`, specifically identified as 'electronics'. The primary task is therefore to load the `items` database into a pandas DataFrame. Following the loading, the user must compare the `items` database DataFrame with the existing `practice.csv` file. The objective is to successfully merge these two distinct datasets into a single, unified set.
+
+The required technical method within pandas for this operation is called `pd.concat`. Functionally, `pd.concat` accepts two or more data frames as input, formatted as an array. This function subsequently merges these inputs to form a larger, unified dataset. Critically, before executing the concatenation operation, a mandatory pre-condition must be met. This condition requires that both input data frames—the database and `practice.csv`—must possess the exact same number of columns. Utilizing techniques to read datasets into DataFrames is key. The resulting merged dataset must then be stored back into a new CSV file.
+
+In broader curriculum terms, the course structure details progress through various data tasks. Weeks 11 and 12 focus on the critical skill of retrieving data from the web. Weeks 13 and 14 are dedicated specifically to retrieving data from databases. Lesson 14.2 guides students through the process of scraping, storing, and analyzing data. Lesson 14.3 introduces the advanced programming activity: the Join operation, reinforcing data integration concepts.

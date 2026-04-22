@@ -1,0 +1,8 @@
+# Source code for weeks 13 + 14
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/8hDto/source-code-for-weeks-13-14
+
+Below you'll find the source code for all examples demonstrated in weeks 13 + 14 in this course. Please use the emptyExample files below as a starting point for all coding projects. This ensures that everything we have taught you in the videos will work with the specific version of P5.js we are providing below. weeks 13 + 14 - colors, images, pixels emptyExample Source code for weeks 13 + 14 Below you'll find the source code for all examples demonstrated in weeks 13 + 14 in this course. Please use the emptyExample files below as a starting point for all coding projects. This ensures that everything we have taught you in the videos will work with the specific version of P5.js we are providing below. weeks 13 + 14 - colors, images, pixels emptyExample Mark as completed Dislike Report an issue

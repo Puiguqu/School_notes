@@ -1,0 +1,18 @@
+# Introduction to development environments
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/1Uqn6/introduction-to-development-environments
+
+The Jupyter Notebook serves as a primary development environment for writing interactive Python programs, combining both code and data within a single interface. Understanding the structure involves noting the title, menu, toolbar, and the specialized cells where programming takes place. These cells are organized into distinct types, primarily Code, Markdown, and Raw. By default, a cell is set to the Code type, allowing users to write and compile programming snippets, such as the "Hello World" program using a `print` statement. To execute the code in a cell, the user must press `Shift-Enter` to compile and view the output.
+
+Beyond code, the Jupyter environment supports Markdown cells, which are essential for adding documentation and improving code literacy through freeform text. Markdown cells also allow for the creation of headings and titles using hash symbols (`#`). There are six levels of hash symbols available, ranging from the single hash for the largest and boldest text to six hashes for the smallest possible heading size.
+
+Furthermore, markdown facilitates structured lists, which can be either unlisted or listed. To create an unlisted bullet point, the user types a hyphen symbol followed by a space (`- `). To create a listed bullet point, the syntax requires adding a number followed by the name of the bullet point. Utilizing a combination of code and markdown makes it possible to organize Jupyter Notebook cells for maximum readability and ease of use for programmers.
+
+In terms of structured learning, the course provides a comprehensive syllabus spanning 22 weeks, beginning with an introduction to the syllabus, careers, and basic Python applications. Week 1 focuses on development environments, covering Jupyter Notebook basics and practical assignments. Week 1.3 delves into foundational concepts, specifically introducing variables, which are crucial for calculations and assignments.
+
+The subsequent weeks systematically build advanced skills in data programming. Topics progress through mastering data types, control flow, and functions (Week 3). Program writing expands to include lists and control flow (Week 4) and general data structures (Week 5). Weeks 6 and 7 address advanced programming concepts like pattern matching with strings. Data persistence is covered through reading and writing data to the file system and databases (Weeks 7 & 8).
+
+Later topics focus on specialized data handling: text processing and language processing (Weeks 9 & 10). The curriculum emphasizes data retrieval, dedicating two weeks each to web data retrieval (Weeks 11 & 12) and database data retrieval (Weeks 13 & 14). Following data acquisition, the focus shifts to data management and cleaning (Week 15) and advanced transformations (Week 16). The later modules cover crucial analytical phases, including data analysis and visualization (Week 17), and exploratory analysis for language processing (Week 18). The course concludes with advanced topics in Python and data programming (Week 19), advanced feature extraction (Week 20), a full revision (Week 21), and a final exam (Week 22).

@@ -1,0 +1,34 @@
+# Basic elements of matter.js
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/IOAFz/basic-elements-of-matter-js
+
+This summary details the practical implementation of a physics simulation using the Matter.js library within a p5.js environment.
+
+1. The process begins by accessing the matter.js website to navigate the documentation via the Wiki and the Getting Started section.
+2. The initial goal is to set up a simple example using the physics calculations provided by the matter.js library.
+3. Crucially, the developer utilizes module aliases, such as calling `Matter.Engine` simply as `Engine`, which streamlines subsequent code calls.
+4. The core engine is created using the command: `engine = Engine.create()`.
+5. Since the p5.js library's rendering mechanism will be used, the dedicated Matter.js render is ignored for this specific implementation.
+6. Objects (or bodies) are initialized, such as creating the first body, `box1`, via: `box1 = bodies.rectangle(x, y, 80, 80)`.
+7. All created objects must be explicitly added to the simulation world using `World.add(world, object)`.
+8. Instead of using the `Engine.run()` command, the simulation is updated every drawing loop using `Engine.update(engine)`, which is essential for continuous physics.
+9. To render the objects, the code must obtain the body's physical properties, such as position and angle.
+10. Drawing requires applying transformations using `push()` and `pop()` for safety, setting `var pos = box1.position` and then `translate(pos.x, pos.y)`.
+11. The physical rotation is retrieved using `box1.angle`, and the object is then drawn at origin using `rect(0, 0, 80, 80)`.
+12. To create a ground surface, a second body, `ground`, is created: `ground = bodies.rectangle(400, 500, 810, 10)`.
+13. To ensure the ground does not fall with the physics simulation, the body's options are set to declare it as static: `options = { isStatic: true, ... }`.
+14. The angles used in the physics world must be handled in radians, requiring calculations like `Math.PI * 0.06`.
+15. The system's coordinate system requires the `rectMode` to be set to `center` because matter.js defines rectangles relative to their center point.
+16. Enhancements to the physics properties are applied to make the simulation more realistic and engaging.
+17. The `restitution` value is used to control bounciness, defining the energy returned after a collision (e.g., `restitution: 0.8`).
+18. `friction` is introduced to simulate resistance between surfaces, damping movement over time (e.g., `friction: 0.5`).
+19. To optimize the code and avoid repetition (DRY principle), a dedicated function, `drawVertices`, is written.
+20. This function accepts a body and efficiently draws its shape by processing its vertices internally, eliminating complex transformation code.
+21. The simplified drawing process only requires passing the body object to the new function: `drawVertices(box1.vertices)`.
+22. The documentation for properties (like `density`, `friction`) is accessed by searching the appropriate body object in the documentation.
+23. The initial setup involves creating the bodies and defining their physical attributes.
+24. The system requires continuous updates to simulate dynamic physical interactions.
+25. The structure of the final code separates initialization, the main update loop, and the drawing routine.

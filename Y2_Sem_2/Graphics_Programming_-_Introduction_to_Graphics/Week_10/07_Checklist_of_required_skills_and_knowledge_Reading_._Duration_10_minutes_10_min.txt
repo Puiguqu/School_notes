@@ -1,0 +1,16 @@
+# Checklist of required skills and knowledge
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/ShOgC/checklist-of-required-skills-and-knowledge
+
+To successfully complete the assignment, mastery across five technical domains is required, starting with the core concepts of graphics, vectors, and object-oriented programming. Candidates must master 2D transformations, including scaling, rotating, and translating objects dynamically in 2D space. Understanding vector properties and performing vector arithmetic—specifically addition, subtraction, and the dot product—is crucial for programming object motion. Furthermore, Object-Oriented Programming (OOP) must be utilized through classes and objects to model and simulate complex systems, such as a solar system.
+
+The next core area involves applying physical principles to animation, requiring knowledge of fundamental forces like gravity, friction, and collision mechanics. This requires utilizing a physics engine, such as matter.js, to simulate realistic physical interactions and forces. Practical skills involve implementing particle systems and advanced collision detection, which dictates basic responses like bouncing or stopping upon impact.
+
+A deeper exploration of physics entails advanced usage of Matter.js, covering bodies, constraints, and composites to create interconnected physical objects. This module introduces generative art by applying randomness and noise to create dynamic, algorithmic systems. Understanding generative art involves defining its characteristics and applying randomness effectively in complex, evolving systems.
+
+Generative techniques rely heavily on recursive patterns and fractals for detailed, repetitive designs. Candidates must understand recursion and implement recursive functions to create fractal systems. Oscillatory movement and intricate shapes are achieved using trigonometric functions in conjunction with concepts of additive synthesis. This synthesis technique combines multiple simple animations to construct complex, generative systems.
+
+Finally, the knowledge transitions to procedural generation, specifically for applications within games. Candidates must grasp how procedural generation techniques create complex visuals and analyze its benefits and limitations in gaming contexts. Applying advanced art techniques, such as polar coordinates and oscillatory functions, is necessary for developing generative patterns. A critical final skill is connecting this technical knowledge to professional insights by analyzing real-world generative work, such as that of Andy Lomas. This comprehensive mastery ensures the student can explain and implement all these generative and physics systems.

@@ -1,0 +1,30 @@
+# Running your first program with Visual Studio Code
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/xeH0K/running-your-first-program-with-visual-studio-code
+
+This video discussion focuses on technical tool transitions and the module's structural flow.
+The instructor begins by addressing the code editor used throughout the module's videos.
+They note that while the Brackets editor was used previously, it has been retired and is no longer recommended.
+A successor, Phoenix Code, exists and can be downloaded from the link within the Brackets application.
+However, for the current module, the strong recommendation is to use Visual Studio Code (VS Code).
+VS Code is presented as an industry-standard, highly flexible tool with significant power.
+The drawback of VS Code, however, is that its power introduces complexity, making it potentially difficult for new users.
+Users selecting VS Code must ensure they install and understand the use of the Live Server extension.
+Reference to Introduction to Programming Part 1 is given for users needing clarification on installing and utilizing the Live Server extension.
+Demonstratively, the instructor shows loading an application into VS Code and clicking the Live button, utilizing the extension.
+A key new process demonstrated is how to integrate additional files into the project structure.
+This is accomplished by clicking the File button and then selecting "New File" within VS Code.
+The user then names the new file, such as `bubbles.js`, and clicks "Create File" to add it to the file explorer.
+This procedure successfully places the new file at the top of the left-hand file explorer panel.
+The method for managing multiple files in VS Code supersedes the previous file addition method described in Brackets.
+The structural content provides a comprehensive module syllabus spanning multiple weeks.
+Week 1 introduces core concepts like Object Orientation in practice, featuring lessons on module syllabus, getting started, and running the first program.
+Specific exercises include "Objects in practice" (Parts 1 and 2) and a "Revising objects" practice assignment.
+The early weeks build toward practical application, introducing case studies, starting with the drawing app in Week 3.
+This progression continues with Case Study 2: the music visualiser in Week 5, followed by Case Study 3: data visualisation in Week 7.
+The later weeks focus on advanced topics, including extending apps (Weeks 9-14) and mastering callbacks (Weeks 15-16).
+The latter half of the module addresses quality assurance, covering testing for stability (Weeks 17-18) and testing with users (Weeks 19-20).
+The module concludes with a comprehensive project and report assignment, structured across Weeks 21 and beyond.

@@ -1,0 +1,8 @@
+# Week 9 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/saUab/week-9-summary
+
+This week, you explored generative art and design techniques, focusing on sine waves and fractals. You learned about polar coordinates, oscillation, additive synthesis, and recursion as foundational concepts in generative systems. By the end of the week, you should be able to use trigonometry to create shapes, apply oscillation in coding to produce movement, implement additive synthesis techniques in generative systems, and develop recursive systems to create fractal patterns. These skills provi...

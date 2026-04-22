@@ -1,0 +1,8 @@
+# Sustainability and ethics in computing
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/d7EPu/sustainability-and-ethics-in-computing
+
+This is an example of taking a sustainability issue and turning it into a solution. One thing produces too much heat? Let’s take that heat and put it somewhere useful! I love this example because it does not just start with the assumption that emissions are a problem, it looks at how to best mitigate the challenge and turns it into a utility rather than a problem! Kleinmann, Z. ‘Tiny data centre used to heat public swimming pool’, BBC News (2023). If this link is broken, please let us know via t...

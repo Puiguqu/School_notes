@@ -1,0 +1,16 @@
+# Techniques to interactively explore data
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/NoyO8/techniques-to-interactively-explore-data
+
+This guide demonstrates the powerful combination of SQL and the Pandas library for interactive data exploration. Initially, the process requires importing both the `pandas` and `sqlite3` libraries. The `sqlite3` module is utilized to establish a connection to the existing `items` database. To retrieve data, the recommended method is using the `pd.read_sql_query()` function within Pandas. This function accepts two primary inputs: a query string (e.g., `select all values`) and the established database connection object. The output of this operation is a structured Pandas DataFrame, which mirrors the columns of the source database table. This establishes a one-directional data flow, allowing Pandas to read data effectively from SQL.
+
+Crucially, the connection is designed to be bidirectional, enabling modifications made in Pandas to be written back to the underlying database. Before modification, it is necessary to inspect the data types within the imported DataFrame. Key types identified include `id` (integer), `name` (object/string), `price` (float), and `stock` (integer). Furthermore, the `launch_date` column is imported as a string object, necessitating conversion to a datetime format using Pandas capabilities.
+
+The first update activity involves modifying specific values using `df.loc`. For example, to set the `in_stock` values to zero for all products named 'Product A', the syntax `df.loc` is employed. After modifying the DataFrame, these changes are written back to the database using the `to_sql()` command. This function requires the target database name, the connection object, and essential parameters. These parameters include setting `if_exists='replace'` and, critically, setting `index=False` because the database already contains a primary key.
+
+Verification of the changes is achieved by executing a standard SQL `select all values` query and fetching the results. A second update activity demonstrates modifying the database schema by dropping a column. This is performed on the DataFrame using the `df.drop()` method, specifying the column name and setting the `axis` parameter to 1 for columns. After dropping the column, the modified DataFrame is written back to the database using `to_sql()`.
+
+The final verification confirms that the database structure now correctly reflects the deletion, showing only four columns. This workflow showcases the full power of Pandas and SQL. The combination provides a robust, interactive method for reading, analyzing, and performing complex data transformations within environments like the Jupyter Notebook.

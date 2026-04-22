@@ -1,0 +1,18 @@
+# Handling JSON files in Python
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/2rwOQ/handling-json-files-in-python
+
+JSON (JavaScript Object Notation) is a common, machine and human-readable format for representing data, independent of specific programming languages. Its structure is comparable to a Python dictionary, utilizing key-value pairs separated by a colon. Standard JSON files frequently exhibit nesting, where keys are typically strings and values can be basic data types (int, float, array, list) or even other nested dictionaries/objects. Top-level JSON objects, such as those observed in the example, may contain a key named `data`, which houses other objects or arrays.
+
+To process JSON data in Jupyter Notebook, the recommended tool is the pandas library, imported as `pd`. Pandas provides a `read_json()` function, analogous to the `read_csv()` function, which accepts the file name and returns the contents as a DataFrame. When accessing data, one must navigate the nested structure, first entering the top-level key (e.g., `data`) and then the specific subcategory key (e.g., `calories`). To retrieve a specific value within an array, positional indexing is necessary, where zero corresponds to the first element.
+
+Automating data analysis requires combining `for` loops with scientific libraries like NumPy. To calculate the mean of a category, the `numpy.mean()` function accepts an array and returns its mean value. Similarly, `numpy.sum()` can be used to compute the total sum of values within an array.
+
+The transcript details two types of JSON nesting: first, where the values are simple arrays, and second, where the values form a nested dictionary of objects. When dealing with the latter, a specific category is accessed using object notation, such as `df2['data']['calories']`. A procedural approach to looping through these nested structures is essential for comprehensive analysis.
+
+To summarize the values in a complex nested dictionary, the loop must first iterate through the main key (`x` in `df2['data']`). To calculate metrics like the mean or sum, the specific value function of `x` must be accessed to extract only the value components, which are then converted into a list and finally processed by NumPy functions.
+
+(Curriculum Context) The course structure progresses through various topics, starting with Python basics (Week 2) and expanding to data structures (Week 5). Subsequent weeks cover pattern matching with strings (Week 6), file handling (Week 7), and data frame exploration. Later topics include advanced data manipulation, such as processing text data (Week 9), language processing (Week 10), and retrieving data from the web and databases (Weeks 11-14). The final units focus on data cleaning (Week 15), data transformations, and advanced data programming concepts.

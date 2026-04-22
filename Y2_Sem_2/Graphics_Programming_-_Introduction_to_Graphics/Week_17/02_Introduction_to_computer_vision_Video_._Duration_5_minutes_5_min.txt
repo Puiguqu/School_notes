@@ -1,0 +1,32 @@
+# Introduction to computer vision
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/lySYZ/introduction-to-computer-vision
+
+1. Computer vision is defined as an interdisciplinary field that develops techniques enabling computers to make intelligent assertions about digital images and video.
+2. Unlike simple data acquisition—such as merely taking images from a camera—CV requires the processing of data to allow the computer to make decisions.
+3. In this context, "decision" means transforming visual images into descriptions of the world that can interface with other thought processes and elicit appropriate action.
+4. Examples of CV tasks include determining if faces are present and locating them in an image, or analyzing if a person is smiling or surprised.
+5. The foundational challenge of computer vision has been recognized since 1966 by pioneers like Marvin Minsky, illustrating that the problem remains complex even today.
+6. Historically, scientists have often misclassified the difficulty of problems, once believing that challenges related to senses (like hearing or vision) were simpler than those involving higher brain functions.
+7. The complexity of CV is highlighted by the fact that while Deep Blue beat the world chess champion, CV systems lagged far behind in equivalent human vision tasks.
+8. Human vision is inherently automatic, occurring so fast that failure in even a small circuit can impair understanding, as seen in conditions like prosopagnosia (face blindness).
+9. CV tasks are fundamentally used to identify the unique superiority of human ability over machines.
+10. The process of vision begins with the signal reaching the brain, as the image captured by the retina is considered low quality.
+11. Consequently, it is the brain, not merely the eye, that facilitates the process of seeing.
+12. Multiple circuits analyze the signal at various levels, including specialized circuits for detecting vertical lines, horizontal lines, and movements.
+13. The human brain builds a robust world model by combining signals from multiple sources, such as vision, the soles of the feet, and the ears.
+14. Furthermore, human vision is not immediately innate; babies are born almost blind, requiring years of training to fully execute adult vision tasks.
+15. The brain also possesses a critical attention system that filters a deluge of visual information, allowing focus on relevant details while discarding irrelevant data.
+16. The transcript notes that, technically, any raw math data or image array consists only of pixels containing numbers.
+17. Crucially, without special programming, a machine is incapable of making any semantic assertion about an image.
+18. The entire field of computer vision emerged specifically to fill the critical gap for this necessary programming.
+19. In terms of technical workflow, navigation controls allow users to move through the transcript using the Tab key.
+20. To save a note for a specific section of text, the system utilizes the command CTRL + S.
+21. Selection can be expanded using CTRL + arrow key, while contraction uses the combination of Shift + CTRL + arrow key.
+22. For accessibility, screen readers incompatible with arrow key shortcuts can utilize the H, J, K, and L keys instead.
+23. The conceptual progression moves through modules, such as "Week 13 Colours, images, pixels" and "Week 15 Image processing."
+24. CV training is structured across multi-part lessons, including "Week 17 Computer vision - part 1" and subsequent modules.
+25. The curriculum culminates in advanced topics covering "Colour tracking," "Brightness tracking," and "Cool projects with brightness or colour tracking."

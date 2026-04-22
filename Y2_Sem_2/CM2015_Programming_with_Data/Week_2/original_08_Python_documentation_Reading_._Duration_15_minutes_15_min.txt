@@ -1,0 +1,8 @@
+# Python documentation
+Reading•
+. Duration: 15 minutes
+15 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/GfU54/python-documentation
+
+The following is the official Python documentation regarding packages. Please read it carefully – make notes if that is helpful to you. Please read from Section 5 ("The import system") up until the start of the heading 5.3 ("Searching"). Python ‘ The import system ’ (n.d.). If this link is broken, please let us know via the Student Portal . Python documentation The following is the official Python documentation regarding packages. Please read it carefully – make notes if that is helpful to you. Please read from Section 5 ("The import system") up until the start of the heading 5.3 ("Searching"). Python ‘ The import system ’ (n.d.). If this link is broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

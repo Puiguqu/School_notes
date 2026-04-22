@@ -1,0 +1,8 @@
+# Impact of errors
+Reading•
+. Duration: 20 minutes
+20 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/0Hns8/impact-of-errors
+
+Outliers in data directly affect aggregate properties like the mean, median and mode, but not all metrics are impacted equally. Answer the following questions about this small dataset of product prices, to understand the impact of outliers on data statistics: Prices: 20, 22, 19, 21, 5000, 18, 19, 22 Can you identify the outlier(s) in the data? Can you estimate the mean, median and mode of the data? Do not calculate the actual values, only estimate the ranges (e.g. the mean is between 50–60). If ...

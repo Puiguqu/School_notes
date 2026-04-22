@@ -1,0 +1,34 @@
+# Background subtraction
+Video•
+. Duration: 18 minutes
+18 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/W22A3/background-subtraction
+
+**Background Subtraction: A Comprehensive Overview**
+
+Background Subtraction is a foundational technique in computer vision used to isolate moving objects (foreground) from a static or slowly changing scene (background) within a video stream. The core principle relies on modeling what constitutes "normal" or quiescent data—the background—and flagging any significant deviation from this model as the object of interest.
+
+**Technical Methodology and Implementation**
+
+The process operates by establishing a baseline model of the background environment, pixel by pixel. When new frames arrive, the system compares the current frame's pixel values against the stored background model. This comparison is not absolute; rather, it involves a statistical comparison across multiple frames to account for minor variations due to natural noise or slight camera jitters.
+
+If the difference between the current pixel value and the expected background value exceeds a predefined threshold, the pixel is classified as foreground. This mechanism generates a binary mask, where white pixels represent detected motion or objects, and black pixels represent the presumed background.
+
+**Algorithmic Refinements and Stability**
+
+To enhance robustness, advanced algorithms incorporate temporal filtering. Simple pixel-by-pixel subtraction can be highly susceptible to noise or sudden, non-object-related lighting changes. Therefore, sophisticated implementations employ methods like Gaussian Mixture Models (GMMs) which adaptively update the background model, allowing it to slowly accommodate gradual changes (e.g., changing seasons or slight camera drift) without erroneously flagging them as foreground.
+
+**Code Structures and Data Flow**
+
+In practical programming terms, the process involves three key components:
+
+1.  **The Background Model:** A data structure (e.g., a statistical model) that stores the probability distribution of pixel intensities for every location in the scene over time.
+2.  **The Difference Calculation:** A mathematical operation comparing the current frame ($\text{Frame}_t$) to the expected background ($\text{BackgroundModel}$).
+3.  **Thresholding and Mask Generation:** Applying a threshold ($\tau$) to the resulting difference array ($\text{Difference} = |\text{Frame}_t - \text{BackgroundModel}|$). Any $\text{Difference} > \tau$ triggers a foreground event, populating the mask.
+
+**Challenges and Limitations**
+
+While powerful, Background Subtraction faces inherent challenges. The primary limitation is the assumption that the background is entirely static or predictable. If the camera or lighting conditions undergo abrupt, radical changes (e.g., moving from indoors to outdoors), the existing background model becomes invalid, leading to significant false-positive detections. Furthermore, shadowing or partial occlusions can confuse the system, requiring manual tuning of the $\tau$ value for optimal performance.
+
+In summary, Background Subtraction provides a highly effective framework for motion detection, transforming raw video data into meaningful, segmented data streams that enable subsequent tasks such as object tracking, counting, and behavioral analysis.

@@ -1,0 +1,67 @@
+# Adding and deleting multiple bodies
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/LCeRH/adding-and-deleting-multiple-bodies
+
+This process details how to manage the lifecycle of dynamically generated physical objects (like falling blocks or projectiles) within a simulation environment, focusing on efficient object cleanup to prevent performance degradation.
+
+The core concept involves three stages: **Initialization**, **Simulation/Rendering Loop Management**, and **Cleanup/Deactivation**.
+
+### 1. Object Initialization and Structure
+
+When a new object is created, it must be initialized in the physics engine's world.
+
+**A. Object Definition:**
+The object is instantiated, receiving properties like position, velocity, and dimensions.
+
+**B. Integration into the Simulation World:**
+Crucially, the object must be added to the physics world:
+$$\text{world.add}(\text{box})$$
+This step allows the engine to track the object's physical state (applying gravity, calculating collisions, etc.) during the simulation update cycle.
+
+**C. Storing References:**
+The object reference must be stored in a dedicated array or list (e.g., `activeObjects`) to ensure it is accessible for the main game loop iteration.
+
+### 2. Simulation Loop Management (The Tick)
+
+In the main loop, physics updates and drawing occur. The most critical part of this phase is determining if an object has finished its useful life.
+
+**A. Physics Update:**
+The simulation world must be advanced for a fixed time step ($\Delta t$):
+$$\text{world.step}(\Delta t)$$
+This calculation updates the position and velocity of all active objects.
+
+**B. Detection of Termination Condition:**
+After the physics step, every active object must be checked against its termination criteria. Common conditions include:
+1. **Collision:** The object hits a designated "ground" or "safe" object.
+2. **Boundary:** The object falls outside the visible or simulation-defined boundaries (e.g., below $Y=-100$).
+3. **Time Limit:** The object has existed for too long.
+
+**C. Iteration and Flagging:**
+A loop iterates over the `activeObjects` list. Any object that satisfies the termination condition is flagged for removal.
+
+### 3. Cleanup and Deactivation (The Key Optimization)
+
+If an object is merely flagged, it remains in the physics world, consuming computational resources even if it is invisible. Proper cleanup requires removing the object from the **simulation world** *and* the **active object list**.
+
+**A. Removing from the World (Crucial Step):**
+The flagged object must be explicitly removed from the physics world:
+$$\text{world.remove}(\text{box})$$
+This step immediately tells the physics engine to stop calculating forces, collisions, and movements for that specific object, drastically improving performance.
+
+**B. Deleting the Reference:**
+The object reference must then be removed from the application's list of active objects (`activeObjects.remove(box)`). This prevents the object from being processed in future iterations of the loop.
+
+### Summary of the Optimized Workflow
+
+The overall process within the game loop must look like this:
+
+$$\text{For each box in activeObjects:}$$
+$$\quad \text{world.step}(\Delta t) \text{ (Update all boxes)}$$
+$$\quad \text{If (box hits ground) OR (box out of bounds):}$$
+$$\quad \quad \text{world.remove}(\text{box}) \text{ (Stop simulation calculations)}$$
+$$\quad \quad \text{activeObjects.remove}(\text{box}) \text{ (Remove from iteration list)}$$
+
+By systematically removing the object from the physics world upon its demise, we prevent "zombie objects"—entities that are no longer visible or relevant but continue to consume CPU cycles in background physics calculations.

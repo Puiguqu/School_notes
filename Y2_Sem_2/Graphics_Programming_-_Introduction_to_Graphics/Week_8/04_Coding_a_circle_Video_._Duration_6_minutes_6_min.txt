@@ -1,0 +1,22 @@
+# Coding a circle
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/hQpQH/coding-a-circle
+
+The core technical focus involves manipulating graphics using radial coordinates, specifically transitioning from polar to Cartesian coordinates. To initiate a pattern, the speaker first creates a "circle of circles" or a "circle of ellipses." The fundamental steps require setting the center of the canvas at (width/2, height/2) and employing a `for` loop to iterate through angles. A key concept is the conversion from polar coordinates ($r, \theta$) to Cartesian coordinates ($x, y$) using the formulas $x = \cos(\theta) \times \text{radius}$ and $y = \sin(\theta) \times \text{radius}$. For implementation, the radius must first be defined, for example, as `var radius = 200`.
+
+To correctly calculate trigonometric functions using the P5 library, the speaker identifies the necessity of using degrees rather than radians, changing the internal setting to `angleMode(DEGREES)`. Initially, an ellipses is drawn inside the loop, using a constant angular step, such as every 20 degrees, thus generating a regular, petal-like pattern.
+
+To create animation, the `for` loop is removed, and the angle $\theta$ is replaced by a time-varying variable, specifically `theta = frameCount`. Since `frameCount` counts frames starting from 1 and increases rapidly (e.g., 60 times per second), this causes the object to continuously rotate, demonstrating dynamic movement.
+
+The periodicity of sine and cosine functions is noted, as the values remain between -1 and 1 regardless of how large $\theta$ becomes, which facilitates continuous rotation and cyclical patterns. To generate the Archimedean spiral, the technique involves letting the radius increase gradually, thus making the radius variable (instead of static) and proportional to the angle. Specifically, the radius calculation must be adjusted to take smaller steps, such as dividing `frameCount` by 10, allowing for a smoother spiral trajectory.
+
+Beyond the graphics techniques, the provided curriculum outlines a comprehensive sequence of generative and computational topics across multiple weeks. Week 1 introduces fundamental graphics concepts, building into Week 2's focus on Vectors and animation. Subsequent weeks delve into physical modeling, covering Forces and Physics (Week 3) and Matter.js applications (Weeks 4 and 5).
+
+Generative techniques are explored in depth during Weeks 6 and 7, concentrating on randomness and noise functions. The skill set expands dramatically in Week 8, covering trigonometry, including polar to Cartesian coordinates, and demonstrating concepts like the Maurer rose. Week 9 continues with advanced generative techniques involving sine and fractals.
+
+The curriculum structure highlights specialized areas of study, including Oscillations, which are taught through dedicated videos and assignments. Furthermore, Weeks 8 and 9 cover "Additive synthesis," detailing its use on a circle structure. Following these generative art techniques, the syllabus advances into advanced visual topics.
+
+Later weeks are dedicated to immersive data processing: Week 11 and 12 cover 3D graphics, while Weeks 13, 14, and 15 detail the manipulation of Colours, images, and pixels. The sequence culminates in specialized fields such as Image processing (Weeks 15 and 16) and Computer vision, which is broken down into three distinct, advanced parts (Weeks 17, 18, and 19), concluding with final submissions and interviews in Week 20.

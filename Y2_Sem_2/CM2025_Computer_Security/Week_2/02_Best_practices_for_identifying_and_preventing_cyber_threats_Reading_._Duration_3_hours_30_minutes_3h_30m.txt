@@ -1,0 +1,8 @@
+# Best practices for identifying and preventing cyber threats
+Reading•
+. Duration: 3 hours 30 minutes
+3h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/uyyf2/best-practices-for-identifying-and-preventing-cyber-threats
+
+Building on our exploration of cyber threat intelligence (CTI) and mitigation strategies, this reading expands the focus from the collection and application of intelligence to the wider ecosystem of vulnerabilities and attacks that intelligence seeks to address. This article situates CTI within the broader landscape of cyber risk and resilience, offering a comprehensive reference point for understanding not only how organisations gather and apply intelligence, but also what kinds of threats and ...

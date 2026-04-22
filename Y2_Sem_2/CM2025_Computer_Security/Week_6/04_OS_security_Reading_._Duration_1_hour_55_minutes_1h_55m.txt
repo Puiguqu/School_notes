@@ -1,0 +1,8 @@
+# OS security
+Reading•
+. Duration: 1 hour 55 minutes
+1h 55m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/DQA0D/os-security
+
+The purpose of this reading is to examine why mainstream operating systems such as UNIX and Windows fall short of secure design requirements. It highlights the historical development of their protection mechanisms, explores their inherent weaknesses, and illustrates how common vulnerabilities create persistent risks in digital infrastructures. Read: Jaeger, T. Operating system security. (Cham: Springer Nature Switzerland, 2022) Chapter 4: Security in ordinary operating systems. This reading is i...

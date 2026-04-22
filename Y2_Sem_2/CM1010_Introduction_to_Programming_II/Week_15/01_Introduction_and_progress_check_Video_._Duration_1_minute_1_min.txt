@@ -1,0 +1,16 @@
+# Introduction and progress check
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/Lns1G/introduction-and-progress-check
+
+This course structure provides a comprehensive journey through software development best practices, focusing heavily on Object-Oriented Programming (OOP) principles. The program unfolds over a rigorous 21-week period, initially tackling OOP in practice across the first two weeks. The subsequent weeks introduce three major case studies to ground theory in real-world applications. Week three begins with Case Study 1, a drawing application, which continues into Week 4. Following this, Week 5 introduces Case Study 2: a music visualiser, with further development content provided in Week 6. Case Study 3, focusing on data visualisation, is introduced in Week 7 and explored in greater depth during Week 8.
+
+The core development phase continues through Weeks 9 to 14, where students are actively tasked with extending the functionality of the existing applications across three parts. This intense period of extension is critical for solidifying practical coding skills. Mid-course evaluation is mandated by the midterm assignment, a key milestone that helps students gauge their overall progress. The material then shifts focus to advanced programming concepts, beginning in Week 15 with Topic 8: Callbacks.
+
+The study of asynchronous function calls is essential, making 'Callbacks' a pivotal technical topic in Week 15. Specific lessons include an introduction and progress check, a 'Gantt chart check-in/evaluation' reading, and dedicated practical sessions on using callbacks. These detailed lessons underscore the need for asynchronous programming mastery. Following the initial callback coverage, the material continues in Week 16 to reinforce the concept.
+
+The remaining weeks transition into specialized development phases focused on stability and user interaction. Week 17 introduces Topic 9: Testing for stability, an area of crucial importance in software engineering. This theme is further developed in Week 18, solidifying the concept of robustness. Weeks 19 and 20 are dedicated to Topic 10: Testing with users, emphasizing user experience and real-world validation.
+
+The final weeks consolidate learning, culminating in the Project and Report assignment in Week 21. During the later stages, the instructional videos become fewer, reflecting a necessary shift in focus toward project completion rather than new content delivery. Students are advised to focus intensely on the completion of their project and final report. If students feel overwhelmed, the recommendation is to tackle one extension at a time to maintain direction. Maintaining meticulous notes and saving all diagrams and sketches are critical advising points for successful completion. The syllabus highlights that a particularly difficult-to-bug challenge awaits testing near the end of the program.

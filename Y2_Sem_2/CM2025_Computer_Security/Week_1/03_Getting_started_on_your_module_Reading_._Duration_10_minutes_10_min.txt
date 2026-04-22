@@ -1,0 +1,32 @@
+# Getting started on your module
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/6Ppro/getting-started-on-your-module
+
+1. The module team offers a very warm welcome and encourages students to familiarize themselves with the module structure and forthcoming tasks immediately.
+2. A crucial initial step is reviewing the module syllabus to gain a comprehensive understanding of the subject matter.
+3. Students must review the designated learning outcomes found within the syllabus, which summarize the key knowledge and skills expected upon completion.
+4. Furthermore, careful attention should be paid to the assessment section of the syllabus to understand the module's passing requirements.
+5. For first-time students or those needing to deepen their understanding of the Coursera platform, the Orientation course is highly recommended.
+6. This Orientation course serves as a key resource for discovering tools necessary for academic success throughout the program.
+7. Throughout the program, proficiency in using three primary communication tools—discussion forums, Slack, and Zoom—will be essential.
+8. Detailed information and usage guidelines for these vital communication tools can be found within the Orientation course module.
+9. Engagement should commence by greeting classmates in the designated discussion forum titled ‘Getting to know each other.’
+10. Before participating in the forums, students are advised to thoroughly review the guidelines on usage, ensuring adherence to all essential rules.
+11. The Orientation course also provides further information regarding live webinars and access to specialized academic support.
+12. The Online Library is a critical resource, and its dedicated tutorial provides a wealth of information and support for all studies.
+13. Students are strongly encouraged to utilize Studiosity, a new online service that the University is currently piloting for academic writing support.
+14. Studiosity offers additional assistance and refresher topics for any academic area where the student may require supplementary help.
+15. Attention must also be given to the University of London’s Careers Service, which assists students throughout their professional journey.
+16. The Careers Service is supportive, whether the student is classified as a career starter, a career developer, or a career changer.
+17. The resources provided by the Careers Service are designed to help individuals regardless of their current location or stage in their career.
+18. Understanding how to enhance career prospects and utilizing the Career Service’s offerings can be read more about on the Orientation course.
+19. Aligning current academic study with future career goals is emphasized as the primary method for maintaining motivation and academic momentum.
+20. Students can initiate this alignment process by exploring the Careers Connect platform.
+21. Additionally, targeted BSc Computer Science careers webinars are scheduled throughout the program for immediate attendance.
+22. The continuous engagement with these career resources helps keep the student motivated and on track toward graduation.
+23. Successfully navigating the module requires proactive participation and visible contributions to the academic community.
+24. The syllabus, learning outcomes, assessment plan, and specialized tools must all be methodically reviewed at the start.
+25. Adhering to these initial guidelines and utilizing the available resources ensures a smooth and successful module progression.

@@ -1,0 +1,20 @@
+# Follow the mouse
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/rC3SL/follow-the-mouse
+
+This comprehensive guide details the advanced use of vector arithmetic and static functions in creating interactive graphics, specifically modeling an object attracted to a mouse cursor. Static functions are utilized for vector arithmetic, such as `p5.Vector.add()`, which are called directly from the class name rather than an object instance. Unlike traditional addition functions, which modify the original vector (e.g., adding v2 to v1 and modifying v1), the static function returns a result as a new vector, thus leaving the initial vectors unaffected. This non-destructive behavior is essential for maintaining the integrity of original data.
+
+The setup process initializes the ball at the screen center, setting the initial `location` and `velocity`. Initially, the acceleration is set to zero, ensuring the ball remains stationary at the start. The core physics simulation and interactivity are contained within the `move()` function. To simulate attraction, the first step involves creating a vector representing the mouse coordinates, denoted as `mouse`.
+
+Next, the direction vector is calculated using vector subtraction: `p5.Vector.sub(mouse, this.location)`. This difference vector is then normalized to obtain a unit vector pointing directly from the ball to the mouse. This normalized direction vector is scaled by multiplying it by a constant (e.g., `dir.mult(0.3)`) to determine the acceleration vector, which is stored in `this.acceleration`.
+
+Upon implementation, the ball attempts to move toward the mouse but often exhibits significant overshooting due to its speed. This physics behavior, analogous to a fast-moving vehicle approaching a target, necessitates limiting the object's maximum velocity to refine the motion.
+
+To create a visible trail or "trace" of the object's path, a new tracking mechanism is implemented. A second point, `prevLocation`, is created and initialized with the starting position. In the draw loop, a line is drawn between the current `this.location` and the stored `prevLocation`. After drawing the line, the current location must be copied and assigned to `this.prevLocation` to ensure continuous updates.
+
+For the trace drawing to appear correctly, the background update must be controlled, requiring the background color to be set in the `setup()` function and cleared only once. The trace's appearance is controlled by setting the stroke color and increasing the stroke weight for visual effect.
+
+The underlying educational content supports this advanced topic, beginning with introductory lessons on vector arithmetic, including addition, subtraction, scaling, and magnitude calculation. Subsequent weeks progress through "Bringing it together: Acceleration 101," and the dedicated chapter "the mouse." The curriculum then expands into advanced topics like forces and physics using Matter.js, generative techniques (randomness, noise, sine, fractals), 3D graphics, image processing, and culminating in computer vision modules. This demonstrates a structured progression from foundational vector concepts to complex interactive simulation and graphical rendering.

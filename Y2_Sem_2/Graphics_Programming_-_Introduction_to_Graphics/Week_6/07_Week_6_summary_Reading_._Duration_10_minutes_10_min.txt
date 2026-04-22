@@ -1,0 +1,8 @@
+# Week 6 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/P7lyv/week-6-summary
+
+In this week we focused on generative art, specifically exploring the concepts of randomness and Perlin noise. You learned that generative art involves the use of algorithms and systems to create designs, often with an element of unpredictability. By examining key characteristics of generative art, such as its reliance on autonomous systems, iterative processes, and the role of the artist as a facilitator rather than a creator, you gained a deeper understanding of this artistic approach. Through...

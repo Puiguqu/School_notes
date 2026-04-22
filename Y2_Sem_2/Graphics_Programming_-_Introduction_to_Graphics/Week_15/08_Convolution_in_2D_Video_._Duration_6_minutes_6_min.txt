@@ -1,0 +1,32 @@
+# Convolution in 2D
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/Lr0by/convolution-in-2d
+
+1. Extending convolution from one dimension (1D) to two dimensions (2D) is relatively straightforward.
+2. In 2D convolution, the weight array used is a two-dimensional kernel or mask, represented as a matrix.
+3. The underlying calculation logic, however, remains consistent with the 1D approach.
+4. The convolution process involves multiplying each element of the kernel square by the corresponding pixel value underneath it.
+5. After multiplying, the next step is to calculate the sum total of all these products.
+6. This sum is then divided by the sum of the kernel's values within the current blue grid (normalization).
+7. A crucial technical detail is clamping the resulting values to ensure they remain within the valid pixel range of 0 to 255.
+8. The technique is referred to as a "weighted moving average" because the kernel slides or "moves" across the image to calculate the next pixel's value.
+9. When dealing with edges, the mask may not have neighboring pixels on all sides.
+10. Conventionally, these edge pixels can often be ignored, as missing a couple of rows or columns in a high-resolution image minimally affects the overall result.
+11. Convolution fundamentally differs from simple pixel operations, which typically involved a one-to-one mapping relationship.
+12. Instead of reading one source pixel value to set a destination pixel, convolution aggregates values from multiple surrounding pixels.
+13. For instance, starting in the top-left corner of a calculation grid, the process sums the products of the nine pixels within the 3x3 kernel.
+14. Mathematically, the calculation involves summing all pixel values (e.g., 50+50+50) and dividing by the count of pixels used (e.g., 9).
+15. The example calculation demonstrated that averaging nine pixels of value 50 yielded a resulting value of 50.
+16. Conversely, if a pixel used a mix of values (e.g., six values in the 50s and three in the hundreds), the new average would be calculated as $(6 \times 50 + 3 \times 100) / 9 \approx 67$.
+17. This calculation mechanism shows that the final pixel value is determined by the average intensity of its surrounding neighbors.
+18. Intuitively, the process samples the values of surrounding "paint buckets," resulting in a mixed color or intensity.
+19. A key visual finding of convolution is its ability to smooth sharp transitions, or "blurring of the edge."
+20. Instead of a sharp corner (e.g., 50 immediately next to 100), convolution creates a gradual "ramp" (e.g., 50 $\to$ 67 $\to$ 83 $\to$ 100).
+21. The size of the kernel, such as the 3x3 matrix used in the example, dictates the scope of the neighborhood sampled.
+22. To maintain symmetry, the dimensions of the kernel must always be an odd number (e.g., 3x3, 5x5, or 7x7).
+23. The relationship between kernel size and output smoothness is direct: a larger mask samples more neighboring pixels.
+24. Consequently, the bigger the kernel, the more extensive the sampling, leading to a more blurry resultant image and a more noticeable ramp between sharp edges.
+25. This principle confirms convolution's utility as a powerful tool for general image processing and filtering.

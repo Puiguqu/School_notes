@@ -1,0 +1,14 @@
+# Digital image processing
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/lrk5G/digital-image-processing
+
+Digital Image Processing (DIP) is defined as the application of computer algorithms to process digital images. These processes are typically executed to either enhance the image quality or to extract useful information embedded within the image structure. DIP is a highly active field and stands as a specialized sub-field of digital signal processing (DSP). Its utility is broad, touching numerous scientific disciplines and technological applications. Key applications include image restoration and sharpening processes. Furthermore, DIP is vital in medical imaging for the critical detection of various diseases. The field also plays a role in web communication, enabling the encoding and transmission of images (as seen with services like YouTube and Netflix).
+
+A major area benefiting from these techniques is computer vision, which often relies on the structured stacking of multiple image processing methods. The upcoming learning modules focus specifically on taking an image as input, performing complex calculations on its pixels, and subsequently outputting a newly modified image. At a conceptual level, DIP filters are similar to the cosmetic filters applied on social media platforms like Instagram. The curriculum begins by introducing fundamental concepts like how pixels are structurally stored and manipulated. Initial filter topics include the Invert filter, the Grayscale filter, and the Threshold filter.
+
+The core technical mechanism taught is convolution, which forms the basis for most advanced filtering. Students will learn about Convolution in 1D, followed by the more complex technique of Convolution in 2D. These convolutional methods are crucial for understanding how image regions are processed mathematically. Advanced filtering techniques build upon this foundation, including the Blur filter for smoothing. Edge detection filters allow for the identification and mapping of sharp boundaries within the image. The Sharpen filter provides contrast enhancement by increasing pixel intensity differences.
+
+The comprehensive scope of DIP is detailed across multiple weeks, beginning in Week 15. This week covers the fundamentals, including practical assignments for every concept learned. Following this, Week 16 continues image processing concepts. The course then progresses systematically into sophisticated topics. Weeks 17, 18, and 19 are dedicated entirely to Computer Vision, covering its structure in three distinct parts. This module sequence emphasizes the practical application of DIP techniques to complex visual tasks. Students are also provided with interactive tools, such as the ungraded plugin for convolution kernels, to solidify their understanding. The entire module structure culminates in Week 20, for final graded assignment submission.

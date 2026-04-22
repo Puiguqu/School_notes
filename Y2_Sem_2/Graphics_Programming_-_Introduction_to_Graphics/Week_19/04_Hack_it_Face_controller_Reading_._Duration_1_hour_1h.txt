@@ -1,0 +1,8 @@
+# Hack it: Face controller
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/0Ae8X/hack-it-face-controller
+
+Use the faceDetection example provided to control graphics on screen. Please note: To keep the application fast, we’re using a lower resolution camera image. This doesn’t mean, however, that your graphics need to be that small. Things to try Create some sort of cool generative graphics function using code from earlier classes in this course or by adopting code you found on https://www.openprocessing.org/ Control the graphic’s movement or appearance by the location of your face. Control the graph...

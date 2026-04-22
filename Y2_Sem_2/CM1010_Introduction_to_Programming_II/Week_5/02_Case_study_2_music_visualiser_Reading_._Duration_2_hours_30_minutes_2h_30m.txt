@@ -1,0 +1,16 @@
+# Case study 2: music visualiser
+Reading•
+. Duration: 2 hours 30 minutes
+2h 30m - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/06kJT/case-study-2-music-visualiser
+
+This case study outlines the development of a three-part music visualization program utilizing p5.js. The core mechanism for visualizing sound is the Fast Fourier Transform (FFT) object. This object provides three key methods for sound analysis. Specifically, `FFT.analyze()` returns an array of 1,024 values ranging from 0 to 255, representing the amplitude of specific frequency ranges. Alternatively, `FFT.waveform()` provides an array of 1,024 values between –1 and 1, which measures sound amplitude over a small segment of time. Lastly, `FFT.energy(freq1, [freq2])` calculates the sound volume within a specified frequency range. The parameters for `freq1` can be numbers or p5.js strings like "bass" and "treble."
+
+Initial implementation requires completing the `mousePressed()` function within the `controlsAndInput.js` file. This function must utilize the `playbackButton` object to check if the click originated from the play button. If true, clicking should initiate music playback and display the visualization. If the click falls outside the button, the application must toggle the display mode between windowed and fullscreen view.
+
+A critical component is the visualization menu, implemented in the `ControlsAndInput` constructor. This involves writing a `for` loop that iterates over the `visuals` property within the global `vis` variable in `sketch.js`. Each visualization's name must be written to the screen to create the menu list.
+
+For the Spectrum analyser, the visualization utilizes the 1,024 amplitude values returned by `FFT.analyze()`. Instead of drawing vertically from the bottom, the bars must be horizontally oriented, emerging from the left edge of the screen, without using the `rotate()` function. The color of each bar must dynamically change based on its amplitude value. The mapping requires a gradient transitioning from green at amplitude 0 (R:0, G:255, B:0) through yellow at amplitude 127 (R:127, G:127, B:0), to red at amplitude 255 (R:255, G:0, B:0). The hint suggests mapping the amplitude to make smaller values appear greener, while the red channel can use the raw amplitude value.
+
+The final visualization, the Needle plots, displays volume data across four defined frequency bands: bass, mid-low, mid-high, and treble. Within `needles.js`, the nested `for` loop in the `this.draw()` function requires assignment of values to the `x, y, w,` and `h` variables for precise plotting. Key steps involve calling `this.ticks(centreX, bottomY, freqLabel)` on line 49 to establish graph ticks. Subsequently, `this.needle(energy, centreX, bottomY)` must be called on line 54 to draw the energy level. Successful completion requires the output to perfectly match the provided image and maintain proper resizing across windowed and fullscreen modes.

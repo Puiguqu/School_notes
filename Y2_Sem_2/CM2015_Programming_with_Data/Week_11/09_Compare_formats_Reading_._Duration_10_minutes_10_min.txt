@@ -1,0 +1,8 @@
+# Compare formats
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/P1xsr/compare-formats
+
+In your study journal, compare the use of CSV and JSON for storing data retrieved from the web. Discuss what types of data are best suited for each format, focusing on an end-user application (e.g. comparing product reviews and chatbot). Once you’ve attempted this question, compare your answer to our model answer on the following page. Compare formats In your study journal, compare the use of CSV and JSON for storing data retrieved from the web. Discuss what types of data are best suited for eac...

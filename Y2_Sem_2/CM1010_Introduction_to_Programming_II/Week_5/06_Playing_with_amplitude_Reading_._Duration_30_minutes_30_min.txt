@@ -1,0 +1,8 @@
+# Playing with amplitude
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/evKIR/playing-with-amplitude
+
+In this video Simon showed you the basics of amplitude and how to alter the volume of your p5.js sketches. along with the video and complete the template. You can download it from the video resources or from here: 3.202 ZIP File To finish the sketch, complete the following steps: Create an amplitude global variable and set its initial value to be a new p5 amplitude object in setup. Inside the else if condition in the draw function create a new variable a and set it to be equal to the level of am...

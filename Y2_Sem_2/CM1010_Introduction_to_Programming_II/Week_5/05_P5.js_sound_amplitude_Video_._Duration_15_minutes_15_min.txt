@@ -1,0 +1,24 @@
+# P5.js sound: amplitude
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/zvamN/p5-js-sound-amplitude
+
+Sound analysis begins with understanding a fundamental property of sound: amplitude. While volume perception is complex and influenced by proximity, measuring digital sound volume requires defining the scope of the output signal. In digital audio processing, volume measurement is not absolute; it measures the signal amplitude of the program's output stream. This measure scales from zero, representing absolute silence, up to one, which denotes the maximum loudness achievable with the system's current settings. The process relies on the P5.js sound library, which provides an `amplitude` object for this specific measurement.
+
+The documentation shows that after initializing the `sound file` object, the `amplitude` object is utilized to monitor the sound level. The primary method used to obtain the measured level is `amplitude.getLevel()`. This function retrieves the current signal amplitude of the sound being produced. To apply this measurement, one must first initialize the object, typically using `amplitude = new P5.Amplitude()`.
+
+In the sketch environment, the level must be queried only when the sound is actively playing, often checked via a condition like `if (sound.isPlaying())`. The resulting value is then assigned to a local variable, such as `a`. Initially, drawing this variable `a` to the screen reveals values typically ranging between zero and one.
+
+Since these raw amplitude values are often very small, simple drawing functions fail to capture the visual dynamics. To properly utilize the amplitude in graphics, the `map()` function is essential for scaling the input. A local variable `d` is created by mapping the input `a` (min value 0, max value 0.15) to a desired pixel range (e.g., min 50, max 250). Using this mapped value `d` allows for graphics (like an ellipse) to visually reflect the dynamic changes in sound amplitude.
+
+For a more comprehensive visualization, the signal can be drawn linearly over time. This requires creating and managing an array, named `amplitudes`, and initializing it with a fixed size (e.g., 512) of zero values. When the sound plays, the current amplitude `a` is continually added to the array using `amplitudes.push(a)`.
+
+To maintain a fixed array size and simulate a rolling chart, the oldest value must be removed, and the array must shift. This is achieved by removing the first element and then using the `shift()` command to move all remaining values down one index, maintaining the 512-value capacity.
+
+The visualization of the signal then involves iterating through the `amplitudes` array using a `for` loop. For each index `i`, the current amplitude is retrieved and stored in a variable `h`. A second mapping process is then required, scaling `h` (the input) to the desired output range for drawing.
+
+To draw the line, using `beginShape()` and `endShape()` is necessary. By setting the drawing mode and drawing vertices using the mapped values, a clear visual representation of the amplitude over time is created.
+
+In conclusion, the combination of reading the raw amplitude value, mapping it to a visual scale, and rendering it across a series of points successfully creates a real-time, graphical visualization of the audio input, providing a clear understanding of the signal's intensity.

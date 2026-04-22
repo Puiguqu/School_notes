@@ -1,0 +1,18 @@
+# CRUD operations with SQL
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/Bl4UG/crud-operations-with-sql
+
+CRUD operations encompass the fundamental processes of creating, reading, updating, and deleting data within a database. Implementation for these operations often utilizes SQLite and involves utilizing a database `cursor` handle. To insert new values (Create), the `INSERT INTO` SQL query structure must be used, implemented via `cursor.execute()`. This syntax requires specifying the table name, followed by the desired fields, and then the corresponding values. Notably, the primary key is typically auto-populated and must enforce unique constraints on all entries. Crucially, all successful database modifications must be permanently written by calling `connection.commit()`.
+
+Reading data (Read) is performed using the `SELECT` command, which is fundamental for retrieval. By using `SELECT * FROM table`, one can retrieve all rows and columns; alternatively, `SELECT column1, column2` allows selecting specific fields. To retrieve all resulting data, the `cursor.fetch_all()` method is employed. Conditionality can be introduced using the `WHERE` clause, enabling the selection of specific subsets of data. For instance, one can filter results where `price > 100` or where `in_stock = True`.
+
+The Update command allows modification of existing data in specific rows and columns. Like the select command, `UPDATE` is combined with the `SET` command and requires a `WHERE` clause to pinpoint target records. The syntax generally follows: `UPDATE table SET column = value WHERE condition`. Example usage demonstrated updating Product A’s price and setting its stock status to zero. Beyond data manipulation, the `ALTER` command can be used to restructure the database, such as renaming or changing a table structure.
+
+To remove data, the `DELETE` command (implicitly used via advanced filtering) or explicit row targeting is used; more commonly, data removal is handled by specific WHERE clauses in conjunction with SELECT/DELETE syntax. To completely remove a table structure, a `DROP TABLE` command is required.
+
+The structure of the database can also be controlled by `CREATE TABLE` commands. If a table needs total removal, the `DROP TABLE` command is used, which permanently deletes the table schema and all contained data.
+
+Finally, if the entire database structure is obsolete, the `DROP DATABASE` command removes the entire database instance, ensuring a clean slate for rebuilding. These commands form the core of Structured Query Language (SQL) for managing data integrity and retrieval.

@@ -1,0 +1,34 @@
+# Firewalls – our first line of defence
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/T9Z0R/firewalls-our-first-line-of-defence
+
+This summary focuses exclusively on the technical content presented regarding firewalls, as requested.
+
+1. The video provides an overview of firewalls, which are discussed in detail through three primary types: stateless, stateful, and proxy firewalls.
+2. These firewalls act as essential security measures, analyzing and controlling traffic passing through a network boundary.
+3. The first type covered is the stateless firewall, which is also commonly referred to as an Access Control List (ACL).
+4. A stateless firewall operates by checking every single packet that passes through it independently.
+5. It applies a set of predetermined rules to each incoming packet to determine if the traffic is allowed or denied.
+6. Key rules can govern connectivity based on destination IP addresses, source IP addresses, or specific ports.
+7. Critically, the stateless firewall is "stateless," meaning it possesses no memory or knowledge of previous packets analyzed.
+8. Because it inspects every packet individually, this process can be quite computationally inefficient when dealing with high volumes of traffic.
+9. The subsequent type is the stateful firewall, which represents a more sophisticated method of network security.
+10. Unlike stateless methods, the stateful firewall tracks and monitors the entire connection session, or "state."
+11. When an initial connection is established between two machines, the stateful firewall detects this process and verifies the connection details.
+12. Once the connection's validity and parameters are confirmed, the firewall allows future packets related to that specific flow to pass freely.
+13. It remembers who is connected to whom, making subsequent packet flow management much more efficient than constant re-checking.
+14. This state tracking capability significantly enhances security and allows for the continued flow of data with less overhead.
+15. Although it incurs some initial overhead for maintaining connection states, stateful firewalls are generally considered more efficient than their stateless counterparts.
+16. The next firewall type is the proxy firewall, designed for scenarios where machines on a private network (LAN) must communicate with external networks (WAN).
+17. The core principle of proxying is that there is no direct connection established between the internal machine and the external world.
+18. Instead, the internal machine sends its data request to the proxy server, which acts as an intermediary agent.
+19. The proxy server then communicates with the external destination on behalf of the internal network.
+20. The proxy retrieves the data and transmits it back to the internal machine, making it the sole entity exposed to the outside world.
+21. This architectural structure allows the proxy server to be highly hardened, facilitating thorough inspection for threats like viruses.
+22. By acting as a barrier, the proxy ensures that the internal LAN network never directly accesses or contacts external, potentially hostile, elements.
+23. The term "proxy" literally means standing in for something else, enabling the transfer of data while maintaining separation.
+24. In summary, stateless firewalls check individual packets against rules, stateful firewalls track connections for efficiency, and proxy firewalls create a secure intermediary layer for all external communication.
+25. Collectively, these three types represent different levels of complexity and security architecture, forming distinct layers of network defense.

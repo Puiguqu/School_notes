@@ -1,0 +1,16 @@
+# Week 7 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/4YkA5/week-7-self-evaluation-and-reflection
+
+It is critically important to regularly assess one's understanding and capabilities as the course progresses. This self-assessment exercise is designed to facilitate deep reflection on the entire learning journey. Its primary function is to help students identify specific areas requiring deeper knowledge or skill development. By using this comprehensive checklist, students can accurately evaluate their grasp of the lessons covered during Week 7. If any concept or task feels uncertain, the student must proactively revisit all related lecture videos, readings, and activities. This focused review is essential for consolidating the acquired knowledge base.
+
+The first major component addresses the fundamental understanding of Generative Art. Specifically, one must be able to clearly define what generative art and design fundamentally entail. A key requirement is identifying the precise role played by systems and algorithms in the creation process. Furthermore, the learner must demonstrate an understanding of how generative art is distinct from other forms of digital art.
+
+Next, the focus shifts to the key characteristics inherent to generative art. One must be able to list and thoroughly explain these crucial characteristics. These core traits include the intentional use of system rules, inherent unpredictability, and the function of randomness. It is vital to understand the critical importance of randomness and noise in generating both variety and complexity. The student must also be able to discuss how different noise techniques measurably influence the overall appearance of generative artwork.
+
+The third section delves into the practical application of both randomness and noise in design. One must successfully apply randomness to introduce necessary variations into an established generative system. The learner needs the ability to distinguish conceptually between 2D and 3D noise structures. It is also essential to understand how both 2D and 3D noise techniques are utilized within generative systems. Practically, this involves using noise to successfully simulate natural textures or patterns within a generative design piece. Finally, students should experiment with controlling randomness and noise to reliably produce specific, desired visual effects.
+
+The final and crucial section focuses on self-reflection and guided improvement. Here, the student must identify any academic areas where they previously struggled during the course. Crucially, they must note specific, actionable strategies designed to improve their understanding in those weak spots. The ultimate goal is to feel confident in applying randomness and noise to create successful generative art. If not confident, the student must know exactly what specific areas require focused practice and further study.

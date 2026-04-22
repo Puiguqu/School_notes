@@ -1,0 +1,16 @@
+# Week 13 summary
+Video•
+. Duration: 24 seconds
+24 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/9gwON/week-13-summary
+
+The provided material outlines a comprehensive 20-week curriculum focused on the technical fields of graphics, simulation, and digital image manipulation. The instructional content begins by addressing various user navigation shortcuts, such as using CTRL + S to save notes, and employing the H J K L keys for screen readers incompatible with arrow keys. The initial weeks build foundational skills, starting with Week 1 Introduction to Graphics and progressing through Week 2, which covers Vectors and animation techniques.
+
+By Week 3, the curriculum advances into simulated physical systems, focusing on Forces and Physics principles. This conceptual understanding is immediately put into practice in Week 4 and Week 5, utilizing the Matter.js library for hands-on physics simulations, expanding the application of physics with Matter.js cont. The focus shifts further in Week 6 and Week 7 to Generative techniques, specifically introducing concepts like randomness and noise.
+
+Generative exploration continues in Week 8 and Week 9, delving deeper into more complex mathematical principles such as sine waves and fractals. Following this, Week 10 marks a checkpoint for interviews and midterm submission, signaling a period of comprehensive assessment. The subsequent weeks tackle the dimensionality of graphics, with Week 11 and Week 12 dedicated to mastering 3D graphics principles and techniques.
+
+The curriculum then enters a detailed study of visual components, beginning with Week 13, which covers Colours, images, and pixels. Specific learning modules include "Introduction to colours," exploring color harmony and the "RGB cube" for spatial understanding. Additional color concepts are explored through "Procedural generation of colours," providing deeper theoretical knowledge. Image fundamentals are taught via "Introduction to images," including practice assignments and advanced techniques like "Slit scanning."
+
+The core concepts of digital images are then explored in "Diving into the pixel world," emphasizing the fundamental unit of visual data, the pixel. Weeks 14 and 15 begin the deep dive into advanced Image processing, which continues through Week 16. The material solidifies technical depth in Weeks 17, 18, and 19, systematically covering Computer vision across three parts, building knowledge from fundamental concepts to advanced applications. The course culminates in Week 20 with final interviews and the graded assignment submission, completing a highly technical journey through digital media.

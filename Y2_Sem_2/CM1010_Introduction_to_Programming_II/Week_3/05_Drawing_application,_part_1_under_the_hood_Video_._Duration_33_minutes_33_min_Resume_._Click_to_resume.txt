@@ -1,0 +1,43 @@
+# Drawing application, part 1 – under the hood
+Video•
+. Duration: 33 minutes
+33 min
+Resume
+. Click to resume - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/zCGV5/drawing-application-part-1-under-the-hood
+
+This transcript is a detailed technical walkthrough of a drawing application, covering object-oriented design, class interactions, and specific drawing mechanics.
+
+Here's a structured summary of the key topics covered:
+
+### 1. Object-Oriented Design & Architecture
+The speaker is explaining the structure of the drawing application, which relies on several interconnected components (classes/objects):
+
+* **Canvas:** The main drawing surface.
+* **DrawingApp:** The main controller that orchestrates the setup and execution.
+* **Tool:** Abstract concept representing different drawing capabilities (e.g., pencil, eraser).
+* **Pencil:** A specific implementation of the `Tool`.
+* **Eraser:** Another specific implementation of the `Tool`.
+* **Image:** Represents stored graphical data (likely the canvas state).
+
+### 2. Core Mechanics & Interactions
+The walkthrough details how these parts work together:
+
+* **State Management:** The application manages the current drawing state, likely involving the drawing sequence or history.
+* **Mouse Events:** The system reacts to mouse input (`mousePressed`, `mouseDragged`, `mouseReleased`) to facilitate drawing actions.
+* **Tool Selection:** The user can switch between different tools.
+
+### 3. Specific Tool Deep Dives
+* **Pencil Tool:** Focuses on tracking the path drawn by the user.
+* **Eraser Tool:** Focuses on "erasing" or removing drawn content, implying an inverse drawing action.
+
+### 4. Saving and Display
+* **Saving Image:** There is a mechanism to serialize the current state of the drawing to an `Image` object, which can then be saved or displayed.
+
+### 5. (Implicit) Advanced Drawing Concepts
+* **Coordinates/Vectors:** The process relies on tracking $(x, y)$ coordinates over time.
+* **History/Undo:** By managing drawing segments, the app inherently supports state rollback (undo).
+
+---
+**In essence, the speaker is providing a high-level technical overview of building a drawing application using object-oriented principles, focusing heavily on the state changes triggered by user input.**

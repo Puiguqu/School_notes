@@ -1,0 +1,12 @@
+# Review of programming activity
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/IwBcF/review-of-programming-activity
+
+Data cleaning requires adherence to specific protocols to avoid common operational errors and maintain data integrity. A critical initial step involves ensuring that all columns are converted to the correct data types. Failure to do so, such as leaving a date or numeric column as a string (object type), will cause filtering or sorting operations to fail. For instance, a column named 'date' with values like "2023-01-01" must not remain a string type. To properly convert a date column, the `pd.to_datetime()` function must be used. After conversion, running `print(df.dtypes)` verifies the new, correct data type of the column. Once correctly typed, operations like filtering by month become simple and reliable, using syntax such as `df[df['date'].dt.month == 1]`.
+
+Data modifications must always involve creating a backup copy to prevent accidental corruption of the original DataFrame. To safely save a cleaned DataFrame to a new variable, one method is using `cleaned_df = df.copy()`. Alternatively, one can store the results of cleaning operations directly into a new variable using `cleaned_df = df.dropna()`. This approach ensures the original DataFrame (`df`) remains untouched. After performing missing value replacement, verification of the changes is mandatory. If using `fillna(0, inplace=True)` to replace NaNs, one must verify the completeness of the replacement. This verification is achieved by using the `.isnull().sum()` function on the relevant column. For example, running `print(df['price'].isnull().sum())` checks if any missing values remain in the 'price' column.
+
+Finally, data persistence is ensured by always saving the processed DataFrame to a CSV file. Cleaning and saving data requires combining the operations, such as `cleaned_df = df.dropna()` followed by `cleaned_df.to_csv('cleaned_data.csv', index=False)`. This process guarantees that the changes are not lost when the script terminates. The saved data can be reliably reloaded later using the function `df = pd.read_csv('cleaned_data.csv')`. Following these steps systematically ensures consistency and accuracy throughout the entire data cleaning pipeline. These detailed best practices minimize technical risk and maximize data reliability for subsequent analysis.

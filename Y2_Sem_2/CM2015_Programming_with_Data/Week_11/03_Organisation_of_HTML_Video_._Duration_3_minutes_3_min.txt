@@ -1,0 +1,20 @@
+# Organisation of HTML
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/XTnqX/organisation-of-html
+
+Understanding how HTML pages are organized is crucial for successfully scraping data from web sources. Web pages and entire websites serve as a primary source for data extraction via web scraping. Before writing any automated data retrieval procedures, it is essential to grasp the underlying structural organization of the websites being targeted. A quick and effective method to explore this structure is by opening the desired website and utilizing the inspect command. This command redirects the user to the webpage's source code, which is inherently organized using HTML, or Hypertext Markup Language. HTML files contain data that is highly organized using various structural tags, such as `<head>` and `<body>`.
+
+When hovering over these components, the user can determine precisely which part of the webpage corresponds to a given tag, aiding in structural mapping. For example, the `<body>` tag generally corresponds to all the visible text and primary content of the webpage. If one were writing a program to scrape data, the focus would primarily be placed within the content governed by the `<body>` tag. Examining this content further reveals that the data is typically structured using specific tags like `<p>` for paragraphs.
+
+Data organization relies on various other tags besides paragraphs, creating a scaffold for content. The webpage's structure thus consists of various data elements contained within these structural tags, which informs the automated extraction process. When preparing to scrape, one must analyze this structure to locate the specific data points of interest. For instance, the `<head>` tag typically corresponds to the main title and metadata of the website, which might not be the target for scraping.
+
+However, the core information needed for scraping is often located within the content housed by the `<body>` tag. Further inspection may reveal the use of the `<div>` tag, which often groups content with specific attributes, such as a `class` attribute like `row`. The programmer must narrow the focus to the specific elements—like a target `<div>` on the left side—that contain the desired codes and author names. This detailed knowledge of the page's organization is the foundation for writing the automated procedures.
+
+These various tags—`<head>`, `<body>`, `<p>`, `<div>`, etc.—are fundamentally used to organize structural content in a website. They provide the blueprint needed for writing sophisticated procedures to retrieve or scrape data from web platforms. Following this introductory lesson, future steps involve practical application using tools like Python for actual web scraping.
+
+The curriculum framework supports this learning, beginning with fundamental Python concepts in Weeks 2 through 6. Data handling and file system interaction are covered in Weeks 7 and 8. Weeks 9 and 10 focus specifically on processing text data and language processing techniques. Week 11, "Retrieving data from the web," introduces web scraping basics, detailed in Lesson 11.1 (Video: Data organisation on the web) and Lesson 11.2 (Video: Web scraping basics).
+
+The subsequent lessons solidify this knowledge through hands-on practice. Lesson 11.3, "Organise and analyse data," further teaches how to extract, examine, and store different types of retrieved data. This entire sequence culminates in deep dives into database retrieval in Weeks 13 and 14, followed by data cleaning (Week 15) and advanced transformation techniques. This comprehensive progression ensures a robust skillset for handling data sourced from diverse digital environments.

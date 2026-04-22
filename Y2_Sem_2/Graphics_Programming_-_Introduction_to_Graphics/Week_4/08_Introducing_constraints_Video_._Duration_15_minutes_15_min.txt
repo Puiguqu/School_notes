@@ -1,0 +1,18 @@
+# Introducing constraints
+Video•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/eBh7A/introducing-constraints
+
+The demonstration of physics interactions moves beyond simple collision detection into applying structural constraints using the Matter.js engine. The primary mechanism is the creation of **Constraint** objects, which mechanically link distinct bodies together.
+
+First, constraints can be used to connect two separate rigid bodies, ensuring they move together as if they were a single object. For instance, connecting `poly1` and `poly2` requires specifying the bodies, the anchor point of the connection, and the physical properties of the link.
+
+A key functional variation is fixing a body to a static point in space, which is accomplished by linking the body to a **Matter.WorldAnchor**. This constraint prevents the linked body from translating or rotating freely.
+
+The constraint structure requires specifying the bodies involved, the desired attachment point (anchor), and crucial parameters like `stiffness` and `length`. These parameters directly dictate how rigid or elastic the connection appears.
+
+Furthermore, the demonstration introduces the concept of varying the anchor points, allowing for specific joint types, such as a fixed hinge or a simple rigid tether.
+
+These constraints are vital for building complex structures, such as bridges or machinery, accurately simulating the physical limitations and interactions inherent in real-world mechanisms. The careful management of these connection parameters dictates the stability and behavior of the resulting physical simulation.

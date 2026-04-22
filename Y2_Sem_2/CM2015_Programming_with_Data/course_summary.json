@@ -1,0 +1,735 @@
+{
+  "course_title": "CM2015 Programming with Data - Topic 1 Introduction to the course - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_A_short_welcome_to_the_course_Video_._Duration_6_minutes_6_min_Get_started_._Click_to_get_started",
+            "summary_file": "01_A_short_welcome_to_the_course_Video_._Duration_6_minutes_6_min_Get_started_._Click_to_get_started.txt"
+          },
+          {
+            "name": "02_CM2015_Programming_with_Data_Syllabus_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_CM2015_Programming_with_Data_Syllabus_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Getting_started_on_this_module_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Getting_started_on_this_module_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Careers_video_Video_._Duration_1_minute_1_min",
+            "summary_file": "04_Careers_video_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "05_Helpful_resources_for_your_learning_journey_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Helpful_resources_for_your_learning_journey_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Introduction_to_development_environments_Video_._Duration_3_minutes_3_min",
+            "summary_file": "06_Introduction_to_development_environments_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "07_Jupyter_Notebook_basics_Reading_._Duration_1_hour_1h",
+            "summary_file": "07_Jupyter_Notebook_basics_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "08_Introduction_to_variables_Video_._Duration_5_minutes_5_min",
+            "summary_file": "08_Introduction_to_variables_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "09_Using_Python_as_calculator_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_Using_Python_as_calculator_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Installing_Jupyter_notebook_(Mac)_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Installing_Jupyter_notebook_(Mac)_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Installing_Jupyter_(Windows)_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Installing_Jupyter_(Windows)_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Installing_conda_locally_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Installing_conda_locally_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Opening_your_first_jupyter_notebook_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Opening_your_first_jupyter_notebook_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "05_Further_reading_Getting_to_grips_with_Python_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Further_reading_Getting_to_grips_with_Python_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Tips_to_help_you_progress_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_Tips_to_help_you_progress_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_Python_packages_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_Python_packages_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "08_Python_documentation_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Python_documentation_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "09_Python_environments_Video_._Duration_2_minutes_2_min",
+            "summary_file": "09_Python_environments_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "10_Python_documentation_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "10_Python_documentation_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "11_Setting_up_Conda_environment_on_your_local_machine_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "11_Setting_up_Conda_environment_on_your_local_machine_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "12_Concatenation_Video_._Duration_5_minutes_5_min",
+            "summary_file": "12_Concatenation_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "13_String_manipulation_Reading_._Duration_55_minutes_55_min",
+            "summary_file": "13_String_manipulation_Reading_._Duration_55_minutes_55_min.txt"
+          },
+          {
+            "name": "14_Week_1_and_Week_2_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "14_Week_1_and_Week_2_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "15_Topic_1_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "15_Topic_1_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_Components_of_Python_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Components_of_Python_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Further_reading_Controlling_code_flow_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Further_reading_Controlling_code_flow_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Operators_and_boolean_variables_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Operators_and_boolean_variables_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Introduction_to_conditional_logic_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_Introduction_to_conditional_logic_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_More_ways_to_write_conditions_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_More_ways_to_write_conditions_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Functions_and_reuse_Video_._Duration_12_minutes_12_min",
+            "summary_file": "06_Functions_and_reuse_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "07_Functions_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Functions_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Mapping_operators_to_functions_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_Mapping_operators_to_functions_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "09_Reviewing_the_programming_lab_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Reviewing_the_programming_lab_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_Lists_data_types_Video_._Duration_13_minutes_13_min",
+            "summary_file": "01_Lists_data_types_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "02_Lists_and_alternatives_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Lists_and_alternatives_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Conditionals_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Conditionals_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Chatbot_project_part_1_Basic_operations_Video_._Duration_14_minutes_14_min",
+            "summary_file": "04_Chatbot_project_part_1_Basic_operations_Video_._Duration_14_minutes_14_min.txt"
+          },
+          {
+            "name": "05_NumPy_-_basics_and_operations_Video_._Duration_10_minutes_10_min",
+            "summary_file": "05_NumPy_-_basics_and_operations_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Library_versus_iteration_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Library_versus_iteration_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Library_versus_iteration_(solution)_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Library_versus_iteration_(solution)_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_More_on_Imports_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_More_on_Imports_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "09_Topic_2_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Topic_2_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Dictionary_data_type_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Dictionary_data_type_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Further_reading_Dictionaries_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Further_reading_Dictionaries_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Indexing_in_dictionaries_Video_._Duration_12_minutes_12_min",
+            "summary_file": "03_Indexing_in_dictionaries_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "04_Reviewing_the_programming_activity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Reviewing_the_programming_activity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Introduction_to_the_NTLK_library_Video_._Duration_7_minutes_7_min",
+            "summary_file": "05_Introduction_to_the_NTLK_library_Video_._Duration_7_minutes_7_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_Regular_expressions_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Regular_expressions_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Further_reading_Regular_expressions_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Further_reading_Regular_expressions_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Advanced_string_matching_and_pattern_recognition_Video_._Duration_10_minutes_10_min",
+            "summary_file": "03_Advanced_string_matching_and_pattern_recognition_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Common_mistakes_with_regular_expressions_Video_._Duration_10_minutes_10_min",
+            "summary_file": "04_Common_mistakes_with_regular_expressions_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Chatbot_project_part_2_Pattern_matching_and_substitution_methodology_Video_._Duration_12_minutes_12_min",
+            "summary_file": "05_Chatbot_project_part_2_Pattern_matching_and_substitution_methodology_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "06_Texts_as_lists_of_words_Video_._Duration_8_minutes_8_min",
+            "summary_file": "06_Texts_as_lists_of_words_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "07_Topic_3_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Topic_3_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_Introduction_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Introduction_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Exploring_CSV_format_Video_._Duration_8_minutes_8_min",
+            "summary_file": "02_Exploring_CSV_format_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "03_Further_reading_Files_and_OS_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Further_reading_Files_and_OS_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Handling_JSON_files_in_Python_Video_._Duration_7_minutes_7_min",
+            "summary_file": "04_Handling_JSON_files_in_Python_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "05_Common_problems_while_counting_words_from_text_files_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "05_Common_problems_while_counting_words_from_text_files_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "06_Further_reading_References_to_python_functions_to_read_CS_and_JSON_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Further_reading_References_to_python_functions_to_read_CS_and_JSON_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Data_frames_and_exploratory_analysis_Video_._Duration_6_minutes_6_min",
+            "summary_file": "07_Data_frames_and_exploratory_analysis_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "08_Analysing_and_summarising_outcomes_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_Analysing_and_summarising_outcomes_Video_._Duration_7_minutes_7_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_Searching_structured_representations_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Searching_structured_representations_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Chatbot_project_part_3_Searching_files_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Chatbot_project_part_3_Searching_files_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Handling_files_in_the_OS_Video_._Duration_13_minutes_13_min",
+            "summary_file": "03_Handling_files_in_the_OS_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "04_Topic_4_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Topic_4_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_Working_with_text-based_data_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Working_with_text-based_data_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Report_your_observations_of_word_cloud_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_Report_your_observations_of_word_cloud_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "03_Word_frequency_distribution_Video_._Duration_4_minutes_4_min",
+            "summary_file": "03_Word_frequency_distribution_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "04_Stopwords_Video_._Duration_7_minutes_7_min",
+            "summary_file": "04_Stopwords_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "05_Common_mistakes_with_pre-processing_text_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Common_mistakes_with_pre-processing_text_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Text_normalisation_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "06_Text_normalisation_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "07_Pre-processing_techniques_Video_._Duration_4_minutes_4_min",
+            "summary_file": "07_Pre-processing_techniques_Video_._Duration_4_minutes_4_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Chatbot_project_part_4_Use_text_processing_techniques_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Chatbot_project_part_4_Use_text_processing_techniques_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_Understanding_text_syntax_and_structure_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "02_Understanding_text_syntax_and_structure_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "03_Further_reading_Advanced_text_analysis_for_chatbot_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Further_reading_Advanced_text_analysis_for_chatbot_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Topic_5_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Topic_5_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_New_Video_Video_._Duration_1_minute_1_min",
+            "summary_file": "07_New_Video_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_retrieving_data_on_the_web_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Introduction_to_retrieving_data_on_the_web_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Further_reading_Handling_data_on_the_web_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Further_reading_Handling_data_on_the_web_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Organisation_of_HTML_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Organisation_of_HTML_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_HTML_and_XML_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_HTML_and_XML_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "05_HTML_and_XML_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_HTML_and_XML_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Introduction_to_webscraping_Video_._Duration_11_minutes_11_min",
+            "summary_file": "06_Introduction_to_webscraping_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "07_Extract_relevant_data_Video_._Duration_9_minutes_9_min",
+            "summary_file": "07_Extract_relevant_data_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "08_Reviewing_your_programming_assignment_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Reviewing_your_programming_assignment_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_Compare_formats_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Compare_formats_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_Compare_formats_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_Compare_formats_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_Introducing_APIs_Video_._Duration_10_minutes_10_min",
+            "summary_file": "01_Introducing_APIs_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Scraping,_APIs_and_libraries_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Scraping,_APIs_and_libraries_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Considering_alternative_ways_to_parse_text_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Considering_alternative_ways_to_parse_text_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Considering_alternative_ways_to_parse_text_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Considering_alternative_ways_to_parse_text_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Scrape_data_and_report_findings_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Scrape_data_and_report_findings_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Selenium_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_Selenium_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "07_Topic_6_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Topic_6_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_databases_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Introduction_to_databases_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Database_management_systems_Reading_._Duration_20_minutes_20_min",
+            "summary_file": "02_Database_management_systems_Reading_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "03_Database_management_systems_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Database_management_systems_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Manually_creating_a_database_table_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_Manually_creating_a_database_table_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Databases_and_SQL_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Databases_and_SQL_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "06_Create_an_SQL_cheat_sheet_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "06_Create_an_SQL_cheat_sheet_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "07_Create_an_SQL_cheat_sheet_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Create_an_SQL_cheat_sheet_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_CRUD_operations_with_SQL_Video_._Duration_13_minutes_13_min",
+            "summary_file": "08_CRUD_operations_with_SQL_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "09_Transaction_control_how_and_why_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "09_Transaction_control_how_and_why_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_Techniques_to_interactively_explore_data_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Techniques_to_interactively_explore_data_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_Reviewing_your_programming_activity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Reviewing_your_programming_activity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Scrape,_store_and_analyse_Video_._Duration_2_minutes_2_min",
+            "summary_file": "03_Scrape,_store_and_analyse_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "04_Further_reading_Join_operation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_Further_reading_Join_operation_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "05_Topic_7_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Topic_7_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_data_cleaning_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Introduction_to_data_cleaning_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Data_cleaning_Reading_._Duration_2_hours_35_minutes_2h_35m",
+            "summary_file": "02_Data_cleaning_Reading_._Duration_2_hours_35_minutes_2h_35m.txt"
+          },
+          {
+            "name": "03_Examining_errors_in_data_Video_._Duration_2_minutes_2_min",
+            "summary_file": "03_Examining_errors_in_data_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "04_Data_transformation_Video_._Duration_13_minutes_13_min",
+            "summary_file": "04_Data_transformation_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "05_Impact_of_errors_Reading_._Duration_20_minutes_20_min",
+            "summary_file": "05_Impact_of_errors_Reading_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "06_Impact_of_errors_model_answers_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Impact_of_errors_model_answers_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Cleaning_data_Video_._Duration_12_minutes_12_min",
+            "summary_file": "07_Cleaning_data_Video_._Duration_12_minutes_12_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_Filtering_data_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Filtering_data_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Review_of_programming_activity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Review_of_programming_activity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Clean_and_analyse_Video_._Duration_2_minutes_2_min",
+            "summary_file": "03_Clean_and_analyse_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "04_Enhancing_your_data_with_derived_features_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "04_Enhancing_your_data_with_derived_features_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "05_Topic_8_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Topic_8_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_Principles_of_data_visualisation_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Principles_of_data_visualisation_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Common_visualisations_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_Common_visualisations_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Plotting_and_visualisation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Plotting_and_visualisation_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Dimensions_for_visualisation_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Dimensions_for_visualisation_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Data_visualisation_in_Python_Video_._Duration_12_minutes_12_min",
+            "summary_file": "05_Data_visualisation_in_Python_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "06_Plotting_with_the_Matplotlib_library_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Plotting_with_the_Matplotlib_library_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Interactive_plots_Reading_._Duration_20_minutes_20_min",
+            "summary_file": "07_Interactive_plots_Reading_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "08_Starting_to_explore_dataset_visually_Video_._Duration_11_minutes_11_min",
+            "summary_file": "08_Starting_to_explore_dataset_visually_Video_._Duration_11_minutes_11_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_Visualising_text_Video_._Duration_13_minutes_13_min",
+            "summary_file": "01_Visualising_text_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "02_Exploratory_data_analysis_techniques_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Exploratory_data_analysis_techniques_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Review_of_programming_activity_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "03_Review_of_programming_activity_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Metrics_and_visualisation_Video_._Duration_1_minute_1_min",
+            "summary_file": "04_Metrics_and_visualisation_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "05_Advanced_analysis_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Advanced_analysis_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "06_Topic_9_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Topic_9_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_Introduction_Video_._Duration_1_minute_1_min",
+            "summary_file": "01_Introduction_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "02_Feature_extraction_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Feature_extraction_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Feature_extraction_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Feature_extraction_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Compare_different_techniques_Reading_._Duration_20_minutes_20_min",
+            "summary_file": "04_Compare_different_techniques_Reading_._Duration_20_minutes_20_min.txt"
+          },
+          {
+            "name": "05_Compare_different_techniques_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Compare_different_techniques_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Formulating_predictions_using_features_Video_._Duration_6_minutes_6_min",
+            "summary_file": "06_Formulating_predictions_using_features_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "07_Linear_regression_in_Python_Video_._Duration_8_minutes_8_min",
+            "summary_file": "07_Linear_regression_in_Python_Video_._Duration_8_minutes_8_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_Word2Vec_embedding_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Word2Vec_embedding_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Word2Vec_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Word2Vec_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Word2vec_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Word2vec_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Predict_trends_Video_._Duration_2_minutes_2_min",
+            "summary_file": "04_Predict_trends_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "05_Optional_activity_Enhancements_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Optional_activity_Enhancements_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Topic_10_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Topic_10_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    }
+  }
+}

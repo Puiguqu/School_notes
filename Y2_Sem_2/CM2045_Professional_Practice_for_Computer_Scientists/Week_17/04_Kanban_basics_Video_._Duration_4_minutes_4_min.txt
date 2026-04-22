@@ -1,0 +1,32 @@
+# Kanban basics
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/SvapG/kanban-basics
+
+1. Kanban is a visual system designed for managing the work itself, offering a powerful framework for improving efficiency and collaboration in computer science projects.
+2. It is a visual approach to workflow management, providing clear principles for optimizing processes.
+3. The origins of Kanban trace back to manufacturing, specifically Toyota’s innovative production system developed in the 1940s.
+4. This history connects directly to the principles of lean manufacturing.
+5. Lean manufacturing focuses on optimizing a production line by prioritizing key steps and stages to deliver value.
+6. A core concept derived from this history is "just-in-time" inventory, which minimizes waste and maximizes efficiency by replenishing items only when needed.
+7. Kanban boards facilitate visualizing the flow of work through structured columns and cards.
+8. A fundamental principle is to limit the work in progress (WIP), thereby focusing on completing existing tasks before starting new ones.
+9. This limitation helps reduce multitasking and improves the overall flow of work.
+10. Other principles include visualizing the entire workflow, ensuring all work items and their statuses are visible to the entire team.
+11. Teams must also manage the flow by continuously monitoring the work system and identifying any potential blockages.
+12. When a blockage occurs, the team learns lessons and must chunk tasks accordingly.
+13. Priority should be given to tasks that are stuck or stopping the entire system from moving forward.
+14. Process policies must be made explicit, meaning the rules and guidelines for how work moves through the system must be clearly defined.
+15. Kanban boards use columns to represent distinct stages, such as To Do, In Progress, Testing, and Done.
+16. Cards represent individual work items, holding details about a specific task, its assignee, and its current status.
+17. Swim lanes can be utilized to categorize cards by project, team, or priority.
+18. In computer science, Kanban is applied to track user stories, bug fixes, and general feature development.
+19. It is also utilized by IT support to manage incident tickets and service requests effectively.
+20. Kanban methods complement other Agile frameworks, such as Scrum, by providing a crucial visual layer for workflow management.
+21. Benefits of Kanban include improved visibility, ensuring everyone knows the status of all tasks.
+22. It also promotes reduced waste by minimizing multitasking and focusing efforts efficiently.
+23. Furthermore, Kanban increases flow by helping teams identify and address systemic bottlenecks.
+24. Implementing Kanban promotes enhanced collaboration and fosters a culture of continuous improvement through constant feedback.
+25. Ultimately, Kanban is not merely a tool for placing notes on a board, but a practice for optimizing work flow and delivering value effectively.

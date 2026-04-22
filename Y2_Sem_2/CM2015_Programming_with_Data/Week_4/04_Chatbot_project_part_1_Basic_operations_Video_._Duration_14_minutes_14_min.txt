@@ -1,0 +1,20 @@
+# Chatbot project part 1: Basic operations
+Video•
+. Duration: 14 minutes
+14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/eLC2o/chatbot-project-part-1-basic-operations
+
+This document outlines the process and requirements for developing a chatbot, focusing on four developmental stages within a Jupyter Notebook environment. The midterm assessment mandates creating a functional chatbot, where each of the four stages incorporates a new data programming concept. These stages sequentially escalate in complexity: Stage 1 uses lists, conditionals, and string concatenation; Stage 2 introduces dictionaries, regular expressions, and functions; Stage 3 involves file handling; and the final stage utilizes natural language pre-processing. All code must be housed within a single Jupyter Notebook containing four distinct sections.
+
+The initial focus is the first section, which implements basic chatbot functionality using lists and conditionals. The chatbot aims to recognize specific conversation patterns and generate appropriate corresponding responses. A sample interaction demonstrates the pattern recognition capability, where the user inputs a query, such as requesting tea recommendations, leading to structured chatbot responses. To build this, the programmer must establish two key data structures: a list of patterns (precepts) and a list of corresponding responses. The system requires defining a pattern for every anticipated user line, such as "hello," "tea," "cafe," and "thank you."
+
+The core logic involves an infinite `while` loop, which continuously prompts the user for input and checks for pattern matches. Crucially, the program must include a dedicated termination condition, typically triggered by the keyword "bye," which necessitates the use of the `break` statement to exit the infinite loop gracefully. Upon receiving user input, the chatbot processes it by iterating through the defined precepts array.
+
+If a match is found, the logic uses the index obtained from the `precepts.index(pattern)` method. This index is critical as it dictates the selection of the correct response from the corresponding `responses` list. The structure of the main operational step involves nesting a `for` loop to iterate through every defined pattern. Inside this loop, a conditional check determines if the current pattern exists within the user's input string.
+
+A variable, such as `found_response`, is necessary to track if any match occurred during the iteration cycle. If a match is confirmed, the associated response is retrieved and displayed. If, after checking all patterns, no match is found, the system can return a default message indicating that the input was not recognized.
+
+Error handling is vital, as demonstrated by the requirement to implement a default response that triggers when the pattern matching fails for a given input. The system's overall robustness is enhanced by confirming that the program executes even when the user input is entirely unrecognized.
+
+Future enhancements include implementing more advanced pattern handling, such as using regular expressions for more complex pattern matching beyond simple string containment checks. Furthermore, incorporating entity recognition or more elaborate natural language processing (NLP) models would allow the chatbot to handle grammatical variations and complex inquiries far beyond the scope of simple keyword matching.

@@ -1,0 +1,16 @@
+# 2D noise
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/dWU9V/2d-noise
+
+The video transcript provides an in-depth technical overview of noise generation, contrasting 1D and 2D implementations using computational methods. Initially, the discussion focuses on 1D noise, which takes a single parameter, often referred to as time, and returns a value correlated with adjacent points. This correlation between neighboring values is what produces the characteristic organic appearance, such as that seen in a mountain range graph. Extending this concept, 2D noise is similar but requires passing two parameters, utilizing the X and Y coordinates, making the returned values similar to all surrounding neighbor cells. This spatial dependency makes 2D noise invaluable for simulating natural variations like clouds, smoke, fog, and fire, all of which exhibit changes in a plane.
+
+The demonstration compares a "random grid" function against a "noise grid" function to highlight the difference between purely random and correlated data. The random grid function uses nested loops to assign completely independent, random color values (0-255) to every pixel location (X, Y). In contrast, the noise grid function queries the noise function using the pixel location (X, Y) as a unique identifier. Since noise is mathematically defined between 0 and 1, it must be mapped to the color range (0-255) using a `map` function.
+
+A crucial finding is that simply using the pixel coordinates (X, Y) in the noise function yields a result that appears messy or repetitive, not truly organic. To achieve a smoother, more organic pattern, the coordinates (X and Y) passed into the noise function must be divided by a scaling factor. This division effectively makes the step size smaller, allowing the noise function to sample values across a wider, more detailed range. The resulting structure shows a smooth, cloud-like texture that is highly customizable by adjusting this divisor.
+
+The core mechanism of noise generation involves calling the random function multiple times and subsequently interpolating between these random values to form a continuous wave. This process is inherently rich because the noise wave is not singular; it is a synthesis of multiple, superimposed waves. The complexity and richness of the generated noise are achieved by summing several such waves, which are known as "octaves." By default, noise in the programming environment (P5) includes four octaves, though this number is adjustable.
+
+Technically, the process combines large, sweeping foundational waves with smaller, intermediate waves, and finally, the finest details. The mathematical effect of adding these superimposed graphs is what gives the noise wave its profound realism and complexity. The function also supports seeding, meaning the `noise` function can be given an initial seed number (e.g., `noise seed 10`). This allows the user to ensure that the same input parameters will consistently produce the exact same visual result upon multiple program restarts, which is vital for repeatable digital artwork. The technical implementation highlights that computationally, generating high-detail noise involves significant calculation expense.

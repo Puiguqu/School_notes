@@ -1,0 +1,8 @@
+# How to safely store API keys
+Reading•
+. Duration: 50 minutes
+50 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/5lesp/how-to-safely-store-api-keys
+
+After learning about secure coding principles in this week’s lecture, you will now explore a practical case of how to handle sensitive information – specifically API keys – in application development. This article examines common mistakes in storing and managing API keys and outlines strategies to prevent leaks that can compromise entire systems. Read: Lu, H.K. ‘Keeping your API keys in a safe’, IEEE 7th International Conference on Cloud Computing. (Anchorage, AK: IEEE, 2014) pp.962–965. for the...

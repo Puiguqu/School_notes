@@ -1,0 +1,26 @@
+# Hack it: Mouse patterns
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/2krXL/hack-it-mouse-patterns
+
+This technical guide details modifying a simulation from a ball-chasing-mouse model to one that traces a continuous line representing the ball's imaginary path. The central goal is to record and draw the trajectory rather than simply displaying the current position. The process begins by modifying the `TheMouse` example setup.
+
+**Step 1: Initializing the Trajectory State**
+In the object's constructor, two initial variables must be established: `randomX` and `randomY` are set using `width/2 + random(-100, 100)` and `height/2 + random(-100, 100)`, respectively. A crucial new variable, `this.prevLocation`, must be initialized using these random coordinates via `new createVector(randomX, randomY)`. Furthermore, `this.location` must be set equal to these same random coordinates to ensure the lines start with an offset from the center.
+
+**Step 2: Canvas Management**
+To prevent the continuous redrawing and erasure of the trail, the `background(0)` command must be moved from the `draw()` function into the `setup()` function. This modification ensures the canvas remains black, preserving the drawn lines.
+
+**Step 3: Implementing Line Tracing in the Ball Class**
+Within the `Ball()` class's `draw()` function, all existing code must be removed. The drawing mechanism is then established by setting the stroke color to white. A line is drawn using the `line()` command, connecting the current `location` vector to the `prevLocation` vector. Before exiting the `draw()` function, the contents of the current `location` vector must be copied into the `prevLocation` vector using the `copy()` command to save the current position for the next frame.
+
+**Step 4: Achieving Natural Movement**
+The `edge()` function must be removed entirely to allow the agent to pass off-screen and reappear naturally, thus creating more organic shapes. Correspondingly, the call to the `edge()` function within the `run()` function must also be deleted.
+
+**Step 5: Scaling the Simulation**
+The single `ball` variable should be renamed to `balls` and initialized as an array. A `for` loop must then be used to push 100 individual balls onto this array. Inside the `draw()` function, another `for` loop must be implemented to call the `run()` command for each ball within the `balls` array, generating complex, emergent patterns.
+
+**Exploration and Technical Details**
+The guide encourages further exploration by manipulating specific technical variables. Users are advised to play with the `strokeWeight()` property and examine how varying the `maxVelocity` variable impacts the resulting patterns. Customization can be achieved by incorporating different colors and transparencies to make the sketch unique. These modifications collectively demonstrate how simple state-saving techniques (`prevLocation` and `copy()`) transform a visual simulation from a chase mechanism into a detailed path-tracing system.

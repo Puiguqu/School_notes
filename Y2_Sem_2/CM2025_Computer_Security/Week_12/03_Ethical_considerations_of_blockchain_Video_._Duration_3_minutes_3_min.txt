@@ -1,0 +1,34 @@
+# Ethical considerations of blockchain
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/bJRcb/ethical-considerations-of-blockchain
+
+This comprehensive summary synthesizes the ethical considerations of blockchain technology with the broad technical curriculum of modern cybersecurity education.
+
+1. The session introduces the crucial ethical examination of blockchain, addressing concerns regarding privacy, power, and social responsibility.
+2. By the end of this study, participants will understand the ethical dimensions, explore challenges in privacy, accountability, and governance, and evaluate the social impact of decentralized systems.
+3. A primary ethical concern centers on data privacy and ownership, noting that public blockchains allow anyone access to transaction records, even with pseudonyms.
+4. The permanence of data storage raises ethical questions, requiring ethical design to balance transparency with confidentiality.
+5. Solutions include selective disclosure or the implementation of private chains to limit visible information.
+6. Another key ethical challenge is accountability, as decentralized systems, including smart contracts, are legally and morally ambiguous regarding who bears responsibility for decisions.
+7. Environmentally, blockchain's footprint, especially from mining, demands a shift towards sustainable consensus mechanisms.
+8. Ethical development must explore energy-efficient alternatives, such as proof-of-work or hybrid models.
+9. Furthermore, developers must ensure equity by considering accessibility, affordability, and digital literacy to prevent blockchain from exacerbating inequality.
+10. Due to the lag in global standards, there are frequent conflicts between the inherent nature of decentralization and governmental regulation.
+11. The ethical use of blockchain necessitates careful collaboration among developers, lawmakers, and civil society to prevent harm and enable good.
+12. Complementing this, the cybersecurity curriculum begins with classifying cyber threats (Weeks 1 & 2).
+13. Later modules cover cybersecurity frameworks, standards, and legal/ethical considerations (Week 3 & 4).
+14. Technical skills progress to Network and OS security principles (Week 5 & 6), followed by Application security principles, including testing and debugging (Week 7 & 8).
+15. A core technical focus is Cryptography in practice, covering encryption, PKI, digital signatures, and hash functions (Week 9 & 10).
+16. Blockchain's utility is addressed in dedicated modules for cybersecurity applications (Week 11 & 12).
+17. The curriculum expands to cover Incident Response and Forensics (Week 13 & 14).
+18. Emerging trends are explored in detail, encompassing AI, ML, quantum computing, and post-quantum cryptography (Week 15 & 16).
+19. Future security challenges are addressed through IoT security solutions and discussions on EDI principles (Week 17 & 18).
+20. Practical application includes real-world case studies, requiring participants to design, test, and communicate secure solutions (Week 19 & 20).
+21. Advanced topics include Identity management with blockchain and future trends like blockchain integration with AI and quantum cryptography (Week 12, Lesson 4).
+22. The curriculum emphasizes the necessity of balancing innovation with accountability.
+23. For the technical foundation, cryptography tools include encryption, PKI, digital signatures, and hash functions.
+24. Technical concepts must address the shift from traditional consensus mechanisms to sustainable, energy-efficient alternatives.
+25. Ultimately, ethical development requires that technological advancement is governed by proactive legal and social frameworks.

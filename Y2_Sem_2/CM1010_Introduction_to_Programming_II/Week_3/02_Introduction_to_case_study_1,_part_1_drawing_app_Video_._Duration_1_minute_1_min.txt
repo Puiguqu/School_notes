@@ -1,0 +1,14 @@
+# Introduction to case study 1, part 1: drawing app
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/krEB3/introduction-to-case-study-1-part-1-drawing-app
+
+This material serves as an comprehensive overview of advanced web development and design principles, centered around the case study of a drawing application. The learning process focuses on investigating the app’s current features, understanding its underlying structure using object-orientation principles, completing partially implemented features, and brainstorming creative extensions. Historically, the evolution of digital art is traced from seminal works like Microsoft Paint to sophisticated demonstrations, such as Andy Warhol’s 1985 digital portrait of Deborah Harry on the Commodore Amiga 1000. More contemporary examples include David Hockney’s substantial collection of digital iPad paintings, emphasizing the art form’s modern breadth.
+
+To facilitate learning, students are advised to use pen and paper for sketching diagrams, as visual diagrams are highly beneficial for understanding and solving complex coding problems. The curriculum outlines a modular progression through several key topics. Early learning begins with foundational concepts, reviewing object orientation in practice over Weeks 1 and 2. Week 3 introduces Case Study 1: the drawing app, which involves initial readings and video introductions. Week 4 continues the deep dive into the drawing app, covering topics like "Drawing application, part 1 – under the hood" (33 min) and the functionality of the "mirror tool" (15 min discussion prompt).
+
+A significant technical focus is placed on the P5.dom library, necessitating readings on HTML and specific video lessons on handling events, culminating in a 15-minute P5.dom practice assignment. The program structure then progresses through subsequent case studies. Week 5 and 6 introduce Case Study 2: the music visualiser, which will be covered in detail. Week 7 and 8 focus on Case Study 3: data visualisation. The material progresses into advanced extension techniques across Weeks 9 through 14, with multiple modules dedicated to "Extending the apps."
+
+Key technical concepts are further introduced starting in Week 15 and Week 16, covering the topic of Callbacks. The latter modules emphasize professional development practices, specifically "Testing for stability" (Weeks 17 and 18). The learning culminates in user interaction and professional readiness, dedicating Weeks 19 and 20 to "Testing with users." The final weeks wrap up the journey with a comprehensive Project and report assignment, maintaining a continuous focus on advanced application development skills.

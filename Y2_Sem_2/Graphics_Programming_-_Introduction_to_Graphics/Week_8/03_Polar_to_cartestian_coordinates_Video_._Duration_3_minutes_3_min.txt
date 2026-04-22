@@ -1,0 +1,34 @@
+# Polar to cartestian coordinates
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/DKepk/polar-to-cartestian-coordinates
+
+This summary condenses the core technical concepts of coordinate systems and their relationship, maintaining all specified details and adhering to the 25-sentence limit.
+
+1. The transcript begins by discussing navigation shortcuts for the content, including using the tab key for movement and CTRL+S to save notes.
+2. The discussion first reviews screen coordinates, which are similar to Cartesian coordinates.
+3. A key difference noted is that standard Cartesian coordinates define the positive y axis as heading up, whereas screen coordinates feature positive y values going down.
+4. Despite this difference, the fundamental point remains that 2D Cartesian coordinate space can be fully described using two parameters: x and y.
+5. However, an alternative method for locating a point in 2D space is using polar coordinates.
+6. In the polar coordinate system, a point is determined by two values: the distance from the origin, and an angle from the polar axis.
+7. The distance from the origin is called the radial coordinate, often denoted by $r$ or radial distance.
+8. The second parameter is the angle itself, which is called the polar angle and is represented by $\theta$.
+9. Angles in polar notation can be expressed in either degrees or radians, where $2\pi$ radians equals 360 degrees.
+10. Polar coordinates are most appropriate when the phenomenon under consideration is inherently tied to direction and length from a center point.
+11. Examples illustrating this include the Archimedean spiral, which is simpler to express using polar formulas.
+12. Furthermore, many physical systems, such as celestial bodies orbiting a central point, are more easily modeled with polar coordinates.
+13. For instance, modeling planets orbiting the sun is more intuitive using polar coordinates than a Cartesian system.
+14. Since programming environments like p5 utilize Cartesian coordinates for primitives, a conversion method is required.
+15. This conversion process leverages trigonometry, specifically the sine and cosine functions.
+16. Sine of an angle $\theta$ is defined as the opposite side divided by the hypotenuse.
+17. When considering a point $(x, y)$ and radius $r$, the relationship yields $\sin(\theta) = y/r$.
+18. By rearranging this trigonometric identity to solve for $y$, we obtain the formula $y = r \sin(\theta)$.
+19. This formula dictates how to calculate the y-coordinate when only polar coordinates $(r, \theta)$ are given.
+20. Similarly, the cosine of the angle relates the adjacent side, $x$, to the hypotenuse, $r$.
+21. The definition for cosine is $\cos(\theta) = x/r$.
+22. Solving this identity for $x$ yields the formula $x = r \cos(\theta)$.
+23. These two derived formulas, $y = r \sin(\theta)$ and $x = r \cos(\theta)$, are crucial for coordinate conversion.
+24. The final step is implementing these relationships within a p5 sketch environment for drawing.
+25. Mastering this conversion allows developers to model directional movement and elliptical shapes despite the system using Cartesian inputs.

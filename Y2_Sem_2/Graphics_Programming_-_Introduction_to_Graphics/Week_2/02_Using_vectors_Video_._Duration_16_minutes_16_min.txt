@@ -1,0 +1,27 @@
+# Using vectors
+Video•
+. Duration: 16 minutes
+16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/X8fDy/using-vectors
+
+1. The presentation introduces vectors, defined as concepts having both direction and magnitude, serving as containers of information crucial for animating objects in graphics programming.
+2. In mathematics, a vector represents something with direction and magnitude, exemplified by its use to describe the path from point A to point B.
+3. The learning process begins with programming the "bouncing ball," a fundamental graphic example, encapsulated within a `Ball` class.
+4. The `Ball` class constructor initializes essential properties: `speedX`, `speedY`, `locX`, and `locY`, often assigned random initial values.
+5. Variables like `locX` and `locY` (location) and `speedX` and `speedY` (speed) track the ball's position and movement parameters.
+6. Movement is handled by a `move` function, where the new location is calculated as the old location plus the speed, utilizing syntactic sugar (e.g., `this.locX += this.speedX`).
+7. The program's logic is organized within a `run` function, which calls `draw`, `move`, and any necessary update/interaction functions sequentially for structured execution.
+8. To implement bouncing, the code checks if `locX` is less than zero or greater than `width`, or if `locY` is outside the bounds of the canvas.
+9. Upon detecting a boundary collision, the corresponding speed component is reversed, for example: `speedX = -this.speedX`.
+10. This repeated structure, requiring separate lines for `locX`, `speedX`, `locY`, and `speedY`, quickly leads to significant code repetition.
+11. The next step involves abstracting these individual variables into vector representations to simplify the code.
+12. The location and movement are refined by creating vector properties: instead of four separate variables, we use `location` and `velocity`.
+13. The primary concept is that new position is calculated using vector addition: `new location = old location + velocity`.
+14. To apply this, the basic formulas become simpler, involving direct vector manipulation using `location.add(velocity)`.
+15. The core transformation is treating location and velocity as vectors, allowing us to generalize the process from individual coordinate updates to vector updates.
+16. The implementation shows that the old structure of `location.x` and `location.y` is replaced by `location.x = location.x + velocity.x`.
+17. Furthermore, the movement update is simplified from calculating `new_loc = old_loc + velocity` to simply calling `location.add(velocity)`.
+18. Finally, the introduction of vectors allows the entire system to be encapsulated, moving from individual variables to higher-level vector objects.
+19. This abstraction streamlines the code, making the process of updating location mathematically clean and robust for complex simulations.
+20. Using vector objects significantly improves code readability and maintainability by grouping related physical properties together.

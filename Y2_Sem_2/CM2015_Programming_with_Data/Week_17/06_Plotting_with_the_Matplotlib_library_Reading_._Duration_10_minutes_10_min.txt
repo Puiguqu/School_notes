@@ -1,0 +1,8 @@
+# Plotting with the Matplotlib library
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/oxooI/plotting-with-the-matplotlib-library
+
+This reading describes fundamentals of creating and saving data visualisations in Python using the matplotlib library. Please read from the heading in this chapter titled ‘A Brief matplotlib API Primer’ up until the heading ‘Plotting with pandas and seaborn’: Read Mckinney, Chapter 9. If this link is broken, please let us know via the Student Portal . Plotting with the Matplotlib library This reading describes fundamentals of creating and saving data visualisations in Python using the matplotlib...

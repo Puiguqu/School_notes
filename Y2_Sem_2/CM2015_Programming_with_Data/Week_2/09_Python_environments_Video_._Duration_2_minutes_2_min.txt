@@ -1,0 +1,14 @@
+# Python environments
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/WWq3k/python-environments
+
+The curriculum covers Python programming, starting with fundamental concepts and progressing through advanced data processing topics. Week 2 focuses heavily on "Packages and virtual environments," which is critical for proper development. The practical demonstration highlights the necessity of using a dedicated Python environment, which is defined as a context containing an interpreter and installed packages. To initiate this setup, one must use the `conda create` command, followed by the desired environment name (e.g., `cm2015`). Optionally, users can specify a Python version, such as `3.12`, when creating the environment. After confirming package installation, the environment can be entered using the `conda activate` command, which confirms success when the environment name appears before the interpreter prompt.
+
+Once the environment is active, the process of installing relevant libraries requires the use of `pip install`, as pip is the default package manager in Python. Running `pip install` followed by a package name (e.g., `numpy` or `pandas`) installs the package specifically within the currently activated environment. A key technical detail is that any package installed is strictly limited to that specific environment and will not be available in other, separate environments. To verify the installed components, the `pip list` command must be used, which accurately reports all installed packages and their versions, such as `matplotlib version 3.1.0`.
+
+These locally installed packages are designed for use both in executed programs and in Jupyter notebooks utilizing the same environment for compiling code. The comprehensive curriculum structure extends through 22 weeks, covering topics from basic data types to advanced data analysis. Following introductory lessons, the course moves through several specialized areas. These include working with strings, mastering control flow, and understanding data structures. Subsequent weeks address practical data manipulation, such as reading and writing data on the file system. Advanced topics cover processing text data, implementing language processing techniques, and retrieving data from the web and databases.
+
+The later modules culminate in crucial skills like data cleaning, performing advanced data transformations, and engaging in data analysis and visualization. Furthermore, the curriculum provides a framework for continuous learning, culminating in revision and an examination in Week 22. Throughout this scope, the continued focus remains on robust environment management, ensuring that all coding efforts are containerized and reproducible.

@@ -1,0 +1,8 @@
+# Cybersecurity frameworks
+Reading•
+. Duration: 2 hours
+2h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/yfnWy/cybersecurity-frameworks
+
+This article offers a comprehensive narrative review of leading standards and frameworks (such as ISO/IEC 27000, NIST, COBIT and others) that guide decision-making and practice across diverse sectors. Read: Taherdoost, H. ‘ Understanding cybersecurity frameworks and information security standards: A review and comprehensive overview ’, Electronics 11(14), 2022, p.2181. If this link is broken, please let us know via the Student Portal . As you're reading, consider the following questions. What ar...

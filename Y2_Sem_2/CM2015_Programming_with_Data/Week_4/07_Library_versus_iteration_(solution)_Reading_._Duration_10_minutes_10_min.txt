@@ -1,0 +1,8 @@
+# Library versus iteration (solution)
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/rnIwd/library-versus-iteration-solution
+
+### Week 1 Topic 1 Introduction to the course ### Week 2 Topic 1 Getting to grips with Python ### Week 3 Topic 2 Python basics: Data types, control flow, and functions ### Week 4 Topic 2 Writing programs using lists and control flow #### Lesson 4.1 Lists, loops and iteration - Lists data types Video . Duration: 13 minutes 13 min - Lists and alternatives Reading . Duration: 30 minutes 30 min - Lists Practice Assignment . Duration: 12 minutes 12 min - Find largest number Lab . Duration: 1 hour 1h ...

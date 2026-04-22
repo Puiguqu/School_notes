@@ -1,0 +1,8 @@
+# Unethical computer systems – case studies
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/0usTs/unethical-computer-systems-case-studies
+
+Before attempting the quiz on the next page, familiarise yourself with these examples of unethical computer systems. Cambridge Analytica and Facebook data scandal This scandal involved the harvesting of personal data from millions of Facebook users without their consent, raising concerns about privacy and data misuse. Cadwalladr, C. and E. Graham-Harrison ‘ Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach ’, The Guardian (2018). Algorithmic bias in cr...

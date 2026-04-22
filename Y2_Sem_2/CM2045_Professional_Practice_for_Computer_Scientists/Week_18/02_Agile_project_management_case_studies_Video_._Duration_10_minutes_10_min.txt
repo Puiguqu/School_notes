@@ -1,0 +1,42 @@
+# Agile project management case studies
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/ZXAMj/agile-project-management-case-studies
+
+This summary is exactly 25 sentences, focusing on the core case studies and key findings.
+
+**I. Spotify: The Agile Framework**
+
+1. Spotify embarked on an agile transformation around 2012 to manage rapid growth and scaling challenges.
+2. The framework utilized specific components, including 'Squads,' which are small, cross-functional, autonomous teams.
+3. 'Tribes' serve as collections of squads working on related areas, facilitated by a 'Tribe Lead' for coordination.
+4. 'Chapters' function as groups of individuals with similar skills (e.g., developers, designers) across different squads for knowledge sharing.
+5. 'Guilds' are lightweight, community-driven groups of interest that transcend both squads and tribes.
+6. Service delivery emphasizes frequent releases and A-B testing, ensuring decision-making is driven by detailed user data.
+7. Key successes included increased autonomy and motivation, allowing teams to own their work.
+8. The decentralized structure promoted better innovation and faster market adaptation.
+9. However, challenges included maintaining organizational alignment across growing squads and managing inter-squad dependencies.
+10. The primary lesson is that context matters, and the model is not a one-size-fits-all solution.
+
+**II. Microsoft: Gradual Transformation**
+
+11. Microsoft began its Agile journey in the early 2000s, adopting a gradual approach focused on flexibility.
+12. Practices were initially introduced through pilot projects, coupled with heavy investment in training and coaching.
+13. Technical infrastructure, such as Visual Studio Team Services (now Azure DevOps), was developed to support Agile workflows.
+14. The company often employed hybrid approaches, combining Agile practices with existing Waterfall elements.
+15. Successes included improved product quality, increased employee morale, and faster time to market.
+16. The major difficulties involved deep-seated resistance to change and overcoming ingrained Waterfall habits.
+17. Scaling Agile across a massive, varied organization proved complex.
+18. The core takeaways stressed that transformation is a time-consuming process requiring patience and strong leadership.
+
+**III. Etsy: Continuous Deployment and Velocity**
+
+19. Around 2008-2009, Etsy pioneered continuous deployment for its online marketplace.
+20. They automated the build, test, and deployment processes to enable multiple deployments per day.
+21. Critical practices included making small, incremental changes supported by comprehensive automated testing.
+22. Implementing a DevOps culture was key, integrating development and operations teams for streamlined deployment.
+23. Benefits included rapid iteration, increased developer productivity, and improved site stability.
+24. Challenges centered on maintaining code quality and managing risk through robust rollback capabilities.
+25. Ultimately, Agile is no longer a competitive advantage, but a prerequisite for success in dynamic, fast-paced environments.

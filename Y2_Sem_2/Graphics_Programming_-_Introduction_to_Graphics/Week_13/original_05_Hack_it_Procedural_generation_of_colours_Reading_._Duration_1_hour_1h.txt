@@ -1,0 +1,8 @@
+# Hack it: Procedural generation of colours
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/XFclf/hack-it-procedural-generation-of-colours
+
+Using the proceduralColorGen example provided in class, generate the following patterns to be used in a computer game like Minecraft. Green green grass of home Ocean view What other patterns can you make? How would the following look? Concrete surface Arcade game surface Desert surface Surface on fire Hack it: Procedural generation of colours Using the proceduralColorGen example provided in class, generate the following patterns to be used in a computer game like Minecraft. Green green grass of home Ocean view What other patterns can you make? How would the following look? Concrete surface Arcade game surface Desert surface Surface on fire Mark as completed Dislike Report an issue

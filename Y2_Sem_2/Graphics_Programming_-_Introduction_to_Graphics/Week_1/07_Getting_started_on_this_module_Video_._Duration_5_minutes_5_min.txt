@@ -1,0 +1,14 @@
+# Getting started on this module
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/nanzw/getting-started-on-this-module
+
+The foundational steps for development involve downloading a specific version of p5.js from the Coursera website to avoid compatibility issues. Once downloaded, the code operates across multiple files, including the executable `index.html` and the primary JavaScript file, `sketch.js`. Within `index.html`, the script must explicitly load both the p5.js library and the associated `sketch.js` file. The core structure of a p5.js sketch relies on two crucial functions: `setup()` and `draw()`. The `setup()` function executes only once, establishing the initial environment, such as defining the canvas dimensions (e.g., 900 by 600). Conversely, the `draw()` function runs continuously, forming the continuous animation loop of the sketch.
+
+Fundamental drawing commands include defining ellipses, such as `ellipse(x, y, w, h)`, and rectangles, like `rect(x, y, w, h)`. A critical detail is the coordinate system: the origin (0, 0) is located at the top-left corner of the canvas. On this system, values increase moving down along the Y-axis and to the right along the X-axis. To maintain a clean frame and prevent drawing trails, the background must be continuously cleared and redefined within the `draw()` function.
+
+Academically, a vital developer skill is mastering the use of technical documentation, such as the p5.js reference. Developers must constantly refer back to documentation to recall precise command definitions, such as a line defined by four points: `line(x1, y1, x2, y2)`. This course introduces a comprehensive curriculum spanning two decades of advanced topics. It begins with 2D Transformations, moving into Object-Oriented Programming (OOP) in JavaScript.
+
+The advanced material progression continues into physics simulations using Matter.js, followed by complex generative techniques. These techniques explore randomness and noise, and later delve into sine and fractals. The curriculum subsequently addresses 3D graphics, leading into pixel manipulation and image processing. The final, complex modules cover Computer Vision in three parts, culminating in advanced project submissions. Throughout the full program, students are expected to build skills across various domains, culminating in a challenging, multi-faceted project over twenty weeks.

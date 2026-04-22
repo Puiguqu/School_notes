@@ -1,0 +1,8 @@
+# Hack it: Plinko
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/zkB5D/hack-it-plinko
+
+Add a few lines of code to code this plinko game. Start from the template file attached. plinko-Template Some steps to consider: Add code in setupGround() to draw a ground like in the image above. Add code in drawGround() to draw the ground you created using the helper function drawVertices() like it's done inside the drawPins() function. Add code to generateNewBall() to create a random ball that falls from the top that has a restitution of 1 so that it's really bouncy. Remember to push it on th...

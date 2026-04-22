@@ -1,0 +1,16 @@
+# Grayscale filter
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/vrRze/grayscale-filter
+
+The provided material covers digital image processing, focusing on specific filters and the broader curriculum framework of computer vision. Initially, the foundation for image manipulation was established using the `invertFilter` code structure. This existing framework serves as a template for programming the `grayscaleFilter`. Grayscale conversion is fundamentally the process of taking a full color image and reducing its color information to single, intensity-based values. Functionally, this involves implementing the same core logic structure, which means looping over every single pixel in the image.
+
+The discussion details two primary methods for calculating a grayscale value. The simplest and quickest method is the mean average, which involves calculating the arithmetic average of the three primary color channels: $(\text{R} + \text{G} + \text{B}) / 3$. However, this simple mean average is technically inaccurate because human vision does not perceive all three color channels with equal sensitivity. To maintain the exact perceived brightness and fidelity of the original image, a weighted average calculation must be employed. This sophisticated technique is known as the luma calculation.
+
+The correct luma formula assigns specific weights based on human visual perception. The resulting weighted average formula is: $\text{gray} = \text{r} \times 0.299 + \text{g} \times 0.587 + \text{b} \times 0.114$. The weights reflect that green (G) has the highest importance (0.587), followed by red (R) (0.299), and blue (B) has the least impact (0.114).
+
+The course structure, titled "Week 15 Image processing," details a comprehensive set of modules. Initial topics include understanding digital image processing and how pixels are stored. Simple filters are introduced sequentially: the Invert filter, the Grayscale filter, and the Threshold filter. Following simple filters, the concept of Convolution is taught, covering both 1D and 2D applications. Advanced filters build upon this mathematical foundation, including the Blur filter, Edge detection filter, and Sharpen filter.
+
+The curriculum expands into more complex areas over subsequent weeks. Weeks 6 through 9 cover Generative techniques, including randomness and noise, and sine and fractals. Weeks 11 and 12 transition the focus to 3D graphics. Weeks 13 and 14 delve into the detailed study of colors, images, and pixels. Finally, the course culminates in comprehensive training through Computer vision, presented in three distinct parts (Week 17, 18, and 19). The overall progression demonstrates a mastery from basic filter implementation to advanced computer vision tasks.

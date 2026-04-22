@@ -1,0 +1,8 @@
+# Opening your first jupyter notebook
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/LA5dU/opening-your-first-jupyter-notebook
+
+instructions to download and run your first Jupyter Notebook in local machine. Install Jupyter Notebook: First, make sure you have the conda or pip package manager installed.If you're using conda, install Jupyter Notebook in your environment by running: >> conda install jupyter If you're using pip, you can install it with: >> pip install jupyter Start Jupyter Notebook: Open the Anaconda Prompt (or terminal) and activate the environment where you installed Jupyter. >> e.g. conda activate dp4ai Ty...

@@ -1,0 +1,32 @@
+# Improving your presentation skills to create more effective interview and assessment centre performances
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/tyYYb/improving-your-presentation-skills-to-create-more-effective-interview-and
+
+1. Mastering presentation skills is crucial for computer science students aiming to excel in technology sector recruitment scenarios.
+2. Effective presentation abilities are vital for delivering persuasive talks to both technical and non-technical audiences, which is key to securing a role.
+3. These skills enhance performance at every job hunting stage, from standard interviews to complex assessment centres and group tasks.
+4. Strong presentation skills allow candidates to showcase both their technical expertise and crucial interpersonal abilities to recruiters.
+5. Employers highly value these skills because they demonstrate clear communication, teamwork potential, and professionalism.
+6. In technology, where complex concepts must reach diverse stakeholders, clarity and confidence in presenting are especially prized.
+7. The core to success involves mastering not only the content but also the delivery, requiring audience engagement.
+8. Techniques for effective delivery include clear structuring, emphasizing key points, and using visuals to enhance understanding.
+9. Practicing non-verbal cues—such as eye contact, posture, and gestures—helps establish a stronger and more credible connection with the audience.
+10. When tailoring a presentation, candidates must adapt their message, avoiding technical jargon unless the audience understands it.
+11. Instead of jargon, one should use analogies or visual aids to explain complicated ideas and always spell out acronyms.
+12. Visual aids must remain clear and data-focused, specifically highlighting how the information impacts the company or project goals.
+13. Good presentation skills are underpinned by the University of London's global employability skills, including clear communication.
+14. Emotional intelligence is necessary because presenting requires considering what matters to the audience and anticipating their reactions.
+15. Collaboration skills are enhanced by rehearsing presentations and approaches with friends or mentors.
+16. Artificial Intelligence (AI) serves as a powerful tool, assisting with grammar checks and enhancing message clarity.
+17. AI-driven platforms, such as ChatGBT, can generate content ideas or facilitate practice question-and-answer sessions.
+18. Tools like Microsoft PowerPoint have built-in rehearsal coaches, offering assistance with timing and pacing.
+19. Critically, AI must only assist preparation; human intelligence is required to ensure the presentation is properly targeted to the audience level.
+20. The approach must be highly human, engaging, and interactive to make a lasting positive impression.
+21. Presentation strategy must be adapted based on the career stage: starters focus on confidence, developers on refinement, and changers on transferable skills.
+22. Following a short presentation, candidates must be prepared for a Q&A session, using questions as chances to showcase complex problem-solving.
+23. If an answer is unknown, the candidate should be honest and propose how they would investigate the information.
+24. Candidates can utilize specialist digital tools provided by the University of London Career Service for personalized feedback on interview performance.
+25. Ultimately, consistent practice, careful design, and self-reflection are mandatory for maximizing interview and assessment centre performance.

@@ -1,0 +1,33 @@
+# Trigonometry refresher
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/Iqoc4/trigonometry-refresher
+
+The provided material serves as a technical refresher and a structured curriculum outline, emphasizing trigonometric principles and advanced graphics techniques.
+The foundational concepts begin with trigonometry, which is crucial for solving various geometric and physical problems.
+In a right triangle, defined by a 90-degree angle, the relationships between angles and side lengths are established.
+If theta is an acute angle, the sine of theta is defined as the ratio of the opposite side length to the length of the hypotenuse ($\sin(\theta) = \text{Opposite} / \text{Hypotenuse}$).
+Similarly, the cosine of theta is the ratio of the adjacent side to the hypotenuse ($\cos(\theta) = \text{Adjacent} / \text{Hypotenuse}$).
+Finally, the tangent of theta is the ratio of the opposite side to the adjacent side ($\tan(\theta) = \text{Opposite} / \text{Adjacent}$).
+This fundamental relationship can be memorized using the mnemonic SOHCAHTOA, which encapsulates all the required mathematical logic.
+Understanding these ratios reveals a critical, non-linear relationship: the angle theta directly influences the corresponding lengths of the opposite and adjacent sides.
+These trigonometric calculations are highly useful for modeling dynamic motion, particularly objects moving in circular paths, like pendulums or springs.
+The curriculum is structured across 20 weeks, progressing from introductory concepts to advanced computational vision.
+Early weeks cover Graphics (Week 1), Vectors and animation (Week 2), and basic Physics principles (Week 3 and Week 4).
+Weeks 5 through 7 delve deeper into Physics using the Matter.js library, allowing for interactive physical simulations.
+Generative techniques are introduced in Weeks 6 and 7, focusing specifically on the application of randomness and noise functions.
+A key technical module involves the transformation between coordinate systems, specifically from Polar to Cartesian coordinates.
+The curriculum progresses to generating graphical forms, exemplified by the module on "Coding a circle."
+Later modules explore sophisticated generative concepts, including oscillations and the application of additive synthesis.
+Students are guided through practice assignments and detailed readings, such as those for "Additive synthesis on a circle."
+The later half of the syllabus, from Week 9 onward, continues generative techniques involving sine and fractals.
+The material shifts into advanced image manipulation with dedicated modules on "Colours, images, pixels" (Weeks 13 and 14).
+Further processing is covered in Week 15 and Week 16, dealing with detailed image processing techniques.
+The final stretch of the course is dedicated to Computer Vision, which is broken into three comprehensive parts (Weeks 17, 18, and 19).
+This final segment covers advanced topic analysis, requiring students to synthesize multiple computational techniques.
+The overarching goal of the course is to enable creative development through mastering mathematical modeling and digital media processing.
+Throughout the weeks, students can access supplementary videos and self-evaluation modules to ensure continuous learning and proficiency.
+The comprehensive nature of the syllabus indicates a progression from fundamental geometry to cutting-edge artificial intelligence principles.
+The entire learning pathway ensures that foundational knowledge, such as basic trigonometry, remains applicable across complex computational domains.

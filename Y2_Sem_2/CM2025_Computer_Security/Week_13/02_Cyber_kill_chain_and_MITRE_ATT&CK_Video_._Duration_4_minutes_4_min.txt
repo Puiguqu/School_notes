@@ -1,0 +1,18 @@
+# Cyber kill chain and MITRE ATT&CK
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/JHsi2/cyber-kill-chain-and-mitre-att-ck
+
+The session introduces two foundational threat modeling tools essential for cybersecurity analysis: the Cyber Kill Chain and the MITRE Framework. These models help understand adversary operational methods and inform defensive strategies. The goal of studying these frameworks is to enhance detection and incident response capabilities.
+
+The Cyber Kill Chain (CKC), established by Lockheed Martin, outlines seven sequential stages that adversaries follow during a cyber attack. These stages are: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), and Action on Objectives. The core defense strategy based on the CKC is to detect and disrupt the attack at the earliest possible stage. Recognizing these stages allows defense teams to build layered and preventative security measures. For instance, email filters can tackle delivery and installation, while network monitoring addresses C2 channels. The CKC provides a useful linear narrative to visualize the overall attack flow.
+
+In contrast, the MITRE ATT&CK Framework organizes attacker actions into a dynamic matrix structure. Its categorization system progresses hierarchically, moving from Tactics to Techniques, and finally to Subtechniques. Tactics represent high-level goals, such as Initial Access or Execution, while Techniques detail how those goals are achieved (e.g., phishing or scripting). The framework is a regularly updated database, allowing security teams to assess visibility gaps and refine detection rules. Security Operations Center (SOC) teams utilize MITRE for threat hunting, red team simulations, and improving overall SOC maturity.
+
+While the CKC offers a macro-level view, MITRE offers granular, practical details about attack methodologies. Combining both models dramatically enhances incident response analysis. For example, in analyzing a phishing attack, the CKC identifies delivery and execution, while MITRE precisely pinpoints the Initial Access (spear phishing) and the persistence mechanism (using a registry key).
+
+Beyond the models, the provided curriculum covers a wide array of advanced cybersecurity topics across multiple weeks. The initial weeks focus on identification and classification of cyber threats. Subsequent topics cover cybersecurity frameworks, standards, legal, and ethical considerations. The syllabus progresses through Network and OS security, followed by Application security principles, including testing and debugging. Cryptography is a major technical focus, covering encryption, PKI, digital signatures, and hash functions. Further topics include Blockchain for cybersecurity and general Incident Response and Forensics (DFIR).
+
+The curriculum delves into emerging trends, dedicating time to AI, ML, quantum computing, and post-quantum cryptography. Sustainable digital ecosystems, EDI principles, and real-world case studies are also taught. The course culminates in an examination preparation week, confirming the deep technical focus on the Cyber Kill Chain and MITRE ATT&CK.

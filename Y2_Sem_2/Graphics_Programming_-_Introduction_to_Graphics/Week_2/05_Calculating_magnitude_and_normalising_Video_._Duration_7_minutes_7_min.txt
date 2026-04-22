@@ -1,0 +1,16 @@
+# Calculating magnitude and normalising
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/fhSmv/calculating-magnitude-and-normalising
+
+The text describes the core mathematical and programmatic techniques for handling vectors in graphics programming. Vectors are fundamental tools used to describe both magnitude (size) and direction, exemplified by measuring a bouncing ball's velocity. Calculating the magnitude of a vector involves using an extension of Pythagoras' theorem, relating the magnitude to the components of a triangle (the vector's components). The magnitude, or length, of a vector $\vec{c}$ with x-component $A$ and y-component $B$ is calculated by the formula: $\text{Magnitude} = \sqrt{A^2 + B^2}$. Programmatically, this calculation is simplified using a function called `mag()`.
+
+To determine the magnitude of a vector, one inputs the vector components into the `mag()` function, which outputs a floating-point number representing the size. The example illustrates calculating the magnitude of a vector with components 4 and 3, which yields a magnitude of 5. The computed magnitude can then be used to draw a bounding rectangle of equal length, confirming the vector's actual size, regardless of its direction.
+
+Beyond magnitude, vectors can also be normalized to extract the direction only. The function used for this purpose is `normalize()`. Normalization converts any input vector into a unit vector, meaning the resulting vector has a standardized size of one. The underlying calculation for direction involves finding the vector's magnitude and then dividing each of its original components by that magnitude.
+
+In code, the process requires copying the initial vector values to ensure the original vector remains unaltered during scaling. This preserved copy is then used for calculations. To scale the direction, the normalized vector is multiplied by an arbitrary scalar value, allowing the programmer to define a new, desired magnitude while maintaining the original direction. If one were to multiply the raw mouse vector instead of the copied normal vector, the benchmark vector would incorrectly change.
+
+The additional syllabus content outlines the educational progression, starting with basic graphics (Week 1) and moving into advanced topics. These topics include dedicated modules on vectors and animation (Week 2), followed by deeper physics applications (Weeks 3-5). Subsequent weeks build knowledge through generative techniques (Weeks 6-9), which cover randomness, noise, sine, and fractals. The curriculum progresses further into advanced visual subjects like 3D graphics (Weeks 11-12), color and image processing (Weeks 13-16), and culminates with extensive computer vision modules (Weeks 17-19).

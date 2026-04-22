@@ -1,0 +1,20 @@
+# Cool projects with background subtraction/frame differencing
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/4YoAA/cool-projects-with-background-subtraction-frame-differencing
+
+This text explores various applications of computer vision techniques, particularly Background Subtraction and Frame Differencing, in interactive artistic performance. Random Quark is a creative studio co-founded and directed in London, which successfully utilized background subtraction. Their piece, *Orthographies*, was performed during the annual public book awards in Athens, Greece. In this work, background subtraction allowed the system to accurately track the live performer on stage. This tracking enabled the performer to interact dynamically with real-time projections, showcasing advanced technical integration.
+
+Golan Levin is an influential artist and educator based in Pittsburgh, USA, holding a professorship at Carnegie Mellon University. Levin directed *Messa di Voce* at London’s Institute of Contemporary Art (ICA), exploring the complex relationship between sound and visual image. His collaborators employed background subtraction to precisely extract the location of performers on the stage. The work’s technical details can be viewed at https://www.youtube.com/watch?v=STRMcmj-gHc.
+
+For demonstrations of frame differencing, Memo Akten, a lead contributor to the C++ framework openFrameworks, was featured. He studied extensively at Goldsmiths, University of London, where he developed the "Webcam piano" project. This ingenious hack demonstrated interacting with a musical instrument using a digital camera feed. Although the specific implementation used an infrared camera and light, the underlying principle was frame differencing. The principles and visual results are available at https://vimeo.com/13938077.
+
+Beyond these core techniques, miscellaneous methods were demonstrated through the work of Chunky Move, a renowned Australian dance company. Chunky Move is directed by Gideon Obarzanek, who collaborates with interactive systems designer Frieder Weiss. They created *Mortal Engine*, an intermedia dance performance that utilized computer vision. This performance established an interactive environment where light itself acted as an actor alongside the human dancers.
+
+Gideon Obarzanek provided explanations regarding technology's use in dance through a presentation here: https://www.youtube.com/watch?v=qaT64TYsVgA. Furthermore, the group produced another compelling piece titled *GLOW*, which showcases their mastery of interactive technology at https://www.youtube.com/watch?v=2AautwIOON8.
+
+The concept of using computer vision in dance is exemplified by the performance *Mortal Engine*, whose details are viewable at https://www.youtube.com/watch?v=FuqPXd8DF5Y. Random Quark's overall methodology is accessible at their dedicated work link: https://www.randomquark.com/work/book-awards. Levin’s earlier exploration of sound and image remains viewable at https://www.youtube.com/watch?v=STRMcmj-gHc.
+
+The integration of background subtraction and frame differencing confirms these techniques' critical role in contemporary digital art. Collectively, these examples highlight the transformative potential of real-time environmental analysis in performance art.

@@ -1,0 +1,8 @@
+# Topic 9 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/Hq5Qo/topic-9-summary
+
+So far, you have explored: equality, diversity and Inclusion (EDI) in cybersecurity. You have explored how bias and lack of diversity can affect system design, risk analysis and professional practice sustainable digital ecosystems. You have considered approaches to balancing security with environmental, social and ethical considerations employability in cybersecurity. You have identified valued certifications, planned career development and linked inclusive and ethical practice to professional g...

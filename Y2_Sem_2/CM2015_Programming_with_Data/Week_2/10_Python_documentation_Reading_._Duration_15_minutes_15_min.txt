@@ -1,0 +1,8 @@
+# Python documentation
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/dH43t/python-documentation
+
+The following is the official Python documentation regarding package management. Please read it carefully – make notes if that is helpful to you. Python ‘ Managing Packages with pip ’ (n.d.). If this link is broken, please let us know via the Student Portal . Python documentation The following is the official Python documentation regarding package management. Please read it carefully – make notes if that is helpful to you. Python ‘ Managing Packages with pip ’ (n.d.). If this link is broken, ple...

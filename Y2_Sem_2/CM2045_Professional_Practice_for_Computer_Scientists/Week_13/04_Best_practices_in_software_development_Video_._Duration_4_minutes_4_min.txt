@@ -1,0 +1,32 @@
+# Best practices in software development
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/Q5Lv6/best-practices-in-software-development
+
+1. Software development is a complex "journey from idea to finished product," requiring more than just coding.
+2. IEEE 12.2.07 is a key standard that maps out this comprehensive journey: the software lifecycle.
+3. The need for a lifecycle standard stems from the complexity of large systems, such as air traffic control or massive games.
+4. A standard provides a common language and structural framework, ensuring quality and predictability across diverse teams.
+5. The standard covers the entire scope, from initial requirements gathering to post-release maintenance.
+6. Critically, 12.2.07 defines necessary processes, not specific technical coding methods.
+7. It acts as an adaptable framework that can be tailored to varying project types and sizes.
+8. The standard identifies five key sequential processes: Acquisition, Supply, Development, Operation, and Maintenance.
+9. **Acquisition** focuses on defining the software's needs, involving resource gathering and initial planning.
+10. **Supply** covers the actual building phase, incorporating essential steps like design, coding, and testing.
+11. **Development** is the core coding stage, also encompassing crucial activities such as documentation and reviews.
+12. **Operation** involves deploying the software, providing user support, and ensuring smooth continuous functioning.
+13. **Maintenance** addresses long-term needs, including bug fixing, feature addition, and adapting to changing requirements.
+14. These macro-processes are broken down further into distinct **activities**, such as requirements analysis within Acquisition.
+15. Each activity is further detailed into specific **tasks**, which define actionable work items.
+16. Each task requires defined **inputs** (what is needed to start) and must generate specific **outputs** (what is produced).
+17. 12.2.07 places strong emphasis on documentation, which helps track progress, ensure consistency, and facilitate knowledge transfer.
+18. Document types mandated include requirements documents, design documents, test plans, and user manuals.
+19. A key technical function of the standard is **traceability**, which links different documents and activities to show system coherence.
+20. Benefits of adoption include improved communication, reduced risk through structured adherence, and significantly higher quality software.
+21. Furthermore, structured processes promote increased efficiency by streamlining development and reducing wasted effort.
+22. The standard's principles are widely used by organizations developing critical systems, often leading to certification.
+23. While traditionally structured, 12.2.07 can also be adapted to work with modern methodologies, including agile processes.
+24. The standard encourages continuous improvement and ongoing evaluation across the entire software lifecycle.
+25. Overall, adherence to standards ensures that software development remains predictable, systematic, and successful regardless of project scale.

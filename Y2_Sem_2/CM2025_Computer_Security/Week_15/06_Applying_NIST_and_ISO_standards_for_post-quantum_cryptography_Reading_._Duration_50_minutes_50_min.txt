@@ -1,0 +1,8 @@
+# Applying NIST and ISO standards for post-quantum cryptography
+Reading•
+. Duration: 50 minutes
+50 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/Y80QZ/applying-nist-and-iso-standards-for-post-quantum-cryptography
+
+In the last two videos, we explored how quantum computing threatens classical cryptography through algorithms like Shor’s, and how post-quantum cryptography (PQC) offers resilient alternatives such as lattice-based and hash-based systems. We also looked at the ongoing NIST PQC standardisation process and the practical challenges of migrating to new algorithms across systems and infrastructures. The following reading builds directly on these themes by examining how governments, industries and sta...

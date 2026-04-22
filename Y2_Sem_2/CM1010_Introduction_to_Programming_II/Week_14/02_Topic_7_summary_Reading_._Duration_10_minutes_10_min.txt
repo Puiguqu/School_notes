@@ -1,0 +1,8 @@
+# Topic 7 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/7j8mn/topic-7-summary
+
+In this seventh topic of the module, you have looked at advanced extensions to your projects. These have involved more complex usage of objects than we have seen previously. You have also been introduced to the log keeping format that we wish you to use until the end of the project. Before you move on to the next topic, take a moment to review the following checklist and test your knowledge and experience with the topics we have discussed. You have watched the videos on the extensions to the app...

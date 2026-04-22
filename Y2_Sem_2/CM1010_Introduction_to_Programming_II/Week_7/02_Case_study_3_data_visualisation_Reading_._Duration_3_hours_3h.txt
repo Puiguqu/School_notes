@@ -1,0 +1,18 @@
+# Case study 3: data visualisation
+Reading•
+. Duration: 3 hours
+3h - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/nW6GE/case-study-3-data-visualisation
+
+This project involves completing several visualizations using the provided data-vis project template, starting by reviewing the structure via `sketch.js` to understand the program's flow. All visualisations are stored and accessible for debugging within the global `gallery` variable. The general workflow requires completing marked sections (???) within each visualization file.
+
+For the 'Tech diversity: gender' module, the task is to generate a stacked bar chart showing the proportion of men employed at various companies. Analysis of the raw data in `./data/tech-diversity/gender-2018.csv` is necessary, paying attention to the special format of the first data line. In the `draw()` loop, relevant data must be extracted and parsed correctly using the `getString()` and `getNum()` table methods. After correctly visualizing the female employee proportion using a predefined rectangle, the male proportion must be drawn similarly, ensuring the visualized ratio of female to male staff at Indiegogo is accurate.
+
+Next, for 'Pay gap 1997–2017,' a line graph representing the pay gap between genders over time is required. Data extraction for this time series comes from `./data/pay-gap/all-employees-hourly-pay-by-gender-1997-2017.csv`. The implementation involves completing the `mapPayGapToHeight()` method and using `mapYearToWidth()` to scale the axes correctly. Specifically, the `line()` function in `draw()` must plot the historical pay gap, utilizing both scaling methods to accurately represent the data trend.
+
+The 'Climate change' module demands a line graph showing Earth's surface temperature changes, incorporating a gradient-filled background. The `fill()` color for the line graph must be dynamically set using the `mapTemperatureToColour()` method, which requires passing the current temperature value. Furthermore, a gradient effect background is created by completing the `rect()` function, drawing regularly spaced rectangles corresponding to each year.
+
+For 'Tech diversity: Race,' the objective is to build an interactive pie chart representing racial diversity, using `./data/tech-diversity/race-2018.csv`. This requires creating a `<select>` DOM element using `p5.dom.js` and programmatically populating its options with company names. The visualization must then be updated to reflect the selected company, requiring the replacement of hard-coded company names with dynamic values from the select element.
+
+Finally, the 'Pay gap by job 2017' module requires creating a scatter plot illustrating the pay difference between men and women across various jobs. Within the `draw()` method, a loop must be completed to render all data points on the canvas as ellipses. This drawing process must correctly utilize the `map()` function to scale the data properties, accurately mapping the pay differences into visual coordinates.

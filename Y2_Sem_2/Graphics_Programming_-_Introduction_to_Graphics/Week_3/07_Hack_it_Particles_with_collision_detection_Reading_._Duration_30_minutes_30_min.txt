@@ -1,0 +1,8 @@
+# Hack it: Particles with collision detection
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/80GaP/hack-it-particles-with-collision-detection
+
+Steps to complete Modify the code from the previous coding exercise to include a box in the middle of the canvas. When particles pass through that box they should change color and become red. You'll need to use what you learned about collision detection between a circle and a square to do this. Hack it: Particles with collision detection Steps to complete Modify the code from the previous coding exercise to include a box in the middle of the canvas. When particles pass through that box they shou...

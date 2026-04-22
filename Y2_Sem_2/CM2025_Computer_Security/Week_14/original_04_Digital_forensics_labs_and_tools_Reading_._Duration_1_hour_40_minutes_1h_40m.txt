@@ -1,0 +1,8 @@
+# Digital forensics – labs and tools
+Reading•
+. Duration: 1 hour 40 minutes
+1h 40m
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/C0Hh9/digital-forensics-labs-and-tools
+
+The purpose of this reading is to examine the role of laboratories and forensic tools in supporting credible digital investigations. It introduces the idea of accreditation as a guarantee of reliability and explores the diverse range of tools – from hardware devices to software, both commercial and open source – that underpin forensic practice. Read: Sammons, J. The basics of digital forensics: the primer for getting started in digital forensics. (Oxford: Syngress, 2014) 2nd edition, Chapter 3. This reading is available in the Online Library in the O'Reilly Collection . Digital forensics – labs and tools The purpose of this reading is to examine the role of laboratories and forensic tools in supporting credible digital investigations. It introduces the idea of accreditation as a guarantee of reliability and explores the diverse range of tools – from hardware devices to software, both commercial and open source – that underpin forensic practice. Read: Sammons, J. The basics of digital forensics: the primer for getting started in digital forensics. (Oxford: Syngress, 2014) 2nd edition, Chapter 3. This reading is available in the Online Library in the O'Reilly Collection . Mark as completed Dislike Report an issue

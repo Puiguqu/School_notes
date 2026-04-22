@@ -1,0 +1,8 @@
+# Topic 5 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/eZwns/topic-5-summary
+
+In this topic, you have learned about: data cleaning techniques to identify and remove unwanted data techniques to analyse patterns in text data how to handle and prepare data for further processing. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic5_eval DOCX File Topic 5 summary In this topic, you have learned about: data cleaning techniques to identify and remo...

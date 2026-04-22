@@ -1,0 +1,16 @@
+# Force accumulation
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/kOHUG/force-accumulation
+
+The provided text outlines both a conceptual framework for physics simulations and a detailed coding tutorial focused on implementing force accumulation in a graphical environment. The tutorial begins with a modified bouncing ball example, where the ball is initialized at the screen's center with zero velocity and zero acceleration. Initially, the code demonstrates that because velocity is zero, the ball remains stationary, confirming the basic physics setup. To simulate force, a dedicated function named `applyForce` is introduced, which accepts a force vector and adds it to the acceleration vector. In essence, this function encapsulates the entire logic needed for force calculation and application.
+
+To generate a specific force, such as attraction toward the mouse, the vector connecting the ball's location to the mouse coordinates is calculated. This requires using the vector subtraction formula: `p5.Vector sub is mouse and ball.location`. This resulting vector, often labeled `dir`, describes the directional steps needed to reach the mouse. To ensure the force is effective but manageable, this directional vector is first normalized. After normalization, it is scaled by a small factor, such as 0.3, because acceleration requires a very small magnitude. This scaled vector is then applied as a force to the ball.
+
+A critical detail in implementing force accumulation is ensuring that the acceleration vector is reset after each frame. Since multiple forces accumulate on acceleration, the acceleration vector must be cleared before calculating forces for the next frame. This reset is accomplished using the command: `acceleration.mult zero`. This action multiplies all current acceleration values by zero, effectively "emptying the bucket" for the next cycle.
+
+Once the force accumulation mechanism is established, the simulation can be further refined by limiting the ball's maximum speed using `velocity.limit()`. This addition prevents the ball from accelerating too rapidly due to excessive forces. The overall structure involves a continuous cycle where the force modifies acceleration, acceleration modifies velocity, and velocity modifies location. The additional content provides a comprehensive curriculum timeline spanning 20 weeks.
+
+The learning path begins with Week 1 Introduction to Graphics and progresses through Week 2 Vectors and animation. Subsequent weeks cover advanced physics and generative techniques, including "Forces and Physics" (Week 3) and a dedicated "Force accumulation" module. The curriculum continues with "Gravity and friction," followed by "Collision detection." Later weeks introduce physical simulations using "Physics with Matter.js" (Weeks 4 and 5). The latter half of the course focuses heavily on generating content through "Generative techniques" (Weeks 6–9), utilizing concepts like randomness, noise, sine, and fractals. The remaining weeks advance into specialized topics including 3D graphics, color and image processing, and culminating in "Computer vision," spanning three parts through Week 19. The curriculum concludes with the Week 20 grading and assignment submissions.

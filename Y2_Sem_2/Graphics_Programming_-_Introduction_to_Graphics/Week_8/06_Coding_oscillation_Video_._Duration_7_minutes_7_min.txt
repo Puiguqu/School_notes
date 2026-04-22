@@ -1,0 +1,18 @@
+# Coding oscillation
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/rTtv5/coding-oscillation
+
+This technical summary describes the implementation and physical principles governing oscillation and wave generation using trigonometric functions in a graphics environment.
+
+The fundamental mechanism for movement begins with a variable, `locX`, driven by the `sin()` function, using the variable `frameCount` as the changing time input. To make the sinusoidal movement visible, the raw output (ranging from -1 to 1) must be multiplied by a scalar representing the amplitude (`amp`). The canvas must also be translated to the center point, utilizing coordinates such as `Width/2` and `Height/2`, to properly visualize the oscillation. A critical technical setting is the use of `angleMode degrees`, as sine and cosine functions otherwise expect radians, leading to incorrect movement.
+
+The concept of oscillation is mathematically described using period, amplitude, and phase. Period dictates how long it takes for the wave to complete one full cycle (360 degrees). An initial formula structure for the oscillation position involves dividing a constant (e.g., `period`) by `frameCount` and multiplying by 360. This fraction represents the current position within the cycle, where a value of 1 signifies a full 360-degree cycle completion.
+
+By modifying the divisor, the period can be precisely controlled; for instance, setting the period to 60 ensures that the full cycle completes exactly within one second, matching the frame rate progression. Furthermore, phase provides the capability to offset the entire wave. Introducing a `phase` variable, such as `phase = 90`, shifts the starting point of the cycle along the 0 to 360 degree range.
+
+To incorporate frequency, a variable `freq` is introduced, relating the cycle speed to time. Since `frameCount` progresses from 0 to 60 over one second, achieving a full cycle (360 degrees) in exactly one second requires scaling the formula by a factor of 6. This scalar adjustment allows the oscillation to maintain a constant frequency (e.g., 1 Hertz).
+
+The final comprehensive wave description combines these parameters into a cohesive equation. The function can therefore be described by its period, amplitude, phase, and frequency. This generalized mathematical approach allows for the precise generation of complex, controllable waves. The resulting system can generate an oscillation with controlled timing, starting point, and intensity. These techniques are foundational for advanced generative art and simulating physical motion.

@@ -1,0 +1,16 @@
+# Hack it: Fisherman's tales
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/AgjH9/hack-it-fishermans-tales
+
+This exercise involves tracking two objects of identical color within a live video stream. The ultimate goal is to display an image, specifically a salmon, positioned dynamically between the two tracked objects. A critical technical note is provided regarding the viewing environment: always use Bracket’s live view to view the resulting sketch. Furthermore, loading images will not function if the HTML is viewed independently in a standard browser. Users must first open the designated `colorTrackingWithBlobs` example. An accompanying salmon image must also be downloaded for this exercise.
+
+The procedure requires finding two household or office objects that share a similar, unique color. These objects should ideally not be pure black or white, allowing for successful color tracking. The participant will physically hold these two objects directly in front of the webcam while the code runs. The core tracking logic resides within the `draw()` function. Initially, this function contains a `for` loop that iterates over and draws every detected blob.
+
+To achieve the desired effect, the original logic must be modified significantly. Instead of invoking the `show()` function for every detected blob, a different method is required. One must obtain the minimum x and minimum y coordinates (`minx, miny`) from the first detected blob. These coordinates are then used to draw the salmon image when only one object is being held. Users must be prepared to troubleshoot by adjusting the color threshold or selecting different colored objects if multiple extraneous blobs appear.
+
+A crucial programming safeguard must be observed: the program requires at least two entries within the `blobs` array. This minimum requirement prevents the program from crashing if the code attempts to access an index like `blobs[1]` when only one blob is present. To finalize the implementation, the minimum x and minimum y coordinates of the second blob must be retrieved. These coordinates must then be used to calculate the distance between the first blob's points. Finally, this calculated distance is instrumental, as it dictates the size and scale of the dynamically drawn fish image. If all steps are correctly implemented, the salmon image should appear drawn dynamically between the hands while the second object is being held.
+
+The source for the salmon image is provided for reference: https://www.publicdomainpictures.net/en/view-image.php?image=283382&picture=fish-salmon-vintage-art. This confirms that the salmon image is sourced from the public domain.

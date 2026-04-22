@@ -1,0 +1,16 @@
+# Common visualisations
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/zjxX1/common-visualisations
+
+The text provides a detailed guide on creating common data visualizations using the Python `matplotlib` library. To begin, the script imports `matplotlib.pyplot` (as `plt`) and `numpy` for creating synthetic data. Line plots are used to visualize trends over continuous variables, such as stock prices or temperature, and require two variables, $x$ and $y$. Creating a line plot uses the `plot(x, y)` function, and it accepts an optional `pltrcparams` argument for setting the figure size (e.g., 3, 3 units). The dimensions of the graph can be adjusted, for example, by using `(4, 3)` to increase the x-dimension. Furthermore, a line plot can incorporate a `marker` argument, specifying point styles like `'o'` or `'x'`.
+
+Unlike line plots, a stem plot visualizes only the magnitude of data points without connecting them. The `stem(x, y)` function is used for this purpose, making it ideal for showing the shape or relative difference in a data set based on magnitude. For understanding the relationship between two variables, a scatter plot is utilized, which maps $y$'s variation as a function of $x$'s changes. This relationship is visualized using `scatter(x, y)`, where the default marker is the 'o' symbol, and the marker type can be changed.
+
+Bar graphs are designed to compare the relative frequencies of categorical entities, such as word counts. To create a bar graph, the `bar()` function requires two arrays: one for the categories (words) and one for their corresponding frequencies. It is possible to specify the color of the bars, and if words are not separated on the x-axis, the figure size must be increased on the x-axis dimension to improve readability. Bar graphs can be applied to compare grades or frequencies across other categorical sets.
+
+The histogram differs from the bar graph in that it compares the distribution of data within an entire dataset, not just categorical frequencies. A histogram visualizes continuous variables, such as a variable sampled from a normal distribution, using the `histogram()` function. Here, the plot takes only one variable ($y$), creating a continuous visualization where values near the center display a greater frequency of occurrence.
+
+Finally, the pie chart is essential for displaying the relative percentages or proportions of categorical entities. To plot a pie chart, the $y$ values (representing relative proportions) and corresponding labels must be provided. It is critical that the $y$ values are normalized against their total sum (e.g., 22) so that they fall within the range of 0 to 1. In this visualization, each categorical variable occupies an area in the pie proportional to its size relative to the whole. Overall, the `matplotlib` library enables the creation of line, stem, scatter, bar, histogram, and pie charts in Python, demonstrating common techniques for data visualization.

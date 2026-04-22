@@ -1,0 +1,8 @@
+# Debugging challenge: chocolate shop
+Reading•
+. Duration: 20 minutes
+20 min
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/r1Q8N/debugging-challenge-chocolate-shop
+
+This debug challenge is based around a pretend chocolate shop that sells several product lines. You have to fix the app so that: the shop is displayed on the canvas correctly (see below) the user can click on the bars and the correct price can be totalled by the basket. the starter sketch: chocolate shop start ZIP File Fix the bugs in the code so it works like the image above. Start by looking at the console and fixing any errors that appear there. You will need to inspect the code carefully, reading all the comments to decipher how it works. Don't forget to fix all the display issues, including the price strings! Debugging challenge: chocolate shop This debug challenge is based around a pretend chocolate shop that sells several product lines. You have to fix the app so that: the shop is displayed on the canvas correctly (see below) the user can click on the bars and the correct price can be totalled by the basket. the starter sketch: chocolate shop start ZIP File Fix the bugs in the code so it works like the image above. Start by looking at the console and fixing any errors that appear there. You will need to inspect the code carefully, reading all the comments to decipher how it works. Don't forget to fix all the display issues, including the price strings! Mark as completed Dislike Report an issue

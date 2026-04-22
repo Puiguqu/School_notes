@@ -1,0 +1,14 @@
+# Careers video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/i4l1q/careers-video
+
+This document provides guidance for University of London students and outlines a highly structured programming curriculum. The career advice focuses on a simple, three-step process for students looking to start, develop, or change careers. Step 1 requires utilizing the new University of London Career Service YouTube channel for expert content and webinar highlights. Step 2 mandates the completion of three specific micro-modules in the virtual learning environment. These modules are the Career Planning micro-module, the Professional Impact Profile Success micro-module, and the Global Employability Skills micro-module. The latter module, Global Employability Skills, assists students in improving the top 10 research-proven global employability skills sought by recruiters. Step 3 is the crucial action phase: applying for opportunities located on the Vacancies Board. Students are encouraged to watch, complete, and action these resources to power up their future.
+
+The curriculum is divided into 21 weeks of technical learning, beginning with Week 1, Topic 1: Object orientation in practice. This initial week includes modules like "Object concepts revisited" (2 min) and "Objects in practice, part 2" (26 min). The syllabus outlines various learning components, including "Module syllabus Reading" (10 min) and "Getting started on this module Reading" (10 min). Week 1.2 further covers "Object orientation" (3 min) and "Debugging challenge: chocolate shop Reading" (20 min). Weeks 2 through 7 build systematically, covering "Object orientation in practice (cont.)" and introducing case studies like the drawing app (Week 3 and 4) and the music visualiser (Week 5 and 6).
+
+Subsequent weeks continue the development of applied skills, focusing on "data visualisation" in Weeks 7 and 8. The curriculum then progresses to module extension in Weeks 9 through 14, leading into advanced topics. Week 15 introduces "Callbacks," and this topic is continued through Week 16. Weeks 17 and 18 are dedicated to "Testing for stability," followed by Week 19 and 20, which cover "Testing with users." The comprehensive learning journey culminates in Week 21 with the Project and report assignment.
+
+Technical viewing instructions detail several navigation shortcuts for users. To save a note, the shortcut is CTRL + S. To expand a selection, the user may use CTRL + arrow key. Conversely, contracting the selection uses shift + CTRL + arrow key. For screen readers incompatible with arrow keys, the keys H J K L can be substituted, and some readers require using CTRL in conjunction with the alt key. The platform also offers advanced features like "Theater mode" and dark mode for an immersive viewing experience.

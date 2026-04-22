@@ -1,0 +1,22 @@
+# Blockchain and AI, quantum cryptography, IoT
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/JrJ3v/blockchain-and-ai-quantum-cryptography-iot
+
+This advanced session explores the intersection of blockchain with transformative technologies: Artificial Intelligence (AI), quantum cryptography, and the Internet of Things (IoT). By the end of this exploration, participants will understand the combined power and synergies among these critical technologies. The session aims to evaluate challenges and identify real-world innovation in these emerging ecosystems.
+
+AI significantly enhances blockchain security by bringing intelligence to the ledger system. Specifically, AI models are utilized to predict threats, optimize processes, and detect complex fraud patterns. Conversely, blockchain enhances AI by making its outputs more auditable and inherently trustworthy. The practical application of both technologies is evident in advanced fraud detection and the development of decentralized AI models.
+
+Blockchain is fundamentally vulnerable to future quantum attacks, necessitating technological evolution. Quantum cryptography offers the potential to redefine secure communication by providing unbreakable encryption. Therefore, integrating quantum-based protocols is crucial for future-proofing data integrity against quantum decryption. With IoT, blockchain is critical for ensuring secure and autonomous communication between devices. Its role involves authenticating transactions, recording continuous activity, and eliminating centralized single points of vulnerability.
+
+Key innovations stemming from this intersection include blockchain-based AI markets, advanced post-quantum cryptographic protocols, and embedded blockchain implementation within IoT firmware. These combined emerging ecosystems are collectively transforming the foundational principles of digital trust. Despite this potential, integration is complex, presenting major challenges in scaling these systems efficiently. Furthermore, concerns persist regarding ethical data use and achieving true interoperability across disparate tech sectors.
+
+The underlying educational curriculum covers a comprehensive scope of cybersecurity topics over 22 weeks. Early weeks (Weeks 1-2) focus on the identification and classification of various cyber threats. Weeks 3 and 4 introduce core Cybersecurity frameworks, covering standards, legal, ethical, and professional considerations.
+
+The curriculum progresses through specialized technical areas, starting with Network and OS security in Weeks 5 and 6. Weeks 7 and 8 detail Application security principles, focusing on rigorous testing and debugging methodologies. Weeks 9 and 10 delve into the critical practice of Cryptography, covering encryption, Public Key Infrastructure (PKI), digital signatures, and hash functions.
+
+Later topics build upon this foundation: Week 11 introduces Blockchain for cybersecurity (Part 1), while Week 12 completes the study with advanced topics (Part 2). Week 13 initiates the vital skill set of Incident Response and Forensics (Part 1). Weeks 15 and 16 address Emerging trends, specifically integrating AI, Machine Learning (ML), quantum computing, and advanced IoT security solutions.
+
+The syllabus culminates in dedicated focus on advanced professional skills. Week 15 is crucial for learning about post-quantum cryptography and IoT security challenges and solutions. The program emphasizes a practical understanding of Identity management with blockchain, as detailed in the curriculum lessons. Finally, the curriculum requires participants to engage in real-world case studies, culminating in Weeks 19 and 20 for designing, testing, and communicating comprehensive security solutions.

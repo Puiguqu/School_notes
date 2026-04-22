@@ -1,0 +1,8 @@
+# Further reading: Dictionaries
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/nBys8/further-reading-dictionaries
+
+When you have completed this assignment, if you would like to read in more depth about the topic, we recommend the following text. Please note that because this is a supplemental reading, we are unable to guarantee that it is available in our Online Library. Please read from the heading in this chapter titled ‘dict’ up until the heading ‘set’: Read Mckinney Python for Data Analysis, 3E, Chapter 3 . If this link is broken, please let us know via the Student Portal . Further reading: Dictionaries ...

@@ -1,0 +1,28 @@
+# Structuring your presentation
+Video•
+. Duration: 13 minutes
+13 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/998kn/structuring-your-presentation
+
+The speaker is presenting research on the intersection of technology and human experience, focusing on designing better user experiences. The talk covers the limitations of current digital tools and proposes a more holistic, human-centered approach to design.
+
+Here is a summary of the key themes and takeaways:
+
+### 1. The Problem with Current Digital Tools
+* **The Gap:** Current digital tools are often optimized for efficiency and data processing, failing to account for the complexity of human creativity, emotion, and context.
+* **The Limitation:** They tend to treat the user as a data point or a predictable worker, rather than a creative, messy, and evolving individual.
+* **The Outcome:** This mismatch leads to user frustration, burnout, and an inability for technology to support genuine breakthrough creativity.
+
+### 2. A Human-Centered Alternative Approach
+* **Focus Shift:** The design philosophy needs to move from **"optimization"** (making things faster or more efficient) to **"augmentation"** (making things more human and capable).
+* **Embracing Messiness:** Good design must accept and even incorporate the inherent "messiness" of human work—the tangents, the moments of deep thought, the emotional weight—rather than trying to filter them out.
+* **The Goal:** To create systems that feel like a *collaborative partner* rather than a *commanding master*.
+
+### 3. Key Design Principles Proposed
+* **Contextual Awareness:** Tools must understand *where* and *why* they are being used, not just *what* the user is doing.
+* **Facilitating Emergence:** The design should act as a scaffold that allows ideas to emerge organically, without the system dictating the final form.
+* **The "Third Space":** The ideal tool should inhabit a "third space" between the user's raw idea and the finished product—a space for contemplation, iteration, and gestation.
+
+### In Essence:
+The presentation is a call to action for designers and technologists to fundamentally rethink their goals. Instead of asking, "How can we make this process 20% faster?" they should be asking, **"How can we build a system that helps humans become 20% more creative, fulfilled, and thoughtful?"** It is a shift from engineering a solution to engineering an *environment for human flourishing*.

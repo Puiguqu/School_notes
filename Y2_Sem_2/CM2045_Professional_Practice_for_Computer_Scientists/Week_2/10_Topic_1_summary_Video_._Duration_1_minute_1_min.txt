@@ -1,0 +1,16 @@
+# Topic 1 summary
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/L6FET/topic-1-summary
+
+Mastering effective communication is fundamental for success in any professional environment. This involves exploring and adapting various communication styles: verbal, written, and visual. The goal of effective communication is to make complex information easy to understand, whether drafting technical documents like API documentation or presenting complex ideas. Participants learn to tailor their message, engaging the audience with confidence, clarity, and persuasion. The curriculum emphasizes the versatility needed to shift between communication tones, ranging from firm but fair approaches to empathetic and diplomatic styles. These skills are crucial for both technical and non-technical audiences when pitching mobile apps or crafting comprehensive project reports.
+
+Technically, the course provides instructions for using navigation shortcuts, including pressing CTRL + S to save notes and using CTRL + arrow key or Shift + CTRL + arrow key to expand or contract selections. For screen reader users, alternative navigation keys are available, including H J K L, and sometimes require using CTRL in conjunction with the Alt key.
+
+The structured curriculum is divided into numerous topics and lessons spanning a 20-week program. Topics sequentially progress from initial written skills (Week 1 and 2) to advanced presentation and public speaking skills (Week 3 and 4). Subsequent units cover the legal and ethical foundations (Week 5 and 6), and then move into inclusive computing and ethical impacts (Week 7 and 8). Further focus is placed on sustainability in computing (Week 9 and 10), followed by risk management and security (Week 11 and 12).
+
+The advanced modules continue the professional trajectory, covering industry standards and best practices (Week 13 and 14), followed by teamwork and collaboration (Week 15 and 16). The final stages address project management (Week 17 and 18) and professional development and career planning (Week 19 and 20).
+
+Specific academic activities reinforce learning, requiring tasks such as visualizing research with concept diagrams (29 minutes duration), designing heuristics for DAWs (9 minutes video), and preparing a pitch for a mobile app (30 minutes reading). Students also engage in practical assignments like applying the STARR technique for career development. The module structure ensures continuous self-assessment, with opportunities for portfolio building and final assessment preparation. Future specialized topics to be covered include Presentation and Ethics, Diversity, Accessibility, and Inclusivity, and Sustainable Practice.

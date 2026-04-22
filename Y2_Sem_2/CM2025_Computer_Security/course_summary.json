@@ -1,0 +1,623 @@
+{
+  "course_title": "CM2025 Computer Security - Week 1 - Topic 1: Identification and classification of cyber threats (part 1) - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Welcome_to_the_module_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "01_Welcome_to_the_module_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "02_Module_syllabus_Reading_._Duration_5_minutes_5_min",
+            "summary_file": "02_Module_syllabus_Reading_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_Getting_started_on_your_module_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Getting_started_on_your_module_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Starting_your_studies_Reading_._Duration_30_minutes_30_min_Resume_._Click_to_resume",
+            "summary_file": "04_Starting_your_studies_Reading_._Duration_30_minutes_30_min_Resume_._Click_to_resume.txt"
+          },
+          {
+            "name": "05_What_are_cyber_threats_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_What_are_cyber_threats_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Cyber_threat_landscape_the_most_common_attack_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_Cyber_threat_landscape_the_most_common_attack_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "07_Classifying_cyber_threats_Video_._Duration_7_minutes_7_min",
+            "summary_file": "07_Classifying_cyber_threats_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "08_Types_of_cyber_attacks_and_how_they_work_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "08_Types_of_cyber_attacks_and_how_they_work_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Cyber_threat_intelligence_and_mitigation_strategies_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Cyber_threat_intelligence_and_mitigation_strategies_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Best_practices_for_identifying_and_preventing_cyber_threats_Reading_._Duration_3_hours_30_minutes_3h_30m",
+            "summary_file": "02_Best_practices_for_identifying_and_preventing_cyber_threats_Reading_._Duration_3_hours_30_minutes_3h_30m.txt"
+          },
+          {
+            "name": "03_Topic_1_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Topic_1_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Topic_1_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_Topic_1_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_governance,_risk_management_and_compliance_(GRC)_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Introduction_to_governance,_risk_management_and_compliance_(GRC)_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Cybersecurity_frameworks_Reading_._Duration_2_hours_2h",
+            "summary_file": "02_Cybersecurity_frameworks_Reading_._Duration_2_hours_2h.txt"
+          },
+          {
+            "name": "03_Cybersecurity_standards_and_policies_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Cybersecurity_standards_and_policies_Video_._Duration_6_minutes_6_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_Information_security_and_cybersecurity_management_a_case_study_with_SMEs_in_Portugal_Reading_._Duration_1_hour_55_minutes_1h_55m",
+            "summary_file": "01_Information_security_and_cybersecurity_management_a_case_study_with_SMEs_in_Portugal_Reading_._Duration_1_hour_55_minutes_1h_55m.txt"
+          },
+          {
+            "name": "02_Cybersecurity_in_the_Internet_of_Things_(IoT)_in_industrial_management_Reading_._Duration_1_hour_35_minutes_1h_35m",
+            "summary_file": "02_Cybersecurity_in_the_Internet_of_Things_(IoT)_in_industrial_management_Reading_._Duration_1_hour_35_minutes_1h_35m.txt"
+          },
+          {
+            "name": "03_Topic_2_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Topic_2_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Topic_2_evaluation_Reading_._Duration_3_minutes_3_min",
+            "summary_file": "04_Topic_2_evaluation_Reading_._Duration_3_minutes_3_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Networks,_operating_systems_and_layered_communication_Video_._Duration_11_minutes_11_min",
+            "summary_file": "01_Networks,_operating_systems_and_layered_communication_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "02_Firewalls_our_first_line_of_defence_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_Firewalls_our_first_line_of_defence_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Intrusion_detection_systems_(IDS)_Video_._Duration_10_minutes_10_min",
+            "summary_file": "03_Intrusion_detection_systems_(IDS)_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_An_introduction_to_IDS_Reading_._Duration_55_minutes_55_min",
+            "summary_file": "04_An_introduction_to_IDS_Reading_._Duration_55_minutes_55_min.txt"
+          },
+          {
+            "name": "05_Delving_deeper_into_understanding_IDS_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "05_Delving_deeper_into_understanding_IDS_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "06_Intrusion_prevention_systems_(IPSs)_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Intrusion_prevention_systems_(IPSs)_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Comparing_IDS_and_IPS_Reading_._Duration_2_hours_30_minutes_2h_30m",
+            "summary_file": "07_Comparing_IDS_and_IPS_Reading_._Duration_2_hours_30_minutes_2h_30m.txt"
+          },
+          {
+            "name": "08_Access_control_models_DAC,_MAC,_RBAC_and_ABAC_Video_._Duration_6_minutes_6_min",
+            "summary_file": "08_Access_control_models_DAC,_MAC,_RBAC_and_ABAC_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "09_Authentication_and_authorisation_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "09_Authentication_and_authorisation_Reading_._Duration_50_minutes_50_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_Operating_systems_windows_and_OS_hardening_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Operating_systems_windows_and_OS_hardening_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Why_is_Linux_important_for_security_&_hardening_Linux_with_Harbian_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Why_is_Linux_important_for_security_&_hardening_Linux_with_Harbian_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Lab_environment_instructions_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Lab_environment_instructions_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_OS_security_Reading_._Duration_1_hour_55_minutes_1h_55m",
+            "summary_file": "04_OS_security_Reading_._Duration_1_hour_55_minutes_1h_55m.txt"
+          },
+          {
+            "name": "05_Topic_3_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Topic_3_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Topic_3_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_Topic_3_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_application_security_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Introduction_to_application_security_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_OWASP_Reading_._Duration_2_hours_2h",
+            "summary_file": "02_OWASP_Reading_._Duration_2_hours_2h.txt"
+          },
+          {
+            "name": "03_Secure_coding_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Secure_coding_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Secure_file_handling_and_configuration_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_Secure_file_handling_and_configuration_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_How_to_safely_store_API_keys_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "05_How_to_safely_store_API_keys_Reading_._Duration_50_minutes_50_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_Application_security_testing_technique_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "01_Application_security_testing_technique_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "02_Dynamic_application_security_testing_(DAST)_Video_._Duration_8_minutes_8_min",
+            "summary_file": "02_Dynamic_application_security_testing_(DAST)_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "03_Application_security_principles_testing_and_debugging_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Application_security_principles_testing_and_debugging_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Topic_4_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Topic_4_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Topic_4_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Topic_4_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_cryptography_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Introduction_to_cryptography_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Key_management_and_symmetric_cryptography_Video_._Duration_8_minutes_8_min",
+            "summary_file": "02_Key_management_and_symmetric_cryptography_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "03_Asymmetric_cryptography_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Asymmetric_cryptography_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Caesar_Cipher_Python_demonstration_Video_._Duration_5_minutes_5_min",
+            "summary_file": "04_Caesar_Cipher_Python_demonstration_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "05_Real-world_cryptography_Reading_._Duration_1_hour_15_minutes_1h_15m",
+            "summary_file": "05_Real-world_cryptography_Reading_._Duration_1_hour_15_minutes_1h_15m.txt"
+          },
+          {
+            "name": "06_Cryptographic_algorithms_hash_functions_Video_._Duration_9_minutes_9_min",
+            "summary_file": "06_Cryptographic_algorithms_hash_functions_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "07_Digital_signatures_Video_._Duration_13_minutes_13_min",
+            "summary_file": "07_Digital_signatures_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "08_Common_cryptographic_applications_Video_._Duration_7_minutes_7_min",
+            "summary_file": "08_Common_cryptographic_applications_Video_._Duration_7_minutes_7_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Brute_force_and_dictionary_attacks_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Brute_force_and_dictionary_attacks_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Man-in-the-middle_(MITM)_attacks_Video_._Duration_6_minutes_6_min",
+            "summary_file": "02_Man-in-the-middle_(MITM)_attacks_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "03_Side_channel_attacks_Video_._Duration_6_minutes_6_min",
+            "summary_file": "03_Side_channel_attacks_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "04_Experimental_quantum_secure_network_with_digital_signatures_and_encryption_Reading_._Duration_1_hour_20_minutes_1h_20m",
+            "summary_file": "04_Experimental_quantum_secure_network_with_digital_signatures_and_encryption_Reading_._Duration_1_hour_20_minutes_1h_20m.txt"
+          },
+          {
+            "name": "05_Topic_5_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Topic_5_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Topic_5_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_Topic_5_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "07_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_What_does_the_feedback_cover_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_New_Video_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_New_Video_Video_._Duration_1_minute_1_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_blockchain_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_Introduction_to_blockchain_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Blockchain_for_cybersecurity_Video_._Duration_3_minutes_3_min",
+            "summary_file": "02_Blockchain_for_cybersecurity_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "03_Secure_transactions_with_blockchain_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Secure_transactions_with_blockchain_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_Real-world_application_smart_contracts_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_Real-world_application_smart_contracts_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_Using_blockchain_technology_with_cloud_computing_Reading_._Duration_2_hours_10_minutes_2h_10m",
+            "summary_file": "05_Using_blockchain_technology_with_cloud_computing_Reading_._Duration_2_hours_10_minutes_2h_10m.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_Identity_management_with_blockchain_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Identity_management_with_blockchain_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Blockchain_application_in_cybersecurity_Video_._Duration_2_minutes_2_min",
+            "summary_file": "02_Blockchain_application_in_cybersecurity_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "03_Ethical_considerations_of_blockchain_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Ethical_considerations_of_blockchain_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_How_blockchain_manages_digital_identity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_How_blockchain_manages_digital_identity_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Future_trends_in_blockchain_cybersecurity_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Future_trends_in_blockchain_cybersecurity_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Blockchain_and_AI,_quantum_cryptography,_IoT_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_Blockchain_and_AI,_quantum_cryptography,_IoT_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_Topic_6_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Topic_6_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Topic_6_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_Topic_6_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_incident_response_and_digital_forensics_Video_._Duration_5_minutes_5_min",
+            "summary_file": "01_Introduction_to_incident_response_and_digital_forensics_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "02_Cyber_kill_chain_and_MITRE_ATT&CK_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Cyber_kill_chain_and_MITRE_ATT&CK_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Digital_forensic_analysis_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Digital_forensic_analysis_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Using_the_Digital_Forensics_and_Incident_Response_(DFIR)_Framework_for_Operational_Technology_Reading_._Duration_3_hours_45_minutes_3h_45m",
+            "summary_file": "04_Using_the_Digital_Forensics_and_Incident_Response_(DFIR)_Framework_for_Operational_Technology_Reading_._Duration_3_hours_45_minutes_3h_45m.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_Incident_response_lifecycle_phases_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_Incident_response_lifecycle_phases_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Digital_forensics_basics_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Digital_forensics_basics_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Common_forensic_tools_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Common_forensic_tools_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_Digital_forensics_labs_and_tools_Reading_._Duration_1_hour_40_minutes_1h_40m",
+            "summary_file": "04_Digital_forensics_labs_and_tools_Reading_._Duration_1_hour_40_minutes_1h_40m.txt"
+          },
+          {
+            "name": "05_Cyber_risk_management_Video_._Duration_4_minutes_4_min",
+            "summary_file": "05_Cyber_risk_management_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "06_Using_explainable_AI_(XAI)_against_phishing_attacks_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_Using_explainable_AI_(XAI)_against_phishing_attacks_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "07_Topic_7_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Topic_7_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Topic_7_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_Topic_7_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_AI-powered_threat_detection_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_AI-powered_threat_detection_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_ML_model_protection_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_ML_model_protection_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_AI-powered_crypt_analysis_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_AI-powered_crypt_analysis_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Quantum_computing_and_cryptography_Video_._Duration_3_minutes_3_min",
+            "summary_file": "04_Quantum_computing_and_cryptography_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "05_Post-quantum_cryptography_Video_._Duration_3_minutes_3_min",
+            "summary_file": "05_Post-quantum_cryptography_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "06_Applying_NIST_and_ISO_standards_for_post-quantum_cryptography_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "06_Applying_NIST_and_ISO_standards_for_post-quantum_cryptography_Reading_._Duration_50_minutes_50_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_Using_Kyber_and_Dilithium_in_post-quantum_security_Reading_._Duration_1_hour_25_minutes_1h_25m",
+            "summary_file": "01_Using_Kyber_and_Dilithium_in_post-quantum_security_Reading_._Duration_1_hour_25_minutes_1h_25m.txt"
+          },
+          {
+            "name": "02_IoT_security_challenges_and_cryptographic_solutions_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_IoT_security_challenges_and_cryptographic_solutions_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Reviewing_different_types_of_lightweight_cryptography_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Reviewing_different_types_of_lightweight_cryptography_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Topic_8_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Topic_8_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Topic_8_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Topic_8_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_Why_EDI_matters_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_Why_EDI_matters_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Cybersecurity_and_diversity_in_risk_analysis_Reading_._Duration_50_minutes_50_min",
+            "summary_file": "02_Cybersecurity_and_diversity_in_risk_analysis_Reading_._Duration_50_minutes_50_min.txt"
+          },
+          {
+            "name": "03_Inclusive_security_design_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Inclusive_security_design_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Activity_EDI_failures_in_cybersecurity_and_technology_systems_Reading_._Duration_2_hours_2h",
+            "summary_file": "04_Activity_EDI_failures_in_cybersecurity_and_technology_systems_Reading_._Duration_2_hours_2h.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_What_is_a_sustainable_digital_ecosystem_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_What_is_a_sustainable_digital_ecosystem_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Employability_in_cybersecurity_Video_._Duration_11_minutes_11_min",
+            "summary_file": "02_Employability_in_cybersecurity_Video_._Duration_11_minutes_11_min.txt"
+          },
+          {
+            "name": "03_Diversity_and_inclusion_in_cybersecurity_Reading_._Duration_1_hour_10_minutes_1h_10m",
+            "summary_file": "03_Diversity_and_inclusion_in_cybersecurity_Reading_._Duration_1_hour_10_minutes_1h_10m.txt"
+          },
+          {
+            "name": "04_Activity_Certifications_in_cybersecurity_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "04_Activity_Certifications_in_cybersecurity_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "05_Cybersecurity_career_guide_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "05_Cybersecurity_career_guide_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "06_Activity_Career_development_plan_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_Activity_Career_development_plan_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "07_The_University_of_London_Careers_Service_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_The_University_of_London_Careers_Service_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Topic_9_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Topic_9_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_Topic_9_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_Topic_9_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_Anatomy_of_real-world_cybersecurity_incidents_Video_._Duration_4_minutes_4_min",
+            "summary_file": "01_Anatomy_of_real-world_cybersecurity_incidents_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "02_Case_study_1_system_design_failure_Equifax_breach_(2017)_Video_._Duration_3_minutes_3_min",
+            "summary_file": "02_Case_study_1_system_design_failure_Equifax_breach_(2017)_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "03_The_Equifax_breach_Reading_._Duration_2_hours_10_minutes_2h_10m",
+            "summary_file": "03_The_Equifax_breach_Reading_._Duration_2_hours_10_minutes_2h_10m.txt"
+          },
+          {
+            "name": "04_Case_study_2_Uber_data_breach_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_Case_study_2_Uber_data_breach_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "05_Activity_Evaluating_the_Uber_breach_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Activity_Evaluating_the_Uber_breach_Reading_._Duration_1_hour_1h.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_SolarWinds_hack_an_in-depth_analysis_and_countermeasures_Reading_._Duration_1_hour_1h",
+            "summary_file": "01_SolarWinds_hack_an_in-depth_analysis_and_countermeasures_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "02_Smart_cyber-attack_diagnosis_and_mitigation_in_a_wind_farm_network_operator_Reading_._Duration_1_hour_20_minutes_1h_20m",
+            "summary_file": "02_Smart_cyber-attack_diagnosis_and_mitigation_in_a_wind_farm_network_operator_Reading_._Duration_1_hour_20_minutes_1h_20m.txt"
+          },
+          {
+            "name": "03_Topic_10_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Topic_10_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Topic_10_evaluation_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_Topic_10_evaluation_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    },
+    "Module_6": {
+      "Week_21": {
+        "display_name": "Week 21",
+        "lessons": [
+          {
+            "name": "01_Mock_exam_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Mock_exam_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 6
+      }
+    }
+  }
+}

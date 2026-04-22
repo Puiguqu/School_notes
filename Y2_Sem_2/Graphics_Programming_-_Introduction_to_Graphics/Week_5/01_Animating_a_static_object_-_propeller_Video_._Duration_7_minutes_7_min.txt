@@ -1,0 +1,16 @@
+# Animating a static object - propeller
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/nOztA/animating-a-static-object-propeller
+
+The video transcript details a complex simulation of animating a static object, specifically a propeller, within a physics environment using principles of physics and computational graphics. The initial setup involves managing multiple falling square objects and defining a stable ground plane. The simulation environment is established by creating a propeller object, which is defined as a rectangle and positioned centrally on the screen. Crucially, this propeller must be declared as `isStatic` to prevent it from being pulled down by the simulated gravity. For the propeller to function physically, it must be explicitly added to the physics world, making it an active participant in the engine's calculations.
+
+Initial attempts to animate the propeller merely involve updating its angle variable and calling `Body.setAngle(propeller, angle)`. However, the speaker notes that this basic method only visually rotates the object without giving it realistic physical momentum. A critical understanding emerges regarding the physics engine's need for more than just position and angle. The engine requires knowledge of the velocity at which the collision occurs.
+
+The solution is achieved by setting the angular velocity of the propeller, which requires defining a dedicated variable, `angleSpeed`. The technical fix involves utilizing the function `Body.setAngularVelocity(propeller, angleSpeed)` on the propeller body. Furthermore, the angle must be updated not merely by setting the angle, but by updating the angle variable itself using the accumulation principle: `angle += angleSpeed`. This systematic update informs the physics engine of the propulsive force.
+
+When these three technical steps are implemented—setting the static body, updating the angle, and providing the angular velocity—the simulation successfully shows objects being propelled away upon collision. This demonstrates that passing the angular velocity is the key to simulating a true motorized force, rather than just a passive push. In the broader context, the course curriculum spans twenty weeks, covering fundamental topics such as Vectors and Animation (Week 2) and Forces and Physics (Week 3). The core technical skill is developing physics simulations using Matter.js, culminating in advanced modules on Generative Techniques (Weeks 6-9) and Computer Vision (Weeks 17-19).
+
+The provided curriculum includes structured practical assignments, such as the "Dominoes" exercise and the "Angry birds clone" peer-graded assignment, ensuring hands-on learning. The theoretical content progresses from basic graphics fundamentals to complex image processing techniques. The detailed structure provides clear milestones, including a mid-term submission in Week 10. Mastering these principles allows developers to move beyond simple graphical rendering to create dynamic, physically accurate simulations.

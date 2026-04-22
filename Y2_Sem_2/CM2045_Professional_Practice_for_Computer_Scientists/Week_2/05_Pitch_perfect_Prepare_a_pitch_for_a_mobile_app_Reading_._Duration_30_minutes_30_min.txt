@@ -1,0 +1,16 @@
+# Pitch perfect – Prepare a pitch for a mobile app
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/XrOl9/pitch-perfect-prepare-a-pitch-for-a-mobile-app
+
+The core objective of this activity is to transform a complex idea into an accessible and persuasive presentation. Participants will engage in a real-world scenario: pitching a mobile app to a potential audience. This exercise builds upon previously acquired skills in professional software environments. Key skills practiced include distilling critical information and delivering a compelling pitch. These skills are essential in professional software settings.
+
+The task requires selecting an app, which can be personal, hypothetical, or an existing market product. Options include modifying a previous module project from ITP/Web Dev or creating an entirely new concept based on studied modules like OOP. The central deliverable is a structured, 2-minute pitch. Speakers should aim for a word rate of approximately 150 words per minute.
+
+The pitch must systematically cover six mandated aspects. First, the presenter must define the problem: identifying the app's purpose and the problem it effectively solves. Second, the solution must be explained, detailing exactly how the app addresses the stated issue. Third, key features must be highlighted, including core benefits and any unique selling points.
+
+Fourth, the target audience must be precisely identified, defining the ideal user group. Fifth, the design and technology must be briefly addressed. This section requires mentioning a design approach, such as Material Design, or a software design pattern like MVC. Furthermore, the underlying tech stack used, such as MERN, must be cited. Sixth, a clear call to action must be included, instructing the audience what to do next, such as downloading the app or investing in the idea.
+
+To enhance the presentation, participants should consider utilizing visual aids like slides. Preparation requires rigorous practice and refinement to ensure smooth flow within the strict two-minute timeframe. Delivery is critical; attention must be paid to tone of voice, body language, and enthusiasm. Recording the pitch can be helpful for self-assessment of delivery quality. Once the app pitch is complete, the participant moves on to reflecting on their work in the next lecture.

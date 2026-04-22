@@ -1,0 +1,8 @@
+# Topic 9 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/KjHAJ/topic-9-summary
+
+In this topic, you have learned about: how to create data visualisations like graphs and histograms evaluating data visualisations for different types of data and how to justify your choice analysing text data and using visualisation techniques to communicate results. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic9_eval (1) DOCX File Topic 9 summary In this topic, you have learned about: how to create data visualisations like graphs and histograms evaluating data visualisations for different types of data and how to justify your choice analysing text data and using visualisation techniques to communicate results. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic9_eval (1) DOCX File Mark as completed Dislike Report an issue

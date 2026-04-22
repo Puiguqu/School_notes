@@ -1,0 +1,18 @@
+# Assessing ethical impacts
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/ciuPu/assessing-ethical-impacts
+
+Assessing ethical impacts is critical today because technology, spanning social media, AI, and data collection, is evolving faster than our ethical frameworks. As creators of these powerful tools, computer scientists hold a profound responsibility to ensure their work benefits society responsibly. A Pew Research study noted that 79% of Americans believe tech companies must be held accountable for their products. Ethical assessments are necessary to mitigate serious risks, including algorithmic bias, misinformation spread, and data breaches.
+
+Social media platforms, such as Facebook and YouTube, face intense criticism for facilitating the spread of hate speech and polarized content, exemplified by the Cambridge Analytica scandal. To maintain accountability, platforms must implement rigorous content moderation using both AI and human reviewers. Furthermore, transparency reports detailing data handling and content removal policies are vital for increasing user insight and accountability.
+
+A systematic approach involves the Ethical Impact Assessment (EIA), which is a structured process evaluating ethical implications before a project is deployed. An EIA must consider privacy, data security risks, the potential for bias, and the overall social impact across different demographic groups. While Google established an AI Ethics Council, its controversial dissolution demonstrated that ethical oversight must be genuinely transparent and diverse.
+
+Regarding AI systems, biased data is a primary risk, potentially leading to discriminatory outcomes in areas like job recruitment or facial recognition. Techniques to mitigate bias include utilizing tools such as IBM's AI Fairness 360, which evaluates models for unfair discrimination. Crucially, developers must remember that "algorithms are not neutral" and must actively work toward equity.
+
+Legally, robust regulations are necessary to prevent companies from prioritizing profit over ethics. The European GDPR, for instance, mandates explicit user consent and grants rights to access and delete personal data. In the US, laws like the California Consumer Privacy Act (CCPA) are key steps, though more legislation is needed for comprehensive legal accountability.
+
+For practitioners, best practices include forming diverse development teams and mandating EIAs for every new product launch. Developers must also prioritize transparency, either through open-sourcing code or publishing detailed transparency reports. Finally, engaging with established guidelines, such as the IEEE's Ethics in Action or Google's AI Principles, ensures technical goals are balanced with deep ethical considerations.

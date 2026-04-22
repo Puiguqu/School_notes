@@ -1,0 +1,8 @@
+# Hack it: Tickle walker
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/p1aXG/hack-it-tickle-walker
+
+Write a sketch in which a circle is drawn. When the mouse is inside the circle add a random value to the location of the circle in order for your sketch to behave the way shown in the image above. Challenge yourself a bit more by making the "tickle walker" object oriented, by making "Tickler" class. Hack it: Tickle walker Write a sketch in which a circle is drawn. When the mouse is inside the circle add a random value to the location of the circle in order for your sketch to behave the way shown in the image above. Challenge yourself a bit more by making the "tickle walker" object oriented, by making "Tickler" class. Mark as completed Dislike Report an issue

@@ -1,0 +1,32 @@
+# Getting started on this module
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/exLwa/getting-started-on-this-module
+
+1. The module team offers a very warm welcome to all students starting this module.
+2. Students are advised to familiarize themselves with the module's structure and the tasks for the coming weeks.
+3. A critical initial step is reviewing the module syllabus thoroughly.
+4. Participants should watch the module introduction video to gain a comprehensive understanding of the module's scope.
+5. Reviewing the learning outcomes, detailed within the syllabus, provides a summary of the required knowledge and skills.
+6. The assessment section of the syllabus must be reviewed to understand the methods of passing the module.
+7. For those new to the Coursera platform, or those wanting to deepen their understanding, the Orientation course is recommended.
+8. Throughout the program, three essential communication tools will be used: discussion forums, Slack, and Zoom.
+9. Detailed guidance on these three tools can be found within the dedicated Orientation course.
+10. Students are encouraged to initiate contact with classmates by saying 'hello' in the discussion forum titled ‘Applications of Python for data programming’.
+11. Before actively participating in forums, it is essential to review the usage guidelines and follow the stated essential rules found in the Orientation course.
+12. The Orientation course also provides further details regarding live webinars.
+13. Information about the Online Library is also available through the Orientation course.
+14. The Online Library tutorial is highlighted as a valuable resource providing extensive information to aid studies.
+15. Additionally, students will be introduced to Studiosity during the Orientation course.
+16. Studiosity is a new online service currently being piloted by the University to support academic writing.
+17. This resource offers additional help and refresher material for various academic topics encountered during studies.
+18. The University of London Careers Service supports all students regardless of their career stage.
+19. Career options are addressed for 'career starters,' those who are 'career developers' with work-based experience, and 'career changers.'
+20. Further reading regarding career enhancement and the comprehensive services provided by the University of London Careers Service is available on the Orientation course.
+21. Aligning academic study with personal career goals is strongly recommended to maintain motivation and trajectory.
+22. Students can immediately start exploring career opportunities using the Careers Connect platform.
+23. Attendees are encouraged to participate in the live targeted BSc Computer Science careers webinars scheduled throughout the program.
+24. A video overview details the University of London’s Careers & Employability Regional Job Hunting Resources, accessible via Careers Connect.
+25. The module team wishes the students the best and looks forward to their contributions throughout the module.

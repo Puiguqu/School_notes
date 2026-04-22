@@ -1,0 +1,723 @@
+{
+  "course_title": "CM2045 Professional Practice for Computer Scientists - Topic 1: Written communication skills, Part 1 - Week 1",
+  "modules": {
+    "Module_1": {
+      "Week_1": {
+        "display_name": "Week 1",
+        "lessons": [
+          {
+            "name": "01_Module_introduction_Video_._Duration_7_minutes_7_min_Get_started_._Click_to_get_started",
+            "summary_file": "01_Module_introduction_Video_._Duration_7_minutes_7_min_Get_started_._Click_to_get_started.txt"
+          },
+          {
+            "name": "02_Module_syllabus_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Module_syllabus_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Getting_started_on_your_module_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Getting_started_on_your_module_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Introduction_to_technical_writing_Video_._Duration_12_minutes_12_min",
+            "summary_file": "04_Introduction_to_technical_writing_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "05_Summarise_programme_regulations_Video_._Duration_8_minutes_8_min",
+            "summary_file": "05_Summarise_programme_regulations_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "06_Summarise_programme_regulations_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_Summarise_programme_regulations_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "07_Reading_a_technical_report_Video_._Duration_22_minutes_22_min",
+            "summary_file": "07_Reading_a_technical_report_Video_._Duration_22_minutes_22_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_2": {
+        "display_name": "Week 2",
+        "lessons": [
+          {
+            "name": "01_Integrating_visual_aids_into_written_communication_Video_._Duration_29_minutes_29_min",
+            "summary_file": "01_Integrating_visual_aids_into_written_communication_Video_._Duration_29_minutes_29_min.txt"
+          },
+          {
+            "name": "02_Draft_design_heuristics_for_digital_audio_workstations_(DAWs)_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Draft_design_heuristics_for_digital_audio_workstations_(DAWs)_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Design_a_heuristics_paper_Reading_._Duration_1_hour_1h",
+            "summary_file": "03_Design_a_heuristics_paper_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "04_Quick_reflection_on_activity_Video_._Duration_2_minutes_2_min",
+            "summary_file": "04_Quick_reflection_on_activity_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "05_Pitch_perfect_Prepare_a_pitch_for_a_mobile_app_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Pitch_perfect_Prepare_a_pitch_for_a_mobile_app_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "06_How_to_self-assess_your_presentation_Video_._Duration_3_minutes_3_min",
+            "summary_file": "06_How_to_self-assess_your_presentation_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "07_9_communication_tips_Video_._Duration_7_minutes_7_min",
+            "summary_file": "07_9_communication_tips_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "08_Assertive_communication_to_develop_your_career_Video_._Duration_8_minutes_8_min",
+            "summary_file": "08_Assertive_communication_to_develop_your_career_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "09_Enhance_your_communication_skills_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "09_Enhance_your_communication_skills_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "10_Topic_1_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "10_Topic_1_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "11_What_have_you_learned_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "11_What_have_you_learned_Reading_._Duration_15_minutes_15_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_3": {
+        "display_name": "Week 3",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_Topic_2_Video_._Duration_2_minutes_2_min",
+            "summary_file": "01_Introduction_to_Topic_2_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "02_Overcoming_fear_and_presenting_with_confidence_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "02_Overcoming_fear_and_presenting_with_confidence_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "03_Activity_Reflecting_on_a_presentation_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "03_Activity_Reflecting_on_a_presentation_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "04_Structuring_your_presentation_Video_._Duration_13_minutes_13_min",
+            "summary_file": "04_Structuring_your_presentation_Video_._Duration_13_minutes_13_min.txt"
+          },
+          {
+            "name": "05_5_tips_for_presentation_Video_._Duration_9_minutes_9_min",
+            "summary_file": "05_5_tips_for_presentation_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "06_Successful_presentation_skills_Reading_._Duration_1_hour_40_minutes_1h_40m",
+            "summary_file": "06_Successful_presentation_skills_Reading_._Duration_1_hour_40_minutes_1h_40m.txt"
+          },
+          {
+            "name": "07_Elevator_pitches_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Elevator_pitches_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Elevator_pitch_1_Video_._Duration_2_minutes_2_min",
+            "summary_file": "08_Elevator_pitch_1_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "09_Elevator_pitch_2_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_Elevator_pitch_2_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "10_Elevator_pitch_model_answer_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "10_Elevator_pitch_model_answer_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 1
+      },
+      "Week_4": {
+        "display_name": "Week 4",
+        "lessons": [
+          {
+            "name": "01_Presentation_zen_using_visual_aids_in_presentations_Video_._Duration_9_minutes_9_min",
+            "summary_file": "01_Presentation_zen_using_visual_aids_in_presentations_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "02_Handling_audience_questions_techniques_and_tips_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Handling_audience_questions_techniques_and_tips_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Handling_audience_questions_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Handling_audience_questions_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_The_surprising_secret_to_speaking_with_confidence_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_The_surprising_secret_to_speaking_with_confidence_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_How_public_speaking_will_change_your_life_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_How_public_speaking_will_change_your_life_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Improving_your_presentation_skills_to_create_more_effective_interview_and_assessment_centre_performances_Video_._Duration_10_minutes_10_min",
+            "summary_file": "06_Improving_your_presentation_skills_to_create_more_effective_interview_and_assessment_centre_performances_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Enhance_your_interview_performance_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_Enhance_your_interview_performance_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "08_Enhance_your_presentation_and_public_speaking_skills_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "08_Enhance_your_presentation_and_public_speaking_skills_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "09_Topic_2_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "09_Topic_2_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "10_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "10_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 1
+      }
+    },
+    "Module_2": {
+      "Week_5": {
+        "display_name": "Week 5",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_computer_ethics_and_(UK)_law_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Introduction_to_computer_ethics_and_(UK)_law_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Intellectual_property_case_study_1_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_Intellectual_property_case_study_1_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Intellectual_property_case_study_2_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Intellectual_property_case_study_2_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_Intellectual_property_case_study_3_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_Intellectual_property_case_study_3_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Ethical_decision-making_Video_._Duration_7_minutes_7_min",
+            "summary_file": "05_Ethical_decision-making_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "06_Ethical_dilemmas_Reading_._Duration_3_hours_45_minutes_3h_45m",
+            "summary_file": "06_Ethical_dilemmas_Reading_._Duration_3_hours_45_minutes_3h_45m.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_6": {
+        "display_name": "Week 6",
+        "lessons": [
+          {
+            "name": "01_Sustainability_and_ethics_in_computing_Part_1_Video_._Duration_8_minutes_8_min",
+            "summary_file": "01_Sustainability_and_ethics_in_computing_Part_1_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "02_Sustainability_and_ethics_in_computing_Part_2_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Sustainability_and_ethics_in_computing_Part_2_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Sustainability_and_ethics_in_computing_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Sustainability_and_ethics_in_computing_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Handling_legal_risks_in_IT_projects_Video_._Duration_8_minutes_8_min",
+            "summary_file": "04_Handling_legal_risks_in_IT_projects_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "05_Ethical_dilemmas_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Ethical_dilemmas_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "06_Transdisciplinary_approach_to_global,_ethical_and_legal_problems_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Transdisciplinary_approach_to_global,_ethical_and_legal_problems_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Enhance_your_understanding_of_legal_and_ethical_foundations_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Enhance_your_understanding_of_legal_and_ethical_foundations_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Topic_3_summary_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "08_Topic_3_summary_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "09_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_7": {
+        "display_name": "Week 7",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_inclusive_computing_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Introduction_to_inclusive_computing_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Ethical_impacts_of_technology_Video_._Duration_9_minutes_9_min",
+            "summary_file": "02_Ethical_impacts_of_technology_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "03_Accessibility_in_software_design_1_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Accessibility_in_software_design_1_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_Accessibility_in_software_design_2_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_Accessibility_in_software_design_2_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_Accessibility_in_software_design_3_Video_._Duration_7_minutes_7_min",
+            "summary_file": "05_Accessibility_in_software_design_3_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "06_Accessibility_in_software_design_Reading_._Duration_2_hours_40_minutes_2h_40m",
+            "summary_file": "06_Accessibility_in_software_design_Reading_._Duration_2_hours_40_minutes_2h_40m.txt"
+          },
+          {
+            "name": "07_Inclusive_design_principles_Reading_._Duration_1_hour_20_minutes_1h_20m",
+            "summary_file": "07_Inclusive_design_principles_Reading_._Duration_1_hour_20_minutes_1h_20m.txt"
+          }
+        ],
+        "module": 2
+      },
+      "Week_8": {
+        "display_name": "Week 8",
+        "lessons": [
+          {
+            "name": "01_Case_study_inclusive_computing_Reading_._Duration_1_hour_10_minutes_1h_10m",
+            "summary_file": "01_Case_study_inclusive_computing_Reading_._Duration_1_hour_10_minutes_1h_10m.txt"
+          },
+          {
+            "name": "02_Implementing_inclusive_practices_Video_._Duration_7_minutes_7_min",
+            "summary_file": "02_Implementing_inclusive_practices_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "03_Activity_Implementing_inclusive_practices_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Activity_Implementing_inclusive_practices_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Assessing_ethical_impacts_Video_._Duration_9_minutes_9_min",
+            "summary_file": "04_Assessing_ethical_impacts_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "05_Employer_voice_inclusive_computing_Video_._Duration_12_minutes_12_min",
+            "summary_file": "05_Employer_voice_inclusive_computing_Video_._Duration_12_minutes_12_min.txt"
+          },
+          {
+            "name": "06_Activity_Reflecting_on_the_video_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Activity_Reflecting_on_the_video_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Enhance_your_understanding_of_equality,_diversity_and_inclusivity_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Enhance_your_understanding_of_equality,_diversity_and_inclusivity_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_Topic_4_summary_Video_._Duration_1_minute_1_min",
+            "summary_file": "08_Topic_4_summary_Video_._Duration_1_minute_1_min.txt"
+          },
+          {
+            "name": "09_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 2
+      }
+    },
+    "Module_3": {
+      "Week_9": {
+        "display_name": "Week 9",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_sustainability_in_computing_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Introduction_to_sustainability_in_computing_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_Environmental_impact_of_computing_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Environmental_impact_of_computing_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Sustainable_software_engineering_Reading_._Duration_1_hour_30_minutes_1h_30m",
+            "summary_file": "03_Sustainable_software_engineering_Reading_._Duration_1_hour_30_minutes_1h_30m.txt"
+          },
+          {
+            "name": "04_Energy-efficient_data_centres_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_Energy-efficient_data_centres_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_Energy-efficient_data_centres_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "05_Energy-efficient_data_centres_Reading_._Duration_45_minutes_45_min.txt"
+          },
+          {
+            "name": "06_What_is_Studiosity_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_What_is_Studiosity_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_10": {
+        "display_name": "Week 10",
+        "lessons": [
+          {
+            "name": "01_Renewable_energy_in_tech_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Renewable_energy_in_tech_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Renewable_energy_in_tech_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "02_Renewable_energy_in_tech_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Lifecycle_assessment_in_IT_Video_._Duration_7_minutes_7_min",
+            "summary_file": "03_Lifecycle_assessment_in_IT_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "04_Transdisciplinary_approach_to_sustainability_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "04_Transdisciplinary_approach_to_sustainability_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "05_Enhance_your_understanding_of_sustainability_issues_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Enhance_your_understanding_of_sustainability_issues_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Topic_5_summary_Video_._Duration_2_minutes_2_min",
+            "summary_file": "06_Topic_5_summary_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_11": {
+        "display_name": "Week 11",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_risk_management_in_computing_Video_._Duration_3_minutes_3_min",
+            "summary_file": "01_Introduction_to_risk_management_in_computing_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "02_Video_The_security_mirage_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Video_The_security_mirage_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Fundamentals_of_cybersecurity_Video_._Duration_3_minutes_3_min",
+            "summary_file": "03_Fundamentals_of_cybersecurity_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "04_NIST_and_their_purpose_Video_._Duration_2_minutes_2_min",
+            "summary_file": "04_NIST_and_their_purpose_Video_._Duration_2_minutes_2_min.txt"
+          },
+          {
+            "name": "05_Information_security_management_Reading_._Duration_3_hours_3h",
+            "summary_file": "05_Information_security_management_Reading_._Duration_3_hours_3h.txt"
+          },
+          {
+            "name": "06_Case_study_Cybersecurity_breaches_Reading_._Duration_1_hour_50_minutes_1h_50m",
+            "summary_file": "06_Case_study_Cybersecurity_breaches_Reading_._Duration_1_hour_50_minutes_1h_50m.txt"
+          }
+        ],
+        "module": 3
+      },
+      "Week_12": {
+        "display_name": "Week 12",
+        "lessons": [
+          {
+            "name": "01_Incident_response_planning_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Incident_response_planning_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Employer_voice_risk_management_Video_._Duration_16_minutes_16_min",
+            "summary_file": "02_Employer_voice_risk_management_Video_._Duration_16_minutes_16_min.txt"
+          },
+          {
+            "name": "03_Reflecting_on_the_video_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Reflecting_on_the_video_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Enhance_your_understanding_of_risk_management_and_security_issues_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Enhance_your_understanding_of_risk_management_and_security_issues_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Activity_Analysing_a_security_breach_in_Mr._Robot_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Activity_Analysing_a_security_breach_in_Mr._Robot_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Topic_6_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Topic_6_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 3
+      }
+    },
+    "Module_4": {
+      "Week_13": {
+        "display_name": "Week 13",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_industry_standards_Video_._Duration_7_minutes_7_min",
+            "summary_file": "01_Introduction_to_industry_standards_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "02_IEEE_and_ACM_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_IEEE_and_ACM_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_IEEE_standards_overview_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_IEEE_standards_overview_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Best_practices_in_software_development_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_Best_practices_in_software_development_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Implementing_standards_case_studies_Video_._Duration_6_minutes_6_min",
+            "summary_file": "05_Implementing_standards_case_studies_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "06_Unethical_computer_systems_case_studies_Reading_._Duration_1_hour_1h",
+            "summary_file": "06_Unethical_computer_systems_case_studies_Reading_._Duration_1_hour_1h.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_14": {
+        "display_name": "Week 14",
+        "lessons": [
+          {
+            "name": "01_Project_management_standards_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "01_Project_management_standards_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "02_Security_best_practices_Video_._Duration_5_minutes_5_min",
+            "summary_file": "02_Security_best_practices_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_Relevant_professional_bodies_and_institutes_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "03_Relevant_professional_bodies_and_institutes_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "04_Enhance_your_understanding_of_industry_standards_and_best_practices_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "04_Enhance_your_understanding_of_industry_standards_and_best_practices_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "05_Topic_7_summary_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "05_Topic_7_summary_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "06_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "06_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_15": {
+        "display_name": "Week 15",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_teamwork_in_computing_Video_._Duration_5_minutes_5_min",
+            "summary_file": "01_Introduction_to_teamwork_in_computing_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "02_Principles_of_effective_collaboration_Video_._Duration_5_minutes_5_min",
+            "summary_file": "02_Principles_of_effective_collaboration_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "03_Communication_skills_for_teams_Reading_._Duration_2_hours_35_minutes_2h_35m",
+            "summary_file": "03_Communication_skills_for_teams_Reading_._Duration_2_hours_35_minutes_2h_35m.txt"
+          },
+          {
+            "name": "04_Successful_team_projects_Reading_._Duration_1_hour_55_minutes_1h_55m",
+            "summary_file": "04_Successful_team_projects_Reading_._Duration_1_hour_55_minutes_1h_55m.txt"
+          },
+          {
+            "name": "05_Activity_Constructive_communication_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "05_Activity_Constructive_communication_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 4
+      },
+      "Week_16": {
+        "display_name": "Week 16",
+        "lessons": [
+          {
+            "name": "01_Agile_methodologies_and_teamwork_Reading_._Duration_2_hours_15_minutes_2h_15m",
+            "summary_file": "01_Agile_methodologies_and_teamwork_Reading_._Duration_2_hours_15_minutes_2h_15m.txt"
+          },
+          {
+            "name": "02_Collaboration_tools_and_techniques_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Collaboration_tools_and_techniques_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Managing_team_conflicts_Video_._Duration_5_minutes_5_min",
+            "summary_file": "03_Managing_team_conflicts_Video_._Duration_5_minutes_5_min.txt"
+          },
+          {
+            "name": "04_Employer_voice_teamwork_Video_._Duration_31_minutes_31_min",
+            "summary_file": "04_Employer_voice_teamwork_Video_._Duration_31_minutes_31_min.txt"
+          },
+          {
+            "name": "05_Activity_Reflecting_on_the_video_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Activity_Reflecting_on_the_video_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Enhance_your_understanding_of_teamwork_and_collaboration_project_management_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_Enhance_your_understanding_of_teamwork_and_collaboration_project_management_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "07_Topic_8_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "07_Topic_8_summary_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "08_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "08_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 4
+      }
+    },
+    "Module_5": {
+      "Week_17": {
+        "display_name": "Week 17",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_project_management_Video_._Duration_6_minutes_6_min",
+            "summary_file": "01_Introduction_to_project_management_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "02_Fundamentals_of_Scrum_Video_._Duration_4_minutes_4_min",
+            "summary_file": "02_Fundamentals_of_Scrum_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "03_Understanding_sprints_in_Scrum_Reading_._Duration_1_hour_25_minutes_1h_25m",
+            "summary_file": "03_Understanding_sprints_in_Scrum_Reading_._Duration_1_hour_25_minutes_1h_25m.txt"
+          },
+          {
+            "name": "04_Kanban_basics_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_Kanban_basics_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Kanban_Reading_._Duration_45_minutes_45_min",
+            "summary_file": "05_Kanban_Reading_._Duration_45_minutes_45_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_18": {
+        "display_name": "Week 18",
+        "lessons": [
+          {
+            "name": "01_Case_study_Agile_project_management_Reading_._Duration_2_hours_35_minutes_2h_35m",
+            "summary_file": "01_Case_study_Agile_project_management_Reading_._Duration_2_hours_35_minutes_2h_35m.txt"
+          },
+          {
+            "name": "02_Agile_project_management_case_studies_Video_._Duration_10_minutes_10_min",
+            "summary_file": "02_Agile_project_management_case_studies_Video_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "03_Tools_for_Agile_project_management_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Tools_for_Agile_project_management_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_Developing_project_management_skills_for_your_career_Video_._Duration_4_minutes_4_min",
+            "summary_file": "04_Developing_project_management_skills_for_your_career_Video_._Duration_4_minutes_4_min.txt"
+          },
+          {
+            "name": "05_Enhance_your_understanding_of_project_management_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_Enhance_your_understanding_of_project_management_with_our_University_of_London_Careers_Service_resources_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_Topic_9_summary_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "06_Topic_9_summary_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_What_have_you_learned_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_19": {
+        "display_name": "Week 19",
+        "lessons": [
+          {
+            "name": "01_Introduction_to_professional_development_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "01_Introduction_to_professional_development_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "02_Building_an_effective_career_development_strategy_Video_._Duration_8_minutes_8_min",
+            "summary_file": "02_Building_an_effective_career_development_strategy_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "03_Identifying_your_career_priorities_and_career_paths_Video_._Duration_8_minutes_8_min",
+            "summary_file": "03_Identifying_your_career_priorities_and_career_paths_Video_._Duration_8_minutes_8_min.txt"
+          },
+          {
+            "name": "04_How_to_enhance_your_CV_with_AI_Video_._Duration_6_minutes_6_min",
+            "summary_file": "04_How_to_enhance_your_CV_with_AI_Video_._Duration_6_minutes_6_min.txt"
+          },
+          {
+            "name": "05_Activity_Improving_your_own_CV_Reading_._Duration_1_hour_1h",
+            "summary_file": "05_Activity_Improving_your_own_CV_Reading_._Duration_1_hour_1h.txt"
+          },
+          {
+            "name": "06_Enhancing_your_LinkedIn_profile_Video_._Duration_7_minutes_7_min",
+            "summary_file": "06_Enhancing_your_LinkedIn_profile_Video_._Duration_7_minutes_7_min.txt"
+          },
+          {
+            "name": "07_Activity_Updating_your_LinkedIn_profile_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "07_Activity_Updating_your_LinkedIn_profile_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "08_Showcasing_your_work_on_GitHub_Video_._Duration_3_minutes_3_min",
+            "summary_file": "08_Showcasing_your_work_on_GitHub_Video_._Duration_3_minutes_3_min.txt"
+          },
+          {
+            "name": "09_Review_your_GitHub_or_LinkedIn_profile_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "09_Review_your_GitHub_or_LinkedIn_profile_Reading_._Duration_30_minutes_30_min.txt"
+          }
+        ],
+        "module": 5
+      },
+      "Week_20": {
+        "display_name": "Week 20",
+        "lessons": [
+          {
+            "name": "01_Building_your_network_Video_._Duration_9_minutes_9_min",
+            "summary_file": "01_Building_your_network_Video_._Duration_9_minutes_9_min.txt"
+          },
+          {
+            "name": "02_Activity_Building_your_network_Reading_._Duration_30_minutes_30_min",
+            "summary_file": "02_Activity_Building_your_network_Reading_._Duration_30_minutes_30_min.txt"
+          },
+          {
+            "name": "03_Design_the_perfect_career_Reading_._Duration_1_hour_55_minutes_1h_55m",
+            "summary_file": "03_Design_the_perfect_career_Reading_._Duration_1_hour_55_minutes_1h_55m.txt"
+          },
+          {
+            "name": "04_Topic_10_summary_Reading_._Duration_15_minutes_15_min",
+            "summary_file": "04_Topic_10_summary_Reading_._Duration_15_minutes_15_min.txt"
+          },
+          {
+            "name": "05_What_have_you_learned_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "05_What_have_you_learned_Reading_._Duration_10_minutes_10_min.txt"
+          },
+          {
+            "name": "06_End-of-module_summary_Reading_._Duration_10_minutes_10_min",
+            "summary_file": "06_End-of-module_summary_Reading_._Duration_10_minutes_10_min.txt"
+          }
+        ],
+        "module": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Real-world cryptography
+Reading•
+. Duration: 1 hour 15 minutes
+1h 15m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/ILbSq/real-world-cryptography
+
+Now that you have learned the core ideas about cryptography, this text is valuable not only for understanding how cryptography works in the real world but also for appreciating why certain cryptographic decisions matter in securing systems. Read: Aumasson, J-P. Serious cryptography: a practical introduction to modern encryption. (San Francisco, CA: No Starch Press, 2025) 2nd edition, Part 1 Fundamentals, Chapter 1 Encryption: ‘Attack Models’ up to the end of ‘Security Notions’; Chapter 2 Randomn...

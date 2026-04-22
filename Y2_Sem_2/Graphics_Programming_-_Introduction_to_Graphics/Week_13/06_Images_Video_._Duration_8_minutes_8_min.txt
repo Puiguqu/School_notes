@@ -1,0 +1,20 @@
+# Images
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/qDHCx/images
+
+Digital images generally fall into two categories: bitmap (raster) and vector images. A bitmap, or raster image, is defined as a rectangular array of pixels and is inherently resolution-dependent, meaning zooming in indefinitely is not possible. Bitmaps are also categorized by their compression methods: lossless or lossy. Lossless compression, exemplified by PNG, uses algorithms to represent data in a way that reduces file size without losing information. For example, instead of storing the full RGB values, lossless compression might store the difference between consecutive pixels' channel values, which are typically smaller numbers and require fewer bits. This allows the original image data to be reconstructed without any loss of fidelity.
+
+A standard HD image, such as 1920 by 1080 pixels (only two megapixels), contains about 2 million pixels, which requires multiplying by four channels (RGB and Alpha) to reach approximately 8 megabytes of data. PNG was developed as an open alternative to GIF, supporting lossless compression and crucial transparency via the alpha channel. Instead of just three bytes for color, four bytes are used to describe the alpha channel, which dictates the amount of transparency.
+
+The JPEG format represents a lossy compression method, commonly used by professional photographers and digital cameras. JPEG works by leveraging how the human brain perceives color, allowing certain information to be discarded without noticeable degradation. Additionally, the Discrete Cosine Transform is employed, enabling the description of various image patterns using a small vocabulary set, thus achieving greater compression. This feature was vital for transmitting images over low-bandwidth internet modems.
+
+Vector images, conversely, are not based on pixel arrays but use mathematical formulas to describe geometric objects like circles and polygons. They offer structural advantages, often being smaller than bitmaps because they only store formulas rather than color information for every pixel. When describing shapes, a vector file contains explicit coordinates (x, y), dimensions (width, height), and stroke details, similar to p5js object descriptions.
+
+A key benefit of vector images is their scalability, as they are redrawn using the underlying mathematical formula when scaled up, maintaining perfect smoothness. This process, which converts the abstract vector world into physical pixels, is called rasterization. Conversely, bitmap images start to show individual pixels when aggressively scaled.
+
+Despite vector image strengths, bitmaps remain ideal for photographs requiring a wide range of gradients. This is because most physical input and output devices operate in a raster world. For instance, digital cameras capture light onto a grid of light-sensitive pixels, and inkjet printers deposit ink at discrete points on a grid.
+
+Vector formats, such as SVG and PDF, are best used when crispness and precision are crucial, such as for logos, mechanical diagrams, and text. SVG is noted for being supported by modern browsers and can be rendered directly within a webpage. To implement image handling in a p5.js sketch, an image variable (e.g., `img`) must first be declared. The `preload()` function must be used to load assets, like `img = loadImage('assets/rockets.png')`, ensuring the image is available in memory before the `setup()` and `draw()` functions execute. To display the image, the function `image(img, mouseX, mouseY)` is used, allowing the image to follow the cursor. Furthermore, the `image()` function supports additional parameters, enabling real-time scaling by specifying desired width and height dimensions.

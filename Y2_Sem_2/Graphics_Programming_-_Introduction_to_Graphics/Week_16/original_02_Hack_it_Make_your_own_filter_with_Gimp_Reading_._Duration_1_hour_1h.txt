@@ -1,0 +1,8 @@
+# Hack it: Make your own filter with Gimp
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/dAwnt/hack-it-make-your-own-filter-with-gimp
+
+Replicate the ones we saw Use Gimp or Photoshop to make your own convolution-based filters like in the previous video. Try to implement all the filters we've seen in class (blur, sharpen, edge detection). Create new ones Look up other convolution matrices online and use them with Gimp and Photoshop. with others Have you made a new cool filter? with others the image generated and a screenshot of the convolution matrix you used in the discussion that follows. Hack it: Make your own filter with Gimp Replicate the ones we saw Use Gimp or Photoshop to make your own convolution-based filters like in the previous video. Try to implement all the filters we've seen in class (blur, sharpen, edge detection). Create new ones Look up other convolution matrices online and use them with Gimp and Photoshop. with others Have you made a new cool filter? with others the image generated and a screenshot of the convolution matrix you used in the discussion that follows. Mark as completed Dislike Report an issue

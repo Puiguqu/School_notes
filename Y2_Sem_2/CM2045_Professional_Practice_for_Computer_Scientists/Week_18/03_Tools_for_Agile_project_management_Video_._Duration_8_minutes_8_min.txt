@@ -1,0 +1,20 @@
+# Tools for Agile project management
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/wcxWh/tools-for-agile-project-management
+
+Project management techniques are essential, offering skills applicable to any computer science venture, regardless of specific software tools. Techniques are superior to tools because tools are transient, while core skills remain timeless and adaptable across various technological settings. Understanding these foundational techniques provides an underlying framework for effective planning, execution, and monitoring of projects.
+
+One vital concept is Kanban, which visualizes the workflow by mapping stages like 'To Do,' 'In Progress,' and 'Done.' Kanban can be implemented tangibly using only a whiteboard and sticky notes, or via digital means. A key aspect is limiting the work in progress (WIP) by constraining the physical space allocated to each stage, thus promoting focused flow. This practice enhances visibility and improves team collaboration through a shared status understanding.
+
+For structured planning, sprint planning templates require defining a clear sprint goal and generating a prioritized sprint backlog. Task breakdown involves decomposing larger user stories into smaller, manageable units for tracking progress. Effort estimation utilizes techniques such as story points or time estimates to ensure realistic and efficient sprint planning.
+
+Automation, specifically leveraging tools like Selenium, extends beyond web testing to improve project efficiency itself. Automation can generate critical project metrics, such as burn down charts and progress reports, saving significant manual effort. Furthermore, task status can be automatically updated based on triggers like code commits, maintaining real-time visibility.
+
+Comprehensive risk management is crucial, requiring four proactive steps: identifying risks through brainstorming; assessing their likelihood and potential impact; mitigating risks by developing strategies; and continuously monitoring the status throughout the project life cycle. Successful project delivery depends on addressing these risks proactively to improve overall project outcomes.
+
+Effective communication demands matching the message to the appropriate medium: instant messaging (e.g., Slack, Teams) is best for quick, informal updates; video conferencing suits complex discussions; and project wikis (like Confluence or Notion) centralize documentation and knowledge sharing. Critical decision-making should still be reserved for face-to-face interactions.
+
+Finally, optimizing meeting management ensures time is used productively by defining clear objectives and circulating prepared agendas in advance. Time boxing allocates specific time slots for each item, maximizing focus and ensuring transparent discussion. Documenting concise minutes documenting key decisions and action items eliminates the need for repetitive discussions. Mastering techniques like Kanban, sprint planning, automation, and risk management enables computer scientists to plan, execute, and monitor projects of any scale with confidence and professionalism.

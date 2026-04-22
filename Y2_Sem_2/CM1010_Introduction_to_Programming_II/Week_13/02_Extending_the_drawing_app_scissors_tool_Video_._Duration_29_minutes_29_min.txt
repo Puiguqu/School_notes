@@ -1,0 +1,57 @@
+# Extending the drawing app: scissors tool
+Video•
+. Duration: 29 minutes
+29 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/gZA4i/extending-the-drawing-app-scissors-tool
+
+Based on the video content, here is a detailed summary of the process of building a "paint" or drawing application, focusing on the concepts and code logic shown.
+
+---
+
+## Summary of Building a Drawing/Painting Application
+
+The video demonstrates the development of a simple drawing application, likely using JavaScript and HTML Canvas, allowing a user to draw on a digital canvas. The core functionality revolves around capturing mouse movements and drawing lines based on those movements.
+
+### 1. Core Drawing Mechanism (Mouse Tracking)
+
+The primary function is tied to handling mouse events (`mousedown`, `mousemove`, `mouseup`).
+
+*   **Setup:** A `<canvas>` element is used as the drawing surface.
+*   **Event Listeners:** Event listeners are attached to the canvas to monitor user interactions:
+    *   **`mousedown`:** This event signals the start of a drawing stroke.
+        *   **Action:** A starting point is recorded (the initial coordinates $x, y$). A flag or state variable is set to indicate that drawing has begun (`isDrawing = true`).
+    *   **`mousemove`:** This event fires continuously when the mouse moves while the user intends to draw.
+        *   **Action:** If `isDrawing` is `true`, the system draws a line segment from the *previous* point $(x_{prev}, y_{prev})$ to the *current* point $(x, y)$.
+        *   **Crucial Step:** The coordinates of the current point are recorded as the new "previous" point for the next event cycle.
+    *   **`mouseup` (or `mouseout`):** This signals the end of the drawing stroke.
+        *   **Action:** The drawing state is reset (`isDrawing = false`).
+
+### 2. Drawing Logic (The `draw` Function)
+
+The actual drawing of the line segment happens within the event handlers, utilizing the Canvas API methods:
+
+1.  **Get Context:** Obtain the 2D rendering context (`const ctx = canvas.getContext('2d');`).
+2.  **Styling:** Set the desired drawing properties (color, thickness):
+    *   `ctx.strokeStyle = color;` (e.g., Black)
+    *   `ctx.lineWidth = thickness;` (e.g., 5 pixels)
+    *   `ctx.lineCap = 'round';` (This makes the ends of the lines look smoothly rounded).
+3.  **Drawing the Path:** The core drawing logic uses `ctx.beginPath()`, `ctx.moveTo(x, y)`, and `ctx.lineTo(x, y)`, followed by `ctx.stroke()`.
+
+**Conceptual Flow:**
+When the mouse moves, the code does the equivalent of:
+1.  Move the virtual pen to the new point.
+2.  Draw a line from the last recorded point to the new point.
+3.  Update the last recorded point.
+
+### 3. Enhancements and Features Demonstrated
+
+Beyond basic drawing, the video implies or demonstrates features like:
+
+*   **Color Changing:** The ability to switch the drawing color, likely via a color picker or defined palette.
+*   **Eraser Functionality:** This is achieved by setting the drawing color to the "background color" (usually white or the canvas background color) and adjusting the line thickness.
+*   **Clearing the Canvas:** A dedicated function to reset the entire canvas to its initial state (usually filling it with a solid background color).
+*   **State Management:** Keeping track of the drawing state (drawing active, current color, current size) is crucial for a smooth user experience.
+
+---
+**In summary, the application is a classic implementation of real-time graphical rendering by translating physical mouse input (coordinates over time) into structured canvas drawing commands.**

@@ -1,0 +1,20 @@
+# Quick reflection on activity
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/2MzOA/quick-reflection-on-activity
+
+This curriculum provides a comprehensive, 20-week framework for developing professional communication and computing skills. **Week 1 (Topic 1)** begins with *Written communication skills, Part 1*, followed by *Week 2 (Topic 1): Written communication skills, Part 2*. Key modules include "Integrating visual aids into written communication" (Video, 29 minutes) and "Lesson 2.2: Presenting technical information with confidence," which involves drafting design heuristics for Digital Audio Workstations (DAWs).
+
+The instructional method emphasizes deep reflection, which is deemed essential for understanding design processes and identifying usability challenges. Participants are prompted to reflect on balancing creativity versus efficiency, and how considering diverse user roles—such as performers, producers, or agents—impacts design decisions. A core finding presented is the unavoidable trade-off in software design, as getting the best of both worlds is rare. Instead, improvements often focus on incremental gains, acknowledging that efficiency (critical in financial trading) or effectiveness (important in scientific applications) might be prioritized.
+
+Reflection helps solidify these insights and allows the application of heuristics in a broader technological context. The teaching approach encourages practitioners to first execute an activity and then review it to identify potential mistakes, thereby revealing opportunities for improvement.
+
+The curriculum progresses systematically through various professional skills. **Week 2.3** focuses on "Professional communication etiquette," including a practice assignment to craft a final email to a client. **Week 2.4** covers "Career development insights" and applying the STARR technique, alongside reading on communication skills resources.
+
+Later weeks expand the focus across critical, professional domains. **Week 3** and **Week 4** address "Presentation and public speaking skills, Part 1 and Part 2." **Week 5** and **Week 6** cover "Legal and ethical foundations, Part 1 and Part 2." **Week 7** and **Week 8** tackle "Inclusive computing and ethical impacts, Part 1 and Part 2."
+
+Subsequent modules delve into specialized technical and professional areas. **Week 9** and **Week 10** address "Sustainability in computing, Part 1 and Part 2," while **Week 11** and **Week 12** cover "Risk management and security, Part 1 and Part 2." Further skills are gained in **Weeks 13 and 14** ("Industry standards and best practices"), and **Weeks 15 and 16** ("Teamwork and collaboration"). The curriculum concludes with **Weeks 17 and 18** on "Project management," followed by **Weeks 19 and 20** on "Professional development and career planning, Part 1 and Part 2."
+
+Technically, the learning interface supports complex navigation: users may navigate using the tab key, save notes with CTRL+S, expand selection using CTRL+arrow key, and contract selection using shift + CTRL + arrow key. For screen readers incompatible with standard shortcuts, the H J K L keys serve as alternatives, and some require the use of CTRL combined with the alt key.

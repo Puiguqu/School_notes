@@ -1,0 +1,14 @@
+# Examining errors in data
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/00WxY/examining-errors-in-data
+
+The analysis process begins by loading data from a CSV file, utilizing the pandas library, and subsequently storing the data within a pandas DataFrame, conventionally assigned to the variable `df`. The primary goal of the data analysis is to identify and address two major categories of data integrity issues: content-based errors and format-based errors. Initial data exploration reveals that the DataFrame contains a product and item table, requiring systematic review column by column. A critical initial step involves preprocessing the 'name' column (and potentially others) by removing any preceding tags, ensuring only the pure content remains for accurate analysis. Furthermore, it is necessary to identify and handle repeated entries, such as the product names 'Hats' and 'product1', which appear multiple times, necessitating deduplication techniques.
+
+Regarding specific data anomalies, the 'price' column is analyzed for missing values, which introduce `NaN` entries into the dataset. Outliers are observed in the price data, including prices that are abnormally large or extremely small, all of which require specialized handling before any statistical analysis can be performed. Similarly, the 'date' column exhibits missing values and contains date outliers, such as launch dates of 3000 or 1800, which fall far outside the typical data range.
+
+Complementing this analysis, the accompanying curriculum outlines a comprehensive data handling training, structured across 22 weeks. Early foundational learning spans Week 1 through Week 12, covering Python fundamentals, lists, data structures, string pattern matching, and web data retrieval. Week 13 and Week 14 are dedicated to the crucial topic of retrieving data from databases. The core focus on data manipulation materializes around Week 15, which details crucial data cleaning techniques.
+
+Lesson 15.1 introduces data cleaning, spanning a video overview and a practical assignment on examining data errors. Lesson 15.2 focuses on data transformation, covering video lessons on duplicates, mapping, and replacing values. Importantly, Lesson 15.3 addresses the handling of missing data, culminating in a lab session on cleaning data. Following these fundamentals, Week 16 introduces more complex data transformations, progressing through Week 17 (data analysis and visualization) and Week 18 (exploratory analysis for language processing). The advanced learning trajectory continues into Week 19 (advanced topics in Python and data programming) and Week 20 (advanced feature extraction). The curriculum concludes with Week 21 for revision and the final Week 22 examination on examining data errors.

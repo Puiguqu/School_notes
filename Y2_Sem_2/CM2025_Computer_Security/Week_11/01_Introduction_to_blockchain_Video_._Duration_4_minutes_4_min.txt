@@ -1,0 +1,16 @@
+# Introduction to blockchain
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/LBqZw/introduction-to-blockchain
+
+Blockchain is a foundational technology designed to support digital trust and advanced cybersecurity principles. Conceptually, it functions as a shared, decentralized digital ledger, unlike traditional databases stored in a single location. This ledger stores data within discrete units called "blocks," which are then cryptographically linked together in a permanent "chain." One of Blockchain's essential features is its distributed nature, meaning every computer in the network holds an identical copy of the records. This distribution makes the data highly resilient and exceptionally difficult to alter once verified.
+
+The mechanics of Blockchain involve a transaction request being broadcast to a network of specialized computers, known as "nodes." These nodes are responsible for validating the legitimacy of the proposed transactions. Once validated, transactions are grouped into a new block, which is then added to the existing chain, and this update is shared across the entire network. Every individual block contains key data elements, including the actual transaction data, a timestamp, and a unique cryptographic hash. The hash serves as a digital fingerprint for the block and is crucial because each new block links to the hash of the previous block. Nodes are the specific computers that actively maintain and validate the integrity of this shared digital ledger.
+
+Blockchain fundamentally enhances security by eliminating the dependency on a central authority, thereby building trust across various sectors. Its applications are vast, spanning finance, healthcare, supply chain management, and many other fields requiring transparent record integrity. Despite its power, Blockchain is not infallible, presenting challenges such as high energy consumption for large-scale transactions. Furthermore, its legal and operational standards are still evolving and require careful consideration for real-world deployment.
+
+The accompanying curriculum provides a structured academic pathway to mastering these concepts over multiple weeks. The course progresses through critical topics, starting with the identification and classification of cyber threats in Weeks 1 and 2. It covers cybersecurity frameworks, standards, and professional considerations in Week 3 and 4. Subsequent modules focus on core technical areas, including Network and OS security (Week 5 and 6) and Application security testing principles (Week 7 and 8).
+
+Advanced learning then delves into Week 9 and 10, covering cryptography in practice, which includes encryption, Public Key Infrastructure (PKI), digital signatures, and hash functions. This leads directly into Week 11, which introduces Blockchain for cybersecurity. Week 12 expands upon this, while Weeks 13 and 14 address incident response and forensics. The curriculum culminates by exploring emerging trends in Weeks 15 and 16, specifically mentioning AI, ML, quantum computing, and post-quantum cryptography. Final units include EDI principles and professional case studies in Weeks 17 through 20, preparing students for a comprehensive examination in Week 22.

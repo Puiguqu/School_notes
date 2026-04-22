@@ -1,0 +1,8 @@
+# Comparing IDS and IPS
+Reading•
+. Duration: 2 hours 30 minutes
+2h 30m
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/BeJDR/comparing-ids-and-ips
+
+Now that you’ve watched the IPS video, this reading will help you to compare IDS and IPS and understand how they work in practice. This is where the theory starts to feel real. Read: Gupta, N., V. Jindal and P. Bedi ‘A survey on intrusion detection and prevention systems’, Computer Science 4 (439) 2023. for the article in the Online Library . As you read, think about: the biggest functional difference between IDS and IPS where each would be best used in a company network how new tools such as AI are changing the way these systems work. Comparing IDS and IPS Now that you’ve watched the IPS video, this reading will help you to compare IDS and IPS and understand how they work in practice. This is where the theory starts to feel real. Read: Gupta, N., V. Jindal and P. Bedi ‘A survey on intrusion detection and prevention systems’, Computer Science 4 (439) 2023. for the article in the Online Library . As you read, think about: the biggest functional difference between IDS and IPS where each would be best used in a company network how new tools such as AI are changing the way these systems work. Mark as completed Dislike Report an issue

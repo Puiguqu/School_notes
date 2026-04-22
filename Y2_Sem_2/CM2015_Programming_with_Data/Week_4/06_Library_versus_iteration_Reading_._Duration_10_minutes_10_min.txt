@@ -1,0 +1,8 @@
+# Library versus iteration
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/2ZbHV/library-versus-iteration
+
+Loops in Python are extremely useful when drawing patterns, such as triangles, trees or letters, using print statements. The key idea is to use loops to control how many lines are printed and where certain characters (like *, #, or @) are placed within those lines. By manipulating the loop's index, we can place characters at specific positions to form shapes. Here’s how loops can be used to draw some simple shapes: 1. Triangle: A triangle can be drawn by printing an increasing number of * symbol...

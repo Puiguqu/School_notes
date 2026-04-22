@@ -1,0 +1,16 @@
+# Common mistakes with pre-processing text
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/ch7Xs/common-mistakes-with-pre-processing-text
+
+Text pre-processing is a critical stage in natural language processing. This summary details common mistakes encountered when processing text using Python. The goal is to help review and debug prior code.
+
+A primary challenge involves improper tokenization. A mistake occurs when punctuation is not handled correctly during tokenization. This error leads to undesirable tokens, such as the list structure `['Hello', ',', 'world', '!']`. The correct solution requires filtering out punctuation. This can be achieved using regular expressions within Python. Alternatively, utilizing `nltk.sent_tokenize()` is recommended. This function helps split the text into complete sentences before tokenization begins.
+
+Another significant issue is over-stemming. Over-stemming happens when stemming is too aggressive. This process can incorrectly reduce words. Examples include "better" being mistakenly reduced to "bet." Similarly, "running" might incorrectly become "run." To counteract this, stemming must be used selectively. A superior solution is considering lemmatization. Lemmatization provides more accurate results than overly aggressive stemming techniques.
+
+Handling special characters presents a third challenge. Failing to manage symbols like `#`, `@`, or `&` is a common mistake. These special characters introduce noise into the subsequent analysis. Researchers must employ regular expressions for solutions. The `nltk.re` methods are also effective tools for this purpose. These methods allow proper handling or complete removal of unwanted symbols.
+
+The fourth key challenge is ignoring case sensitivity. A critical mistake involves treating different casings as unique tokens. For instance, "Python" and "python" will be recognized as separate tokens. To prevent these case discrepancies, the text must be standardized. The solution is to convert the entire text to lowercase. This is accomplished using the Python method `text.lower()` before tokenization. These four points outline crucial best practices. Adherence to these techniques ensures robust and accurate text analysis.

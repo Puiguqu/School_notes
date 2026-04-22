@@ -1,0 +1,8 @@
+# An introduction to IDS
+Reading•
+. Duration: 55 minutes
+55 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/xRna4/an-introduction-to-ids
+
+You’ve just seen how network and operating system (OS) layers talk to each other, and why that’s key to understanding modern security. Now let’s zoom in on how we spot threats. This reading introduces Intrusion Detection Systems (IDSs) and the different ways they try to catch suspicious activity as it happens. Read: Wang, S., C. Xia and T. Wang ‘A novel intrusion detector based on deep learning hybrid methods’, 2019 IEEE 5th International Conference on Big Data Security on Cloud (BigDataSecurity...

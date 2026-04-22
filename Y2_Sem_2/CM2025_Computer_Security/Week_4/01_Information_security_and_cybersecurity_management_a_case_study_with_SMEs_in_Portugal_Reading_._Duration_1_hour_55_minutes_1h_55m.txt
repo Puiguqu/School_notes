@@ -1,0 +1,8 @@
+# Information security and cybersecurity management: a case study with SMEs in Portugal
+Reading•
+. Duration: 1 hour 55 minutes
+1h 55m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/T4wMq/information-security-and-cybersecurity-management-a-case-study-with-smes-in
+
+Small- and medium-sized enterprises (SMEs) are vital to the economy, but they are also among the most vulnerable to cybersecurity threats. This reading presents a case study from Portugal, where a consortium of academic, consulting and business stakeholders helped 50 SMEs to implement an information security management approach based on the ISO/IEC standard. Read this article to understand how smaller organisations can successfully adapt cybersecurity frameworks: Antunes, M., Maximiano, M., Gome...

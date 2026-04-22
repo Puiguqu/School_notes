@@ -1,0 +1,8 @@
+# Further reading: Regular expressions
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/zPoda/further-reading-regular-expressions
+
+If you would like to read in more depth about the topic, we recommend the following text. Please note that because this is a supplemental reading, we are unable to guarantee that it is available in our Online Library. Please read from the heading in this chapter titled ‘Regular Expressions (Regexes)’ up until the heading ‘Text Analytics Frameworks’: Sarkar, Chapter 2: Python Refresher . If this link is broken, please let us know via the Student Portal . Further reading: Regular expressions If yo...

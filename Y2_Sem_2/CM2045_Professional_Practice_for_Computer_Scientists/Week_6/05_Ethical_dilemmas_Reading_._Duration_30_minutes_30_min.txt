@@ -1,0 +1,8 @@
+# Ethical dilemmas
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/HM0Xj/ethical-dilemmas
+
+A tricky read that makes myself and many others uncomfortable. The results of carelessness in how we address problems can create some negative impact, systems that are racist and sexist in this case. We must be aware at all times of our ability to cause harm and try to proactively minimise risk. It is not okay to simply address these things as a ‘feature’ of the technology. Remember, technology is a tool to make our lives better and easier. It should not be the case that we accept or tolerate th...

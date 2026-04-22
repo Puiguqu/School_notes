@@ -1,0 +1,24 @@
+# Introduction to webscraping
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/ne2MS/introduction-to-webscraping
+
+The video outlines the process of web scraping, focusing on parsing HTML and storing retrieved data using Python and Jupyter. Two primary libraries are essential for this task: `requests` and `BeautifulSoup`. The `requests` library is used to execute an HTTP request and retrieve the raw data from a web page. To initiate this, the `get` command is used, followed by the target website URL in quotations. This action returns a response object, stored in a variable, which allows checking the status of the request.
+
+Crucially, the response object contains a status code that indicates the server's interaction; a status code of 200 signifies a successful request. Other common status codes include 403 for denied access and 404 if the page does not exist. The raw source HTML content can be accessed directly via `response.text`.
+
+The `BeautifulSoup` library is designed to parse this raw HTML text into structured Python objects. Parsing is achieved by passing the raw text to BeautifulSoup. The structure allows for complex navigation and extraction of specific data points.
+
+When extracting data, the standard methods include using `find()` and `find_all()`. If specific elements are targeted, the `[]` syntax can be used, such as `soup['tag']`, to directly access attributes.
+
+A robust scraping workflow involves combining these tools. First, `requests` fetches the HTML content. Second, `BeautifulSoup` parses this content. Third, BeautifulSoup methods are used to navigate and extract the required elements.
+
+For complex selections, targeted searching is necessary. For example, one might use `soup.find('div', class_='content')` to isolate a specific section before searching within it.
+
+The process is iterative, involving identifying patterns—like classes or IDs—that consistently mark the desired information across multiple web pages. A key step is handling potential errors and making the scraping script resilient to minor website structure changes.
+
+When the data extraction is successful, the final step involves cleaning and structuring the data, typically into lists of dictionaries or a Pandas DataFrame for further analysis. This structured format makes the extracted information usable for visualization or database storage.
+
+In summary, web scraping is a pipeline: HTTP request $\rightarrow$ HTML parsing $\rightarrow$ Targeted data extraction $\rightarrow$ Data structuring. This integrated process enables the transformation of unstructured web data into actionable, machine-readable formats.

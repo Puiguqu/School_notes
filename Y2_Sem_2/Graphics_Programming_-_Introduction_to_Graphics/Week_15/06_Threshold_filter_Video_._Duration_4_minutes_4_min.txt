@@ -1,0 +1,22 @@
+# Threshold filter
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/CuikK/threshold-filter
+
+The core technical focus of the discussion is the threshold filter, a critical tool utilized in computer vision for simplifying complex image data. Computer vision fundamentally aims to simplify problems to manage the massive volume of data arriving from cameras. At its essence, thresholding involves taking a grayscale image and forcing its pixels to select binary states. Specifically, if a pixel's grayscale value exceeds a defined threshold, it is assigned the value representing white; otherwise, it is assigned the value representing black.
+
+Programmatically, the mechanism operates by checking if the pixel's gray value is greater than the specified threshold. If the condition is met, the pixel's value is set to 255 (white), and if it is below or equal to the threshold, its value is forced to 0 (black). The implementation utilized the concept of a gray value, which describes the pixel's brightness.
+
+The practical setup demonstrates how to introduce an interactive element using a slider within the p5.js environment. A threshold slider was created with a range spanning from 0 to 255, initialized at a default value, such as 125. To make the program dynamic, the code must actively read the current value of the threshold slider. This dynamic reading allows the user to immediately observe how changes in the threshold affect the resulting image.
+
+By manipulating the threshold, the filter can dramatically reduce image detail while preserving major structural information. This process of image simplification is immensely helpful for computer vision applications. With the right threshold, one can effectively remove noise and incidental details from a scene. This allows developers to focus solely on identifying large objects, such as vehicles, people, or targets.
+
+The overall context of these techniques falls under advanced image processing and computer vision. This subject matter is covered within a structured curriculum sequence spanning multiple weeks. The coursework introduces fundamental concepts, starting with foundational topics like vectors and physics simulation.
+
+By Week 15, the curriculum deepens into image processing, covering source code and theory. Core filters taught include the Invert filter, the Grayscale filter, and the detailed Threshold filter mechanism. Further advanced techniques include convolution, taught first in 1D, then in 2D.
+
+The curriculum progresses to other sophisticated filters, such as the Blur filter, the Sharpen filter, and the Edge detection filter. These filters are critical building blocks for advanced computer vision tasks. These advanced concepts are explored across multiple weeks, culminating in dedicated modules on Computer Vision (Parts 1, 2, and 3).
+
+Overall, the technical mastery demonstrated involves handling pixel data, understanding binary conversion, and applying customizable filters to extract meaningful data from raw visual input. This comprehensive approach ensures that the derived data is simplified for accurate and robust computational analysis.

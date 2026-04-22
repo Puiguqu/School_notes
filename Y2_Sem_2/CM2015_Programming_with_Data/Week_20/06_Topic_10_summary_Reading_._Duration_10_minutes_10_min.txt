@@ -1,0 +1,8 @@
+# Topic 10 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/9rhax/topic-10-summary
+
+In this topic, you have learned about: the usefulness of creating numeric representations of real-world objects how to write programs to create, visualise and examine numeric representations of text such as word vectors writing programs to pre-trained models for text analytical tasks. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic10_eval DOCX File Topic 10 summ...

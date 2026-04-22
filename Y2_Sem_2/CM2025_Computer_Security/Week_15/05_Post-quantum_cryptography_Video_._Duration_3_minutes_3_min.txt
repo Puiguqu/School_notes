@@ -1,0 +1,32 @@
+# Post-quantum cryptography
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/A2Y5K/post-quantum-cryptography
+
+1. This session introduces Post-Quantum Cryptography (PQC), exploring cryptographic approaches designed to withstand future quantum computational threats.
+2. PQC defines cryptographic methods secured even against quantum computers, representing a necessary replacement for vulnerable classical encryption techniques.
+3. Unlike traditional methods, PQC designs are not based on integer factorization or discrete logarithms, which are susceptible to quantum attacks.
+4. The urgent need for PQC stems from powerful quantum algorithms, such as Shor's algorithm, which can theoretically break foundational systems like RSA and ECC.
+5. Even if large-scale quantum computers do not yet exist, sensitive data intercepted today risks decryption in the future.
+6. Multiple distinct families of PQC algorithms have been developed to address this threat landscape.
+7. These families include lattice-based algorithms, represented by candidates like Kyber and Dilithium.
+8. Code-based cryptography is exemplified by algorithms such as McEliece.
+9. Other architectural approaches include multivariate schemes, historically represented by Rainbow, and hash-based methods, such as Sphinx.
+10. The global NIST PQC project, which commenced in 2016, is a critical international effort coordinating these standards.
+11. Currently, Kyber has emerged as a leading candidate for encryption, while Dilithium is a primary candidate for digital signatures.
+12. Industry standards are actively being prepared and formalized through the NIST process to finalize these replacements.
+13. A primary technical characteristic of PQC algorithms is that they often possess larger key and output sizes compared to classical RSA or ECC implementations.
+14. Despite these increased overheads, the resilience of PQC against quantum attacks makes this performance trade-off worthwhile.
+15. Implementing PQC necessitates careful, comprehensive planning to ensure a smooth transition.
+16. One highly recommended and safe deployment strategy is the adoption of hybrid cryptography.
+17. Hybrid cryptography involves running both classical and PQC algorithms in parallel to ensure continuous compatibility and robust safety.
+18. Successful PQC deployment requires more than just algorithmic updates; it demands thorough planning and systematic testing.
+19. The associated adoption challenges are significant and multi-layered, including hardware compatibility gaps.
+20. Additionally, systemic updates are required for protocols and software, affecting firmware, applications, and network infrastructure.
+21. Effective organizational change also mandates comprehensive training and awareness programs for technical staff and end-users.
+22. Overall, PQC is essential for securing the digital infrastructure against future quantum computing threats.
+23. The broader educational context of cybersecurity is covered by modules ranging from cyber threat classification (Weeks 1 & 2).
+24. Advanced topics also include cybersecurity frameworks, standards, and legal ethics (Weeks 3 & 4), alongside deep dives into networking and application security (Weeks 5-8).
+25. The curriculum culminates in specialized areas such as blockchain implementation, incident response, and emerging trends like AI and quantum computing (Weeks 11-15).

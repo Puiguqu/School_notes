@@ -1,0 +1,12 @@
+# Activity: Reflecting on the video
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/nddCi/activity-reflecting-on-the-video
+
+## NOTE: VIDEO CONTENT WITHOUT EXTRACTABLE TRANSCRIPT ##
+
+Title: Activity: Reflecting on the video | Coursera
+
+After you’ve watched the video with Lilian Balatsou (the Conversational AI Lead for Vodafone), reflect on the following questions in your study journal. How can companies ensure that their design processes effectively incorporate the perspectives of diverse stakeholders to reduce bias in technology? What challenges might organisations face when implementing inclusive computing solutions...

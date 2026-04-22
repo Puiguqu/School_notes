@@ -1,0 +1,51 @@
+# Extending the music visualiser: firework beats part 2
+Video•
+. Duration: 27 minutes
+27 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/4Ffqs/extending-the-music-visualiser-firework-beats-part-2
+
+This transcript describes a coding tutorial focused on creating a **fireworks visualizer** using JavaScript and likely a canvas library. The speaker is guiding the user through object-oriented programming concepts applied to animation.
+
+Here is a structured summary of the key concepts and the process:
+
+### 🎯 Goal: Create a Fireworks Simulation
+The overarching goal is to simulate fireworks explosions on a screen.
+
+### ⚛️ Core Concepts Demonstrated
+1.  **Object-Oriented Programming (OOP):** The structure is built using classes (`Particle`, `Firework`, `Fireworks` or similar structure).
+2.  **Particle System:** Fireworks are modeled using individual particles that are emitted, move, and fade away (gravity, friction, lifespan).
+3.  **Animation Loop:** The simulation relies on a `draw()` or `animate()` loop that continuously clears the screen and redraws all active objects at updated positions.
+4.  **Physics:** Basic physics concepts are applied:
+    *   **Velocity and Position Updates:** `x += vx`, `y += vy`.
+    *   **Gravity:** A constant downward acceleration applied to the vertical velocity.
+    *   **Friction/Drag:** Particles slow down over time.
+
+### 🛠️ Step-by-Step Implementation Flow
+
+1.  **Particle Class:**
+    *   Represents the smallest unit of the firework glow.
+    *   Needs properties: `x`, `y`, `vx` (velocity x), `vy` (velocity y), `color`, `alpha` (opacity), `life`.
+    *   Crucially, it needs an `update()` method to apply physics and decay its life/alpha, and a `draw()` method to render itself.
+
+2.  **Firework Class (or similar launching mechanism):**
+    *   Represents the initial rocket/burst.
+    *   Handles the trajectory *upwards* until it reaches an apex.
+    *   When it explodes (reaches apex or timer runs out), it doesn't just stop; it spawns **many** `Particle` objects, giving them initial outward velocity vectors to create the "burst" effect.
+
+3.  **The Main Simulation/Drawing Context:**
+    *   This section manages the entire collection of fireworks/particles.
+    *   **`draw()` Function:**
+        *   Clears the canvas (often with a semi-transparent black fill to create a natural "fade trail").
+        *   Iterates through all active fireworks/particles.
+        *   Calls `update()` on each object.
+        *   Calls `draw()` on each object.
+        *   Manages removal: Removes any particles or fireworks whose `life` has reached zero.
+    *   **Triggering:** The system must have a mechanism (like a timed interval or mouse click listener) to trigger a new `Firework` launch.
+
+### 💡 Key Takeaways for the Learner
+*   **Modularity is Key:** Breaking the problem into `Particle` and `Firework` classes makes the code manageable.
+*   **The Animation Loop is the Heart:** The continuous `update()` and `draw()` cycle is fundamental to all interactive graphical simulations.
+*   **Visual Polish:** Using semi-transparent backgrounds for clearing the canvas is what sells the "light trail" effect.
+
+**In essence, the speaker is walking through building a classic, physics-based particle system simulation.**

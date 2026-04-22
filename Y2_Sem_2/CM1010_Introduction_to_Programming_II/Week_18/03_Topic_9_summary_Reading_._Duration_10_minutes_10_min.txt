@@ -1,0 +1,8 @@
+# Topic 9 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/etGg6/topic-9-summary
+
+In this ninth topic of the module, you have looked at how to test your code and compared these techniques with the debugging techniques we have shown you. You have further grown your debugging skills with guidance on how to use the profiler while thinking about the effect your program’s complexity has on its performance. You should have also completed your third project log. Before you move on to the next topic, take a moment to review the following checklist and test your knowledge and experien...

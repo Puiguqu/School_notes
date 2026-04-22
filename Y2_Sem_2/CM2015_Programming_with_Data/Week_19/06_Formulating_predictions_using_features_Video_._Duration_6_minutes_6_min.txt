@@ -1,0 +1,34 @@
+# Formulating predictions using features
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/xMOtb/formulating-predictions-using-features
+
+This summary captures the methodology and findings presented in the data analysis video transcript, while preserving technical details and formulae, structured into 25 sentences.
+
+1. The analysis aims to use derived features to answer specific questions about a dataset, moving beyond mere feature extraction.
+2. Initially, the derived features—discounted price, affordability, product novelty, high rating status, and user sentiment—are loaded from a CSV file.
+3. The first question addressed is whether new products are generally affordable based on the dataset.
+4. To answer this, the process filters the data for products where the feature "is new" is true.
+5. From this subset of new products, the count of products marked as affordable is isolated and stored in the variable `affordable_counts`.
+6. The affordability status of these new products shows that two are marked affordable (True) and one is marked non-affordable (False).
+7. A bar graph is constructed comparing affordable and expensive new products to determine general affordability.
+8. The count for affordable products is calculated using `affordable_counts.sum()`, leveraging Pandas' treatment of boolean True as 1 and False as 0.
+9. The count for expensive products is then derived by subtracting the sum of affordable counts from the total number of new entities.
+10. Since the height corresponding to affordable products is greater than that of expensive products, the data infers that new products in this set are indeed affordable.
+11. The second question examines if these affordable products tend to have a high rating.
+12. The process begins by filtering the entire dataset to isolate only products where the feature "affordable" is true, stored in the variable `affordable`.
+13. Next, the focus shifts to the "high rating" feature within this affordable subset.
+14. To assess the rating tendency, labels are created for high rating and low rating status.
+15. The count of high-rated affordable products is found using `high_ratings.sum()`.
+16. Correspondingly, the count of low-rated affordable products is determined by subtracting the high-rated sum from the total length of the `high_ratings` series.
+17. These two counts are then plotted in a bar graph for comparison.
+18. The resulting graph shows that the height corresponding to low ratings is greater than the height corresponding to high ratings.
+19. Based on this finding, the analysis concludes that affordable products in this specific dataset do not tend to have a high rating.
+20. This entire video segment demonstrates techniques for utilizing derived features for data interpretation.
+21. The structural content provides an overall curriculum map from Week 1 to Week 22.
+22. This curriculum covers topics ranging from Python basics (Week 2-6) to data handling (Week 7-12).
+23. Subsequent weeks focus on data cleaning (Week 15), advanced transformations (Week 16), and data analysis/visualization (Week 17).
+24. Key procedural lessons include Feature extraction (Lesson 19.1, 19.2) and Formulating predictions using features (Lesson 19.3).
+25. The curriculum concludes with dedicated time for advanced topics (Week 20), revision (Week 21), and a comprehensive exam (Week 22).

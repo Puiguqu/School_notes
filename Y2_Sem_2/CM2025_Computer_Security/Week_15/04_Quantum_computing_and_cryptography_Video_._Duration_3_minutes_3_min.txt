@@ -1,0 +1,32 @@
+# Quantum computing and cryptography
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/no4wF/quantum-computing-and-cryptography
+
+1. The session provides an exploration of how quantum computing impacts cryptographic systems and discusses implemented defensive strategies.
+2. Key learning objectives include explaining quantum computing mechanics, understanding threats to classical encryption, identifying post-quantum techniques, and detailing quantum key distribution (QKD).
+3. Quantum computing leverages qubits, which are quantum bits capable of existing as 0, 1, or both simultaneously due to the principle of superposition.
+4. These systems utilize entanglement and quantum gates to process information, enabling them to solve certain problems far faster than traditional classical computers.
+5. Unlike classical systems processing one state at a time, quantum computers process multiple possibilities concurrently, allowing for complex calculations like integer factorization with high efficiency.
+6. A primary theoretical concern is Shor’s algorithm, which can exponentially accelerate the factoring of large numbers.
+7. This exponential speedup poses a direct threat, as it undermines the security foundation of classic cryptographic standards like RSA, DSA, and ECC by cracking their private keys.
+8. Consequently, once scalable quantum computers are realized, currently deployed systems relying on RSA, DSA, and ECC will become cryptographically insecure.
+9. Symmetric systems, such as the Advanced Encryption Standard (AES), exhibit greater inherent resilience to quantum attacks but will necessitate the use of significantly longer key lengths to remain secure.
+10. While hashing functions are noted as being less immediately affected, they remain vulnerable to quantum-based attacks.
+11. Quantum cryptography aims to develop methods that resist compromise from both classical and quantum computing adversaries.
+12. This objective drives the standardization of new post-quantum algorithms (PQC).
+13. Specifically, Kyber and Deletium are cited as replacement standards for RSA and ECC, utilizing advanced lattice-based cryptography.
+14. The overall PQC landscape also includes code-based multivariant systems and hash-based systems.
+15. Quantum Key Distribution (QKD) is a method allowing two parties to securely share encryption keys by exploiting fundamental quantum properties.
+16. QKD's security mechanism is predicated on the principle that any attempt by an eavesdropper to intercept the transmission will inevitably alter the quantum states, thereby alerting the users.
+17. Real-world deployments of such technology, exemplified by systems like China Satellite, are currently being implemented.
+18. Despite these advanced concepts and implementations, significant challenges persist, including the immaturity of quantum hardware itself.
+19. Furthermore, the industry faces the complex task of migrating to PQC across existing systems, which demands comprehensive, system-wide upgrades.
+20. Effective cybersecurity requires striking a necessary balance among performance requirements, scalability constraints, and security level enhancements.
+21. To manage this transition, dedicated educational efforts and robust transition planning are deemed absolutely essential.
+22. Quantum computing, therefore, presents both considerable risks and revolutionary opportunities for the entire cybersecurity domain.
+23. The takeaway emphasizes that proactive adoption of a post-quantum strategy and a thorough understanding of the underlying technology are mandatory.
+24. The curriculum outlines a detailed 22-week structure covering cyber threats, security frameworks, network/OS security, application security, and specialized topics like blockchain and AI/ML.
+25. The final stage of study, scheduled for Week 22, is dedicated entirely to the critical subject of Quantum Computing and Cryptography.

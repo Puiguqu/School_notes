@@ -1,0 +1,34 @@
+# P5.dom: handling events 1
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/lecture/HqFRo/p5-dom-handling-events-1
+
+This tutorial details the integration of interactive elements into a simulated robotics application using p5.js, emphasizing object-oriented principles and DOM manipulation.
+
+**1. Setup and Structure:**
+The application first establishes a structure for the robot object, which encapsulates core attributes and behaviors. Key controls are added to the interface using HTML elements for buttons and select menus.
+
+**2. Core Dependencies and Setup:**
+The necessary libraries, including p5.js, are loaded. The initial setup function initializes the canvas size and prepares the environment for drawing the robot.
+
+**3. Implementing Interactive Controls:**
+Three primary interactive controls are established:
+*   **Color Selector:** A dropdown menu is linked to update the robot's primary color property.
+*   **Rotation Slider:** An input slider dictates the robot's current rotation angle.
+*   **On/Off Button:** A button toggles the robot’s operational state, controlling whether movement calculations are executed.
+
+**4. Object State Management:**
+The robot object's state variables are updated within the main loop, ensuring that external controls modify the internal object attributes. The `update` function processes the state changes, calculating the robot's position based on its internal rotation and the external movement inputs.
+
+**5. Rendering and Display:**
+The `draw` function is responsible for rendering the robot's graphical representation. This function uses the object's current color and calculated position to draw the updated visual state on the canvas.
+
+**6. Enhancements and Interactivity:**
+Further advanced features include:
+*   **Head Tracking:** A second input element simulates head tracking, dynamically adjusting the robot's visual orientation.
+*   **Button Handling:** A specific function handles button clicks to toggle the robot's operational status, demonstrating reactive programming principles.
+
+**7. Final Output:**
+The final output is a dynamic, interactive simulation where user inputs directly modify the object's state, which in turn updates the real-time graphical representation of the robot on the canvas.

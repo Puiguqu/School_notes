@@ -1,0 +1,20 @@
+# Weeks 13 and 14 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/KrYNK/weeks-13-and-14-self-evaluation-and-reflection
+
+The primary purpose of this exercise is to facilitate self-evaluation of understanding and capabilities against specific course learning outcomes. It encourages reflection on the learning journey to pinpoint areas requiring deeper knowledge or improved skills. This checklist specifically guides the assessment of concepts and tasks covered in Weeks 13 and 14. Students should use this tool to gauge their current comprehension level of the material. If confidence is low regarding any concept, students must revisit relevant lecture videos, readings, and activities for knowledge consolidation.
+
+A core skill involves explaining the difference between bitmap and vector graphics. This explanation must detail their unique characteristics, advantages, limitations, and appropriate use cases. Students must understand how to combine both bitmap and vector graphics effectively. They must also be able to analyze the resulting compatibility and visual effects in digital compositions.
+
+The principles of color theory must be understood and applied procedurally. This requires considering critical aspects like hue, saturation, brightness, and contrast. Students must differentiate between various color models, including RGB, CMYK, and HSL. Crucially, they must understand the technical rationale for choosing a specific color model in a given scenario.
+
+Furthermore, students must be able to create colors procedurally using theoretical knowledge. They need to explain the concept of procedural generation for both colors and images. This includes the ability to implement basic procedural techniques.
+
+Technical skills involve understanding how pixels form the basis of all digital images. Students must demonstrate knowledge of pixel density and resolution. This understanding is critical for maintaining image clarity and quality. Proficiency is also required in accessing and manipulating pixels directly within an image file. This manipulation involves adjustments to color, brightness, and other foundational attributes.
+
+Effective project development requires using images sourced both from the hard disk and from a webcam. This includes demonstrating understanding of file formats and required resolution standards for these inputs. Mastery involves using software tools for pixel manipulation, while understanding the resulting impact on both image quality and data size.
+
+Students must also gain hands-on experience with capturing images from a webcam. This involves grasping the basic principles governing real-time image capture and processing. Identifying common digital graphics issues is paramount. Specifically, students must recognize and describe techniques to address artifacts like aliasing or pixilation. The ultimate goal is confidence in applying combined color and image theory knowledge to practical digital media creation.

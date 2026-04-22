@@ -1,0 +1,8 @@
+# Hack it: Additive synthesis on a circle
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/D1tte/hack-it-additive-synthesis-on-a-circle
+
+circleAdditiveSynthesis-Template Open the attached sketch and run it. You should see a fuchsia circle. 1. Add one line of code to set the value of wave1 which will use a sine wave. If you’ve done things right you should see something like the image below. If you don't, check the parameter passed to sin() and how you scale the returned value. 2. Add one line of code to set the value of wave2 which will use the noise() function. If you’ve done things right you should see something like the image b...

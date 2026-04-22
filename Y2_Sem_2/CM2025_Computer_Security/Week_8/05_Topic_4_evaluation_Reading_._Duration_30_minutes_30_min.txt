@@ -1,0 +1,17 @@
+# Topic 4 evaluation
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/lTjvy/topic-4-evaluation
+
+1. The module emphasizes that continuous self-assessment is a critical component of the learning journey. 2. Students must regularly take time to assess how well they are meeting the topic learning objectives. 3. This reflective activity serves to help identify potential areas for growth and plan necessary steps for academic improvement. 4. Reflecting on acquired skills and knowledge is crucial for overall success in professional and academic endeavors.
+
+**Technical Assessment Areas:**
+5. Reflective questions guide assessment regarding the confidence in identifying common vulnerabilities within software. 6. Furthermore, students must be able to explain the precise impact of these vulnerabilities on overall software security. 7. Key assessment points involve the comfort level in applying secure coding principles while writing or reviewing code. 8. Specific secure coding principles that must be applied include robust input validation, secure storage practices, and maintaining the principle of least privilege. 9. Evaluating automated tools is another critical skill, requiring students to assess both the strengths and limitations of SAST (Static Application Security Testing) and DAST (Dynamic Application Security Testing) in real-world scenarios. 10. Additionally, self-assessment must gauge capability in applying secure debugging and logging practices. 11. Crucially, these secure practices must be implemented without risking the exposure of sensitive data.
+
+**Developing an Action Plan:**
+12. Upon reflection, the student must develop a concrete action plan to facilitate improvement in understanding. 13. One method of improvement is scheduling additional study sessions dedicated to practicing concepts that are currently less certain. 14. Another effective strategy involves actively seeking out additional resources to reinforce understanding of the core concepts. 15. Students are encouraged to post on the discussion forum to solicit further clarification and insights from their peers. 16. The plan must also incorporate the process of setting specific and measurable goals for improvement.
+
+**Continuous Improvement Cycle:**
+17. The module incorporates an evaluation activity at the end of each individual topic for ongoing progress review. 18. This mechanism allows students to regularly monitor their learning trajectory. 19. Success requires students to adjust both their strategies and their stated goals. 20. Adjustments must be based on continuous self-assessment data and any new feedback received from the module. 21. It is paramount to remember that learning itself is defined as a continuous process. 22. Therefore, revising the initial action plan to better suit changing needs is perfectly acceptable. 23. The core objective remains mastering technical details like input validation, secure storage, and least privilege. 24. Proficiency in analyzing SAST/DAST limitations and securing logging practices are primary outcomes. 25. By following this cycle of self-assessment and structured planning, students can ensure sustained improvement throughout the module.

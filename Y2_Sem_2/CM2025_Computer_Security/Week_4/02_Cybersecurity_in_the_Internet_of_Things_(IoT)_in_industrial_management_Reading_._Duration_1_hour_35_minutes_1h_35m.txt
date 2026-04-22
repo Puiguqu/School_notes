@@ -1,0 +1,8 @@
+# Cybersecurity in the Internet of Things (IoT) in industrial management
+Reading•
+. Duration: 1 hour 35 minutes
+1h 35m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/q0Euo/cybersecurity-in-the-internet-of-things-iot-in-industrial-management
+
+In the previous reading, you explored how ISO/IEC 27001 was applied in practice to help SMEs in Portugal improve their cybersecurity posture. The case study demonstrated the organisational and technical challenges of implementing a standardised security framework, but it also raised these broader questions. What are the responsibilities of those designing and managing information systems? How do we ensure that security practices are not only technically compliant, but ethically sound and legally...

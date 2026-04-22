@@ -1,0 +1,16 @@
+# Chatbot project part 3: Searching files
+Video•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/y5rUv/chatbot-project-part-3-searching-files
+
+The assessment of the mid-term chatbot project transitions from manually coding precepts and responses to using data loaded from a structured JSON file. This new architecture is advanced, associating user input patterns with specific intents, which are then mapped to corresponding chatbot responses. The `intents.json` file contains a list of objects, each comprising three components: a pattern, an associated tag (or intent), and a response. To initiate the process, the data must be read into a Jupyter notebook using the pandas library. The JSON structure is high-level, containing a top-level `intents` object which holds a list of objects for tags, patterns, and responses.
+
+The core processing involves using pandas to load and manipulate these three related lists independently. Patterns may be simple strings or regular expressions (regex), necessitating careful handling. If patterns are strings, they must be converted into regex format for comprehensive matching. A useful technical method for generating a robust regex from a list of patterns is to apply a pipe operation (`|`) followed by a join operation on the list.
+
+Once the patterns, tags, and responses are loaded into respective lists, two critical dictionaries must be constructed. The first dictionary is named `regex2int`, which maps the compiled regex patterns (keys) to their associated tags or intents (values). This mapping is crucial for pattern recognition within user input. The second dictionary, `int2res`, maps the identified intents (keys) to a list of possible responses (values).
+
+Functionally, a `storePatterns` function is recommended to encapsulate the conversion of patterns into a cohesive regex format. Building the `regex2int` dictionary requires iterating through the patterns and their associated tags. Similarly, the `int2res` dictionary is constructed by mapping the tags to the associated multiple responses.
+
+The final step involves integrating these resources into the main chatbot code structure. The system should be logically divided into three parts: file loading, pattern matching, and the main chatbot loop. A specialized function, `generateResponse`, is implemented to handle the core logic. This function takes user input, first checking the input against `regex2int` to find a match and identify a tag. It then uses the found tag within `int2res` to retrieve the appropriate response. If a match is successful, the function prints the response and returns `True`; otherwise, it returns `False` to trigger the default chatbot output. For optimal modularity, the chatbot code should be kept separate from the data source in the `intents.json` file. The overall flow dictates that the main loop calls `generateResponse`, which internally loads the files to access `regex2int` and `int2res` for matching. This ensures a modular and scalable chatbot architecture.

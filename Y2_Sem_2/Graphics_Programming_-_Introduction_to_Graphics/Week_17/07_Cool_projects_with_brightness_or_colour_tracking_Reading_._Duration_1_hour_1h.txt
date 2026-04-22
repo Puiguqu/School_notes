@@ -1,0 +1,20 @@
+# Cool projects with brightness or colour tracking
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/JceiE/cool-projects-with-brightness-or-colour-tracking
+
+The overarching theme across these examples is the utilization of computer vision technologies in creative, live, and public installations. This technology allows for rich interactions that surpass the limitations of traditional, minute-to-minute scripting and choreography. A key technical tool is brightness tracking, which analyzes variations in light intensity to inform projection mapping.
+
+The artist duo, Adrien M and Claire B, exemplify this field through their company, which designs and produces live dance shows. Their work integrates computer vision directly with projected elements, creating dynamic visual experiences. They demonstrated brightness tracking in a piece where the tracking mechanism guided letters towards a specific source point. This specific work is linked here: https://vimeo.com/34550678.
+
+The Graffiti Research Lab (GRL) is an artists' cooperative dedicated to open-source technologies for urban communication. GRL leveraged brightness tracking for large-scale, public graffiti installations. They used the technology to track a laser pointer beamed onto a building's surface. This allowed them to project detailed graffiti precisely where the laser marker was located.
+
+Two older videos illustrate GRL’s early adoption of this technique: https://www.youtube.com/watch?v=zOi5xinMAUQ and https://www.youtube.com/watch?v=DKbtTPYZEig. Another impressive example is provided by Aurora Mechanica's project setup. They created an installation involving a moving bird cage. When the cage was repositioned, the system projected images of fleeing birds.
+
+A technical refinement in this piece involved the move away from conventional camera brightness tracking. Instead, they utilized an infrared (IR) camera system. Furthermore, they installed an infrared LED light directly onto the cage. Crucially, the audience could not see this IR light, but the camera could detect it. This detection enabled the system to send commands to the projection software to "release" the projected birds. The full work can be viewed at https://www.youtube.com/watch?v=KMyadNVgi34.
+
+The domain of color tracking is exemplified by Zach Lieberman, a prominent lead developer for openFrameworks. This openFrameworks is a powerful, C++ based framework designed for developing advanced creative applications, comparable to p5js. Lieberman worked on a commercial project involving a car. The objective was to generate entirely new typesets, or new fonts, dynamically. They achieved this by tracking distinct colored dots placed on the car. The specific project demonstrating this is available at https://vimeo.com/5233789.
+
+In essence, the applications demonstrate a progression from tracking simple brightness to precise color detection and to the use of specialized infrared technology. These examples solidify computer vision's role in enabling novel, interactive, and site-specific art forms. The core finding is that technology acts as a catalyst for expressive, non-linear storytelling.

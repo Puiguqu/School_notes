@@ -1,0 +1,32 @@
+# Intellectual property – case study 1
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/x6hr8/intellectual-property-case-study-1
+
+1. The lecture examines the controversial intellectual property (IP) dispute, *Oracle versus Google*, regarded as a landmark case in copyright law for the digital age.
+2. Intellectual property, or IP, comprises laws granting creators control over their creations, whether they are books or software code.
+3. While intended to protect innovation, IP laws can sometimes restrict it, making the boundaries of such laws critical in technology.
+4. The dispute began in 2010 when Oracle sued Google for allegedly infringing on Oracle’s IP by using parts of Java’s Application Programming Interface (API) in the Android operating system.
+5. Java, developed by Sun Microsystems and later acquired by Oracle, was designed to be open source, but Oracle challenged Google's use of 37 Java API packages.
+6. The central legal question was whether APIs, which function as software connectors, could be copyrighted material.
+7. Oracle claimed that Google's use violated copyright and sought $9 billion in damages, arguing Google built the Android backbone without permission.
+8. Google countered that APIs were foundational, like keyboard keys or grammatical rules, essential building blocks that should not be restricted by copyright.
+9. An API is technically defined as a translator or bridge allowing two different software programs to communicate by defining methods or procedures.
+10. Without APIs, most modern applications would fail to function, leading Google to argue they should be treated as functional tools, not creative works.
+11. In the initial 2012 legal round, a judge ruled that APIs were too functional to be copyrighted, comparing Oracle's claim to attempting to copyright a typewriter's key arrangement.
+12. However, Oracle appealed the decision, and the case progressed to the Federal Circuit Court of Appeals.
+13. In 2014, the Federal Circuit Court overturned the initial ruling, deciding that APIs *could* be copyrighted.
+14. Furthermore, the court determined that Google's use of the 37 Java APIs was not automatically protected under fair use.
+15. This 2014 ruling caused significant concern, as many feared it would restrict development by mandating licenses for every existing API.
+16. The legal fight then shifted focus to the doctrine of fair use, which permits limited use of copyrighted material without permission for transformative purposes.
+17. Google argued that its use of the Java APIs to create Android was transformative because it functioned within a new, mobile environment.
+18. After a decade of litigation, the US Supreme Court finally ruled in 2021, favoring Google.
+19. The Court concluded that Google's use of the Java APIs in Android constituted fair use.
+20. Specifically, the Supreme Court recognized that Google’s copying was fair use because it only took the necessary elements for programmers to use their skills in a new, transformative way.
+21. This decision was hailed as a victory for developers, preventing a precedent that would stifle continued technological innovation.
+22. The broader implication is that the ruling reaffirmed the critical importance of fair use in protecting the tech sector’s ability to build upon existing tools.
+23. However, the case left key questions unanswered regarding whether *all* APIs are immune from copyright claims in the future.
+24. The entire *Oracle v. Google* saga illustrates the inherent complexities of copyright law intersecting with the rapid, evolving world of software development.
+25. Ultimately, the case shows that IP law, while designed to protect innovation, remains a volatile battleground requiring continuous legislative and legal engagement.

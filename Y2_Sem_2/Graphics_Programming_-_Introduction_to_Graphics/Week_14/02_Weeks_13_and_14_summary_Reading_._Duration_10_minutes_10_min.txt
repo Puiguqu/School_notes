@@ -1,0 +1,8 @@
+# Weeks 13 and 14 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/O0YO1/weeks-13-and-14-summary
+
+In this week, you have been introduced to the fundamentals of colour and image processing, focusing on digital representations of colours and images. You explored colour theory, understanding how colours interact and can be generated procedurally. Additionally, you have learned about two primary types of digital graphics, such as bitmap and vector, highlighting their differences in terms of scalability, quality, and pixel dependency. Practical applications included utilising images from various ...

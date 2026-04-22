@@ -1,0 +1,8 @@
+# Understanding sprints in Scrum
+Reading•
+. Duration: 1 hour 25 minutes
+1h 25m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/dlMII/understanding-sprints-in-scrum
+
+This article tries to provide a contemporary perspective on connection Agile in practice to a more empirical, scientific endeavour in the form of a journal paper. This should help you on your journey to understanding some of the practical considerations around Agile techniques. Surendra, N.C. and S. Nazir ‘Agile development: Exploring what practitioners want to know’, Journal of Software Engineering and Applications, 11 2018, pp.1–11. If this link is broken, please let us know via the Student Po...

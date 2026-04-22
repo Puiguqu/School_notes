@@ -1,0 +1,8 @@
+# Create an SQL cheat sheet – model answer
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/Tepl4/create-an-sql-cheat-sheet-model-answer
+
+### Week 1 Topic 1 Introduction to the course ### Week 2 Topic 1 Getting to grips with Python ### Week 3 Topic 2 Python basics: Data types, control flow, and functions ### Week 4 Topic 2 Writing programs using lists and control flow ### Week 5 Topic 3 Data structures ### Week 6 Topic 3 Pattern matching with strings ### Week 7 Topic 4 Reading and writing data on the file system ### Week 8 Topic 4 Reading and writing data Part 2 ### Week 9 Topic 5 Processing text data ### Week 10 Topic 5 Language ...

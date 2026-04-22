@@ -1,0 +1,8 @@
+# AI-powered crypt analysis
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/Gq0lC/ai-powered-crypt-analysis
+
+The purpose of this reading is to explore how machine learning can automate the task of identifying encryption algorithms from ciphertext. Read: Radhika, K., S. Verma, R. Sathya, T. Kathirvel, K. H. Vishnu and N. M. Rajan ‘AI powered crypt-analysis for identification of encryption algorithm’ in 2024 4th International Conference on Sustainable Expert Systems (ICSES) (Washington, DC: IEE, 2024) pp.1880–1884. As you read, focus on: understanding how features like entropy and byte frequency are used for classification following the Random Forest modelling approach and sequential testing method considering the security implications of algorithm identification for cryptographic practice. for the article in the Online Library . AI-powered crypt analysis The purpose of this reading is to explore how machine learning can automate the task of identifying encryption algorithms from ciphertext. Read: Radhika, K., S. Verma, R. Sathya, T. Kathirvel, K. H. Vishnu and N. M. Rajan ‘AI powered crypt-analysis for identification of encryption algorithm’ in 2024 4th International Conference on Sustainable Expert Systems (ICSES) (Washington, DC: IEE, 2024) pp.1880–1884. As you read, focus on: understanding how features like entropy and byte frequency are used for classification following the Random Forest modelling approach and sequential testing method considering the security implications of algorithm identification for cryptographic practice. for the article in the Online Library . Mark as completed Dislike Report an issue

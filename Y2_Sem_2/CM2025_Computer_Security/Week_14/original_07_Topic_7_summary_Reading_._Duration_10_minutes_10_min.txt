@@ -1,0 +1,8 @@
+# Topic 7 summary
+Reading•
+. Duration: 10 minutes
+10 min
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/59Wvr/topic-7-summary
+
+So far, you have explored: the NIST incident response lifecycle. You have learned the four phases (Preparation; Detection and analysis; Containment, Eradication and recovery; Post-incident activity) and how they provide structure during a cyber incident core digital forensic practices. You have examined techniques such as hashing, timeline reconstruction and artifact analysis, and reflected on their importance for preserving evidence integrity frameworks and tools for investigation. You have applied models like the cyber kill chain and MITRE ATT&CK to map adversary behaviour, and matched different forensic tools (e.g., FTK Imager, Volatility, Wireshark) to the types of evidence they help uncover. Topic 7 summary So far, you have explored: the NIST incident response lifecycle. You have learned the four phases (Preparation; Detection and analysis; Containment, Eradication and recovery; Post-incident activity) and how they provide structure during a cyber incident core digital forensic practices. You have examined techniques such as hashing, timeline reconstruction and artifact analysis, and reflected on their importance for preserving evidence integrity frameworks and tools for investigation. You have applied models like the cyber kill chain and MITRE ATT&CK to map adversary behaviour, and matched different forensic tools (e.g., FTK Imager, Volatility, Wireshark) to the types of evidence they help uncover. Mark as completed Dislike Report an issue

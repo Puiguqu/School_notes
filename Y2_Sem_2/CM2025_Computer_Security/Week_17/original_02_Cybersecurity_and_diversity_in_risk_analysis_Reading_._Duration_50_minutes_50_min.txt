@@ -1,0 +1,8 @@
+# Cybersecurity and diversity in risk analysis
+Reading•
+. Duration: 50 minutes
+50 min
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/lJUgz/cybersecurity-and-diversity-in-risk-analysis
+
+So far, you’ve explored structured approaches to risk management through frameworks, standards and technical methods. This reading shifts the focus to the human element by looking at how diversity determines which methods to apply. Read: Tuma, K. and R. Van Der Lee ‘ The role of diversity in cybersecurity risk analysis: An experimental plan ’ in Proceedings of the Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering. (New York: Association for Computing Machinery, 2022) pp.12–18. If this link is broken, please let us know via the Student Portal . As you read, focus on: why diversity matters in technical risk analysis teams how bias can shape security decisions, even when using formal methods. Cybersecurity and diversity in risk analysis So far, you’ve explored structured approaches to risk management through frameworks, standards and technical methods. This reading shifts the focus to the human element by looking at how diversity determines which methods to apply. Read: Tuma, K. and R. Van Der Lee ‘ The role of diversity in cybersecurity risk analysis: An experimental plan ’ in Proceedings of the Third Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering. (New York: Association for Computing Machinery, 2022) pp.12–18. If this link is broken, please let us know via the Student Portal . As you read, focus on: why diversity matters in technical risk analysis teams how bias can shape security decisions, even when using formal methods. Mark as completed Dislike Report an issue

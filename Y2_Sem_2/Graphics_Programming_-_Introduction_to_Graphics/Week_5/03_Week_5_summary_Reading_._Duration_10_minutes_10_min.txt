@@ -1,0 +1,8 @@
+# Week 5 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/4ISMe/week-5-summary
+
+This week, the focus was on deepening understanding of physics in programming through the use of Matter.js, a JavaScript physics engine. The topic covered the fundamentals of physics engines, explaining their role in simulating real-world physics within digital environments. You explored key components of Matter.js, such as bodies, constraints, and composites, which serve as the building blocks for creating dynamic and interactive physics-based scenes. You should have completed the task 'Angry b...

@@ -1,0 +1,8 @@
+# Create an SQL cheat sheet
+Reading•
+. Duration: 5 minutes
+5 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/JWJb5/create-an-sql-cheat-sheet
+
+Find three basic SQL commands and their corresponding usages in Pandas. Create a cheat sheet to help you remember these commands. Once you’ve completed this activity, you can compare it against our model answer on the following page. Create an SQL cheat sheet Find three basic SQL commands and their corresponding usages in Pandas. Create a cheat sheet to help you remember these commands. Once you’ve completed this activity, you can compare it against our model answer on the following page. Mark as completed Dislike Report an issue

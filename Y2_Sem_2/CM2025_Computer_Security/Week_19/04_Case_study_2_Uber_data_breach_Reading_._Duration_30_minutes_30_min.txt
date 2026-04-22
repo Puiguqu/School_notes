@@ -1,0 +1,8 @@
+# Case study 2: Uber data breach
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/NuLOl/case-study-2-uber-data-breach
+
+Having explored the Equifax breach and its lessons in both organisational failure and software architecture, we now turn to a more recent incident: the Uber breach of September 2022. Unlike Equifax, where patch management and outdated systems played the central role, the Uber attack highlights how human factors and poor credential management can undermine even large-scale enterprises. Read: Sharma, U. and S.M. Kalekar ‘ Dissecting the uber security breach: root cause analysis and mitigation stra...

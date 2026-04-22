@@ -1,0 +1,16 @@
+# Introduction to forces
+Video•
+. Duration: 4 minutes
+4 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/km7pA/introduction-to-forces
+
+The lesson focuses on graphics programming by building a physics engine to simulate how objects react to various environmental forces. A force is fundamentally defined as a vector that causes an object possessing mass to undergo acceleration. To achieve realistic simulations, objects must respond to multiple concurrent forces, such as gravity pulling down and a rope pulling up. The foundation for this understanding requires recalling classical physics, particularly Newton's laws of motion.
+
+Newton's first law states that an object at rest remains at rest, and an object in motion remains in motion. This effectively means that an object's velocity will not change unless an external force is actively applied. Newton's second law provides the core mathematical relationship: Force equals mass times acceleration, symbolized as $F=ma$. This relationship can be rearranged to solve for acceleration: $a=F/m$.
+
+Crucially, the acceleration of an object is directly proportional to the applied force; a greater force results in greater acceleration. Conversely, acceleration is inversely proportional to the object's mass, meaning larger objects react slower to a given force. For simplification during coding, it is common to set the mass of all picture world objects to 1, thus simplifying the relationship to $a=F$.
+
+Initially, a simple implementation of `applyForce` was flawed because setting the acceleration variable would override any previously applied forces. To allow for complex simulations, multiple forces—like gravity, friction, and air resistance—must be added together simultaneously. Therefore, the critical technical detail is to accumulate forces by adding them to the existing acceleration variable, rather than just setting the value.
+
+This required modification changes the function logic from overwriting to summing, allowing multiple forces to act concurrently. By using accumulation, we can model complex scenarios, such as a car being influenced by driving force, friction, and air resistance. These applied forces cumulatively determine the object's acceleration. This process establishes a necessary calculation "waterfall" of complexity. Specifically, the applied forces affect acceleration, which in turn affects velocity. Finally, the resulting velocity dictates the object's location. This cascading calculation chain enables the creation of sophisticated, physics-based interactions.

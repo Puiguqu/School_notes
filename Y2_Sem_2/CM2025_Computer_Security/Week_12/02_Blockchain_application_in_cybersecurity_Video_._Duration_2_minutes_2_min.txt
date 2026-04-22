@@ -1,0 +1,32 @@
+# Blockchain application in cybersecurity
+Video•
+. Duration: 2 minutes
+2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/n2Oh5/blockchain-application-in-cybersecurity
+
+1. The session introduces blockchain's critical role in enhancing cybersecurity by mitigating modern digital security risks.
+2. Its primary objective is to help build trust within increasingly complex and vulnerable digital systems.
+3. Current cybersecurity faces major challenges due to reliance on centralized systems susceptible to attacks.
+4. This vulnerability leads to frequent data breaches and a continuous erosion of user trust.
+5. Blockchain fundamentally addresses these issues through the principle of decentralization, which eliminates single points of failure.
+6. Data recorded on a blockchain is cryptographically secure and maintained on an immutable ledger, guaranteeing strict traceability.
+7. Furthermore, smart contracts automate responses to specific security threats, enhancing reaction speed and reliability.
+8. In the sphere of identity management, blockchain supports self-sovereign identity models.
+9. These models ensure that users retain complete ownership and control over their personal credentials, substantially reducing identity theft risks.
+10. Regarding Internet of Things (IoT) devices, blockchain enables them to perform secure self-verification.
+11. It provides a tamper-proof audit trail for IoT activities, thereby eliminating their dependence on centralized controllers.
+12. Real-world applications of blockchain are currently transforming various sectors, including banking and healthcare.
+13. Banks utilize it extensively to improve fraud prevention mechanisms across transactions.
+14. Hospitals leverage it specifically to protect sensitive patient data records.
+15. Governments are also testing its viability for secure digital IDs and advanced voting systems.
+16. Despite its promise, the technology is not flawless and faces notable technical hurdles.
+17. Key challenges include scalability limitations and persistent network latency issues.
+18. Other practical challenges involve energy usage inherent to certain consensus models and complex integration with legacy IT environments.
+19. Furthermore, the legal and regulatory clarity surrounding blockchain technology is still evolving rapidly.
+20. Nevertheless, blockchain stands as a powerful ally, offering decentralized and verifiable systems for enhanced resilience and transparency.
+21. The accompanying curriculum outlines a comprehensive learning path spanning several topics over weeks.
+22. These topics cover the identification and classification of cyber threats (Topics 1 & 2).
+23. Advanced study delves into cryptographic principles, including PKI, digital signatures, and hash functions (Topic 5).
+24. Subsequent topics explore incident response, forensics, and emerging trends like AI, ML, and post-quantum cryptography (Topics 7, 8, & 9).
+25. The structure confirms blockchain's dedicated study in Topic 6, integrating it with foundational knowledge of network and application security.

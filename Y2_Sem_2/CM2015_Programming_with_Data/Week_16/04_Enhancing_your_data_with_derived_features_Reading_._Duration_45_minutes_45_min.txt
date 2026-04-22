@@ -1,0 +1,8 @@
+# Enhancing your data with derived features
+Reading•
+. Duration: 45 minutes
+45 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/9dKgH/enhancing-your-data-with-derived-features
+
+Identify some interesting features from scraped data using the data frame that you obtained from the programming lab and create new columns from this. Example transformation ideas: In a product database: Create a discount column that calculates the price after a discount based on existing price and discount rate columns. In customer feedback or product reviews: Create a sentiment or intent column based on the content of reviews, using keywords or sentiment analysis. For time-based data: Derive a...

@@ -1,0 +1,32 @@
+# Activity: Updating your LinkedIn profile
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/6YQ8c/activity-updating-your-linkedin-profile
+
+1. Creating a LinkedIn profile is highly recommended if one is not already established.
+2. Users must remain aware that all profile usage is subject to LinkedIn’s specific terms and conditions and privacy policy.
+3. The initial profile photo selection must be a high-quality, professional image that conveys a neat and friendly look, without requiring a formal suit and tie.
+4. The background for the profile photo should be simple and well-lit for maximum professionalism.
+5. The headline is critical and must include the current or target job title alongside several relevant keywords.
+6. For example, instead of a generic title like ‘Computer Science student,’ one should use a detailed phrase such as ‘Aspiring Software Engineer | Python | AI Enthusiast.’
+7. The About section should begin with a brief introduction outlining one's passion for computer science, technical skills, academic projects, and career goals.
+8. This section needs to be keyword-optimized for target roles, mentioning technical skills like Python and C++, alongside global employability skills such as collaboration and problem solving.
+9. Crucially, the 'About' section must be kept succinct, as only approximately 400 characters will display automatically.
+10. The Experience section requires listing relevant work history, encompassing jobs, internships, and freelance contributions.
+11. It is also essential to include academic projects and volunteer activities, such as mentoring at a coding bootcamp or contributing to open-source projects, detailing the technologies used and challenges overcome.
+12. When describing experience, focus rigorously on quantifiable results, stating how a process was improved, a problem was solved, or how a team project was positively influenced.
+13. The Education section must showcase the University of London BSc Computer Science degree, including the expected graduation year and any honors received.
+14. Furthermore, include specific courses aligned with career objectives, such as Algorithms, Data Structures, or Artificial Intelligence.
+15. The Skills section requires listing key programming languages, tools, and concepts relevant to the target job market.
+16. To validate abilities, users should seek endorsements from colleagues and classmates, and take formal LinkedIn Skills Assessments for verification, citing examples like Python, Java, or SQL.
+17. Additional professional credibility can be added by including relevant certifications such as AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals, or coursework from Coursera/edX.
+18. The featured section is ideal for highlighting standout achievements, including major projects, relevant articles, or professional portfolios.
+19. Users should attach tangible evidence, such as GitHub repositories or direct links to live projects, within this featured area.
+20. To improve digital identity, a custom URL should be built and edited to something professional, adhering to the format like linkedin.com/in/yourname.
+21. Maintaining a consistent presence is vital, requiring the regular updating of the profile with new skills, experiences, or accomplishments to keep the profile fresh and relevant.
+22. If the individual does not yet have a profile, the immediate action is to create one to establish a professional digital presence.
+23. The profile structure must effectively merge academic excellence (University of London degree) with practical application (GitHub links).
+24. Attention to detail is required in ensuring all listed technical skills are directly applicable to the sought-after industry roles.
+25. By systematically implementing these technical and content best practices, the profile becomes a robust professional marketing tool.

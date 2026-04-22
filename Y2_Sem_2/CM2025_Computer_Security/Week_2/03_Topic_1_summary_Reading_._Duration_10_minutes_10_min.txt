@@ -1,0 +1,8 @@
+# Topic 1 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/fbEGt/topic-1-summary
+
+In this topic, you have explored the foundations of cyber threats – what they are, how they have evolved and why they matter. So far, you have explored: how to define cyber threats. You have learned what cyber threats are, how they have evolved over time and why they have significant impact on organisations and individuals the different types of cyber threats. You have explored common cyber attacks such as phishing, ransomware, insider threats and distributed denial-of-service (DDoS) attacks the...

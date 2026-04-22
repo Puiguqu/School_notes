@@ -1,0 +1,16 @@
+# Invert filter
+Video•
+. Duration: 8 minutes
+8 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/eo3Rt/invert-filter
+
+The process begins by setting up the environment for digital image processing, specifically demonstrating the creation of an `invertFilter` function. To begin, the user must employ the `preLoad` function to ensure that all required assets, such as the image (e.g., `seaNettles`), are loaded before the sketch's `setup` or `draw` cycle executes. The canvas is then created using `createCanvas`, setting its initial dimensions to match the width and height of the source image (`imgIn.width`, `imgIn.height`). The primary objective is to manipulate pixels, necessitating the establishment of a drawing canvas and potentially an output image container to display comparisons.
+
+To facilitate the filtering process, the output image, designated as `imgOut`, must be created with identical dimensions to the input image. Crucially, accessing and manipulating pixels requires calling the `loadPixels()` function on both the input and output images. The core mechanism involves iterating through every single pixel using nested `for` loops, with variables `x` traversing the width and `y` traversing the height.
+
+Inside these loops, the key technical detail is determining the index of the current pixel within the continuous pixel data array. This index is calculated using the formula: `(y * img.width + x) * 4`. The subsequent steps involve accessing and modifying the four channels (Red, Green, Blue, Alpha) at this specific index.
+
+The inversion process itself is defined by the formula: `inverted_channel = 255 - original_channel`. Specifically, the red (R), green (G), and blue (B) components are retrieved from the original image's pixel array, and the inverted values are then assigned to the corresponding positions in the `imgOut.pixels` array. The transparency (Alpha) component is generally left intact or set to the maximum value of 255.
+
+Once the nested loop completes, populating the `imgOut.pixels` array, the function must call `imgOut.updatePixels()` to finalize the changes and make them visible in the displayed image object. Finally, the function returns the modified image, `imgOut`. To display the original and filtered results side-by-side, the canvas width must be adjusted to accommodate two image widths, plus any necessary spacing. This completes the first simple filter, successfully demonstrating how an image can be processed pixel-by-pixel to achieve a conceptual negative effect.

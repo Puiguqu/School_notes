@@ -1,0 +1,18 @@
+# Dictionary data type
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/vaRC0/dictionary-data-type
+
+Dictionaries are a fundamental data type in Python, crucial alongside lists, tuples, and sets. Unlike lists that store elements sequentially, dictionaries store data using key-value pairs. This structure distinguishes them from sets, which merely store a collection of non-keyed values. A dictionary is defined using curly braces and pairs associated with a variable name. Key names inside a dictionary must always be strings, though values can be diverse data types. Values can accommodate integers, floats, strings, or even other nested dictionaries. To create a dictionary, one specifies the key and its corresponding value pair inside the syntax. Printing the dictionary allows users to view its current contents and defined structure.
+
+To expand or update a dictionary, one can assign a new key and its starting value. Adding a new key simply involves assigning a new pair to the dictionary. If the goal is to change an existing value, the user must access the specific key and re-assign the desired new value. To check if a key is part of the dictionary, the expression `key in dictionary_name` is used, returning `True` or `False`.
+
+There are three primary methods for retrieving stored data. The `.values()` command returns all values stored in the dictionary as a list, suitable for iteration. The `.keys()` method similarly returns all keys as a list of items. For accessing both keys and values together, the `.items()` method is utilized, which returns all pairs as a collection of two-entity tuples.
+
+For modifications, the `.update()` method is used to add new key-value pairs, functioning similarly to direct assignment. To delete a key, the `.pop(key)` command must be used. This function accepts the key as a parameter, deletes the key, and crucially returns the associated value. The transcript emphasizes that dictionaries provide powerful tools for managing structured data.
+
+The provided curriculum structure includes specific modules for development. Week 1 introduces the course, while Week 2 focuses on general Python fundamentals. Week 3 covers basic Python concepts like data types, control flow, and functions. Modules 5.1 and 5.2 delve deep into data structures, specifically reviewing lists and introducing dictionaries. Students engage in practical assignments and labs covering topics like "Getting to grips with Python" and "Programming with dictionaries."
+
+The course continues through Week 6 (Pattern matching with strings) to Week 12 (Retrieving data from the web). Further advanced topics include Weeks 13 and 14 (Retrieving data from the databases), Week 15 (Data cleaning), and Week 16 (More data transformations). Weeks 17, 18, and 19 address complex analysis, including data visualization, exploratory analysis for language processing, and advanced Python techniques. The program culminates with a comprehensive Week 21 revision and a Week 22 exam.

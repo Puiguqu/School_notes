@@ -1,0 +1,32 @@
+# Intrusion prevention systems (IPSs)
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/3XnuE/intrusion-prevention-systems-ipss
+
+1. An Intrusion Prevention System (IPS) is a critical security device or software designed to monitor network traffic in real time.
+2. Unlike simple detection systems, the core function of an IPS is not merely to alert, but actively to prevent damage by taking immediate corrective action.
+3. This active intervention allows the system to perform functions such as dropping malicious packets, blocking suspect connections, or resetting suspicious sessions.
+4. Technically, the IPS must sit *inline* within the network architecture, meaning all data traffic must pass directly through the system.
+5. The primary distinction lies in the difference between an IPS and an Intrusion Detection System (IDS).
+6. An IDS functions like a security camera, merely detecting threats and raising alerts without stopping the attack itself.
+7. Conversely, an IPS acts like a security guard, immediately preventing threats by halting malicious traffic in its tracks.
+8. Functionally, IPS operates by meticulously analyzing data packets as they flow across the network infrastructure.
+9. This analysis involves comparing the incoming packets against a comprehensive set of established rules or known attack signatures.
+10. If a packet is deemed malicious, the system can execute preventative measures like dropping the packet or resetting the session.
+11. Detection is supported by detailed logging, ensuring administrators are notified and provided data for thorough review.
+12. IPS employs signature-based detection, which scans for predefined and known attack patterns, similar to antivirus software.
+13. Secondly, anomaly-based detection monitors for deviations, identifying strange or unusual behavior such as unexpected traffic spikes or login attempts.
+14. Furthermore, policy-based detection utilizes specific, predefined rules created directly by the system administrator.
+15. Most modern, advanced IPS systems function as hybrid systems, combining these three techniques for maximal protective effectiveness.
+16. For effective threat blocking, the IPS must be deployed inline, typically situated between the primary firewall and the internal network.
+17. Key deployment areas include data centers, cloud environments, or integrated into Next-Generation Firewalls (NGFWs).
+18. A major benefit of IPS is its ability to block threats at the network edge before they can reach internal servers or users.
+19. It is crucial for detecting both known malware and sophisticated zero-day exploits, thereby reducing pressure on internal defenses.
+20. Moreover, IPS assists organizations with compliance mandates for major security regulations, including GDPR and PCI DSS.
+21. Despite its powerful benefits, IPS carries limitations, notably the potential to generate false positives.
+22. Misconfiguration can cause the IPS to mistakenly block legitimate user traffic, causing operational disruption.
+23. The system requires frequent updates to remain effective against rapidly evolving, emerging cyber threats.
+24. Furthermore, if the IPS is not high-performance, it can create a significant network bottleneck, limiting bandwidth.
+25. Ultimately, IPS is not a standalone solution; it must be carefully maintained and layered with tools like firewalls and antivirus for maximum security.

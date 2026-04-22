@@ -1,0 +1,18 @@
+# Week 2 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/Jo1l7/week-2-self-evaluation-and-reflection
+
+The overarching goal of this module is to establish proficiency in vectors for animated and physical simulations. By the conclusion of this learning phase, students must be able to fully describe the nature of vectors. Furthermore, they must successfully apply vector arithmetic to solve complex, movement-related problems. Proficiency also requires the ability to implement simple, dynamic systems using vectors to create animated scenes. Throughout the course, assessing understanding against stated learning outcomes is a critical and necessary activity. This self-assessment exercise is explicitly designed to facilitate reflective learning on the entire student journey. Its purpose is to help students pinpoint areas needing deeper knowledge or skill consolidation.
+
+The foundational requirement involves a thorough understanding of vectors themselves. Specifically, a student must be able to explain that a vector represents two simultaneous components: magnitude and direction. It is crucial to grasp the specialized role of vectors in modeling movement within physics-based systems. Similarly, vectors are fundamental to governing movement representation in animation.
+
+Next, the focus shifts to the technical domain of vector arithmetic operations. Learners must be able to perform basic vector operations, including vector addition and vector subtraction. Comfort must be established in scaling vectors, which is necessary to precisely modify their inherent magnitude. Students also need to demonstrate the capacity to combine multiple vectors effectively. This combination allows for influential control over both direction and speed parameters.
+
+The next conceptual pillar concerns acceleration and simulated movement. Understanding how vectors affect acceleration is a primary learning outcome. Students must be able to describe precisely how changes in vector values impact animated simulations. A key skill involves applying vector arithmetic formulas to achieve realistic and believable acceleration effects within animations.
+
+Finally, the curriculum mandates practical implementation skills using programming or animation environments. Learners must be able to implement simple systems that fundamentally rely on vector principles. This skill set involves creating basic animated scenes or fully functioning simulations based on vector movement. Beyond creation, students must also develop the capability to troubleshoot and modify existing vector-based systems to achieve precise, desired movement outcomes.
+
+The concluding phase is formal reflection, utilizing this checklist for self-evaluation. Students should use this comprehensive evaluation tool to assess their understanding of all lessons from Week 2. Should any concept or task feel uncertain, the student is advised to revisit relevant resources. These resources include dedicated lecture videos, required readings, and provided activities to aid knowledge consolidation. This iterative process ensures continuous improvement across all learned technical domains.

@@ -1,0 +1,8 @@
+# Hack it: Basic solar system
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/E9GVF/hack-it-basic-solar-system
+
+In this programming exercise, you’re asked to program a basic solar system in 3D, just like in the image shown above. Feel free to scale it to a bigger size than in the image shown. Start with an empty example and complete the following steps. Steps to complete The sun should have no material. The sun should have two point lights at its centre emitting white colour. We specify two so that there’s enough light emitted. The earth should have an ambient white material. The earth should rotate around the sun and around its own axis. The camera should be slightly lifted, so that you see the scene from slightly above. Make it your own! There is no need for more at the moment as we’ll expand on this example in the next exercise. Hack it: Basic solar system In this programming exercise, you’re asked to program a basic solar system in 3D, just like in the image shown above. Feel free to scale it to a bigger size than in the image shown. Start with an empty example and complete the following steps. Steps to complete The sun should have no material. The sun should have two point lights at its centre emitting white colour. We specify two so that there’s enough light emitted. The earth should have an ambient white material. The earth should rotate around the sun and around its own axis. The camera should be slightly lifted, so that you see the scene from slightly above. Make it your own! There is no need for more at the moment as we’ll expand on this example in the next exercise. Mark as completed Dislike Report an issue

@@ -1,0 +1,8 @@
+# IEEE and ACM
+Reading•
+. Duration: 30 minutes
+30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/pychY/ieee-and-acm
+
+IEEE (Institute of Electrical and Electronics Engineers) and ACM (Association for Computing Machinery) are two prominent professional organisations in the fields of engineering, computing and technology. IEEE focuses broadly on advancing technology across engineering, electronics, telecommunications and computer science, while ACM is specifically dedicated to advancing the computing discipline. This website provides information about the IEEE's role in developing global standards for various tec...

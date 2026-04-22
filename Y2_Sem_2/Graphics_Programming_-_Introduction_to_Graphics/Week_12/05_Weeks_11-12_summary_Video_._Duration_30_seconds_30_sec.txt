@@ -1,0 +1,14 @@
+# Weeks 11-12 summary
+Video•
+. Duration: 30 seconds
+30 sec - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/SgxxY/weeks-11-12-summary
+
+The curriculum details a significant technical progression, initiating a transition from a flat 2D world to a highly realistic 3D environment. In this advanced 3D setting, students learn to manipulate fundamental components such as cameras, textures, materials, and diverse shapes. The course builds foundational skills over the initial weeks, covering topics from Vectors and animation (Week 2) through Forces and Physics. Subsequent weeks utilize Matter.js to explore physics simulations and advanced material interactions.
+
+Generative techniques form a major conceptual pillar, starting with randomness and noise in Week 6. This concept deepens into advanced mathematical structures by covering sine and fractals in Weeks 8 and 9. Weeks 11 and 12 mark the dedicated deep dive into 3D graphics. This section includes a "Simple texture coding" video, lasting 3 minutes. Students must check their understanding with a 3-minute practice assignment, followed by a "Graphics as texture" video spanning 6 minutes. The practical application involves a "Textured solar system" assignment, a substantial, peer-graded effort requiring 3 hours.
+
+The end of the 3D graphics topic culminates in a 10-minute quiz and a 10-minute summary reading. The schedule continues to emphasize review, with a 15-minute self-evaluation and a 30-second summary video for Weeks 11-12. A major shift occurs in Weeks 13 through 16, focusing on the fundamentals of colors, images, and pixels. Weeks 15 and 16 are dedicated entirely to detailed image processing techniques.
+
+The curriculum then moves into the sophisticated domain of Computer Vision, segmented into three distinct parts across Weeks 17, 18, and 19. The final weeks conclude with "Interviews and graded assignment submission" in Week 20. Technical assistance is provided throughout the course structure via detailed instructions for transcript navigation. These instructions detail using the tab key for movement, CTRL+S for notes, expanding selection with CTRL+arrow key, and contracting it using shift+CTRL+arrow key. Furthermore, alternative controls for screen readers are provided: using H J K L keys, or pairing CTRL with the alt key. This comprehensive structure ensures mastery across foundational physics, generative art, complex 3D modeling, and advanced image processing.

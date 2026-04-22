@@ -1,0 +1,8 @@
+# Agile methodologies and teamwork
+Reading•
+. Duration: 2 hours 15 minutes
+2h 15m - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/supplement/k2QDZ/agile-methodologies-and-teamwork
+
+The following reading article provides a comprehensive, practical introduction to how Agile works as an end-to-end process. You might already be familiar with some of these concepts from other modules, but this will help to refine your understanding of Agile in terms of how these all fit together. Project Management Institute and Agile Alliance Agile practice guide. (Pennsylvania, United States: Project Management Institute 2017). Chapter 5. Agile methodologies and teamwork The following reading...

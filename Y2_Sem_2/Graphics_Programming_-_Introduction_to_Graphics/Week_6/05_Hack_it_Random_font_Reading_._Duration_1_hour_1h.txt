@@ -1,0 +1,16 @@
+# Hack it: Random font
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/aI9sS/hack-it-random-font
+
+This programming exercise requires generating an interesting new font by manipulating the inherent points of a specific word. The word used for the foundation of the font is “code.” Crucially, the implementation must use the p5.js framework for all graphical and computational functions. Developers must start by downloading and utilizing the provided `randomFont-Template` project. A necessary warning is that the sketch must be viewed using Bracket’s live view. Loading custom fonts will fail if the HTML file is viewed independently in Chrome.
+
+The core logic resides within the `draw()` function, which executes the main pattern generation. The program must iterate through an array containing the point locations of the word “code.” This point array is generated using the `p5.js textToPoints()` function. Initially, these points must be displayed visually using the `ellipse()` function at their specified (x, y) coordinates.
+
+The primary step involves introducing random displacement to each original point. Within the loop, the `random()` function must be employed to add random amounts to both the x and y coordinates. This mathematical manipulation causes the point to appear in a new, randomized location. It is important to recall that the range of values returned by `random()` depends critically on the number of arguments provided.
+
+To introduce interactive control, the random range itself must vary based on user input. The mechanism for this variation utilizes the `mouseX` variable. This control linkage is achieved by applying the `map()` function. Specifically, the `map()` function is necessary to successfully map the continuous input range of `mouseX` to the desired new range for the random value.
+
+The sketch's operation flow is also technically intricate. When the mouse stops moving, the drawing process ceases generating new patterns. This halting mechanism is due to the explicit call of the `noLoop()` command at the conclusion of the `draw()` function. To resume the dynamic behavior, the `mouseMoved()` function must contain the command to call `loop()`. This function reactivates the sketch's drawing cycle whenever the mouse pointer changes position, thereby maintaining continuous pattern generation.

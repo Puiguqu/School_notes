@@ -1,0 +1,24 @@
+# Feature extraction
+Video•
+. Duration: 9 minutes
+9 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/wodHA/feature-extraction
+
+Feature engineering involves extracting useful variables or features from raw data to enhance data segmentation and model performance. The process examined utilizes the Pandas library to process a dataset containing six original columns: name, price, stock rating, review, and launch date. We categorize features into three distinct types: continuous, Boolean, and text.
+
+For continuous features, we derive a new column called "discounted price" using the original `price` column. This derived feature is calculated by applying a specific formula: `discounted price = price * 0.8`. The resulting column contains floating-point values that represent 80% of the original product price.
+
+Next, we proceed with Boolean features, which capture simple True/False conditions. The first Boolean feature, "affordable," determines if a product's price meets a specific threshold. This feature is set to `True` if the product's `price` is less than 30, and `False` otherwise.
+
+The second Boolean feature addresses product novelty using the `launch date`. Because the `launch date` column initially contains data as type `object` (string), the first technical step must be to convert it to the appropriate Pandas `datetime` format. Following conversion, a new feature, "ISNEW," is created by checking if the product's launch date is greater than a predefined threshold, specifically March 1, 2024.
+
+A third Boolean feature is derived from the `rating` column to identify highly rated products. This feature is set to `True` if the product's rating is strictly greater than four, and `False` otherwise.
+
+The final major feature type involves extracting information from unstructured text, specifically the `review` content. Sentiment analysis is used to classify the emotional tone of the review.
+
+For sentiment extraction, a function is constructed using regular expressions (regex) for pattern matching. This function takes a text and checks for positive and negative keywords. Positive patterns include words like 'great', 'loved', 'perfect', and 'worth'. Negative patterns include 'overpriced'.
+
+The logic dictates that if the text matches a positive pattern, the sentiment is returned as 'positive'. If it matches a negative pattern, the sentiment is 'negative'. All other instances are classified as 'neutral'.
+
+This function is then applied across the entire `review` column using the `map` operator to generate the final "sentiment" feature. The successful creation of these derived columns enriches the original dataset significantly. In total, five derived features—`discounted price`, `affordable`, `ISNEW`, `high rating`, and `sentiment`—have been added. These five features, derived from three fundamental types, allow for deeper and more nuanced data insights in subsequent analysis steps.

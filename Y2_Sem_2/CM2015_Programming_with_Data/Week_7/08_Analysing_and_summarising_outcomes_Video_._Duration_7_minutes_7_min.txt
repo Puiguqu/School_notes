@@ -1,0 +1,12 @@
+# Analysing and summarising outcomes
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/usIpi/analysing-and-summarising-outcomes
+
+Pandas provides advanced operations for computing descriptive statistics on groups of data within DataFrames and Series. To begin, basic statistical measures like mean, maximum, and minimum can be calculated directly from the data structures. The `sum()` operation, by default, calculates the sum of values down each column (axis 0). It automatically skips `NaN` values, treating them as zero during the summation process. If the `axis` parameter is set to `columns`, the function returns the sum of all columns for every individual row. A critical consideration is the `skipna` parameter, which determines how `NaN` values are handled in computations. If `skipna` is set to `False`, `NaN` values are included in the computation, often resulting in a `NaN` outcome for the sum or mean. The `mean()` operation behaves similarly, requiring the explicit use of the `axis` parameter to change computation orientation.
+
+For finding the extreme values, `idxmax()` returns the index of the highest position for each column in a DataFrame. Conversely, `idxmin()` provides the index values corresponding to the minimum element in each column. While these functions provide column-wise or row-wise summaries, the `.describe()` operation gives a comprehensive overall summary of all present columns. This summary includes the mean, standard deviation, minimum, maximum, and percentile values. When `.describe()` is applied to a Series containing non-numeric data, such as letters, it shifts focus to frequency distribution. Instead of mean or standard deviation, it reports the frequency of occurrence for different unique values.
+
+To specifically generate a frequency distribution for a Series, the `value_counts()` operation is used. This function accepts a Series or DataFrame and returns the frequency count of each unique character or value. `value_counts()` is essential for categorizing and sorting data based on frequency. The `sort_index()` operation can be combined with `value_counts()` to sort the resulting frequencies according to either the index or the values. These functions are crucial for aggregate analysis, whether the data is numerical or alphabetical. Understanding these tools allows users to extract comprehensive statistical insights from various data types in pandas.

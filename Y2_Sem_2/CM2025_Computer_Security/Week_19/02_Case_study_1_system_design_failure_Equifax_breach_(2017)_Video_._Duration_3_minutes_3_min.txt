@@ -1,0 +1,34 @@
+# Case study 1: system design failure: Equifax breach (2017)
+Video•
+. Duration: 3 minutes
+3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/AL8o1/case-study-1-system-design-failure-equifax-breach-2017
+
+This summary synthesizes the critical technical findings from the Equifax case study and the structured academic curriculum provided.
+
+1. The Equifax Bridge of 2017 serves as a major case study illustrating the massive consequences of failing basic security practices.
+2. This incident involved the exposure of personal data belonging to 147 million people in the U.S.
+3. The compromised data included highly sensitive information such as names, social security numbers (SSNs), birthdates, addresses, and credit card information.
+4. The breach remained undetected for months before being publicly disclosed in September 2017.
+5. The primary technical vulnerability originated from a non-vulnerability disclosed in Apache Struts in March 2017.
+6. Crucially, Equifax failed to apply the available patch in time, granting attackers full system access.
+7. Systemic design flaws compounded the crisis, including poor logging, which severely delayed detection.
+8. Further weaknesses included weak network segmentation, enabling attackers to move laterally within the system.
+9. The organization also utilized outdated encryption and authentication practices.
+10. The financial and reputational fallout was immense, leading to Equifax paying out over $700 million in fines and settlements.
+11. Key industry lessons derived from this incident emphasize the necessity of constant vigilance and preparedness.
+12. Best practices mandate that non-vulnerabilities must always be patched immediately.
+13. Furthermore, organizations must design visible networks to effectively contain any potential security breaches.
+14. Continuous system monitoring, regular audits, and updated incident response plans are critical safeguards.
+15. A core principle of modern security is never assuming that defenses are impenetrable, requiring a design for resilience.
+16. The provided academic structure covers a deep dive into cybersecurity across multiple topics over 19 weeks.
+17. Early learning focuses on identifying and classifying cyber threats (Weeks 1 and 2).
+18. Subsequent modules address Cybersecurity frameworks, standards, legal, ethical, and professional considerations (Week 3 and 4).
+19. Technical coverage progresses to Network and OS security (Week 5 and 6), and Application security principles (Week 7 and 8).
+20. Two specialized technical pillars are cryptography (Week 9 and 10) and Blockchain for cybersecurity (Week 11 and 12).
+21. Incident response and forensics form a critical procedural element, covered across two weeks (Week 13 and 14).
+22. The curriculum then examines Emerging trends, including AI, ML, quantum computing, and IoT security challenges (Week 15 and 16).
+23. Later weeks address broader governance, such as EDI principles, sustainable digital ecosystems, and employability (Week 17 and 18).
+24. The structure concludes with real-world application in Topic 10, focusing on designing, testing, and communicating security solutions (Week 19).
+25. The syllabus also emphasizes learning from multiple case studies, such as the Equifax and Uber data breaches.

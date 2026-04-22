@@ -1,0 +1,32 @@
+# Optical flow
+Video•
+. Duration: 11 minutes
+11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/6w1Bg/optical-flow
+
+1. Optical flow represents the apparent motion of pixels within an image, often serving as an accurate approximation of true physical movement.
+2. Unlike techniques that process individual pixels or analyze single-frame pixel differences, optical flow employs medium-level techniques by processing entire batches of pixels together.
+3. It provides a detailed description of moving regions and quantifies the velocity of that motion, visualized through movement vectors.
+4. The underlying assumption of optical flow algorithms is that the color or intensity of a specific pixel remains invariant from one video frame to the next.
+5. This means the algorithm fundamentally assumes that a pixel, while moving, retains its original brightness and intensity across sequential frames.
+6. However, calculating optical flow is susceptible to noise and sudden illumination changes, such as when sunlight rapidly shifts behind clouds.
+7. Furthermore, a key technical limitation is the assumption that the movement between frames must be relatively small.
+8. Although cameras recording at 25 frames per second usually capture minor movements, very fast-moving objects can cause the algorithm to fail in finding accurate pixel matches.
+9. Despite these limitations, optical flow has broad applications, making it critical for automated traffic surveillance to detect and track vehicles.
+10. Beyond tracking stationary objects, it can calculate global motion if the camera itself is moving, allowing for stability analysis.
+11. Drone footage, for instance, uses optical flow to understand global scene movement and stabilize the resulting imagery, counteracting shake.
+12. Conceptually, using optical flow information allows for an estimation of depth in 3D space, as objects closer to the camera appear to move faster.
+13. This depth understanding is crucial for devices like smart vacuum cleaners, enabling them to map environments using only a single 2D camera.
+14. Another application is using optical flow as a precursor to image segmentation, for example, identifying moving objects in front of a static background.
+15. In video compression, optical flow exploits temporal redundancy by encoding movement vectors between frames rather than describing every pixel individually.
+16. This principle is central to standards like MPEG, which utilizes B and P frames to encode movement information for maximum compression.
+17. Technically, the algorithm searches for corresponding pixels in the neighborhood of the current pixel across two consecutive frames.
+18. Processing two frames yields two distinct vector fields: $\mathbf{U}$ (for movement on the x-axis) and $\mathbf{V}$ (for movement on the y-axis).
+19. The implementation provided relies on an external library (the `flow.js` library) rather than being coded from scratch.
+20. The workflow involves loading the current frame and checking for existing data from the previous frame to calculate the flow.
+21. If the frames are identical, the system correctly ignores the calculation to prevent unnecessary processing.
+22. The output provides the vectors $\mathbf{U}$ and $\mathbf{V}$, which are then looped over and processed to display the calculated movement.
+23. To reduce visual noise, a threshold is applied to the absolute length of the movement vector, filtering out minor or random pixel jitters.
+24. Additionally, the system calculates an average movement vector, which can be scaled and utilized to control graphical elements or predict movement direction.
+25. Ultimately, optical flow provides a powerful, foundational understanding of motion, which can then be used for advanced control, visualization, and data recovery across multiple domains.

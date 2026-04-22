@@ -1,0 +1,20 @@
+# Using transformations
+Video•
+. Duration: 17 minutes
+17 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/xZ6EI/using-transformations
+
+The lesson details advanced graphical programming techniques using a coordinate system model. Initially, basic translation is demonstrated, where objects are moved along the X or Y axes. Advanced manipulation requires understanding the transformation of the coordinate system itself. To rotate objects, the coordinate system must be rotated by a specified angle around the origin.
+
+A critical sequence involves applying both rotation and translation simultaneously. The order of these transformations is crucial; applying a translation first and then a rotation will yield a different result than rotating first and then translating. This sequential nature mandates careful programming of the mathematical order of operations.
+
+Furthermore, the concepts extend to applying multiple, chained transformations sequentially. The system allows for complex graphical paths by combining translation, rotation, and scaling in a programmed order. For instance, one can rotate an object, scale it up, and then translate it to a new screen position.
+
+The discussion emphasizes the inherent dependency between these transformation types. When multiple operations are chained, the final position of the object depends on how the system updates its internal coordinate state.
+
+To manage complex drawing states, the programming environment provides stack-based methods. Saving the current transformation state allows the program to temporarily change the system's coordinates without affecting later drawings. Restoring the saved state reverts the entire system back to the exact coordinates it was in previously.
+
+This ability to save and restore transformations makes it possible to draw complex, non-linear graphics composed of multiple independent components. The use of a stack is essential for maintaining program flow integrity during drawing operations.
+
+Finally, the technique concludes by demonstrating how these cumulative transformations can define virtual, rotating drawing surfaces for interactive graphics, effectively allowing the user to manipulate the view space itself.

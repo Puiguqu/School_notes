@@ -1,0 +1,16 @@
+# Week 1 self-evaluation and reflection
+Reading•
+. Duration: 15 minutes
+15 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/2rBXd/week-1-self-evaluation-and-reflection
+
+The curriculum aims for students to master three core areas of digital graphics by the end of the module. Specifically, learners should be able to explain how transformations function in 2D space. Furthermore, students must understand the critical role that classes play in organizing complex graphics code structures. The ultimate goal is the ability to use these concepts independently to program sophisticated animated 2D models. Throughout the course progression, regular self-assessment is deemed crucial for mastery. This rigorous exercise is designed for deep reflection on the learning journey. Its purpose is to help students identify specific knowledge gaps or areas requiring skill development. From this reflection, students must develop a targeted and proactive plan for educational improvement.
+
+The first technical focus involves understanding 2D transformations in computer graphics. Students must first explain what 2D transformations are and how they function within this domain. Understanding requires differentiating among three primary types of transformations. These types are translation, rotation, and scaling. Identifying real-world applications is also a key learning outcome for this section. These applications include, but are not limited to, the creation of animated visual content.
+
+In terms of practical application, students apply translation to accurately move objects within a defined 2D space. Rotation is employed specifically to change the orientation of graphical objects. Scaling is utilized as a method to systematically alter the size of the represented objects. Practical mastery was demonstrated by programming a basic clock mechanism. This required applying transformations to ensure the hands moved dynamically. Another complex application involved modeling a solar system. Here, transformations were applied to simulate orbiting planets accurately.
+
+A second core concept involves understanding and implementing object-oriented principles through classes. Students must first grasp the theoretical importance of classes in structuring graphics code. They gain the ability to create specialized classes to represent individual objects within the graphic program. Critically, classes are used to manage multiple distinct objects within a single project framework. This capability was demonstrated in the management of various planets in the solar system model.
+
+Overall, the learning outcomes synthesize all these elements into a cohesive skill set. Students can confidently explain the operational mechanics of 2D transformations. They can proficiently describe the foundational role of classes in organizing graphical elements. Ultimately, learners must achieve the independence needed to program fully animated 2D models. The concluding self-evaluation requires students to use this checklist to gauge their Week 1 understanding. If any concepts feel uncertain, students are instructed to revisit relevant lecture videos, readings, and activities. This iterative review process helps consolidate all learned technical knowledge.

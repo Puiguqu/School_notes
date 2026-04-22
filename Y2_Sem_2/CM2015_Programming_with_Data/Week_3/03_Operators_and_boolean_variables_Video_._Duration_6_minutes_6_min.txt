@@ -1,0 +1,16 @@
+# Operators and boolean variables
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/ugLPA/operators-and-boolean-variables
+
+The topic shifts from arithmetic to Boolean variables and operators in Python. Boolean variables are fundamental types that can only take two values: `True` or `False`. Programmers utilize these variables to evaluate expressions that must result in a true or false determination. For instance, a variable can be initialized as `bool = True`, while another can be set to `bool2 = False`. The first set of operations to cover are the five comparison operators. These operators generate Boolean values when comparing data, whether they are integers or strings. The equality operator, `==`, checks if two provided values are exactly equal. If the values match, `==` outputs `True`; otherwise, it outputs `False`.
+
+The comparison continues with directional operators: greater than (`>`), less than (`<`), greater than or equal to (`>=`), and less than or equal to (`<=`). For example, if `a` is 6 and `b` is 5, `a >= b` results in `True`. Conversely, `b >= a` would result in `False` because 5 is less than 6. These operators are crucial for evaluating conditional logic within complex expressions.
+
+Next are the three logical operators: `and`, `or`, and `not`. The `and` operator requires both conditions it checks to be simultaneously true for the result to be `True`. If even one condition fails, the `and` operation results in `False`. The `or` operator is less strict, requiring only one of the checked conditions to be true for the overall result to be `True`. The `not` operator performs negation, simply giving the opposite Boolean value of any given input. For example, `not True` yields `False`, and `not False` yields `True`.
+
+Three advanced operators are discussed: the identity, membership, and instance operators. The identity operator, used with the `is` symbol, checks if two variables point to the exact same object in memory. If `a` and `b` are different objects, `a is b` produces `False`. However, if `c` is assigned the value of `a`, then `a is c` yields `True` because they reference the same object. The membership operator, utilizing the `in` keyword, verifies if a specific element exists within a collection object, such as a list. Using the `in` operator, we can confirm that the value 3 is indeed present in a list containing [1, 2, 3].
+
+Finally, the `isinstance` operator determines if a variable belongs to a specific data type. To check if 5 is an integer, we use `isinstance(5, int)`, which returns `True`. Conversely, if we test a string, such as 'hello', against the integer type using `isinstance('hello', int)`, the result will be `False`. Overall, the video detailed the uses of Boolean variables, five comparison operators, three logical operators, identity, membership, and the `isinstance` operator.

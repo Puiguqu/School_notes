@@ -1,0 +1,32 @@
+# Introduction to application security
+Video•
+. Duration: 6 minutes
+6 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/lecture/gPoEO/introduction-to-application-security
+
+1. Application Security (AppSec) is the critical practice of making software applications resistant to cyber threats throughout their entire lifecycle.
+2. This discipline encompasses tools, processes, and best practices used during design, development, and ongoing maintenance, covering web, mobile, desktop, and cloud software.
+3. AppSec is essential because vulnerable applications can lead to severe consequences, including data leaks, account compromise, system breaches, financial loss, and legal penalties.
+4. Several core security principles must guide development decisions, starting with Least Privilege, which mandates giving only necessary access to users and components.
+5. Another fundamental principle is Input Validation, requiring developers to never trust external inputs and always to check and clean them.
+6. Furthermore, systems should adhere to Secure Defaults, ensuring that the initial configuration is secure by design, not requiring post-setup fixes.
+7. Developers must utilize Defence in Depth, employing multiple security layers rather than relying on a single point of defense.
+8. The concept of "Fail Securely" dictates that if a system encounters an error, it must fail in a secure manner, preventing open or exposed data.
+9. Weaknesses can arise from various points, such as neglecting input validation or leaving debug code active in the production environment.
+10. OWASP, or the Open Worldwide Application Security Project, is a non-profit group dedicated to creating free resources for building secure applications.
+11. Their most famous contribution is the OWASP Top 10, a published list detailing the most common and critical risks found in web applications.
+12. The OWASP Top 10 2021 edition specifically lists major threats including Broken Access Control, Injection Flaws, Cryptographic Failures, Insecure Design, and Security Misconfiguration.
+13. Preventing these risks requires building security into the development process through secure coding guidelines and continuous validation.
+14. Mitigation strategies include using strong authentication and robust access controls, scanning libraries, and conducting regular code reviews and security tests.
+15. Responsibility for AppSec is shared: developers must write secure code, architects must design secure systems, and DevOps must maintain secure environments.
+16. Complementary to the core curriculum, initial learning focuses on identifying and classifying cyber threats (Weeks 1 & 2).
+17. Subsequent topics address cybersecurity frameworks, standards, and legal considerations (Week 3 & 4).
+18. Technical deep dives then cover Network and OS security principles (Week 5 & 6).
+19. The curriculum progresses to specific AppSec testing and debugging principles (Week 7).
+20. Later modules detail advanced topics like Cryptography in practice, covering encryption, PKI, digital signatures, and hash functions (Week 9 & 10).
+21. Security concepts expand to include Blockchain for cybersecurity and Incident Response/Forensics procedures (Week 11–14).
+22. Modern threats are addressed through Emerging Trends, including AI, ML, quantum computing, and IoT security challenges (Week 15 & 16).
+23. The structure culminates by examining EDI principles, sustainable digital ecosystems, and real-world cybersecurity case studies (Week 17–20).
+24. The ultimate goal is to provide a comprehensive roadmap, emphasizing that security must be considered from the initial design phase onward.
+25. Therefore, AppSec is not merely a phase but an integrated, continuous responsibility ensuring trust, reliability, and business success.

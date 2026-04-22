@@ -1,0 +1,8 @@
+# Topic 2 summary
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/ifsl1/topic-2-summary
+
+In this topic, you have learned about: Boolean variables and how they are used to control the flow of program execution lists and the operations to fill and manipulate lists with data how to locate elements with certain characteristics Python NumPy and SciPy modules and how to use them to compute basic statistics. Use this self-evaluation worksheet to help you reflect on your learning in this topic and create an action plan for how to tackle any concepts you are still unsure about. CM2015_topic2...

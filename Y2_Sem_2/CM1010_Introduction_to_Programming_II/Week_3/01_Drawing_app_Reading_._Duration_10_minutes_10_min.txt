@@ -1,0 +1,8 @@
+# Drawing app
+Reading•
+. Duration: 10 minutes
+10 min - Summary
+
+URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/buW83/drawing-app
+
+In this topic you will be introduced to the first of our three case study applications, the drawing app. The drawing app is designed to evoke old paint programmes that used to come bundled with operating systems, such as Microsoft Paint or MacPaint. Initially you will need to make a few changes to a template we have provided for you. You can find the template and instructions in Case study 1: drawing app or you can download the template here: draw-app-CaseStudy ZIP File When you have completed t...

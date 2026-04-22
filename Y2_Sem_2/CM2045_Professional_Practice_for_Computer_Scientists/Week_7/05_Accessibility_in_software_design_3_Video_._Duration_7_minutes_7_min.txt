@@ -1,0 +1,20 @@
+# Accessibility in software design – 3
+Video•
+. Duration: 7 minutes
+7 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2045-professional-practice-for-computer-scientists/lecture/EOyAL/accessibility-in-software-design-3
+
+The BBC's accessibility strategy establishes it as a pioneer in making digital content available to all viewers. As a prominent public service broadcaster, the BBC's mission mandates inclusive access for every member of the public. This effort is critical because, according to the UK's Office for National Statistics, over 11 million people in the UK live with some form of disability. Accessibility, therefore, transcends mere legal compliance; it fosters an inclusive society. The BBC's comprehensive strategy covers everything from traditional television programming to interactive online experiences.
+
+A core pillar is the provision of subtitles and Closed Captioning for nearly all programs, including live broadcasts. For visually impaired viewers, the service provides vital audio descriptions, narrated elements that describe important visuals. Furthermore, the BBC broadcasts a significant number of shows incorporating British Sign Language (BSL) interpretation, particularly in news and children's programming.
+
+The digital platform, BBC iPlayer, has been fundamentally re-engineered with accessibility at its core. This platform offers key features such as keyboard navigation, voiceover support, and highly customizable subtitles. To ensure robust standards, the BBC iPlayer team collaborated with Government Digital Services (GDS) to meet and exceed **WCAG 2.1** guidelines.
+
+A major technological leap is the use of **AI-driven speech recognition** for real-time captioning during live events. This groundbreaking method generates subtitles with minimal delay, proving crucial for live news and current affairs. Specifically, an Ofcom study revealed that BBC live subtitling maintained an impressive accuracy rate of **over 98%**.
+
+Regarding audio descriptions, the BBC has committed to providing AD for at least **20%** of its content, a benchmark often exceeded for popular programs. This commitment empowers users to enjoy their media autonomously. The BBC is also exploring advanced innovations, such as haptic feedback and wearable technology for sensory impairments.
+
+In terms of mobility challenges, they are investigating voice-controlled interfaces to ensure platforms remain cutting-edge. Legally, the corporation operates under the **UK Equality Act 2010**, which requires public institutions to make reasonable adjustments. However, the BBC consistently exceeds these statutory requirements, setting a high industry standard.
+
+Future accessibility development points toward increased personalization, allowing users to adjust layouts and even the pace of information delivery. Promising technologies include virtual reality and augmented reality, which could overlay real-time sign language or subtitles onto live events. The overall commitment to inclusive design involves continually engaging with disabled users in feedback loops. Ultimately, these advancements ensure that accessibility remains an ongoing journey of technological refinement and social responsibility.

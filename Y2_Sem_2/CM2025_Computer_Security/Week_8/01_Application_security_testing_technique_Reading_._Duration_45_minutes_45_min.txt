@@ -1,0 +1,8 @@
+# Application security testing technique
+Reading•
+. Duration: 45 minutes
+45 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2025-computer-security/supplement/JGv3I/application-security-testing-technique
+
+This CrowdStrike article introduces Static Application Security Testing (SAST), a proactive cybersecurity method that analyses source code, bytecode or binaries for vulnerabilities before any code is executed. Read: Gale, J. ‘ Static Application Security Testing (SAST) explained’ Crowdstrike (2025). If this link is broken, please let us know via the Student Portal . As you read, consider the following questions. Why is it valuable to identify security flaws during the coding stage rather than af...

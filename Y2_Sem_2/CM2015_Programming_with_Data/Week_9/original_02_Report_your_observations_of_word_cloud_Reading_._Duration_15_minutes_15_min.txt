@@ -1,0 +1,8 @@
+# Report your observations of word cloud
+Reading•
+. Duration: 15 minutes
+15 min
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/Cf07p/report-your-observations-of-word-cloud
+
+Reflect on the word cloud created from the programming activity. Here are some reflective prompts: Themes: What are the largest, and second largest words in the word cloud? From these, what can you infer as the theme of the data? Sentiment and tone: Based on the prominent words in the word cloud, what overall tone or sentiment does the data convey? Data quality: Are there important terms that appear less frequently than expected? Are there any common words or irrelevant terms (like 'and' 'also') that distract from key insights? Are there any other observations that you can log from the word cloud? Write them down. Report your observations of word cloud Reflect on the word cloud created from the programming activity. Here are some reflective prompts: Themes: What are the largest, and second largest words in the word cloud? From these, what can you infer as the theme of the data? Sentiment and tone: Based on the prominent words in the word cloud, what overall tone or sentiment does the data convey? Data quality: Are there important terms that appear less frequently than expected? Are there any common words or irrelevant terms (like 'and' 'also') that distract from key insights? Are there any other observations that you can log from the word cloud? Write them down. Mark as completed Dislike Report an issue

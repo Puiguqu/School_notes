@@ -1,0 +1,18 @@
+# New Video
+Video•
+. Duration: 1 minute
+1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/lecture/KTD7l/new-video
+
+This summary details two primary subjects: the academic support service, Studiosity, and a comprehensive curriculum focused on Python programming and data science.
+
+Studiosity is a helpful institutional service designed to enhance student confidence and academic performance. It should be integrated into a student's regular study routine for optimal results. To access this service, students must log into their institution's student portal and locate the designated Studiosity link. This link may be placed on the Portal Homepage, a specific course page, or within a general study support services menu. For ease of future use, users are advised to bookmark their Studiosity account page immediately upon logging in. Within the account, students have two core options: seeking feedback or connecting with a specialist.
+
+The feedback option allows students to upload any written draft, including assignments, essays, or reports. This feature provides personalized, same-day feedback on crucial elements like structure, language, spelling, and grammar. It is typical for students to submit drafts late at night to receive feedback the following morning. Once a specialist reviews the document, the student will receive both an email and a mobile notification alerting them to the completed review. Subsequently, the student can view the detailed feedback and make necessary revisions before the final submission deadline.
+
+Alternatively, the "connect now" feature allows for instant assistance with study questions or writing feedback. Specialists are available to assist across diverse subjects, including English skills, writing concepts, math, science, and essential skills. This service is valuable for quick research tips or confirming if a study approach is on the correct track. Thousands of students worldwide are already utilizing this resource to feel more confident in both their writing and their general studies. Students are encouraged to log in and utilize these services promptly.
+
+In terms of the curriculum, the course is heavily structured around Python programming and data processing techniques. The initial weeks build foundational knowledge, starting with Python basics such as data types, control flow, and functions. Subsequent lessons cover writing programs using lists and control flow, followed by deep dives into data structures and pattern matching with strings. Key technical skills are taught in sequence, including reading and writing data on the file system (Part 1 and Part 2). The curriculum progresses into processing text data and advanced language processing techniques.
+
+Later modules focus on real-world data handling, including retrieving data from the web (Weeks 11 and 12). Students learn to interact with databases (Weeks 13 and 14) and dedicated sessions cover essential data cleaning and more advanced data transformations. The learning culminates in comprehensive data analysis and visualization (Week 17), followed by exploratory analysis for language processing (Week 18). Advanced topics include feature extraction, while the final stages involve advanced topics in Python and data programming. The course also provides substantial, graded activities, such as the mid-term programming assignment and specialized labs on Chatbot project parts, which compare and contrast file formats like CSV and JSON.

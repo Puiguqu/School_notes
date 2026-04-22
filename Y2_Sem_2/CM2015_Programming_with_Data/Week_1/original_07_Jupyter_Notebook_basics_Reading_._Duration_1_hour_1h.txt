@@ -1,0 +1,8 @@
+# Jupyter Notebook basics
+Reading•
+. Duration: 1 hour
+1h
+
+URL: https://www.coursera.org/learn/uol-cm2015-programming-with-data/supplement/zGakQ/jupyter-notebook-basics
+
+There’s plenty of documentation on Jupyter Notebook to help you learn how to use it. Start by reading the following pages on how to organise code and use markdown cells. Read about Jupyter Notebook: Jupyter ' Notebook Basics' , (n.d.). Jupyter ' Markdown Cells' , (n.d.). If these links are broken, please let us know via the Student Portal . Jupyter Notebook basics There’s plenty of documentation on Jupyter Notebook to help you learn how to use it. Start by reading the following pages on how to organise code and use markdown cells. Read about Jupyter Notebook: Jupyter ' Notebook Basics' , (n.d.). Jupyter ' Markdown Cells' , (n.d.). If these links are broken, please let us know via the Student Portal . Mark as completed Dislike Report an issue

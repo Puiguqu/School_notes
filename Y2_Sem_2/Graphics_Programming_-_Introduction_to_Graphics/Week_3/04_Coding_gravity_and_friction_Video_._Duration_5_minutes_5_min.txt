@@ -1,0 +1,32 @@
+# Coding gravity and friction
+Video•
+. Duration: 5 minutes
+5 min - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/lecture/ysAaY/coding-gravity-and-friction
+
+1. The video session introduces the concept of inertia and examines how to simulate forces, beginning with basic gravity.
+2. Gravity is defined as the natural phenomenon by which all things possessing mass are attracted to one another.
+3. On Earth, gravity is the force that gives weight to physical objects and causes them to fall downwards.
+4. In the P5 environment, gravity is technically represented as a force vector of size (0, 0.1) added to the acceleration.
+5. To implement custom gravity, the force is applied using the function `ball.applyforce(gravity)`.
+6. While applying this force successfully makes the simulated ball bounce up and down, the resulting simulation lacks realism.
+7. The main issue identified is the absence of friction, which is the force resisting the relative motion of sliding objects.
+8. Friction is conceptualized as a smaller force acting in the opposite direction of motion, which slows down the object.
+9. To code friction, one must calculate the opposite vector to the object's current velocity vector.
+10. The process involves obtaining the velocity vector, calculating its opposite, and then scaling it.
+11. A crucial component is the friction coefficient, which dictates the amount of friction between surfaces.
+12. This coefficient must be scaled by the opposite velocity vector to create the friction force.
+13. For simplifying the simulation, a standard friction coefficient of 0.01 is used, assuming uniform surface resistance.
+14. The technical implementation begins by copying the current velocity: `ball.velocity.copy`.
+15. The code then determines the opposing force by multiplying the velocity by -1.
+16. To ensure correct magnitude, the resulting vector must be normalized using `friction.normalize()`.
+17. This normalized vector is then scaled by the required friction coefficient (0.01).
+18. The final opposing force is applied to the object using the function `applyforce(friction)`.
+19. Running this corrected code demonstrates that the ball slowly loses energy as it bounces due to air and ground friction.
+20. The simulation now incorporates multiple accumulated forces acting on the ball.
+21. These forces include the constant gravitational pull and the opposing force of friction.
+22. It is vitally important to remember that in every frame, the sum of the acceleration must be recalculated.
+23. The `applyforce` function accumulates these various forces acting on the object.
+24. This multi-force accumulation mechanism is key to creating a realistic physics simulation.
+25. Ultimately, the successful combination of gravity and friction provides a far more complex and accurate model of physical movement.

@@ -1,0 +1,8 @@
+# Hack it: Catapult
+Reading•
+. Duration: 1 hour
+1h - Summary
+
+URL: https://www.coursera.org/learn/uol-graphics-programming/supplement/gMbG2/hack-it-catapult
+
+Setup the catapult above. Start by using the template code attached. catapult-Template Add code in setupCatapult() that initialises the global catapult variable as a rectangle (the white rectangle). Add also a constraint right in the middle of the white rectangle that has a stiffness of 1 and length of 0. Add the catapult and the constraint to the world. Add code to drawCatapult() to draw the catapult like in drawGround(). Add a bit more code that sets up the red rectangle you see in the image, ...

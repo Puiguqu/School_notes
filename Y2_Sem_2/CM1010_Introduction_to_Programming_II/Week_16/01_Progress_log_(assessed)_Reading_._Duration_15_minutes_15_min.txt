@@ -1,8 +1,0 @@
-# Progress log (assessed)
-Reading•
-. Duration: 15 minutes
-15 min - Summary
-
-URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/Lve1W/progress-log-assessed
-
-As your project progresses it is helpful to keep a log of what you have achieved and what you are planning to do next. Not only will this help to keep your project on track but it will allow us to see how you have approached your project and tackled a larger application. In the second half of each topic you will be need to complete a log. Make sure you use the following template. Rich text format: Introduction to Programming II project log RTF File Microsoft word docx format: Introduction to Pro...

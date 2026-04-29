@@ -1,8 +1,0 @@
-# Code editor: important information
-Reading•
-. Duration: 10 minutes
-10 min - Summary
-
-URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/uSd50/code-editor-important-information
-
-As with Introduction to Programming I, we are transitioning to a new code editor for this course: Visual Studio Code (VS Code). While our course has traditionally used Brackets, please note that Brackets is no longer supported by Adobe. Therefore, even if you can still use Brackets, we strongly recommend transitioning to VS Code for your coding activities. VS Code offers a robust, modern and widely supported development environment with many powerful features. We will cover the basics of Visual ...

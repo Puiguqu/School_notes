@@ -1,0 +1,13 @@
+# 01_Weekly_introduction_Video_2_min
+
+# Weekly introduction
+Video • 2 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/iWq1F/weekly-introduction
+
+This transcript introduces Week 3 of the game-playing AI case study, focusing on building foundational AI systems capable of playing games. The primary objective is to delve into the necessary coding tools for developing a Deep Q-Network (DQN) agent. Central to this week’s learning is the utilization of the AI Gym library to establish a proper game simulation environment. A key learning objective is mastering how to correctly construct environments for agent interaction within simulation. Furthermore, participants will develop a basic random game-playing agent to understand the complete agent-building process. The curriculum also introduces the Keras library, which is essential for constructing neural networks used within the DQN agent. A specific focus is placed on understanding the convolutional aspects of these neural networks.
+
+The discussion highlights several examples of available OpenAI Gym environments. These include standard box 2D simulated physics environments. Additionally, a custom version of an Atari game has been developed to avoid copyright issues. The Lunar Lander example serves as another environment demonstration. A particularly exciting concept explored is how a neural network processes video game input. The summary explains what a Convolutional Neural Network (CNN) "sees" when observing game footage. Technically, this involves visualizing the output of filters, such as the 32 filters mentioned. These filters are configured by the network to extract critical and relevant information from the game view. This extraction capability is a fundamental finding of the week.
+
+The supplemental course materials provide a detailed structure for this learning path. For instance, the "Open AI gym - Weekly introduction" video is a core resource. The curriculum involves practical assignments, including setup labs and quizzes for both AI Gym and Keras. Specific technical practice includes a "Lab exercise: controlling agents with neural networks." Subsequent topics outline the progression of the course. Week 4 is dedicated to the full implementation of the DQN agent. Further modules examine the state of the art and ethics in AI game players. Later weeks introduce evolving artificial creatures and advanced generative and collaborative AI systems. Ultimately, these tools are intended to provide a comprehensive foundation for advanced AI research. The study aims to equip participants with the necessary technical knowledge to grasp the mechanisms of modern game-playing AI.
+

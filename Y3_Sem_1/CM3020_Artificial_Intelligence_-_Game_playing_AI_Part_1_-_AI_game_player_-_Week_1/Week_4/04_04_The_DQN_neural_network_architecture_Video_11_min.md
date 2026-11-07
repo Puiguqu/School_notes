@@ -1,0 +1,9 @@
+# 04_The_DQN_neural_network_architecture_Video_11_min
+
+# The DQN neural network architecture
+Video • 11 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/4dPYD/the-dqn-neural-network-architecture
+
+This course systematically explores advanced topics in AI, beginning with game playing AI and the formalization of Reinforcement Learning (RL). The initial module heavily focuses on implementing the Deep Q-Network (DQN) agent, covering its runtime, specific neural network architecture, and the critical DQN loss function required for successful training. Practical assignments involve code reviews, lab activities for training models, and self-evaluation of the implementation process. The curriculum then transitions to evolutionary computation, where students learn about automatic design using genetic algorithms. This segment focuses on building artificial creatures and robots, utilizing tools like pybullet and URDF files, and implementing detailed genetic encoding schemes. Furthermore, the course details the processes of fitness function design and selective breeding to achieve evolving morphology. The focus subsequently shifts to Generative and collaborative AI, exploring creative systems like GPT-2 for generating lyrics and MusicVAE and DiffSinger for music composition. The final major project, "A toy Robot Scientist," explores advanced cognitive robotics, covering history, legal and ethical issues, and building the system using knowledge representation. This involves detailed study of the Robot Scientist's reasoning phase, encompassing complex planning and analytical abilities. Across all modules, topics such as the state of the art, ethical considerations in AI game players, and evolving morphology are addressed. The learning sequence culminates in extensive preparation and the final exam, demonstrating the mastery of these diverse AI domains.
+

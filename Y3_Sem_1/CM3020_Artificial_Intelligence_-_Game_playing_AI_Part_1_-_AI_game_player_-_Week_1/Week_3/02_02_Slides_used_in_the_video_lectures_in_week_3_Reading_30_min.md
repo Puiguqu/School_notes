@@ -1,0 +1,9 @@
+# 02_Slides_used_in_the_video_lectures_in_week_3_Reading_30_min
+
+# Slides used in the video lectures in week 3
+Reading • 30 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/supplement/KCMJ1/slides-used-in-the-video-lectures-in-week-3
+
+This 22-week course structure progresses through several major fields of Artificial Intelligence, beginning with Game Playing AI (Weeks 1-3). The initial phase introduces crucial tooling like OpenAI Gym and begins formalizing reinforcement learning, leading to the implementation of the Deep Q-Network (DQN) agent in Week 4. Foundational technical concepts are covered through the introduction of Keras and Convolutional Neural Networks (CNNs), often supplemented by detailed labs and practice assignments. The subsequent module focuses on Evolving Artificial Creatures (Weeks 5-10), utilizing genetic algorithms for automatic design. This section involves building robots using specialized frameworks like PyBullet and defining system structure via URDF files. The course then transitions to Generative and Collaborative AI (Weeks 11-15). Key projects in this phase include generating lyrics with GPT-2 and music composition using MusicVAE and DiffSinger. The curriculum subsequently moves into the complex domain of robotics with the "Toy Robot Scientist" series (Weeks 16-20). This final module emphasizes system building, knowledge representation, and the critical reasoning phase of autonomous agents. Practical learning is integrated throughout the course, featuring weekly labs, quizzes, and self-evaluation checklists. The overall structure builds complexity from basic game AI implementations to advanced generative models and autonomous robotic reasoning systems. The course concludes in Week 21 as an exam preparation week before the final examination in Week 22.
+

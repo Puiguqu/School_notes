@@ -1,0 +1,9 @@
+# 05_Discussion_of_creativity_Video_12_min
+
+# Discussion of creativity
+Video • 12 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/59pA4/discussion-of-creativity
+
+This course is structured across 22 weeks, covering advanced topics in artificial intelligence, divided into distinct modules. The initial phase (Weeks 1-5) focuses on AI Game Playing, starting with basic game player development and progressing to formalizing reinforcement learning using the Deep Q-Network (DQN) agent and implementing this architecture. The middle section (Weeks 6-10) explores Evolving Artificial Creatures, utilizing genetic algorithms for automatic design and building robots using tools like pybullet and URDF files, while focusing on encoding schemes and fitness functions. Weeks 11 through 15 concentrate on Generative and Collaborative AI, introducing generative systems and applying them practically to tasks like generating lyrics with GPT-2, composing music using MusicVAE, and employing DiffSinger for advanced synthesis. The practical implementation culminated in a pop song generator, requiring complex steps like extracting notes and mixing singing with backing tracks. The subsequent module (Weeks 16-20) delves into "A Toy Robot Scientist," covering its history, knowledge representation, the reasoning phase, and planning mechanisms. This latter module emphasizes the state of the art in robot science and associated legal and ethical issues. Overall, the course integrates theoretical concepts with practical tooling, covering areas such as the debate on AI's role in creativity. Assignments involved weekly readings, quizzes, and practical lab work, such as implementing the DQN agent or building generative systems. The curriculum also includes specific focus on ethical considerations, particularly in Week 5 and Week 16. The final weeks (21-22) are dedicated to exam preparation and assessment.
+

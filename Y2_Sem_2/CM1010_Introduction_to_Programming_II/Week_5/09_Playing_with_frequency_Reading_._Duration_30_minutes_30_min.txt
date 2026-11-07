@@ -1,8 +1,0 @@
-# Playing with frequency
-Reading•
-. Duration: 30 minutes
-30 min - Summary
-
-URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/H6Qu2/playing-with-frequency
-
-In this video Simon showed you the basics of frequency and how to alter the volume of your p5.js sketches. along with the video and complete the template. You can download it from the video resources or from here: 3.203 ZIP File To finish the sketch, complete the following steps, you will want to read the documentation on the FFT method: Inspect the code carefully, it is similar to the amplitude example. Create a global variable called fft. In setup set fft to be equal to an FFT object. In the e...

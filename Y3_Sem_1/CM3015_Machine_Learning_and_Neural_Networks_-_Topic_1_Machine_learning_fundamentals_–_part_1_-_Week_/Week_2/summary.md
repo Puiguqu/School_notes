@@ -1,0 +1,23 @@
+# Week 2 - CM3015 Machine Learning and Neural Networks - Topic 1: Machine learning fundamentals – part 1 - Week 1
+
+## 01_1.202_Further_reading_Reading_1h
+
+# 1.202 Further reading
+Reading • 1h - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3015-machine-learning-and-neural-networks/supplement/VUHsG/1-202-further-reading
+
+The course curriculum includes all the essential materials required for understanding the subject matter. However, for students wishing to delve deeper into the practical applications of Machine Learning (ML), a wealth of additional information is available online. In traditional textbook format, several specific academic resources are highly recommended for advanced study. These suggested readings extend beyond the necessary scope for simply passing the module.
+
+For a detailed exploration of deep learning, students are advised to consult the work by Chollet, F. The specific material includes Chapter 1, and sections 1.1 through 1.2 of the textbook. This resource is titled *Deep learning with Python*. The publication details are Shelter Island, NY: Manning, in the 1st edition from 2017. This book carries the ISBN 9781638352044 and is available via the O'Reilly Online Library.
+
+Another key resource is *Introduction to machine learning* by Alpaydin, E. Students should focus on Chapter 1 of this text. This book was published in 2014 by MIT Press in Cambridge, MA. It is the 3rd edition, and its ISBN is 9780262028189.
+
+For a strong foundational understanding of the ML topic, Murphy, K.'s textbook is suggested. This is *Machine learning: a probabilistic perspective*. The student should review Chapter 1, specifically the Introduction up to and including section 1.3. This volume was published by MIT Press in 2012, bearing the ISBN 9780262018029.
+
+The fundamental concept of machine learning is formally defined by Mitchell, T. M. This definition is presented in the text *Machine learning*. This canonical definition states: 'a computer program is said to learn from experience E, with respect to some class of tasks T, and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.' This text was published in London by McGraw-Hill in 1997. The accompanying reference is found in Chapter 1, Introduction, accessible via Accessible-OL-DSM040-Mitchell-3743CS.pdf.
+
+It is important to note that consulting this further reading is not required for module success. Furthermore, while these suggestions deepen understanding, the provider cannot guarantee the accessibility of these resources. The materials are offered solely to aid in further self-directed learning.
+
+---
+

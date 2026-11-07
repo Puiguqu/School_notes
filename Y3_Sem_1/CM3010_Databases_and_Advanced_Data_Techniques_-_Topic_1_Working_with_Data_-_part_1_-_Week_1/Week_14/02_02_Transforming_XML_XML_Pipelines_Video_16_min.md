@@ -1,0 +1,9 @@
+# 02_Transforming_XML_XML_Pipelines_Video_16_min
+
+# Transforming XML: XML Pipelines
+Video • 16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3010-databases-and-advanced-data-techniques/lecture/UFJDy/transforming-xml-xml-pipelines
+
+This curriculum initiates with foundational principles in data management, covering the fundamentals of "Working with Data" in the initial weeks. The core focus shifts to Relational Databases (RDBMS), detailing their structure and the critical concepts of Data Integrity and Security. Practical database usage is explored, including the implementation of libraries and templating, followed by advanced RDBMS topics. A significant technical transition occurs with the detailed study of XML, moving beyond traditional relational structures. This involves understanding the contrast between XML and RDBMS, utilizing XML pipelines for data transformation, and defining precise XML Schemata for structured data. Further complexity is introduced by exploring Distributed databases and Semantic databases, which model data across multiple systems and integrate specialized knowledge, respectively. Later modules focus on advanced data modeling, particularly through the implementation of Linked Data. Additionally, the curriculum addresses "Multimedia and retrieval," covering how diverse data types are managed and accessed. These topics culminate in practical "Applications" of these various database paradigms. Throughout the course, students engage in hands-on assignments, including XML transformation labs and schema discussions. The latter weeks involve preparation for the final exam, solidifying knowledge across all database models studied. Ultimately, the course provides a comprehensive overview of modern data architecture, from basic relational systems to complex distributed and semantic models.
+

@@ -1,0 +1,9 @@
+# 03_Putting_the_system_together_extracting_notes_Video_16_min
+
+# Putting the system together: extracting notes
+Video • 16 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/wIqnh/putting-the-system-together-extracting-notes
+
+This curriculum provides a deep exploration into advanced artificial intelligence across several domains, beginning with Game Playing AI (Weeks 1-5). This initial phase introduces the concept of Reinforcement Learning, formalizing it with the DQN agent, culminating in implementation and a discussion of ethical considerations in AI game players. The focus then shifts to Evolving Artificial Creatures (Weeks 6-10), where automatic design utilizes genetic algorithms for building complex robots using tools like PyBullet and URDF files. A critical component of this evolutionary study involves defining genetic encoding schemes and robust fitness functions for selection. The middle section addresses Generative and Collaborative AI (Weeks 11-15), exploring systems designed to create new content. Technical implementations include generating lyrics with GPT-2 and composing music using MusicVAE and DiffSinger, leading to a complete pop song generator. Following the creative focus, the course transitions into advanced robotic intelligence via "A Toy Robot Scientist" (Weeks 16-20). This later module covers system building, knowledge representation, and the complex reasoning phase required for planning and analyzing tasks. Crucially, the curriculum maintains a persistent focus on legal and ethical issues throughout the study of AI agents and creativity. Supplementary materials include weekly videos, dedicated readings, and practical labs for reinforced learning and music generation. The final weeks are dedicated to intensive exam preparation and examination. The overarching theme unites complex systems development, ranging from game theory to autonomous creative generation.
+

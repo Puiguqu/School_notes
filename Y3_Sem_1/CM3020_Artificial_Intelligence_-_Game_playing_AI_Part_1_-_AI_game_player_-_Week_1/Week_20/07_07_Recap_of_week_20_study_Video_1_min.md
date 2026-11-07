@@ -1,0 +1,9 @@
+# 07_Recap_of_week_20_study_Video_1_min
+
+# Recap of week 20 study
+Video • 1 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/LLPvV/recap-of-week-20-study
+
+This curriculum explores diverse domains of advanced AI, starting with Weeks 1-5, which focus on Game Playing AI through the formalization of Reinforcement Learning and the implementation of the Deep Q-Network (DQN) agent, alongside an examination of related ethical considerations. The focus shifts in Weeks 6-10 to Evolving Artificial Creatures, where genetic algorithms are utilized for automatic design and building robots using simulation tools like Pybullet and URDF files, underpinned by specific genetic encoding schemes and fitness functions. Weeks 11-15 delve into Generative and Collaborative AI, introducing systems like GPT-2 for lyric generation and MusicVAE and DiffSinger for music composition, culminating in integrated projects like pop song generators. The latter half of the course is dedicated to the "Toy Robot Scientist" (Weeks 16-20), a sophisticated system involving knowledge representation, specialized reasoning phases, planning, and the analysis of multi-agent systems. Key components of the Robot Scientist include meta-analysis agents and structured frameworks for state-of-the-art projects. Technical coverage spans from discrete reinforcement learning techniques to continuous system modeling and complex multi-agent communication. The module emphasizes practical implementation, as seen in the construction of the DQN agent and the building of evolving robotic systems. Throughout the curriculum, significant time is allocated to understanding the legal and ethical issues surrounding AI systems and advanced automated design. The course concludes with extensive preparation and examination weeks (Weeks 21-22) to synthesize the vast range of AI concepts and findings.
+

@@ -1,8 +1,0 @@
-# Further resources for getting started with HTML
-Reading•
-. Duration: 30 minutes
-30 min - Summary
-
-URL: https://www.coursera.org/learn/uol-introduction-to-programming-2/supplement/yoUcJ/further-resources-for-getting-started-with-html
-
-In the previous videos we briefly covered the basics of HTML and how a website is constructed. If you have never studied these skills before, it might have been a bit overwhelming. Here are some further resources that go into more detail than we were able to in the videos. Please note that because these are supplemental resources, we are unable to guarantee their availability. Mozilla ‘ Getting started with the web ’(n.d.). w3schools ‘ HTML5 tutorial ’ (n.d.). Coursera ‘ Responsive website basic...

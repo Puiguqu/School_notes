@@ -1,0 +1,9 @@
+# 07_History_of_Robot_Scientists_and_future_trends_Video_14_min
+
+# History of Robot Scientists and future trends
+Video • 14 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/hOTBF/history-of-robot-scientists-and-future-trends
+
+This curriculum extensively covers advanced topics in artificial intelligence, structured into distinct functional areas across multiple weeks. The initial phase (Weeks 1-5) focuses on AI game playing, detailing the formalization of reinforcement learning and the implementation of the Deep Q-Network (DQN) agent. Subsequent modules explore autonomous systems via evolution, dedicating Weeks 6-10 to the design of artificial creatures using genetic algorithms. This evolutionary segment also involves building robots using technical specifications like pybullet and URDF files, requiring specific genetic encoding and fitness function design. Weeks 11-15 delve into Generative and Collaborative AI, exploring systems like GPT-2 for lyric generation and MusicVAE and DiffSinger for music composition. These generative techniques culminate in a comprehensive pop song generator project. The final, extensive module (Weeks 16-20) introduces "A toy Robot Scientist," addressing its history, legal, and ethical considerations in robotics. The Robot Scientist system focuses on knowledge representation and developing a reasoning phase. It systematically covers planning, analysis, and reviewing the state of the art in robot science projects. This practical application contrasts sharply with the preceding AI modules by focusing on scientific discovery and automation. The entire course structure is reinforced by weekly study materials, including specific video and reading assignments. The program concludes with dedicated weeks for exam preparation and assessment.
+

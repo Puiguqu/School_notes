@@ -1,0 +1,9 @@
+# 04_Discovery_science_and_the_Robot_Scientist_system_Video_3_min
+
+# Discovery science and the Robot Scientist system
+Video • 3 min - Summary
+
+URL: https://www.coursera.org/learn/uol-cm3020-artificial-intelligence/lecture/eDz25/discovery-science-and-the-robot-scientist-system
+
+This course provides a comprehensive exploration of advanced AI, spanning six core areas from game theory to robotic discovery science. The initial weeks focus on AI game playing, detailing the evolution from basic AI agents to formalizing reinforcement learning, particularly through the implementation of the DQN agent. Subsequent modules delve into the mechanics of evolving artificial creatures, utilizing genetic algorithms for automatic design and optimization. Technical details include building robots using PyBullet and URDF files, and establishing specialized genetic encoding schemes and fitness functions. The course then transitions into Generative and Collaborative AI, showcasing systems that create content, such as generating lyrics with GPT-2 and composing music via MusicVAE and DiffSinger. The curriculum culminates in "A toy Robot Scientist," which introduces the concept of discovery science and the foundational history, perspectives, and ethical debates surrounding lab automation. The later weeks detail the structural components of the Robot Scientist system, focusing on knowledge representation and the complex reasoning phase. Finally, the sequence outlines the planning and analysis capabilities of the system, culminating in a review of state-of-the-art projects. The entire structure progresses from specific AI implementations (DQN) to broad systems design (Robot Scientist), demonstrating modern AI applications across various domains. Key elements include understanding legal and ethical issues in robotics alongside technical development. The course culminates in a dedicated exam preparation and examination period.
+
